@@ -1,0 +1,155 @@
+'use client';
+
+import { useState, useEffect } from 'react';
+import Link from 'next/link';
+import { useParams } from 'next/navigation';
+import { RECIPES } from '@/data/recipes';
+import { getCompatibilityLevel } from '@/lib/compatibility';
+import { scaleIngredient, formatIngredient } from '@/lib/scaling';
+import CompatibilityBadge from '@/components/CompatibilityBadge';
+
+export default function RecipePage() {
+  const params = useParams();
+  const id = params.id;
+
+  const [mode, setMode] = useState('adult');
+  const [ageMonths, setAgeMonths] = useState(9);
+  const [hydrated, setHydrated] = useState(false);
+
+  const recipe = RECIPES.find((r) => r.id === id);
+  const [servings, setServings] = useState(recipe?.servings ?? 4);
+
+  useEffect(() => {
+    const savedMode = localStorage.getItem('cosa-cucino-mode');
+    const savedAge = localStorage.getItem('cosa-cucino-age');
+    if (savedMode) setMode(savedMode);
+    if (savedAge) setAgeMonths(parseInt(savedAge, 10));
+    setHydrated(true);
+  }, []);
+
+  if (!recipe) {
+    return (
+      <main className="min-h-screen bg-[#FAF7F2] p-4">
+        <div className="max-w-md mx-auto">
+          <p className="text-gray-700">Ricetta non trovata.</p>
+          <Link href="/" className="text-[#C65D3B] underline">
+            ← Torna alla home
+          </Link>
+        </div>
+      </main>
+    );
+  }
+
+  const compat = mode === 'baby' ? getCompatibilityLevel(recipe, ageMonths) : null;
+  const scaledIngredients = recipe.ingredients.map((ing) =>
+    scaleIngredient(ing, recipe.servings, servings)
+  );
+
+  return (
+    <main className="min-h-screen bg-[#FAF7F2] pb-8">
+      <div className="max-w-md mx-auto">
+        <div
+          className="h-24 flex items-center justify-center text-5xl relative"
+          style={{ backgroundColor: recipe.image_color }}
+        >
+          <Link
+            href={`/category/${recipe.category}/`}
+            className="absolute left-3 top-3 bg-white/80 rounded-full w-8 h-8 flex items-center justify-center text-gray-700 hover:bg-white transition"
+            aria-label="Indietro"
+          >
+            ←
+          </Link>
+          {recipe.emoji}
+        </div>
+
+        <div className="p-4">
+          <div className="flex justify-between items-start gap-2">
+            <div className="flex-1 min-w-0">
+              <h1 className="text-lg font-medium text-gray-900">{recipe.title}</h1>
+              <p className="text-xs text-gray-500 mt-0.5">
+                da {recipe.source_site}
+              </p>
+            </div>
+            <button
+              className="text-xl leading-none text-gray-400 hover:text-yellow-500 transition"
+              aria-label="Aggiungi ai preferiti"
+            >
+              ⭐
+            </button>
+          </div>
+
+          {recipe.description && (
+            <p className="text-sm text-gray-600 mt-2">{recipe.description}</p>
+          )}
+
+          {hydrated && compat && (
+            <CompatibilityBadge level={compat.level} note={compat.note} />
+          )}
+
+          <div className="grid grid-cols-2 gap-2 mt-3">
+            <div className="bg-white p-2 rounded-md border border-gray-200">
+              <div className="text-xs text-gray-500">Tempo totale</div>
+              <div className="text-sm font-medium text-gray-800">⏱ {recipe.total_time_min} min</div>
+            </div>
+            <div className="bg-white p-2 rounded-md border border-gray-200">
+              <div className="text-xs text-gray-500">Difficoltà</div>
+              <div className="text-sm font-medium text-gray-800">● {recipe.difficulty}</div>
+            </div>
+          </div>
+
+          <div className="flex items-center gap-2.5 mt-3 bg-white px-3 py-2 rounded-md border border-gray-200">
+            <span className="text-sm text-gray-600">Porzioni:</span>
+            <button
+              onClick={() => setServings(Math.max(1, servings - 1))}
+              className="w-7 h-7 border border-gray-300 bg-[#FAF7F2] rounded-md text-gray-700 hover:bg-gray-100 transition"
+              aria-label="Riduci porzioni"
+            >
+              −
+            </button>
+            <span className="text-base font-medium min-w-[20px] text-center text-gray-900">
+              {servings}
+            </span>
+            <button
+              onClick={() => setServings(Math.min(20, servings + 1))}
+              className="w-7 h-7 border border-gray-300 bg-[#FAF7F2] rounded-md text-gray-700 hover:bg-gray-100 transition"
+              aria-label="Aumenta porzioni"
+            >
+              +
+            </button>
+            {servings !== recipe.servings && (
+              <span className="text-xs text-gray-500 ml-auto">
+                (orig. {recipe.servings})
+              </span>
+            )}
+          </div>
+
+          <h2 className="text-sm font-medium text-gray-600 mt-4 mb-2">Ingredienti</h2>
+          <ul className="bg-white rounded-md border border-gray-200 p-3 text-sm text-gray-800 space-y-1.5">
+            {scaledIngredients.map((ing, idx) => (
+              <li key={idx} className="flex items-start gap-2">
+                <span className="text-[#C65D3B] mt-0.5">•</span>
+                <span>{formatIngredient(ing)}</span>
+              </li>
+            ))}
+          </ul>
+
+          <h2 className="text-sm font-medium text-gray-600 mt-4 mb-2">Procedimento</h2>
+          <ol className="bg-white rounded-md border border-gray-200 p-3 text-sm text-gray-800 space-y-3">
+            {recipe.steps.map((step, idx) => (
+              <li key={idx} className="flex gap-2">
+                <span className="font-medium text-[#C65D3B] flex-shrink-0">
+                  {idx + 1}.
+                </span>
+                <span>{step}</span>
+              </li>
+            ))}
+          </ol>
+
+          <button className="mt-4 w-full py-2.5 bg-[#6B8E4E] text-white rounded-lg text-sm font-medium hover:opacity-90 transition">
+            ✓ Segna come cucinata
+          </button>
+        </div>
+      </div>
+    </main>
+  );
+}
