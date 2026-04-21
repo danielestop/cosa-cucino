@@ -1,24 +1,64 @@
+'use client';
+
+import { useState, useEffect } from 'react';
+import ModeToggle from '@/components/ModeToggle';
+import AgeSlider from '@/components/AgeSlider';
+import CategoryGrid from '@/components/CategoryGrid';
+
 export default function Home() {
+  const [mode, setMode] = useState('adult');
+  const [ageMonths, setAgeMonths] = useState(9);
+  const [hydrated, setHydrated] = useState(false);
+
+  useEffect(() => {
+    const savedMode = localStorage.getItem('cosa-cucino-mode');
+    const savedAge = localStorage.getItem('cosa-cucino-age');
+    if (savedMode) setMode(savedMode);
+    if (savedAge) setAgeMonths(parseInt(savedAge, 10));
+    setHydrated(true);
+  }, []);
+
+  useEffect(() => {
+    if (hydrated) {
+      localStorage.setItem('cosa-cucino-mode', mode);
+      localStorage.setItem('cosa-cucino-age', String(ageMonths));
+    }
+  }, [mode, ageMonths, hydrated]);
+
   return (
-    <main className="min-h-screen bg-[#FAF7F2] flex items-center justify-center p-6">
-      <div className="text-center max-w-md">
-        <div className="text-7xl mb-4">🍲</div>
-        <h1 className="text-4xl font-bold text-[#C65D3B] mb-3">
-          Cosa Cucino?
-        </h1>
-        <p className="text-lg text-gray-700 mb-6">
-          Il ricettario intelligente per tutta la famiglia
-        </p>
-        <div className="flex gap-3 justify-center">
-          <button className="px-6 py-3 bg-[#6B8E4E] text-white rounded-xl font-medium shadow-md hover:shadow-lg transition">
-            👨 Adulti
+    <main className="min-h-screen bg-[#FAF7F2] p-4">
+      <div className="max-w-md mx-auto">
+        <div className="text-center mb-5 pt-2">
+          <div className="text-5xl leading-none">🍲</div>
+          <h1 className="text-2xl font-bold text-[#C65D3B] mt-2">Cosa Cucino?</h1>
+          <p className="text-sm text-gray-500 mt-1">Il tuo ricettario di famiglia</p>
+        </div>
+
+        <ModeToggle mode={mode} onChange={setMode} />
+
+        {mode === 'baby' && (
+          <AgeSlider months={ageMonths} onChange={setAgeMonths} />
+        )}
+
+        <input
+          type="text"
+          placeholder="🔍 Cerca ricetta o ingrediente..."
+          className="w-full px-3 py-2.5 border border-gray-200 rounded-lg bg-white text-sm mb-4 focus:outline-none focus:border-[#C65D3B]"
+        />
+
+        <CategoryGrid mode={mode} ageMonths={ageMonths} />
+
+        <div className="flex gap-2 mt-4">
+          <button className="flex-1 py-2.5 bg-[#C65D3B] text-white rounded-lg text-sm font-medium hover:opacity-90 transition">
+            🎡 Gira la ruota
           </button>
-          <button className="px-6 py-3 bg-[#7FB9D4] text-white rounded-xl font-medium shadow-md hover:shadow-lg transition">
-            👶 Bambino
+          <button className="flex-1 py-2.5 bg-white text-[#C65D3B] border border-[#C65D3B] rounded-lg text-sm font-medium hover:bg-[#FDF4F0] transition">
+            ⭐ Preferiti
           </button>
         </div>
-        <p className="mt-8 text-sm text-gray-500">
-          🚧 App in sviluppo — v0.1 MVP
+
+        <p className="text-center text-xs text-gray-400 mt-6 pb-4">
+          🚧 v0.2 MVP — vertical slice in sviluppo
         </p>
       </div>
     </main>
