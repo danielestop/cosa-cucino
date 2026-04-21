@@ -43,7 +43,7 @@ export default function Home() {
         <input
           type="text"
           placeholder="🔍 Cerca ricetta o ingrediente..."
-          className="w-full px-3 py-2.5 border border-gray-200 rounded-lg bg-white text-sm mb-4 focus:outline-none focus:border-[#C65D3B]"
+          className="w-full px-3 py-2.5 border border-gray-200 rounded-lg bg-white text-sm text-gray-800 placeholder:text-gray-500 mb-4 focus:outline-none focus:border-[#C65D3B]"
         />
 
         <CategoryGrid mode={mode} ageMonths={ageMonths} />
