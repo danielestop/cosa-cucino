@@ -61,13 +61,16 @@ export default function CategoryPage() {
   return (
     <main className="min-h-screen bg-[#FAF7F2] p-4">
       <div className="max-w-md mx-auto">
-        <div className="flex items-center gap-2 mb-4">
+        <div className="flex items-center gap-3 mb-4">
           <Link
             href="/"
-            className="text-gray-600 text-lg hover:text-[#C65D3B] transition"
+            className="w-10 h-10 flex items-center justify-center bg-white border border-gray-200 rounded-full text-gray-700 hover:bg-[#C65D3B] hover:text-white hover:border-[#C65D3B] transition shadow-sm"
             aria-label="Torna alla home"
           >
-            ←
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M19 12H5"></path>
+              <path d="M12 19l-7-7 7-7"></path>
+            </svg>
           </Link>
           <h1 className="text-base font-medium text-[#C65D3B]">
             {category.emoji} {category.name}
