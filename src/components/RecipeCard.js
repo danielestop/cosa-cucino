@@ -38,10 +38,19 @@ export default function RecipeCard({ recipe, mode, ageMonths }) {
     >
       <div className="flex">
         <div
-          className="w-[90px] h-[90px] flex items-center justify-center text-4xl flex-shrink-0"
+          className="w-[90px] h-[90px] flex items-center justify-center flex-shrink-0 overflow-hidden"
           style={{ backgroundColor: recipe.image_color }}
         >
-          {recipe.emoji}
+          {recipe.image_url ? (
+            <img
+              src={recipe.image_url}
+              alt={recipe.title}
+              className="w-full h-full object-cover"
+              loading="lazy"
+            />
+          ) : (
+            <span className="text-4xl">{recipe.emoji}</span>
+          )}
         </div>
         <div className="py-2.5 px-3 flex-1 min-w-0">
           <div className="text-sm font-medium text-gray-800 truncate">

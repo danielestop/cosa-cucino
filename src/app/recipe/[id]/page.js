@@ -49,12 +49,21 @@ export default function RecipePage() {
     <main className="min-h-screen bg-[#FAF7F2] pb-8">
       <div className="max-w-md mx-auto">
         <div
-          className="h-24 flex items-center justify-center text-5xl relative"
+          className="h-48 flex items-center justify-center relative overflow-hidden"
           style={{ backgroundColor: recipe.image_color }}
         >
+          {recipe.image_url ? (
+            <img
+              src={recipe.image_url}
+              alt={recipe.title}
+              className="w-full h-full object-cover"
+            />
+          ) : (
+            <span className="text-6xl">{recipe.emoji}</span>
+          )}
           <Link
             href={`/category/${recipe.category}/`}
-            className="absolute left-3 top-3 w-10 h-10 flex items-center justify-center bg-white rounded-full text-gray-800 hover:bg-[#C65D3B] hover:text-white transition shadow-md"
+            className="absolute left-3 top-3 w-10 h-10 flex items-center justify-center bg-white rounded-full text-gray-800 hover:bg-[#C65D3B] hover:text-white transition shadow-md z-10"
             aria-label="Torna alla lista ricette"
           >
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
@@ -62,7 +71,6 @@ export default function RecipePage() {
               <path d="M12 19l-7-7 7-7"></path>
             </svg>
           </Link>
-          {recipe.emoji}
         </div>
 
         <div className="p-4">
@@ -148,7 +156,18 @@ export default function RecipePage() {
             ))}
           </ol>
 
-          <button className="mt-4 w-full py-2.5 bg-[#6B8E4E] text-white rounded-lg text-sm font-medium hover:opacity-90 transition">
+          {recipe.source_url ? (
+            <a
+              href={recipe.source_url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-4 w-full block py-2.5 bg-white text-[#C65D3B] border border-[#C65D3B] rounded-lg text-sm font-medium hover:bg-[#FDF4F0] transition text-center"
+            >
+              🔗 Vedi ricetta originale su {recipe.source_site}
+            </a>
+          ) : null}
+
+          <button className="mt-2 w-full py-2.5 bg-[#6B8E4E] text-white rounded-lg text-sm font-medium hover:opacity-90 transition">
             ✓ Segna come cucinata
           </button>
         </div>

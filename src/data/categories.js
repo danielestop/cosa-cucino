@@ -1,5 +1,11 @@
 export const CATEGORIES = [
   {
+    slug: 'antipasti',
+    name: 'Antipasti',
+    emoji: '🥗',
+    color: '#F4C0D1',
+  },
+  {
     slug: 'primi',
     name: 'Primi',
     emoji: '🍝',
@@ -18,15 +24,15 @@ export const CATEGORIES = [
     color: '#C0DD97',
   },
   {
+    slug: 'lievitati',
+    name: 'Lievitati',
+    emoji: '🍕',
+    color: '#FAC775',
+  },
+  {
     slug: 'dessert',
     name: 'Dessert',
     emoji: '🍰',
     color: '#F4C0D1',
-  },
-  {
-    slug: 'colazione',
-    name: 'Colazione',
-    emoji: '🥞',
-    color: '#B5D4F4',
   },
 ];
