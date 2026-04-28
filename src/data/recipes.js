@@ -33,6 +33,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 0",
+        "name_normalized": "farina 0",
         "quantity": 1000,
         "unit": "g",
         "is_main": true,
@@ -43,6 +44,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 600,
         "unit": "ml",
         "is_main": false,
@@ -53,6 +55,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -63,6 +66,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 25,
         "unit": "g",
         "is_main": false,
@@ -73,6 +77,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra secco",
+        "name_normalized": "lievito di birra secco",
         "quantity": 15,
         "unit": "g",
         "is_main": true,
@@ -83,6 +88,7 @@ export const RECIPES = [
       },
       {
         "name": "Salame napoletano",
+        "name_normalized": "salame napoletano",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -93,6 +99,7 @@ export const RECIPES = [
       },
       {
         "name": "Provolone semi-piccante",
+        "name_normalized": "provolone",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -103,6 +110,7 @@ export const RECIPES = [
       },
       {
         "name": "Cicoli",
+        "name_normalized": "cicolo",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -113,6 +121,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino Romano DOP",
+        "name_normalized": "pecorino romano",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -123,6 +132,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -133,6 +143,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -143,6 +154,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 5,
         "unit": "pz",
         "is_main": true,
@@ -153,6 +165,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -215,6 +228,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -225,6 +239,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -235,6 +250,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 535,
         "unit": "g",
         "is_main": false,
@@ -245,6 +261,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 23,
         "unit": "g",
         "is_main": false,
@@ -255,6 +272,7 @@ export const RECIPES = [
       },
       {
         "name": "Malto",
+        "name_normalized": "malto",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -265,6 +283,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 18,
         "unit": "g",
         "is_main": true,
@@ -275,6 +294,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 120,
         "unit": "g",
         "is_main": false,
@@ -337,6 +357,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -347,6 +368,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 155,
         "unit": "ml",
         "is_main": false,
@@ -357,6 +379,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -367,6 +390,7 @@ export const RECIPES = [
       },
       {
         "name": "Maiale macinato",
+        "name_normalized": "maiale macinato",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -377,6 +401,7 @@ export const RECIPES = [
       },
       {
         "name": "Cavolo cappuccio",
+        "name_normalized": "cavolo cappuccio",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -387,6 +412,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipollotto fresco",
+        "name_normalized": "cipollotto",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -397,6 +423,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino di riso",
+        "name_normalized": "vino di riso",
         "quantity": 10,
         "unit": "ml",
         "is_main": true,
@@ -407,6 +434,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsa di soia",
+        "name_normalized": "salsa di soia",
         "quantity": 2,
         "unit": "cucchiaini",
         "is_main": true,
@@ -417,6 +445,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe bianco",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -475,6 +504,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Sfoglie per involtini",
+        "name_normalized": "sfoglia per involtino",
         "quantity": 8,
         "unit": "pz",
         "is_main": true,
@@ -485,6 +515,7 @@ export const RECIPES = [
       },
       {
         "name": "Cavolo cappuccio",
+        "name_normalized": "cavolo cappuccio",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -495,6 +526,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -505,6 +537,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla bianca",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -515,6 +548,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino di riso",
+        "name_normalized": "vino di riso",
         "quantity": 30,
         "unit": "ml",
         "is_main": true,
@@ -525,6 +559,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di arachide",
+        "name_normalized": "olio di semi di arachide",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -535,6 +570,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -545,6 +581,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe bianco",
+        "name_normalized": "pepe bianco",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -555,6 +592,7 @@ export const RECIPES = [
       },
       {
         "name": "Albumi",
+        "name_normalized": "albume",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -611,6 +649,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Ceci precotti",
+        "name_normalized": "cece precotto",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -621,6 +660,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di limone",
+        "name_normalized": "succo di limone",
         "quantity": 90,
         "unit": "g",
         "is_main": true,
@@ -631,6 +671,7 @@ export const RECIPES = [
       },
       {
         "name": "Tahina",
+        "name_normalized": "tahina",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -641,6 +682,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -651,6 +693,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine di oliva",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -661,6 +704,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -671,6 +715,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -681,6 +726,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika dolce",
+        "name_normalized": "paprika dolce",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -691,6 +737,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -701,6 +748,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -711,6 +759,7 @@ export const RECIPES = [
       },
       {
         "name": "Semi di sesamo",
+        "name_normalized": "seme di sesamo",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -721,6 +770,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di sesamo",
+        "name_normalized": "olio di sesamo",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -775,6 +825,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina di ceci",
+        "name_normalized": "farina di cece",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -785,6 +836,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 900,
         "unit": "g",
         "is_main": false,
@@ -795,6 +847,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 120,
         "unit": "g",
         "is_main": false,
@@ -805,6 +858,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -815,6 +869,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -868,6 +923,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Avocado",
+        "name_normalized": "avocado",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -878,6 +934,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -888,6 +945,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di lime",
+        "name_normalized": "succo_di_lime",
         "quantity": 40,
         "unit": "ml",
         "is_main": true,
@@ -898,6 +956,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori ramati",
+        "name_normalized": "pomodoro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -908,6 +967,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -918,6 +978,7 @@ export const RECIPES = [
       },
       {
         "name": "Coriandolo",
+        "name_normalized": "coriandolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -973,6 +1034,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -983,6 +1045,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 150,
         "unit": "ml",
         "is_main": false,
@@ -993,6 +1056,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1003,6 +1067,7 @@ export const RECIPES = [
       },
       {
         "name": "Macinato di maiale",
+        "name_normalized": "macinato di maiale",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -1013,6 +1078,7 @@ export const RECIPES = [
       },
       {
         "name": "Cavolo cinese",
+        "name_normalized": "cavolo cinese",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -1023,6 +1089,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipollotti",
+        "name_normalized": "cipollotto",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -1033,6 +1100,7 @@ export const RECIPES = [
       },
       {
         "name": "Zenzero fresco",
+        "name_normalized": "zenzero fresco",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1043,6 +1111,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 3,
         "unit": "cucchiai",
         "is_main": false,
@@ -1053,6 +1122,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino di riso",
+        "name_normalized": "vino di riso",
         "quantity": 2,
         "unit": "cucchiai",
         "is_main": false,
@@ -1063,6 +1133,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsa di soia",
+        "name_normalized": "salsa di soia",
         "quantity": 2,
         "unit": "cucchiai",
         "is_main": false,
@@ -1073,6 +1144,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di sesamo",
+        "name_normalized": "olio di sesamo",
         "quantity": 1,
         "unit": "cucchiaio",
         "is_main": false,
@@ -1083,6 +1155,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1093,6 +1166,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1103,6 +1177,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi",
+        "name_normalized": "olio di semi",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1113,6 +1188,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipollotto fresco",
+        "name_normalized": "cipollotto fresco",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1172,6 +1248,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Vitello",
+        "name_normalized": "vitello",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -1182,6 +1259,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 1,
         "unit": "costa",
         "is_main": false,
@@ -1192,6 +1270,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -1202,6 +1281,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -1212,6 +1292,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchio",
         "is_main": false,
@@ -1222,6 +1303,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino_bianco",
         "quantity": 250,
         "unit": "ml",
         "is_main": false,
@@ -1232,6 +1314,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 1.5,
         "unit": "l",
         "is_main": false,
@@ -1242,6 +1325,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 1,
         "unit": "foglia",
         "is_main": false,
@@ -1252,6 +1336,7 @@ export const RECIPES = [
       },
       {
         "name": "Chiodi di garofano",
+        "name_normalized": "chiodo_di_garofano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1262,6 +1347,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 3,
         "unit": "cucchiai",
         "is_main": false,
@@ -1272,6 +1358,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero in grani",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1282,6 +1369,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1292,6 +1380,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -1302,6 +1391,7 @@ export const RECIPES = [
       },
       {
         "name": "Tonno sott'olio",
+        "name_normalized": "tonno",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -1312,6 +1402,7 @@ export const RECIPES = [
       },
       {
         "name": "Acciughe sott'olio",
+        "name_normalized": "acciuga",
         "quantity": 3,
         "unit": "filetti",
         "is_main": true,
@@ -1322,6 +1413,7 @@ export const RECIPES = [
       },
       {
         "name": "Capperi sotto sale",
+        "name_normalized": "cappero",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -1332,6 +1424,7 @@ export const RECIPES = [
       },
       {
         "name": "Frutti di cappero",
+        "name_normalized": "frutto_di_cappero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1342,6 +1435,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo di carne",
+        "name_normalized": "brodo_di_carne",
         "quantity": 150,
         "unit": "ml",
         "is_main": false,
@@ -1399,6 +1493,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 250,
         "unit": "ml",
         "is_main": false,
@@ -1409,6 +1504,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -1419,6 +1515,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 10,
         "unit": "g",
         "is_main": true,
@@ -1429,6 +1526,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 12,
         "unit": "g",
         "is_main": false,
@@ -1439,6 +1537,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -1449,6 +1548,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 15,
         "unit": "g",
         "is_main": false,
@@ -1459,6 +1559,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -1469,6 +1570,7 @@ export const RECIPES = [
       },
       {
         "name": "Mozzarella",
+        "name_normalized": "mozzarella",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -1479,6 +1581,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -1489,6 +1592,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1499,6 +1603,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1509,6 +1614,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1568,6 +1674,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 70,
         "unit": "ml",
         "is_main": false,
@@ -1578,6 +1685,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina_00",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -1588,6 +1696,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -1598,6 +1707,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1608,6 +1718,7 @@ export const RECIPES = [
       },
       {
         "name": "Speck",
+        "name_normalized": "speck",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -1618,6 +1729,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 110,
         "unit": "g",
         "is_main": true,
@@ -1628,6 +1740,7 @@ export const RECIPES = [
       },
       {
         "name": "Fontina",
+        "name_normalized": "fontina",
         "quantity": 160,
         "unit": "g",
         "is_main": true,
@@ -1638,6 +1751,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 2,
         "unit": "rametti",
         "is_main": false,
@@ -1648,6 +1762,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika",
+        "name_normalized": "paprika",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1658,6 +1773,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1668,6 +1784,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1727,6 +1844,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Spinaci",
+        "name_normalized": "spinacio",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -1737,6 +1855,7 @@ export const RECIPES = [
       },
       {
         "name": "Ricotta vaccina",
+        "name_normalized": "ricotta",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -1747,6 +1866,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -1757,6 +1877,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -1767,6 +1888,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -1777,6 +1899,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchio",
         "is_main": false,
@@ -1787,6 +1910,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1797,6 +1921,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1807,6 +1932,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -1862,6 +1988,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -1872,6 +1999,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -1882,6 +2010,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -1892,6 +2021,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1902,6 +2032,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -1912,6 +2043,7 @@ export const RECIPES = [
       },
       {
         "name": "Porri",
+        "name_normalized": "porro",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -1922,6 +2054,7 @@ export const RECIPES = [
       },
       {
         "name": "Sottilette®",
+        "name_normalized": "sottiletta",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -1932,6 +2065,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -1942,6 +2076,7 @@ export const RECIPES = [
       },
       {
         "name": "Formaggio",
+        "name_normalized": "formaggio",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -1952,6 +2087,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -1962,6 +2098,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -1972,6 +2109,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -1982,6 +2120,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2041,6 +2180,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso vialone nano",
+        "name_normalized": "riso vialone nano",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -2051,6 +2191,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 1200,
         "unit": "ml",
         "is_main": false,
@@ -2061,6 +2202,7 @@ export const RECIPES = [
       },
       {
         "name": "Caciocavallo stagionato",
+        "name_normalized": "caciocavallo",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -2071,6 +2213,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -2081,6 +2224,7 @@ export const RECIPES = [
       },
       {
         "name": "Zafferano",
+        "name_normalized": "zafferano",
         "quantity": 0.15,
         "unit": "g",
         "is_main": false,
@@ -2091,6 +2235,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale grosso",
+        "name_normalized": "sale",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": false,
@@ -2101,6 +2246,7 @@ export const RECIPES = [
       },
       {
         "name": "Macinato di maiale",
+        "name_normalized": "macinato di maiale",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -2111,6 +2257,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -2121,6 +2268,7 @@ export const RECIPES = [
       },
       {
         "name": "Pisellini",
+        "name_normalized": "pisello",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -2131,6 +2279,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -2141,6 +2290,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino rosso",
+        "name_normalized": "vino rosso",
         "quantity": 50,
         "unit": "ml",
         "is_main": true,
@@ -2151,6 +2301,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine di oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2161,6 +2312,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2171,6 +2323,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2181,6 +2334,7 @@ export const RECIPES = [
       },
       {
         "name": "Caciocavallo fresco",
+        "name_normalized": "caciocavallo",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -2191,6 +2345,7 @@ export const RECIPES = [
       },
       {
         "name": "Prosciutto cotto",
+        "name_normalized": "prosciutto cotto",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -2201,6 +2356,7 @@ export const RECIPES = [
       },
       {
         "name": "Mozzarella",
+        "name_normalized": "mozzarella",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -2211,6 +2367,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -2221,6 +2378,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 350,
         "unit": "ml",
         "is_main": false,
@@ -2231,6 +2389,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -2241,6 +2400,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -2251,6 +2411,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi",
+        "name_normalized": "olio di semi",
         "quantity": 3,
         "unit": "l",
         "is_main": true,
@@ -2311,6 +2472,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 12,
         "unit": "pz",
         "is_main": true,
@@ -2321,6 +2483,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -2331,6 +2494,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -2341,6 +2505,7 @@ export const RECIPES = [
       },
       {
         "name": "Senape",
+        "name_normalized": "senape",
         "quantity": 3,
         "unit": "cucchiaini",
         "is_main": false,
@@ -2351,6 +2516,7 @@ export const RECIPES = [
       },
       {
         "name": "Maionese",
+        "name_normalized": "maionese",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -2361,6 +2527,7 @@ export const RECIPES = [
       },
       {
         "name": "Formaggio fresco spalmabile",
+        "name_normalized": "formaggio fresco spalmabile",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -2371,6 +2538,7 @@ export const RECIPES = [
       },
       {
         "name": "Semi di sesamo",
+        "name_normalized": "seme di sesamo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2381,6 +2549,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2391,6 +2560,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2450,6 +2620,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -2460,6 +2631,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -2470,6 +2642,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua tiepida",
+        "name_normalized": "acqua",
         "quantity": 220,
         "unit": "ml",
         "is_main": false,
@@ -2480,6 +2653,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -2490,6 +2664,7 @@ export const RECIPES = [
       },
       {
         "name": "Bicarbonato",
+        "name_normalized": "bicarbonato",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2546,6 +2721,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Melanzane",
+        "name_normalized": "melanzana",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -2556,6 +2732,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -2566,6 +2743,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -2576,6 +2754,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -2586,6 +2765,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchio",
         "is_main": false,
@@ -2596,6 +2776,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2606,6 +2787,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2616,6 +2798,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2626,6 +2809,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi",
+        "name_normalized": "olio di semi",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2681,6 +2865,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -2691,6 +2876,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -2701,6 +2887,7 @@ export const RECIPES = [
       },
       {
         "name": "Pancetta affumicata",
+        "name_normalized": "pancetta affumicata",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -2711,6 +2898,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 100,
         "unit": "ml",
         "is_main": true,
@@ -2721,6 +2909,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 100,
         "unit": "ml",
         "is_main": true,
@@ -2731,6 +2920,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 60,
         "unit": "ml",
         "is_main": false,
@@ -2741,6 +2931,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2751,6 +2942,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2761,6 +2953,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito istantaneo per preparazioni salate",
+        "name_normalized": "lievito istantaneo per preparazioni salate",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -2771,6 +2964,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano dop",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -2781,6 +2975,7 @@ export const RECIPES = [
       },
       {
         "name": "Groviera",
+        "name_normalized": "groviera",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -2833,6 +3028,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 0",
+        "name_normalized": "farina 0",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -2843,6 +3039,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 100,
         "unit": "ml",
         "is_main": true,
@@ -2853,6 +3050,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 10,
         "unit": "g",
         "is_main": true,
@@ -2863,6 +3061,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 5,
         "unit": "pz",
         "is_main": true,
@@ -2873,6 +3072,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino Romano DOP",
+        "name_normalized": "pecorino romano dop",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -2883,6 +3083,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -2893,6 +3094,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": 130,
         "unit": "g",
         "is_main": true,
@@ -2903,6 +3105,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": 2,
         "unit": "cucchiaini",
         "is_main": false,
@@ -2913,6 +3116,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2923,6 +3127,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2933,6 +3138,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -2990,6 +3196,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pasta Sfoglia",
+        "name_normalized": "pasta sfoglia",
         "quantity": 460,
         "unit": "g",
         "is_main": true,
@@ -3000,6 +3207,7 @@ export const RECIPES = [
       },
       {
         "name": "Pancetta arrotolata",
+        "name_normalized": "pancetta arrotolata",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -3010,6 +3218,7 @@ export const RECIPES = [
       },
       {
         "name": "Edamer",
+        "name_normalized": "edamer",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -3020,6 +3229,7 @@ export const RECIPES = [
       },
       {
         "name": "Semi di sesamo",
+        "name_normalized": "semi di sesamo",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": false,
@@ -3030,6 +3240,7 @@ export const RECIPES = [
       },
       {
         "name": "Salmone affumicato",
+        "name_normalized": "salmone affumicato",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -3040,6 +3251,7 @@ export const RECIPES = [
       },
       {
         "name": "Robiola",
+        "name_normalized": "robiola",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -3050,6 +3262,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3060,6 +3273,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3070,6 +3284,7 @@ export const RECIPES = [
       },
       {
         "name": "Semi di sesamo nero",
+        "name_normalized": "semi di sesamo nero",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": false,
@@ -3080,6 +3295,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -3090,6 +3306,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3100,6 +3317,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3155,6 +3373,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Yogurt bianco naturale",
+        "name_normalized": "yogurt bianco naturale",
         "quantity": 125,
         "unit": "ml",
         "is_main": true,
@@ -3165,6 +3384,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": null,
         "unit": "vasetti",
         "is_main": true,
@@ -3175,6 +3395,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di mais (maizena)",
+        "name_normalized": "amido di mais",
         "quantity": null,
         "unit": "vasetti",
         "is_main": true,
@@ -3185,6 +3406,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": null,
         "unit": "vasetti",
         "is_main": true,
@@ -3195,6 +3417,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano",
         "quantity": null,
         "unit": "vasetti",
         "is_main": true,
@@ -3205,6 +3428,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di girasole",
+        "name_normalized": "olio di semi di girasole",
         "quantity": null,
         "unit": "vasetti",
         "is_main": false,
@@ -3215,6 +3439,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito istantaneo per preparazioni salate",
+        "name_normalized": "lievito istantaneo per preparazioni salate",
         "quantity": 16,
         "unit": "g",
         "is_main": true,
@@ -3225,6 +3450,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -3235,6 +3461,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3245,6 +3472,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3255,6 +3483,7 @@ export const RECIPES = [
       },
       {
         "name": "Edamer",
+        "name_normalized": "edamer",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -3265,6 +3494,7 @@ export const RECIPES = [
       },
       {
         "name": "Salame napoletano",
+        "name_normalized": "salame napoletano",
         "quantity": 160,
         "unit": "g",
         "is_main": true,
@@ -3275,6 +3505,7 @@ export const RECIPES = [
       },
       {
         "name": "Olive verdi",
+        "name_normalized": "oliva verde",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -3285,6 +3516,7 @@ export const RECIPES = [
       },
       {
         "name": "Maggiorana",
+        "name_normalized": "maggiorana",
         "quantity": 3,
         "unit": "rametti",
         "is_main": false,
@@ -3340,6 +3572,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -3350,6 +3583,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -3360,6 +3594,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 285,
         "unit": "ml",
         "is_main": false,
@@ -3370,6 +3605,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -3380,6 +3616,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 8,
         "unit": "g",
         "is_main": true,
@@ -3390,6 +3627,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -3400,6 +3638,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -3410,6 +3649,7 @@ export const RECIPES = [
       },
       {
         "name": "Fiordilatte",
+        "name_normalized": "fiordilatte",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -3420,6 +3660,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -3430,6 +3671,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -3440,6 +3682,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": false,
@@ -3450,6 +3693,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -3460,6 +3704,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi",
+        "name_normalized": "olio di semi",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3522,6 +3767,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Polpo",
+        "name_normalized": "polpo",
         "quantity": 1000,
         "unit": "g",
         "is_main": true,
@@ -3532,6 +3778,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -3542,6 +3789,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -3552,6 +3800,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -3562,6 +3811,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -3572,6 +3822,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero in grani",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3582,6 +3833,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3592,6 +3844,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -3602,6 +3855,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di limone",
+        "name_normalized": "succo di limone",
         "quantity": 10,
         "unit": "ml",
         "is_main": false,
@@ -3612,6 +3866,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine di oliva",
         "quantity": 30,
         "unit": "ml",
         "is_main": false,
@@ -3622,6 +3877,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3678,6 +3934,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Tonno sott'olio",
+        "name_normalized": "tonno",
         "quantity": 230,
         "unit": "g",
         "is_main": true,
@@ -3688,6 +3945,7 @@ export const RECIPES = [
       },
       {
         "name": "Ricotta vaccina",
+        "name_normalized": "ricotta",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -3698,6 +3956,7 @@ export const RECIPES = [
       },
       {
         "name": "Acciughe sott'olio",
+        "name_normalized": "acciuga",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -3708,6 +3967,7 @@ export const RECIPES = [
       },
       {
         "name": "Capperi sotto sale",
+        "name_normalized": "cappero",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -3718,6 +3978,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -3728,6 +3989,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 90,
         "unit": "g",
         "is_main": true,
@@ -3738,6 +4000,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -3748,6 +4011,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 8,
         "unit": "g",
         "is_main": false,
@@ -3758,6 +4022,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3768,6 +4033,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3778,6 +4044,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di arachide",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3832,6 +4099,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pasta Sfoglia",
+        "name_normalized": "pasta sfoglia",
         "quantity": 230,
         "unit": "g",
         "is_main": true,
@@ -3842,6 +4110,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -3852,6 +4121,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3862,6 +4132,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -3872,6 +4143,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3925,6 +4197,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina_00",
         "quantity": 210,
         "unit": "g",
         "is_main": true,
@@ -3935,6 +4208,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 70,
         "unit": "ml",
         "is_main": false,
@@ -3945,6 +4219,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": 65,
         "unit": "g",
         "is_main": true,
@@ -3955,6 +4230,7 @@ export const RECIPES = [
       },
       {
         "name": "Aceto di vino bianco",
+        "name_normalized": "aceto_di_vino_bianco",
         "quantity": 3,
         "unit": "g",
         "is_main": false,
@@ -3965,6 +4241,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale_fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -3975,6 +4252,7 @@ export const RECIPES = [
       },
       {
         "name": "Carne bovina",
+        "name_normalized": "carne_bovina",
         "quantity": 165,
         "unit": "g",
         "is_main": true,
@@ -3985,6 +4263,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle ramate",
+        "name_normalized": "cipolla_ramate",
         "quantity": 285,
         "unit": "g",
         "is_main": true,
@@ -3995,6 +4274,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni rossi",
+        "name_normalized": "peperone_rosso",
         "quantity": 140,
         "unit": "g",
         "is_main": true,
@@ -4005,6 +4285,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova sode",
+        "name_normalized": "uovo_sodo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -4015,6 +4296,7 @@ export const RECIPES = [
       },
       {
         "name": "Olive verdi",
+        "name_normalized": "oliva_verde",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -4025,6 +4307,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio_extravergine_d_oliva",
         "quantity": 15,
         "unit": "g",
         "is_main": false,
@@ -4035,6 +4318,7 @@ export const RECIPES = [
       },
       {
         "name": "Cumino in polvere",
+        "name_normalized": "cumino_in_polvere",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4045,6 +4329,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4055,6 +4340,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe_nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4065,6 +4351,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di girasole",
+        "name_normalized": "olio_di_semi_di_girasole",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4123,6 +4410,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Melanzane",
+        "name_normalized": "melanzana",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -4133,6 +4421,7 @@ export const RECIPES = [
       },
       {
         "name": "Tahina",
+        "name_normalized": "tahina",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -4143,6 +4432,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di limone",
+        "name_normalized": "succo_di_limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -4153,6 +4443,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -4163,6 +4454,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio_extravergine_d_oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4173,6 +4465,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale_fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4183,6 +4476,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe_nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4193,6 +4487,7 @@ export const RECIPES = [
       },
       {
         "name": "Menta",
+        "name_normalized": "menta",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4203,6 +4498,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika dolce",
+        "name_normalized": "paprika_dolce",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4213,6 +4509,7 @@ export const RECIPES = [
       },
       {
         "name": "Semi di sesamo",
+        "name_normalized": "semi_di_sesamo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4268,6 +4565,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pasta Sfoglia",
+        "name_normalized": "pasta sfoglia",
         "quantity": 230,
         "unit": "g",
         "is_main": true,
@@ -4278,6 +4576,7 @@ export const RECIPES = [
       },
       {
         "name": "Carciofi",
+        "name_normalized": "carciofo",
         "quantity": 6,
         "unit": "pz",
         "is_main": true,
@@ -4288,6 +4587,7 @@ export const RECIPES = [
       },
       {
         "name": "Scamorza (provola)",
+        "name_normalized": "scamorza",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -4298,6 +4598,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -4308,6 +4609,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 80,
         "unit": "ml",
         "is_main": true,
@@ -4318,6 +4620,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -4328,6 +4631,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -4338,6 +4642,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4348,6 +4653,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4358,6 +4664,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4368,6 +4675,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4426,6 +4734,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Spinaci",
+        "name_normalized": "spinacio",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -4436,6 +4745,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -4446,6 +4756,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce_moscata",
         "quantity": 2,
         "unit": "g",
         "is_main": false,
@@ -4456,6 +4767,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4466,6 +4778,7 @@ export const RECIPES = [
       },
       {
         "name": "Pinoli",
+        "name_normalized": "pinolo",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -4476,6 +4789,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -4486,6 +4800,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi",
+        "name_normalized": "olio_di_semi",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4496,6 +4811,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano_reggiano_dop",
         "quantity": 125,
         "unit": "g",
         "is_main": true,
@@ -4506,6 +4822,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe_nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4516,6 +4833,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio_extravergine_d_oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4526,6 +4844,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte_intero",
         "quantity": 251,
         "unit": "ml",
         "is_main": true,
@@ -4536,6 +4855,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 15,
         "unit": "g",
         "is_main": true,
@@ -4546,6 +4866,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina_00",
         "quantity": 25,
         "unit": "g",
         "is_main": true,
@@ -4599,6 +4920,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Melanzane",
+        "name_normalized": "melanzana",
         "quantity": 1000,
         "unit": "g",
         "is_main": true,
@@ -4609,6 +4931,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -4619,6 +4942,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -4629,6 +4953,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori ramati",
+        "name_normalized": "pomodoro",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -4639,6 +4964,7 @@ export const RECIPES = [
       },
       {
         "name": "Olive verdi in salamoia",
+        "name_normalized": "oliva",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -4649,6 +4975,7 @@ export const RECIPES = [
       },
       {
         "name": "Capperi sotto sale",
+        "name_normalized": "cappero",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -4659,6 +4986,7 @@ export const RECIPES = [
       },
       {
         "name": "Pinoli",
+        "name_normalized": "pinolo",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -4669,6 +4997,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -4679,6 +5008,7 @@ export const RECIPES = [
       },
       {
         "name": "Aceto di vino bianco",
+        "name_normalized": "aceto",
         "quantity": 60,
         "unit": "ml",
         "is_main": false,
@@ -4689,6 +5019,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4699,6 +5030,7 @@ export const RECIPES = [
       },
       {
         "name": "Concentrato di pomodoro",
+        "name_normalized": "concentrato_di_pomodoro",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -4709,6 +5041,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4719,6 +5052,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4776,6 +5110,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Ceci secchi",
+        "name_normalized": "cece secco",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -4786,6 +5121,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -4796,6 +5132,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -4806,6 +5143,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4816,6 +5154,7 @@ export const RECIPES = [
       },
       {
         "name": "Cumino",
+        "name_normalized": "cumino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4826,6 +5165,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4836,6 +5176,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4846,6 +5187,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di arachide",
+        "name_normalized": "olio di semi di arachide",
         "quantity": 1,
         "unit": "l",
         "is_main": false,
@@ -4901,6 +5243,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -4911,6 +5254,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -4921,6 +5265,7 @@ export const RECIPES = [
       },
       {
         "name": "Ricotta vaccina",
+        "name_normalized": "ricotta",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -4931,6 +5276,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -4941,6 +5287,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -4951,6 +5298,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4961,6 +5309,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4971,6 +5320,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -4981,6 +5331,7 @@ export const RECIPES = [
       },
       {
         "name": "Semola di grano duro rimacinata",
+        "name_normalized": "semola di grano duro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -4991,6 +5342,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di arachide",
+        "name_normalized": "olio di semi di arachide",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5001,6 +5353,7 @@ export const RECIPES = [
       },
       {
         "name": "Fiocchi di sale",
+        "name_normalized": "fiocchi di sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5058,6 +5411,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pane bianco in cassetta",
+        "name_normalized": "pane bianco",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -5068,6 +5422,7 @@ export const RECIPES = [
       },
       {
         "name": "Mozzarella di bufala",
+        "name_normalized": "mozzarella di bufala",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -5078,6 +5433,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5088,6 +5444,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 5,
         "unit": "pz",
         "is_main": true,
@@ -5098,6 +5455,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -5108,6 +5466,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -5118,6 +5477,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di girasole",
+        "name_normalized": "olio di semi di girasole",
         "quantity": 1,
         "unit": "l",
         "is_main": false,
@@ -5177,6 +5537,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Capesante",
+        "name_normalized": "capesanta",
         "quantity": 8,
         "unit": "pz",
         "is_main": true,
@@ -5187,6 +5548,7 @@ export const RECIPES = [
       },
       {
         "name": "Mollica di pane",
+        "name_normalized": "mollica di pane",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -5197,6 +5559,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -5207,6 +5570,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5217,6 +5581,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5227,6 +5592,7 @@ export const RECIPES = [
       },
       {
         "name": "Maggiorana",
+        "name_normalized": "maggiorana",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5237,6 +5603,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -5247,6 +5614,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5257,6 +5625,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5309,6 +5678,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -5319,6 +5689,7 @@ export const RECIPES = [
       },
       {
         "name": "Caciocavallo",
+        "name_normalized": "caciocavallo",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -5329,6 +5700,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -5339,6 +5711,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana_padano",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -5349,6 +5722,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -5359,6 +5733,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5369,6 +5744,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5379,6 +5755,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5389,6 +5766,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5443,6 +5821,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 6,
         "unit": "pz",
         "is_main": true,
@@ -5453,6 +5832,7 @@ export const RECIPES = [
       },
       {
         "name": "Asparagi",
+        "name_normalized": "asparago",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -5463,6 +5843,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -5473,6 +5854,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -5483,6 +5865,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 3,
         "unit": "cucchiai",
         "is_main": false,
@@ -5493,6 +5876,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5503,6 +5887,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5557,6 +5942,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -5567,6 +5953,7 @@ export const RECIPES = [
       },
       {
         "name": "Yogurt bianco naturale",
+        "name_normalized": "yogurt bianco naturale",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -5577,6 +5964,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -5587,6 +5975,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 7,
         "unit": "g",
         "is_main": false,
@@ -5597,6 +5986,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 2,
         "unit": "g",
         "is_main": true,
@@ -5652,6 +6042,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 0",
+        "name_normalized": "farina 0",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -5662,6 +6053,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 1",
+        "name_normalized": "farina 1",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -5672,6 +6064,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 50,
         "unit": "ml",
         "is_main": true,
@@ -5682,6 +6075,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 50,
         "unit": "ml",
         "is_main": false,
@@ -5692,6 +6086,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": 35,
         "unit": "g",
         "is_main": true,
@@ -5702,6 +6097,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 4,
         "unit": "g",
         "is_main": true,
@@ -5712,6 +6108,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5722,6 +6119,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5732,6 +6130,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": 2,
         "unit": "kg",
         "is_main": true,
@@ -5788,6 +6187,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 165,
         "unit": "g",
         "is_main": true,
@@ -5798,6 +6198,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 180,
         "unit": "g",
         "is_main": true,
@@ -5808,6 +6209,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi",
+        "name_normalized": "olio di semi",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -5818,6 +6220,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -5828,6 +6231,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito istantaneo per preparazioni salate",
+        "name_normalized": "lievito istantaneo salato",
         "quantity": 16,
         "unit": "g",
         "is_main": false,
@@ -5838,6 +6242,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -5848,6 +6253,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -5858,6 +6264,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -5868,6 +6275,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 130,
         "unit": "g",
         "is_main": true,
@@ -5878,6 +6286,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 110,
         "unit": "g",
         "is_main": true,
@@ -5888,6 +6297,7 @@ export const RECIPES = [
       },
       {
         "name": "Pisellini",
+        "name_normalized": "pisello",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -5898,6 +6308,7 @@ export const RECIPES = [
       },
       {
         "name": "Scamorza dolce",
+        "name_normalized": "scamorza",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -5908,6 +6319,7 @@ export const RECIPES = [
       },
       {
         "name": "Olive taggiasche",
+        "name_normalized": "oliva taggiasca",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -5918,6 +6330,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni misti",
+        "name_normalized": "peperone",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -5976,6 +6389,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pasta Sfoglia",
+        "name_normalized": "pasta sfoglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -5986,6 +6400,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano",
         "quantity": 130,
         "unit": "g",
         "is_main": true,
@@ -5996,6 +6411,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6006,6 +6422,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6016,6 +6433,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6026,6 +6444,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -6036,6 +6455,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -6046,6 +6466,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6056,6 +6477,7 @@ export const RECIPES = [
       },
       {
         "name": "Ricotta vaccina",
+        "name_normalized": "ricotta",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -6066,6 +6488,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -6076,6 +6499,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6132,6 +6556,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 1.2,
         "unit": "kg",
         "is_main": true,
@@ -6142,6 +6567,7 @@ export const RECIPES = [
       },
       {
         "name": "Spinaci",
+        "name_normalized": "spinacio",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -6152,6 +6578,7 @@ export const RECIPES = [
       },
       {
         "name": "Caciocavallo",
+        "name_normalized": "caciocavallo",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -6162,6 +6589,7 @@ export const RECIPES = [
       },
       {
         "name": "Prosciutto cotto",
+        "name_normalized": "prosciutto_cotto",
         "quantity": 110,
         "unit": "g",
         "is_main": true,
@@ -6172,6 +6600,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana_padano",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -6182,6 +6611,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -6192,6 +6622,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -6202,6 +6633,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6212,6 +6644,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6222,6 +6655,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6232,6 +6666,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6242,6 +6677,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -6252,6 +6688,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana_padano",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -6309,6 +6746,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pane bianco in cassetta",
+        "name_normalized": "pane bianco in cassetta",
         "quantity": 12,
         "unit": "pz",
         "is_main": true,
@@ -6319,6 +6757,7 @@ export const RECIPES = [
       },
       {
         "name": "Prosciutto cotto",
+        "name_normalized": "prosciutto cotto",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -6329,6 +6768,7 @@ export const RECIPES = [
       },
       {
         "name": "Formaggio Comtè",
+        "name_normalized": "formaggio comtè",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -6339,6 +6779,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6349,6 +6790,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6359,6 +6801,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 450,
         "unit": "ml",
         "is_main": true,
@@ -6369,6 +6812,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 45,
         "unit": "g",
         "is_main": true,
@@ -6379,6 +6823,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 45,
         "unit": "g",
         "is_main": true,
@@ -6389,6 +6834,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6445,6 +6891,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -6455,6 +6902,7 @@ export const RECIPES = [
       },
       {
         "name": "Aceto di vino bianco",
+        "name_normalized": "aceto di vino bianco",
         "quantity": 10,
         "unit": "ml",
         "is_main": false,
@@ -6465,6 +6913,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale grosso",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6516,6 +6965,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Spaghetti",
+        "name_normalized": "spaghetti",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -6526,6 +6976,7 @@ export const RECIPES = [
       },
       {
         "name": "Guanciale",
+        "name_normalized": "guanciale",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -6536,6 +6987,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 6,
         "unit": "pz",
         "is_main": true,
@@ -6546,6 +6998,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino Romano DOP",
+        "name_normalized": "pecorino romano dop",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -6556,6 +7009,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6611,6 +7065,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Spaghetti",
+        "name_normalized": "spaghetto",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -6621,6 +7076,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori pelati",
+        "name_normalized": "pomodoro pelato",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -6631,6 +7087,7 @@ export const RECIPES = [
       },
       {
         "name": "Guanciale",
+        "name_normalized": "guanciale",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -6641,6 +7098,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino Romano DOP",
+        "name_normalized": "pecorino romano",
         "quantity": 75,
         "unit": "g",
         "is_main": true,
@@ -6651,6 +7109,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 50,
         "unit": "ml",
         "is_main": true,
@@ -6661,6 +7120,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6671,6 +7131,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino fresco",
+        "name_normalized": "peperoncino",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -6725,6 +7186,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Semola di grano duro rimacinata",
+        "name_normalized": "semola di grano duro rimacinata",
         "quantity": 175,
         "unit": "g",
         "is_main": true,
@@ -6735,6 +7197,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 75,
         "unit": "g",
         "is_main": true,
@@ -6745,6 +7208,7 @@ export const RECIPES = [
       },
       {
         "name": "Spinaci",
+        "name_normalized": "spinacio",
         "quantity": 125,
         "unit": "g",
         "is_main": true,
@@ -6755,6 +7219,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -6765,6 +7230,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -6775,6 +7241,7 @@ export const RECIPES = [
       },
       {
         "name": "Macinato di manzo",
+        "name_normalized": "macinato di manzo",
         "quantity": 700,
         "unit": "g",
         "is_main": true,
@@ -6785,6 +7252,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -6795,6 +7263,7 @@ export const RECIPES = [
       },
       {
         "name": "Pancetta fresca",
+        "name_normalized": "pancetta fresca",
         "quantity": 270,
         "unit": "g",
         "is_main": true,
@@ -6805,6 +7274,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 110,
         "unit": "g",
         "is_main": true,
@@ -6815,6 +7285,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 110,
         "unit": "g",
         "is_main": true,
@@ -6825,6 +7296,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla dorata",
         "quantity": 110,
         "unit": "g",
         "is_main": true,
@@ -6835,6 +7307,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": 350,
         "unit": "ml",
         "is_main": true,
@@ -6845,6 +7318,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino rosso",
+        "name_normalized": "vino rosso",
         "quantity": 110,
         "unit": "ml",
         "is_main": true,
@@ -6855,6 +7329,7 @@ export const RECIPES = [
       },
       {
         "name": "Doppio concentrato di pomodoro",
+        "name_normalized": "doppio concentrato di pomodoro",
         "quantity": 2,
         "unit": "cucchiai",
         "is_main": true,
@@ -6865,6 +7340,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 6,
         "unit": "cucchiai",
         "is_main": false,
@@ -6875,6 +7351,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6885,6 +7362,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6895,6 +7373,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 800,
         "unit": "ml",
         "is_main": true,
@@ -6905,6 +7384,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -6915,6 +7395,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -6925,6 +7406,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -6935,6 +7417,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -7003,6 +7486,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate rosse",
+        "name_normalized": "patata rossa",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -7013,6 +7497,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -7023,6 +7508,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -7033,6 +7519,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 15,
         "unit": "g",
         "is_main": false,
@@ -7043,6 +7530,7 @@ export const RECIPES = [
       },
       {
         "name": "Semola di grano duro rimacinata",
+        "name_normalized": "semola di grano duro rimacinata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7097,6 +7585,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Rigatoni",
+        "name_normalized": "rigatone",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -7107,6 +7596,7 @@ export const RECIPES = [
       },
       {
         "name": "Guanciale",
+        "name_normalized": "guanciale",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -7117,6 +7607,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino Romano DOP",
+        "name_normalized": "pecorino romano dop",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -7127,6 +7618,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7137,6 +7629,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7192,6 +7685,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso Carnaroli",
+        "name_normalized": "riso carnaroli",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -7202,6 +7696,7 @@ export const RECIPES = [
       },
       {
         "name": "Asparagi",
+        "name_normalized": "asparago",
         "quantity": 750,
         "unit": "g",
         "is_main": true,
@@ -7212,6 +7707,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -7222,6 +7718,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -7232,6 +7729,7 @@ export const RECIPES = [
       },
       {
         "name": "Scalogno",
+        "name_normalized": "scalogno",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -7242,6 +7740,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7252,6 +7751,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -7262,6 +7762,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -7272,6 +7773,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -7282,6 +7784,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 2,
         "unit": "l",
         "is_main": false,
@@ -7292,6 +7795,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7302,6 +7806,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7361,6 +7866,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Spinaci",
+        "name_normalized": "spinacio",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -7371,6 +7877,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina_00",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -7381,6 +7888,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -7391,6 +7899,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 100,
         "unit": "ml",
         "is_main": false,
@@ -7401,6 +7910,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce_moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7411,6 +7921,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7421,6 +7932,7 @@ export const RECIPES = [
       },
       {
         "name": "Speck",
+        "name_normalized": "speck",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -7431,6 +7943,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna_fresca_liquida",
         "quantity": 250,
         "unit": "ml",
         "is_main": true,
@@ -7441,6 +7954,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -7451,6 +7965,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe_nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7461,6 +7976,7 @@ export const RECIPES = [
       },
       {
         "name": "Erba cipollina",
+        "name_normalized": "erba_cipollina",
         "quantity": 3,
         "unit": "g",
         "is_main": false,
@@ -7471,6 +7987,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio_extravergine_di_oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7527,6 +8044,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso Ribe",
+        "name_normalized": "riso ribe",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -7537,6 +8055,7 @@ export const RECIPES = [
       },
       {
         "name": "Pisellini",
+        "name_normalized": "pisellino",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -7547,6 +8066,7 @@ export const RECIPES = [
       },
       {
         "name": "Prosciutto cotto",
+        "name_normalized": "prosciutto cotto",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -7557,6 +8077,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -7567,6 +8088,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 200,
         "unit": "ml",
         "is_main": false,
@@ -7577,6 +8099,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino di riso",
+        "name_normalized": "vino di riso",
         "quantity": 25,
         "unit": "ml",
         "is_main": true,
@@ -7587,6 +8110,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di arachide",
+        "name_normalized": "olio di semi di arachide",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7597,6 +8121,7 @@ export const RECIPES = [
       },
       {
         "name": "Erba cipollina",
+        "name_normalized": "erba cipollina",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7607,6 +8132,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7663,6 +8189,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Semolino",
+        "name_normalized": "semolino",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -7673,6 +8200,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -7683,6 +8211,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -7693,6 +8222,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -7703,6 +8233,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 7,
         "unit": "g",
         "is_main": false,
@@ -7713,6 +8244,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7723,6 +8255,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -7733,6 +8266,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino Romano DOP",
+        "name_normalized": "pecorino romano",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -7788,6 +8322,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso Carnaroli",
+        "name_normalized": "riso carnaroli",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -7798,6 +8333,7 @@ export const RECIPES = [
       },
       {
         "name": "Zafferano in pistilli",
+        "name_normalized": "zafferano",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -7808,6 +8344,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla dorata",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": true,
@@ -7818,6 +8355,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 40,
         "unit": "ml",
         "is_main": true,
@@ -7828,6 +8366,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -7838,6 +8377,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7848,6 +8388,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7858,6 +8399,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7868,6 +8410,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -7878,6 +8421,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 75,
         "unit": "g",
         "is_main": true,
@@ -7932,6 +8476,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Spaghetti",
+        "name_normalized": "spaghetto",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -7942,6 +8487,7 @@ export const RECIPES = [
       },
       {
         "name": "Vongole",
+        "name_normalized": "vongola",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -7952,6 +8498,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -7962,6 +8509,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7972,6 +8520,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7982,6 +8531,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -7992,6 +8542,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8002,6 +8553,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale grosso",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8058,6 +8610,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Spaghettoni",
+        "name_normalized": "spaghettone",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -8068,6 +8621,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino Romano DOP",
+        "name_normalized": "pecorino_romano_dop",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -8078,6 +8632,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero in grani",
+        "name_normalized": "pepe_nero",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -8132,6 +8687,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cime di rapa",
+        "name_normalized": "cima di rapa",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -8142,6 +8698,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -8152,6 +8709,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8162,6 +8720,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -8172,6 +8731,7 @@ export const RECIPES = [
       },
       {
         "name": "Acciughe sott'olio",
+        "name_normalized": "acciuga sott'olio",
         "quantity": 3,
         "unit": "filetti",
         "is_main": true,
@@ -8182,6 +8742,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -8192,6 +8753,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 100,
         "unit": "ml",
         "is_main": false,
@@ -8202,6 +8764,7 @@ export const RECIPES = [
       },
       {
         "name": "Semola di grano duro rimacinata",
+        "name_normalized": "semola di grano duro rimacinata",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -8260,6 +8823,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Ditaloni Rigati",
+        "name_normalized": "ditaloni rigati",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -8270,6 +8834,7 @@ export const RECIPES = [
       },
       {
         "name": "Lenticchie",
+        "name_normalized": "lenticchia",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -8280,6 +8845,7 @@ export const RECIPES = [
       },
       {
         "name": "Pancetta affumicata",
+        "name_normalized": "pancetta affumicata",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -8290,6 +8856,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -8300,6 +8867,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -8310,6 +8878,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -8320,6 +8889,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -8330,6 +8900,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -8340,6 +8911,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -8350,6 +8922,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 1,
         "unit": "rametto",
         "is_main": false,
@@ -8360,6 +8933,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 1,
         "unit": "rametto",
         "is_main": false,
@@ -8370,6 +8944,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -8380,6 +8955,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino secco",
+        "name_normalized": "peperoncino secco",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -8390,6 +8966,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -8400,6 +8977,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8410,6 +8988,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8465,6 +9044,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Couscous",
+        "name_normalized": "couscous",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -8475,6 +9055,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": 400,
         "unit": "ml",
         "is_main": true,
@@ -8485,6 +9066,7 @@ export const RECIPES = [
       },
       {
         "name": "Curcuma in polvere",
+        "name_normalized": "curcuma",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": false,
@@ -8495,6 +9077,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": false,
@@ -8505,6 +9088,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8515,6 +9099,7 @@ export const RECIPES = [
       },
       {
         "name": "Melanzane",
+        "name_normalized": "melanzana",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -8525,6 +9110,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -8535,6 +9121,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -8545,6 +9132,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni rossi",
+        "name_normalized": "peperone",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -8555,6 +9143,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle rosse",
+        "name_normalized": "cipolla",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -8565,6 +9154,7 @@ export const RECIPES = [
       },
       {
         "name": "Pisellini",
+        "name_normalized": "pisello",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -8575,6 +9165,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino fresco",
+        "name_normalized": "peperoncino",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": false,
@@ -8585,6 +9176,7 @@ export const RECIPES = [
       },
       {
         "name": "Mandorle in scaglie",
+        "name_normalized": "mandorla",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -8595,6 +9187,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -8605,6 +9198,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8663,6 +9257,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina_00",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -8673,6 +9268,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uova",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -8683,6 +9279,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8739,6 +9336,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Penne Rigate",
+        "name_normalized": "penna rigatа",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -8749,6 +9347,7 @@ export const RECIPES = [
       },
       {
         "name": "Asparagi",
+        "name_normalized": "asparago",
         "quantity": 700,
         "unit": "g",
         "is_main": true,
@@ -8759,6 +9358,7 @@ export const RECIPES = [
       },
       {
         "name": "Pancetta",
+        "name_normalized": "pancetta",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -8769,6 +9369,7 @@ export const RECIPES = [
       },
       {
         "name": "Scalogno",
+        "name_normalized": "scalogno",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -8779,6 +9380,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8789,6 +9391,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8799,6 +9402,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -8809,6 +9413,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -8865,6 +9470,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 137,
         "unit": "g",
         "is_main": true,
@@ -8875,6 +9481,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -8885,6 +9492,7 @@ export const RECIPES = [
       },
       {
         "name": "Spinaci",
+        "name_normalized": "spinacio",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -8895,6 +9503,7 @@ export const RECIPES = [
       },
       {
         "name": "Ricotta vaccina",
+        "name_normalized": "ricotta vaccina",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -8905,6 +9514,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano dop",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -8915,6 +9525,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -8925,6 +9536,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8935,6 +9547,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8945,6 +9558,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8955,6 +9569,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -8965,6 +9580,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 500,
         "unit": "ml",
         "is_main": true,
@@ -8975,6 +9591,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -9034,6 +9651,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso Carnaroli",
+        "name_normalized": "riso carnaroli",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -9044,6 +9662,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucca delica",
+        "name_normalized": "zucca delica",
         "quantity": 750,
         "unit": "g",
         "is_main": true,
@@ -9054,6 +9673,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle ramate",
+        "name_normalized": "cipolla ramate",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -9064,6 +9684,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": 1.5,
         "unit": "l",
         "is_main": true,
@@ -9074,6 +9695,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -9084,6 +9706,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 60,
         "unit": "ml",
         "is_main": true,
@@ -9094,6 +9717,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -9104,6 +9728,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9114,6 +9739,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9124,6 +9750,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9179,6 +9806,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -9189,6 +9817,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -9199,6 +9828,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 300,
         "unit": "ml",
         "is_main": true,
@@ -9209,6 +9839,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -9219,6 +9850,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9229,6 +9861,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fine",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9239,6 +9872,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsiccia",
+        "name_normalized": "salsiccia",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -9249,6 +9883,7 @@ export const RECIPES = [
       },
       {
         "name": "Carne bovina",
+        "name_normalized": "carne bovina",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -9259,6 +9894,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 115,
         "unit": "g",
         "is_main": true,
@@ -9269,6 +9905,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9279,6 +9916,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -9289,6 +9927,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -9299,6 +9938,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -9309,6 +9949,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino rosso",
+        "name_normalized": "vino rosso",
         "quantity": 50,
         "unit": "ml",
         "is_main": true,
@@ -9319,6 +9960,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9329,6 +9971,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -9389,6 +10032,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina di grano saraceno",
+        "name_normalized": "farina di grano saraceno",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -9399,6 +10043,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 0",
+        "name_normalized": "farina 0",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -9409,6 +10054,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 285,
         "unit": "ml",
         "is_main": false,
@@ -9419,6 +10065,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 240,
         "unit": "g",
         "is_main": true,
@@ -9429,6 +10076,7 @@ export const RECIPES = [
       },
       {
         "name": "Verza",
+        "name_normalized": "verza",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -9439,6 +10087,7 @@ export const RECIPES = [
       },
       {
         "name": "Formaggio latteria",
+        "name_normalized": "formaggio latteria",
         "quantity": 180,
         "unit": "g",
         "is_main": true,
@@ -9449,6 +10098,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 80,
         "unit": "g",
         "is_main": false,
@@ -9459,6 +10109,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano dop",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -9469,6 +10120,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -9479,6 +10131,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale marino integrale",
+        "name_normalized": "sale marino integrale",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -9541,6 +10194,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso Carnaroli",
+        "name_normalized": "riso carnaroli",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -9551,6 +10205,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 550,
         "unit": "g",
         "is_main": true,
@@ -9561,6 +10216,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -9571,6 +10227,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla bianca",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -9581,6 +10238,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": 10,
         "unit": "foglie",
         "is_main": false,
@@ -9591,6 +10249,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9601,6 +10260,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9611,6 +10271,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano dop",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -9621,6 +10282,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -9675,6 +10337,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Rigatoni",
+        "name_normalized": "rigatone",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -9685,6 +10348,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 6,
         "unit": "pz",
         "is_main": true,
@@ -9695,6 +10359,7 @@ export const RECIPES = [
       },
       {
         "name": "Scamorza (provola)",
+        "name_normalized": "scamorza",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -9705,6 +10370,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -9715,6 +10381,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -9725,6 +10392,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla dorata",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -9735,6 +10403,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9745,6 +10414,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine di oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9755,6 +10425,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9765,6 +10436,7 @@ export const RECIPES = [
       },
       {
         "name": "Macinato di manzo",
+        "name_normalized": "macinato di manzo",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -9775,6 +10447,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsiccia",
+        "name_normalized": "salsiccia",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -9785,6 +10458,7 @@ export const RECIPES = [
       },
       {
         "name": "Pane",
+        "name_normalized": "pane",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -9795,6 +10469,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9805,6 +10480,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9815,6 +10491,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9825,6 +10502,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -9835,6 +10513,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -9845,6 +10524,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -9908,6 +10588,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso Carnaroli",
+        "name_normalized": "riso carnaroli",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -9918,6 +10599,7 @@ export const RECIPES = [
       },
       {
         "name": "Funghi porcini",
+        "name_normalized": "fungo porcino",
         "quantity": 180,
         "unit": "g",
         "is_main": true,
@@ -9928,6 +10610,7 @@ export const RECIPES = [
       },
       {
         "name": "Funghi finferli (gallinacci)",
+        "name_normalized": "fungo finferlo",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -9938,6 +10621,7 @@ export const RECIPES = [
       },
       {
         "name": "Funghi champignon",
+        "name_normalized": "fungo champignon",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -9948,6 +10632,7 @@ export const RECIPES = [
       },
       {
         "name": "Funghi portobello",
+        "name_normalized": "fungo portobello",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -9958,6 +10643,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla bianca",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -9968,6 +10654,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -9978,6 +10665,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -9988,6 +10676,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -9998,6 +10687,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10008,6 +10698,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10018,6 +10709,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -10028,6 +10720,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -10050,8 +10743,8 @@ export const RECIPES = [
     "baby_compatibility": {
       "min_age_green": 24,
       "min_age_amber": 12,
-      "amber_note": "Adattabile ometti il sale, attenzione a Funghi champignon, Funghi porcini, Funghi finferli (gallinacci), Funghi portobello.",
-      "red_note": "Non adatta: contiene sale aggiunto, contiene Funghi champignon, Funghi porcini, Funghi finferli (gallinacci), Funghi portobello."
+      "amber_note": "Adattabile ometti il sale, attenzione a Funghi portobello, Funghi champignon, Funghi finferli (gallinacci), Funghi porcini.",
+      "red_note": "Non adatta: contiene sale aggiunto, contiene Funghi portobello, Funghi champignon, Funghi finferli (gallinacci), Funghi porcini."
     }
   },
   {
@@ -10085,6 +10778,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso Carnaroli",
+        "name_normalized": "riso carnaroli",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -10095,6 +10789,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -10105,6 +10800,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -10115,6 +10811,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla bianca",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -10125,6 +10822,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 100,
         "unit": "ml",
         "is_main": true,
@@ -10135,6 +10833,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -10145,6 +10844,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -10155,6 +10855,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10165,6 +10866,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10175,6 +10877,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine di oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10185,6 +10888,7 @@ export const RECIPES = [
       },
       {
         "name": "Menta",
+        "name_normalized": "menta",
         "quantity": 5,
         "unit": "foglie",
         "is_main": false,
@@ -10240,6 +10944,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Zite",
+        "name_normalized": "zita",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -10250,6 +10955,7 @@ export const RECIPES = [
       },
       {
         "name": "Manzo",
+        "name_normalized": "manzo",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -10260,6 +10966,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla",
         "quantity": 1.5,
         "unit": "kg",
         "is_main": true,
@@ -10270,6 +10977,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 75,
         "unit": "g",
         "is_main": true,
@@ -10280,6 +10988,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 75,
         "unit": "g",
         "is_main": true,
@@ -10290,6 +10999,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 1,
         "unit": "ciuffo",
         "is_main": false,
@@ -10300,6 +11010,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 1,
         "unit": "foglia",
         "is_main": false,
@@ -10310,6 +11021,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 150,
         "unit": "ml",
         "is_main": true,
@@ -10320,6 +11032,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10330,6 +11043,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10340,6 +11054,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -10395,6 +11110,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Ditaloni Rigati",
+        "name_normalized": "ditaloni rigati",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -10405,6 +11121,7 @@ export const RECIPES = [
       },
       {
         "name": "Fagioli borlotti secchi",
+        "name_normalized": "fagiolo borlotto secco",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -10415,6 +11132,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -10425,6 +11143,7 @@ export const RECIPES = [
       },
       {
         "name": "Lardo",
+        "name_normalized": "lardo",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -10435,6 +11154,7 @@ export const RECIPES = [
       },
       {
         "name": "Prosciutto crudo",
+        "name_normalized": "prosciutto crudo",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -10445,6 +11165,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -10455,6 +11176,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -10465,6 +11187,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -10475,6 +11198,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchio",
         "is_main": false,
@@ -10485,6 +11209,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 2,
         "unit": "foglie",
         "is_main": false,
@@ -10495,6 +11220,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10505,6 +11231,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine di oliva",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -10515,6 +11242,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10525,6 +11253,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10579,6 +11308,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate rosse",
+        "name_normalized": "patata rossa",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -10589,6 +11319,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -10599,6 +11330,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -10609,6 +11341,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10619,6 +11352,7 @@ export const RECIPES = [
       },
       {
         "name": "Semola",
+        "name_normalized": "semola",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10629,6 +11363,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -10639,6 +11374,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": 6,
         "unit": "foglie",
         "is_main": false,
@@ -10649,6 +11385,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -10659,6 +11396,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine di oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10669,6 +11407,7 @@ export const RECIPES = [
       },
       {
         "name": "Mozzarella",
+        "name_normalized": "mozzarella",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -10679,6 +11418,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -10737,6 +11477,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Asparagi",
+        "name_normalized": "asparago",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -10747,6 +11488,7 @@ export const RECIPES = [
       },
       {
         "name": "Fusilli",
+        "name_normalized": "fusillo",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -10757,6 +11499,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -10767,6 +11510,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10777,6 +11521,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -10787,6 +11532,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10797,6 +11543,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10851,6 +11598,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Tagliatelle all'uovo",
+        "name_normalized": "tagliatella all'uovo",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -10861,6 +11609,7 @@ export const RECIPES = [
       },
       {
         "name": "Manzo",
+        "name_normalized": "manzo",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -10871,6 +11620,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsiccia",
+        "name_normalized": "salsiccia",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -10881,6 +11631,7 @@ export const RECIPES = [
       },
       {
         "name": "Pancetta",
+        "name_normalized": "pancetta",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -10891,6 +11642,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -10901,6 +11653,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -10911,6 +11664,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla dorata",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -10921,6 +11675,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -10931,6 +11686,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 60,
         "unit": "ml",
         "is_main": true,
@@ -10941,6 +11697,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 50,
         "unit": "ml",
         "is_main": false,
@@ -10951,6 +11708,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -10961,6 +11719,7 @@ export const RECIPES = [
       },
       {
         "name": "Salvia",
+        "name_normalized": "salvia",
         "quantity": 3,
         "unit": "pz",
         "is_main": false,
@@ -10971,6 +11730,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -10981,6 +11741,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -10991,6 +11752,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11001,6 +11763,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11060,6 +11823,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso Carnaroli",
+        "name_normalized": "riso carnaroli",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -11070,6 +11834,7 @@ export const RECIPES = [
       },
       {
         "name": "Funghi porcini",
+        "name_normalized": "fungo porcino",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -11080,6 +11845,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla dorata",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -11090,6 +11856,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -11100,6 +11867,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -11110,6 +11878,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -11120,6 +11889,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 2,
         "unit": "cucchiai",
         "is_main": false,
@@ -11130,6 +11900,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11140,6 +11911,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11150,6 +11922,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -11160,6 +11933,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 2,
         "unit": "cucchiai",
         "is_main": false,
@@ -11215,6 +11989,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Sedani Rigati",
+        "name_normalized": "sedani rigati",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -11225,6 +12000,7 @@ export const RECIPES = [
       },
       {
         "name": "Melanzane",
+        "name_normalized": "melanzana",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -11235,6 +12011,7 @@ export const RECIPES = [
       },
       {
         "name": "Ricotta di pecora",
+        "name_normalized": "ricotta di pecora",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -11245,6 +12022,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11255,6 +12033,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori costoluti",
+        "name_normalized": "pomodoro",
         "quantity": 1.5,
         "unit": "kg",
         "is_main": true,
@@ -11265,6 +12044,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 4,
         "unit": "spicchi",
         "is_main": false,
@@ -11275,6 +12055,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": 1,
         "unit": "mazzetto",
         "is_main": false,
@@ -11285,6 +12066,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11343,6 +12125,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pasta Mista",
+        "name_normalized": "pasta mista",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -11353,6 +12136,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -11363,6 +12147,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla bianca",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -11373,6 +12158,7 @@ export const RECIPES = [
       },
       {
         "name": "Lardo",
+        "name_normalized": "lardo",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -11383,6 +12169,7 @@ export const RECIPES = [
       },
       {
         "name": "Concentrato di pomodoro",
+        "name_normalized": "concentrato di pomodoro",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -11393,6 +12180,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -11403,6 +12191,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11413,6 +12202,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11423,6 +12213,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11477,6 +12268,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -11487,6 +12279,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -11497,6 +12290,7 @@ export const RECIPES = [
       },
       {
         "name": "Spinaci",
+        "name_normalized": "spinacio",
         "quantity": 135,
         "unit": "g",
         "is_main": true,
@@ -11507,6 +12301,7 @@ export const RECIPES = [
       },
       {
         "name": "Ricotta vaccina",
+        "name_normalized": "ricotta vaccina",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -11517,6 +12312,7 @@ export const RECIPES = [
       },
       {
         "name": "Formaggio",
+        "name_normalized": "formaggio",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -11527,6 +12323,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11537,6 +12334,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11547,6 +12345,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11557,6 +12356,7 @@ export const RECIPES = [
       },
       {
         "name": "Semola",
+        "name_normalized": "semola",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11567,6 +12367,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11626,6 +12427,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Calamarata",
+        "name_normalized": "calamarata",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -11636,6 +12438,7 @@ export const RECIPES = [
       },
       {
         "name": "Calamari",
+        "name_normalized": "calamaro",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -11646,6 +12449,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -11656,6 +12460,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino fresco",
+        "name_normalized": "peperoncino fresco",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -11666,6 +12471,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11676,6 +12482,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodorini datterini",
+        "name_normalized": "pomodorino datterino",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -11686,6 +12493,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11696,6 +12504,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11751,6 +12560,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -11761,6 +12571,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -11771,6 +12582,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 0.5,
         "unit": "spicchi",
         "is_main": false,
@@ -11781,6 +12593,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale grosso",
+        "name_normalized": "sale",
         "quantity": 2,
         "unit": "cucchiaini",
         "is_main": false,
@@ -11791,6 +12604,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 200,
         "unit": "ml",
         "is_main": false,
@@ -11801,6 +12615,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -11811,6 +12626,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino",
+        "name_normalized": "pecorino",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -11821,6 +12637,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 220,
         "unit": "g",
         "is_main": true,
@@ -11831,6 +12648,7 @@ export const RECIPES = [
       },
       {
         "name": "Pinoli",
+        "name_normalized": "pinolo",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -11841,6 +12659,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -11851,6 +12670,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11861,6 +12681,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -11871,6 +12692,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -11930,6 +12752,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pennette Rigate Integrali",
+        "name_normalized": "pennetta rigata integrale",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -11940,6 +12763,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 360,
         "unit": "g",
         "is_main": true,
@@ -11950,6 +12774,7 @@ export const RECIPES = [
       },
       {
         "name": "Speck",
+        "name_normalized": "speck",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -11960,6 +12785,7 @@ export const RECIPES = [
       },
       {
         "name": "Scalogno",
+        "name_normalized": "scalogno",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -11970,6 +12796,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 4,
         "unit": "rametti",
         "is_main": false,
@@ -11980,6 +12807,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine di oliva",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -11990,6 +12818,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12000,6 +12829,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12055,6 +12885,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -12065,6 +12896,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -12075,6 +12907,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -12085,6 +12918,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12095,6 +12929,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12105,6 +12940,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12115,6 +12951,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo di carne",
+        "name_normalized": "brodo di carne",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -12168,6 +13005,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Lenticchie secche",
+        "name_normalized": "lenticchia secca",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -12178,6 +13016,7 @@ export const RECIPES = [
       },
       {
         "name": "Lenticchie rosse decorticate",
+        "name_normalized": "lenticchia rossa decorticata",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -12188,6 +13027,7 @@ export const RECIPES = [
       },
       {
         "name": "Piselli secchi",
+        "name_normalized": "pisello secco",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -12198,6 +13038,7 @@ export const RECIPES = [
       },
       {
         "name": "Fagioli borlotti secchi",
+        "name_normalized": "fagiolo borlotto secco",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -12208,6 +13049,7 @@ export const RECIPES = [
       },
       {
         "name": "Fagioli cannellini secchi",
+        "name_normalized": "fagiolo cannellino secco",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -12218,6 +13060,7 @@ export const RECIPES = [
       },
       {
         "name": "Farro",
+        "name_normalized": "farro",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -12228,6 +13071,7 @@ export const RECIPES = [
       },
       {
         "name": "Orzo",
+        "name_normalized": "orzo",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -12238,6 +13082,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -12248,6 +13093,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 120,
         "unit": "g",
         "is_main": false,
@@ -12258,6 +13104,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla dorata",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -12268,6 +13115,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 360,
         "unit": "g",
         "is_main": true,
@@ -12278,6 +13126,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -12288,6 +13137,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori pelati",
+        "name_normalized": "pomodoro pelato",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -12298,6 +13148,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12308,6 +13159,7 @@ export const RECIPES = [
       },
       {
         "name": "Salvia",
+        "name_normalized": "salvia",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12318,6 +13170,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12328,6 +13181,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12338,6 +13192,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12348,6 +13203,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12404,6 +13260,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Spaghetti",
+        "name_normalized": "spaghetto",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -12414,6 +13271,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori pelati",
+        "name_normalized": "pomodoro_pelato",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -12424,6 +13282,7 @@ export const RECIPES = [
       },
       {
         "name": "Acciughe sott'olio",
+        "name_normalized": "acciuga_sott_olio",
         "quantity": 25,
         "unit": "g",
         "is_main": true,
@@ -12434,6 +13293,7 @@ export const RECIPES = [
       },
       {
         "name": "Capperi sotto sale",
+        "name_normalized": "cappero_sotto_sale",
         "quantity": 10,
         "unit": "g",
         "is_main": true,
@@ -12444,6 +13304,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 1,
         "unit": "mazzetto",
         "is_main": false,
@@ -12454,6 +13315,7 @@ export const RECIPES = [
       },
       {
         "name": "Olive di Gaeta",
+        "name_normalized": "oliva_di_gaeta",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -12464,6 +13326,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 3,
         "unit": "spicchi",
         "is_main": false,
@@ -12474,6 +13337,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino secco",
+        "name_normalized": "peperoncino_secco",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -12484,6 +13348,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio_extravergine_oliva",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -12494,6 +13359,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12548,6 +13414,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Fusilli",
+        "name_normalized": "fusillo",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -12558,6 +13425,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 650,
         "unit": "g",
         "is_main": true,
@@ -12568,6 +13436,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchio",
         "is_main": false,
@@ -12578,6 +13447,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12588,6 +13458,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12598,6 +13469,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12608,6 +13480,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12662,6 +13535,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -12672,6 +13546,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 350,
         "unit": "g",
         "is_main": false,
@@ -12682,6 +13557,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 35,
         "unit": "g",
         "is_main": false,
@@ -12692,6 +13568,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12702,6 +13579,7 @@ export const RECIPES = [
       },
       {
         "name": "Bietole",
+        "name_normalized": "bietola",
         "quantity": 1500,
         "unit": "g",
         "is_main": true,
@@ -12712,6 +13590,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -12722,6 +13601,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 12,
         "unit": "pz",
         "is_main": true,
@@ -12732,6 +13612,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 170,
         "unit": "g",
         "is_main": true,
@@ -12742,6 +13623,7 @@ export const RECIPES = [
       },
       {
         "name": "Maggiorana",
+        "name_normalized": "maggiorana",
         "quantity": 3,
         "unit": "rametti",
         "is_main": false,
@@ -12752,6 +13634,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12762,6 +13645,7 @@ export const RECIPES = [
       },
       {
         "name": "Ricotta vaccina",
+        "name_normalized": "ricotta vaccina",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -12772,6 +13656,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12837,6 +13722,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Macinato di manzo",
+        "name_normalized": "macinato di manzo",
         "quantity": 220,
         "unit": "g",
         "is_main": true,
@@ -12847,6 +13733,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsiccia",
+        "name_normalized": "salsiccia",
         "quantity": 165,
         "unit": "g",
         "is_main": true,
@@ -12857,6 +13744,7 @@ export const RECIPES = [
       },
       {
         "name": "Pane raffermo",
+        "name_normalized": "pane raffermo",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -12867,6 +13755,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 25,
         "unit": "g",
         "is_main": true,
@@ -12877,6 +13766,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -12887,6 +13777,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": false,
@@ -12897,6 +13788,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12907,6 +13799,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12917,6 +13810,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12927,6 +13821,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12937,6 +13832,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 100,
         "unit": "ml",
         "is_main": false,
@@ -12947,6 +13843,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -12957,6 +13854,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -12967,6 +13865,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 40,
         "unit": "ml",
         "is_main": false,
@@ -13024,6 +13923,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Melanzane ovali nere",
+        "name_normalized": "melanzana",
         "quantity": 1700,
         "unit": "g",
         "is_main": true,
@@ -13034,6 +13934,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 1000,
         "unit": "g",
         "is_main": true,
@@ -13044,6 +13945,7 @@ export const RECIPES = [
       },
       {
         "name": "Mozzarella",
+        "name_normalized": "mozzarella",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -13054,6 +13956,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -13064,6 +13967,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -13074,6 +13978,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13084,6 +13989,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13094,6 +14000,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13104,6 +14011,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di arachide",
+        "name_normalized": "olio di semi di arachide",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13161,6 +14069,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Manzo",
+        "name_normalized": "manzo",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -13171,6 +14080,7 @@ export const RECIPES = [
       },
       {
         "name": "Fagioli neri precotti",
+        "name_normalized": "fagiolo nero",
         "quantity": 1170,
         "unit": "g",
         "is_main": true,
@@ -13181,6 +14091,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni rossi",
+        "name_normalized": "peperone rosso",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -13191,6 +14102,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -13201,6 +14113,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo di carne",
+        "name_normalized": "brodo di carne",
         "quantity": 360,
         "unit": "g",
         "is_main": true,
@@ -13211,6 +14124,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla bianca",
         "quantity": 160,
         "unit": "g",
         "is_main": true,
@@ -13221,6 +14135,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle rosse",
+        "name_normalized": "cipolla rossa",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -13231,6 +14146,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 3,
         "unit": "spicchi",
         "is_main": false,
@@ -13241,6 +14157,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino fresco",
+        "name_normalized": "peperoncino fresco",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -13251,6 +14168,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine di oliva",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -13261,6 +14179,7 @@ export const RECIPES = [
       },
       {
         "name": "Cumino in polvere",
+        "name_normalized": "cumino",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -13271,6 +14190,7 @@ export const RECIPES = [
       },
       {
         "name": "Coriandolo in polvere",
+        "name_normalized": "coriandolo",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -13281,6 +14201,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero di canna",
+        "name_normalized": "zucchero di canna",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -13291,6 +14212,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -13301,6 +14223,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 2,
         "unit": "cucchiaini",
         "is_main": false,
@@ -13311,6 +14234,7 @@ export const RECIPES = [
       },
       {
         "name": "Coriandolo",
+        "name_normalized": "coriandolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13368,6 +14292,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Filetto di manzo",
+        "name_normalized": "filetto di manzo",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -13378,6 +14303,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe verde in grani",
+        "name_normalized": "pepe verde",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -13388,6 +14314,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -13398,6 +14325,7 @@ export const RECIPES = [
       },
       {
         "name": "Senape di Digione",
+        "name_normalized": "senape di digione",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -13408,6 +14336,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo di carne",
+        "name_normalized": "brodo di carne",
         "quantity": 120,
         "unit": "ml",
         "is_main": true,
@@ -13418,6 +14347,7 @@ export const RECIPES = [
       },
       {
         "name": "Brandy",
+        "name_normalized": "brandy",
         "quantity": 30,
         "unit": "ml",
         "is_main": false,
@@ -13428,6 +14358,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro chiarificato",
+        "name_normalized": "burro chiarificato",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -13438,6 +14369,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13448,6 +14380,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -13504,6 +14437,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Sovracosce di pollo",
+        "name_normalized": "sovracoscia di pollo",
         "quantity": 1200,
         "unit": "g",
         "is_main": true,
@@ -13514,6 +14448,7 @@ export const RECIPES = [
       },
       {
         "name": "Yogurt greco",
+        "name_normalized": "yogurt greco",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -13524,6 +14459,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13534,6 +14470,7 @@ export const RECIPES = [
       },
       {
         "name": "Coriandolo fresco",
+        "name_normalized": "coriandolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13544,6 +14481,7 @@ export const RECIPES = [
       },
       {
         "name": "Curcuma in polvere",
+        "name_normalized": "curcuma in polvere",
         "quantity": 2,
         "unit": "cucchiaini",
         "is_main": false,
@@ -13554,6 +14492,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika affumicata",
+        "name_normalized": "paprika affumicata",
         "quantity": 2,
         "unit": "cucchiaini",
         "is_main": false,
@@ -13564,6 +14503,7 @@ export const RECIPES = [
       },
       {
         "name": "Cannella in polvere",
+        "name_normalized": "cannella in polvere",
         "quantity": 1,
         "unit": "cucchiaino",
         "is_main": false,
@@ -13574,6 +14514,7 @@ export const RECIPES = [
       },
       {
         "name": "Semi di coriandolo in polvere",
+        "name_normalized": "seme di coriandolo",
         "quantity": 1,
         "unit": "cucchiaino",
         "is_main": false,
@@ -13584,6 +14525,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe di Caienna",
+        "name_normalized": "pepe di caienna",
         "quantity": 1,
         "unit": "cucchiaino",
         "is_main": false,
@@ -13594,6 +14536,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": 1,
         "unit": "cucchiaino",
         "is_main": false,
@@ -13604,6 +14547,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 1,
         "unit": "cucchiaino",
         "is_main": false,
@@ -13614,6 +14558,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -13624,6 +14569,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -13634,6 +14580,7 @@ export const RECIPES = [
       },
       {
         "name": "Zenzero fresco",
+        "name_normalized": "zenzero fresco",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -13644,6 +14591,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino fresco",
+        "name_normalized": "peperoncino fresco",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -13654,6 +14602,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13711,6 +14660,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Manzo",
+        "name_normalized": "manzo",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -13721,6 +14671,7 @@ export const RECIPES = [
       },
       {
         "name": "Maiale",
+        "name_normalized": "maiale",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -13731,6 +14682,7 @@ export const RECIPES = [
       },
       {
         "name": "Pane",
+        "name_normalized": "pane",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -13741,6 +14693,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -13751,6 +14704,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -13761,6 +14715,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13771,6 +14726,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13781,6 +14737,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 1,
         "unit": "ciuffo",
         "is_main": false,
@@ -13791,6 +14748,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13844,6 +14802,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Fusi di pollo",
+        "name_normalized": "fuso di pollo",
         "quantity": 870,
         "unit": "g",
         "is_main": true,
@@ -13854,6 +14813,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 850,
         "unit": "g",
         "is_main": true,
@@ -13864,6 +14824,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika piccante",
+        "name_normalized": "paprika piccante",
         "quantity": 2,
         "unit": "cucchiaini",
         "is_main": false,
@@ -13874,6 +14835,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 3,
         "unit": "rametti",
         "is_main": false,
@@ -13884,6 +14846,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 3,
         "unit": "rametti",
         "is_main": false,
@@ -13894,6 +14857,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13904,6 +14868,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13914,6 +14879,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -13967,6 +14933,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Costine di maiale",
+        "name_normalized": "costina di maiale",
         "quantity": 2,
         "unit": "kg",
         "is_main": true,
@@ -13977,6 +14944,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika dolce",
+        "name_normalized": "paprika dolce",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -13987,6 +14955,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino",
+        "name_normalized": "peperoncino",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -13997,6 +14966,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio in polvere",
+        "name_normalized": "aglio in polvere",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -14007,6 +14977,7 @@ export const RECIPES = [
       },
       {
         "name": "Senape gialla in polvere",
+        "name_normalized": "senape gialla in polvere",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -14017,6 +14988,7 @@ export const RECIPES = [
       },
       {
         "name": "Cumino",
+        "name_normalized": "cumino",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -14027,6 +14999,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -14037,6 +15010,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla dorata",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": true,
@@ -14047,6 +15021,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -14057,6 +15032,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero di canna",
+        "name_normalized": "zucchero di canna",
         "quantity": 10,
         "unit": "g",
         "is_main": true,
@@ -14067,6 +15043,7 @@ export const RECIPES = [
       },
       {
         "name": "Sciroppo di acero",
+        "name_normalized": "sciroppo di acero",
         "quantity": 90,
         "unit": "g",
         "is_main": true,
@@ -14077,6 +15054,7 @@ export const RECIPES = [
       },
       {
         "name": "Ketchup",
+        "name_normalized": "ketchup",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -14087,6 +15065,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika piccante",
+        "name_normalized": "paprika piccante",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -14097,6 +15076,7 @@ export const RECIPES = [
       },
       {
         "name": "Aceto di mele",
+        "name_normalized": "aceto di mele",
         "quantity": 2,
         "unit": "cucchiaini",
         "is_main": false,
@@ -14107,6 +15087,7 @@ export const RECIPES = [
       },
       {
         "name": "Senape",
+        "name_normalized": "senape",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -14117,6 +15098,7 @@ export const RECIPES = [
       },
       {
         "name": "Worcestershire sauce",
+        "name_normalized": "worcestershire sauce",
         "quantity": 2,
         "unit": "cucchiaini",
         "is_main": false,
@@ -14127,6 +15109,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": 0.5,
         "unit": "cucchiaini",
         "is_main": false,
@@ -14137,6 +15120,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14195,6 +15179,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Vitello",
+        "name_normalized": "vitello",
         "quantity": 1000,
         "unit": "g",
         "is_main": true,
@@ -14205,6 +15190,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 1000,
         "unit": "g",
         "is_main": true,
@@ -14215,6 +15201,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -14225,6 +15212,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -14235,6 +15223,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -14245,6 +15234,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 20,
         "unit": "ml",
         "is_main": false,
@@ -14255,6 +15245,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo di carne",
+        "name_normalized": "brodo",
         "quantity": 750,
         "unit": "ml",
         "is_main": true,
@@ -14265,6 +15256,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14275,6 +15267,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14285,6 +15278,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -14295,6 +15289,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino",
         "quantity": 50,
         "unit": "ml",
         "is_main": true,
@@ -14305,6 +15300,7 @@ export const RECIPES = [
       },
       {
         "name": "Salvia",
+        "name_normalized": "salvia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -14315,6 +15311,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -14325,6 +15322,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -14380,6 +15378,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Petto di pollo",
+        "name_normalized": "petto di pollo",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -14390,6 +15389,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -14400,6 +15400,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine di oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14410,6 +15411,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14420,6 +15422,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14430,6 +15433,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -14440,6 +15444,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di limone",
+        "name_normalized": "succo di limone",
         "quantity": 100,
         "unit": "ml",
         "is_main": true,
@@ -14450,6 +15455,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 200,
         "unit": "ml",
         "is_main": false,
@@ -14460,6 +15466,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di mais (maizena)",
+        "name_normalized": "amido di mais",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -14470,6 +15477,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -14480,6 +15488,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14490,6 +15499,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsa di soia",
+        "name_normalized": "salsa di soia",
         "quantity": 10,
         "unit": "ml",
         "is_main": true,
@@ -14546,6 +15556,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cappello del prete",
+        "name_normalized": "cappello del prete",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -14556,6 +15567,7 @@ export const RECIPES = [
       },
       {
         "name": "Concentrato di pomodoro",
+        "name_normalized": "concentrato di pomodoro",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": true,
@@ -14566,6 +15578,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -14576,6 +15589,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14586,6 +15600,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14596,6 +15611,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14606,6 +15622,7 @@ export const RECIPES = [
       },
       {
         "name": "Barolo",
+        "name_normalized": "barolo",
         "quantity": 750,
         "unit": "ml",
         "is_main": true,
@@ -14616,6 +15633,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -14626,6 +15644,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -14636,6 +15655,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -14646,6 +15666,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -14656,6 +15677,7 @@ export const RECIPES = [
       },
       {
         "name": "Salvia",
+        "name_normalized": "salvia",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14666,6 +15688,7 @@ export const RECIPES = [
       },
       {
         "name": "Chiodi di garofano",
+        "name_normalized": "chiodo di garofano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14676,6 +15699,7 @@ export const RECIPES = [
       },
       {
         "name": "Cannella in stecche",
+        "name_normalized": "cannella",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14686,6 +15710,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero in grani",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14745,6 +15770,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Carne bovina",
+        "name_normalized": "carne bovina",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -14755,6 +15781,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo di carne",
+        "name_normalized": "brodo di carne",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -14765,6 +15792,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -14775,6 +15803,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -14785,6 +15814,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -14795,6 +15825,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino rosso",
+        "name_normalized": "vino rosso",
         "quantity": 1,
         "unit": "bicchieri",
         "is_main": true,
@@ -14805,6 +15836,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -14815,6 +15847,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -14825,6 +15858,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -14835,6 +15869,7 @@ export const RECIPES = [
       },
       {
         "name": "Salvia",
+        "name_normalized": "salvia",
         "quantity": 3,
         "unit": "pz",
         "is_main": false,
@@ -14845,6 +15880,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -14855,6 +15891,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 4,
         "unit": "cucchiai",
         "is_main": false,
@@ -14865,6 +15902,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14875,6 +15913,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -14929,6 +15968,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Agnello",
+        "name_normalized": "agnello",
         "quantity": 1.5,
         "unit": "kg",
         "is_main": true,
@@ -14939,6 +15979,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate novelle",
+        "name_normalized": "patata",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -14949,6 +15990,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -14959,6 +16001,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -14969,6 +16012,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 500,
         "unit": "ml",
         "is_main": false,
@@ -14979,6 +16023,7 @@ export const RECIPES = [
       },
       {
         "name": "Aceto di vino bianco",
+        "name_normalized": "aceto",
         "quantity": 500,
         "unit": "ml",
         "is_main": false,
@@ -14989,6 +16034,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 3,
         "unit": "rametti",
         "is_main": false,
@@ -14999,6 +16045,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 2,
         "unit": "rametti",
         "is_main": false,
@@ -15009,6 +16056,7 @@ export const RECIPES = [
       },
       {
         "name": "Salvia",
+        "name_normalized": "salvia",
         "quantity": 4,
         "unit": "foglie",
         "is_main": false,
@@ -15019,6 +16067,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 2,
         "unit": "foglie",
         "is_main": false,
@@ -15029,6 +16078,7 @@ export const RECIPES = [
       },
       {
         "name": "Bacche di ginepro",
+        "name_normalized": "bacca di ginepro",
         "quantity": 10,
         "unit": "pz",
         "is_main": false,
@@ -15039,6 +16089,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 80,
         "unit": "ml",
         "is_main": false,
@@ -15049,6 +16100,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15059,6 +16111,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15113,6 +16166,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Fettine di vitello",
+        "name_normalized": "fettina di vitello",
         "quantity": 430,
         "unit": "g",
         "is_main": true,
@@ -15123,6 +16177,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di limone",
+        "name_normalized": "succo di limone",
         "quantity": 50,
         "unit": "ml",
         "is_main": true,
@@ -15133,6 +16188,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15143,6 +16199,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15153,6 +16210,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15163,6 +16221,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -15215,6 +16274,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Calamari",
+        "name_normalized": "calamaro",
         "quantity": 720,
         "unit": "g",
         "is_main": true,
@@ -15225,6 +16285,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino_bianco",
         "quantity": 30,
         "unit": "ml",
         "is_main": true,
@@ -15235,6 +16296,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza_limone",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15245,6 +16307,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15255,6 +16318,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio_oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15265,6 +16329,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15275,6 +16340,7 @@ export const RECIPES = [
       },
       {
         "name": "Pane",
+        "name_normalized": "pane",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -15285,6 +16351,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano_reggiano",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -15295,6 +16362,7 @@ export const RECIPES = [
       },
       {
         "name": "Acciughe sott'olio",
+        "name_normalized": "acciuga",
         "quantity": 6,
         "unit": "filetti",
         "is_main": true,
@@ -15305,6 +16373,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -15315,6 +16384,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -15325,6 +16395,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15382,6 +16453,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Manzo",
+        "name_normalized": "manzo",
         "quantity": 1.2,
         "unit": "kg",
         "is_main": true,
@@ -15392,6 +16464,7 @@ export const RECIPES = [
       },
       {
         "name": "Pisellini",
+        "name_normalized": "pisellino",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -15402,6 +16475,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -15412,6 +16486,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -15422,6 +16497,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -15432,6 +16508,7 @@ export const RECIPES = [
       },
       {
         "name": "Concentrato di pomodoro",
+        "name_normalized": "concentrato di pomodoro",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -15442,6 +16519,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -15452,6 +16530,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": 500,
         "unit": "ml",
         "is_main": true,
@@ -15462,6 +16541,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco secco",
+        "name_normalized": "vino bianco secco",
         "quantity": 100,
         "unit": "ml",
         "is_main": true,
@@ -15472,6 +16552,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15482,6 +16563,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15492,6 +16574,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15547,6 +16630,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate rosse",
+        "name_normalized": "patata rossa",
         "quantity": 750,
         "unit": "g",
         "is_main": true,
@@ -15557,6 +16641,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 55,
         "unit": "g",
         "is_main": true,
@@ -15567,6 +16652,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15577,6 +16663,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15631,6 +16718,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Seppie",
+        "name_normalized": "seppia",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -15641,6 +16729,7 @@ export const RECIPES = [
       },
       {
         "name": "Pisellini",
+        "name_normalized": "pisellino",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -15651,6 +16740,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori pelati",
+        "name_normalized": "pomodoro_pelato",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -15661,6 +16751,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla_bianca",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -15671,6 +16762,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino_bianco",
         "quantity": 50,
         "unit": "ml",
         "is_main": true,
@@ -15681,6 +16773,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio_extravergine_oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15691,6 +16784,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15701,6 +16795,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15711,6 +16806,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo_vegetale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15721,6 +16817,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15774,6 +16871,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pollo",
+        "name_normalized": "pollo",
         "quantity": 1.2,
         "unit": "kg",
         "is_main": true,
@@ -15784,6 +16882,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori pelati",
+        "name_normalized": "pomodoro_pelato",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -15794,6 +16893,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -15804,6 +16904,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -15814,6 +16915,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -15824,6 +16926,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -15834,6 +16937,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino rosso",
+        "name_normalized": "vino_rosso",
         "quantity": 100,
         "unit": "ml",
         "is_main": true,
@@ -15844,6 +16948,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -15854,6 +16959,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15864,6 +16970,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio_extravergine_oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15874,6 +16981,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15884,6 +16992,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -15940,6 +17049,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Noce di vitello",
+        "name_normalized": "noce di vitello",
         "quantity": 560,
         "unit": "g",
         "is_main": true,
@@ -15950,6 +17060,7 @@ export const RECIPES = [
       },
       {
         "name": "Prosciutto crudo",
+        "name_normalized": "prosciutto crudo",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -15960,6 +17071,7 @@ export const RECIPES = [
       },
       {
         "name": "Salvia",
+        "name_normalized": "salvia",
         "quantity": 8,
         "unit": "foglie",
         "is_main": false,
@@ -15970,6 +17082,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -15980,6 +17093,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 60,
         "unit": "ml",
         "is_main": true,
@@ -15990,6 +17104,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16000,6 +17115,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fine",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16010,6 +17126,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -16020,6 +17137,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 50,
         "unit": "ml",
         "is_main": false,
@@ -16073,6 +17191,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Petto di pollo",
+        "name_normalized": "petto di pollo",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -16083,6 +17202,7 @@ export const RECIPES = [
       },
       {
         "name": "Albumi",
+        "name_normalized": "albume",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": true,
@@ -16093,6 +17213,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di arachide",
+        "name_normalized": "olio di semi di arachide",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -16103,6 +17224,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 115,
         "unit": "ml",
         "is_main": false,
@@ -16113,6 +17235,7 @@ export const RECIPES = [
       },
       {
         "name": "Fecola di patate",
+        "name_normalized": "fecola di patate",
         "quantity": 5,
         "unit": "g",
         "is_main": true,
@@ -16123,6 +17246,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16133,6 +17257,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe bianco",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16143,6 +17268,7 @@ export const RECIPES = [
       },
       {
         "name": "Mandorle pelate",
+        "name_normalized": "mandorla",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -16153,6 +17279,7 @@ export const RECIPES = [
       },
       {
         "name": "Germogli di bambù",
+        "name_normalized": "germoglio di bambù",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -16163,6 +17290,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsa di soia chiara",
+        "name_normalized": "salsa di soia",
         "quantity": 2,
         "unit": "cucchiaini",
         "is_main": true,
@@ -16173,6 +17301,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsa di soia scura",
+        "name_normalized": "salsa di soia",
         "quantity": 1,
         "unit": "cucchiaino",
         "is_main": true,
@@ -16231,6 +17360,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pollo",
+        "name_normalized": "pollo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -16241,6 +17371,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale grosso",
+        "name_normalized": "sale",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -16251,6 +17382,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -16261,6 +17393,7 @@ export const RECIPES = [
       },
       {
         "name": "Salvia",
+        "name_normalized": "salvia",
         "quantity": 5,
         "unit": "pz",
         "is_main": false,
@@ -16271,6 +17404,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -16281,6 +17415,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -16291,6 +17426,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -16301,6 +17437,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16355,6 +17492,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Fettine di vitello",
+        "name_normalized": "fettina di vitello",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -16365,6 +17503,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -16375,6 +17514,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -16385,6 +17525,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16395,6 +17536,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16405,6 +17547,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16415,6 +17558,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16425,6 +17569,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16478,6 +17623,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -16488,6 +17634,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 30,
         "unit": "ml",
         "is_main": true,
@@ -16498,6 +17645,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16508,6 +17656,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 15,
         "unit": "g",
         "is_main": false,
@@ -16561,6 +17710,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Orata",
+        "name_normalized": "orata",
         "quantity": 900,
         "unit": "g",
         "is_main": true,
@@ -16571,6 +17721,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -16581,6 +17732,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 1,
         "unit": "rametto",
         "is_main": false,
@@ -16591,6 +17743,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 1,
         "unit": "rametto",
         "is_main": false,
@@ -16601,6 +17754,7 @@ export const RECIPES = [
       },
       {
         "name": "Limoni",
+        "name_normalized": "limone",
         "quantity": 2,
         "unit": "fette",
         "is_main": false,
@@ -16611,6 +17765,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16621,6 +17776,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16631,6 +17787,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate novelle",
+        "name_normalized": "patata",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -16641,6 +17798,7 @@ export const RECIPES = [
       },
       {
         "name": "Fiocchi di sale",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16651,6 +17809,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16661,6 +17820,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -16716,6 +17876,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Filetto di salmone",
+        "name_normalized": "filetto di salmone",
         "quantity": 1000,
         "unit": "g",
         "is_main": true,
@@ -16726,6 +17887,7 @@ export const RECIPES = [
       },
       {
         "name": "Pane",
+        "name_normalized": "pane",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -16736,6 +17898,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16746,6 +17909,7 @@ export const RECIPES = [
       },
       {
         "name": "Aneto",
+        "name_normalized": "aneto",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16756,6 +17920,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16766,6 +17931,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16776,6 +17942,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -16786,6 +17953,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -16796,6 +17964,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe bianco in grani",
+        "name_normalized": "pepe",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -16806,6 +17975,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16860,6 +18030,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Fegato di vitello",
+        "name_normalized": "fegato di vitello",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -16870,6 +18041,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla bianca",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -16880,6 +18052,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -16890,6 +18063,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco secco",
+        "name_normalized": "vino bianco secco",
         "quantity": 60,
         "unit": "ml",
         "is_main": true,
@@ -16900,6 +18074,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -16910,6 +18085,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16920,6 +18096,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16930,6 +18107,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -16983,6 +18161,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Fettine di vitello",
+        "name_normalized": "fettina di vitello",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -16993,6 +18172,7 @@ export const RECIPES = [
       },
       {
         "name": "Funghi champignon",
+        "name_normalized": "fungo champignon",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -17003,6 +18183,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -17013,6 +18194,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 40,
         "unit": "ml",
         "is_main": true,
@@ -17023,6 +18205,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -17033,6 +18216,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17043,6 +18227,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fine",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17053,6 +18238,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17107,6 +18293,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Petto di pollo",
+        "name_normalized": "petto di pollo",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -17117,6 +18304,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -17127,6 +18315,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -17137,6 +18326,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -17147,6 +18337,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 170,
         "unit": "ml",
         "is_main": true,
@@ -17157,6 +18348,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 4,
         "unit": "rametti",
         "is_main": false,
@@ -17167,6 +18359,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17177,6 +18370,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17231,6 +18425,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Filetto di merluzzo",
+        "name_normalized": "filetto di merluzzo",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -17241,6 +18436,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -17251,6 +18447,7 @@ export const RECIPES = [
       },
       {
         "name": "Limoni",
+        "name_normalized": "limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -17261,6 +18458,7 @@ export const RECIPES = [
       },
       {
         "name": "Mandorle in scaglie",
+        "name_normalized": "mandorla",
         "quantity": 15,
         "unit": "g",
         "is_main": true,
@@ -17271,6 +18469,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 3,
         "unit": "rametti",
         "is_main": false,
@@ -17281,6 +18480,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -17291,6 +18491,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17301,6 +18502,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17355,6 +18557,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 8,
         "unit": "pz",
         "is_main": true,
@@ -17365,6 +18568,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -17375,6 +18579,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -17385,6 +18590,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 1,
         "unit": "ciuffo",
         "is_main": false,
@@ -17395,6 +18601,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17405,6 +18612,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17415,6 +18623,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di arachide",
+        "name_normalized": "olio di semi di arachide",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17425,6 +18634,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17480,6 +18690,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Sottofesa di vitello",
+        "name_normalized": "sottofesa di vitello",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -17490,6 +18701,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 85,
         "unit": "ml",
         "is_main": false,
@@ -17500,6 +18712,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 3,
         "unit": "rametti",
         "is_main": false,
@@ -17510,6 +18723,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17520,6 +18734,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17530,6 +18745,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17540,6 +18756,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -17550,6 +18767,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -17608,6 +18826,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 1000,
         "unit": "g",
         "is_main": true,
@@ -17618,6 +18837,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 2,
         "unit": "rametti",
         "is_main": false,
@@ -17628,6 +18848,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -17638,6 +18859,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -17648,6 +18870,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17658,6 +18881,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17668,6 +18892,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 2,
         "unit": "rametti",
         "is_main": false,
@@ -17722,6 +18947,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 1000,
         "unit": "g",
         "is_main": true,
@@ -17732,6 +18958,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 250,
         "unit": "ml",
         "is_main": true,
@@ -17742,6 +18969,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -17752,6 +18980,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17762,6 +18991,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17814,6 +19044,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cavolfiore",
+        "name_normalized": "cavolfiore",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -17824,6 +19055,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 35,
         "unit": "g",
         "is_main": true,
@@ -17834,6 +19066,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -17844,6 +19077,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -17854,6 +19088,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 300,
         "unit": "ml",
         "is_main": true,
@@ -17864,6 +19099,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17874,6 +19110,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17884,6 +19121,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17939,6 +19177,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Carciofi mammole",
+        "name_normalized": "carciofo",
         "quantity": 6,
         "unit": "pz",
         "is_main": true,
@@ -17949,6 +19188,7 @@ export const RECIPES = [
       },
       {
         "name": "Mentuccia",
+        "name_normalized": "mentuccia",
         "quantity": 1,
         "unit": "q.b.",
         "is_main": false,
@@ -17959,6 +19199,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 1,
         "unit": "q.b.",
         "is_main": false,
@@ -17969,6 +19210,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 3,
         "unit": "spicchi",
         "is_main": false,
@@ -17979,6 +19221,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 170,
         "unit": "ml",
         "is_main": true,
@@ -17989,6 +19232,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -17999,6 +19243,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18009,6 +19254,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18019,6 +19265,7 @@ export const RECIPES = [
       },
       {
         "name": "Limoni",
+        "name_normalized": "limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -18075,6 +19322,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cavolo viola",
+        "name_normalized": "cavolo viola",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -18085,6 +19333,7 @@ export const RECIPES = [
       },
       {
         "name": "Cavolo cappuccio",
+        "name_normalized": "cavolo cappuccio",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -18095,6 +19344,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -18105,6 +19355,7 @@ export const RECIPES = [
       },
       {
         "name": "Yogurt bianco naturale",
+        "name_normalized": "yogurt bianco naturale",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -18115,6 +19366,7 @@ export const RECIPES = [
       },
       {
         "name": "Maionese",
+        "name_normalized": "maionese",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -18125,6 +19377,7 @@ export const RECIPES = [
       },
       {
         "name": "Aceto di mele",
+        "name_normalized": "aceto di mele",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -18135,6 +19388,7 @@ export const RECIPES = [
       },
       {
         "name": "Senape di Digione",
+        "name_normalized": "senape di digione",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -18145,6 +19399,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -18155,6 +19410,7 @@ export const RECIPES = [
       },
       {
         "name": "Erba cipollina",
+        "name_normalized": "erba cipollina",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18165,6 +19421,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18175,6 +19432,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18230,6 +19488,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Finocchi",
+        "name_normalized": "finocchio",
         "quantity": 840,
         "unit": "g",
         "is_main": true,
@@ -18240,6 +19499,7 @@ export const RECIPES = [
       },
       {
         "name": "Arance",
+        "name_normalized": "arancia",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -18250,6 +19510,7 @@ export const RECIPES = [
       },
       {
         "name": "Pinoli",
+        "name_normalized": "pinolo",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -18260,6 +19521,7 @@ export const RECIPES = [
       },
       {
         "name": "Uvetta",
+        "name_normalized": "uvetta",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -18270,6 +19532,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18280,6 +19543,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di oliva extravergine",
+        "name_normalized": "olio",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -18290,6 +19554,7 @@ export const RECIPES = [
       },
       {
         "name": "Aceto di mele",
+        "name_normalized": "aceto",
         "quantity": 3,
         "unit": "g",
         "is_main": false,
@@ -18300,6 +19565,7 @@ export const RECIPES = [
       },
       {
         "name": "Semi di zucca",
+        "name_normalized": "seme di zucca",
         "quantity": 8,
         "unit": "g",
         "is_main": true,
@@ -18357,6 +19623,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -18367,6 +19634,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -18377,6 +19645,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -18387,6 +19656,7 @@ export const RECIPES = [
       },
       {
         "name": "Melanzane",
+        "name_normalized": "melanzana",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -18397,6 +19667,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni rossi",
+        "name_normalized": "peperone",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -18407,6 +19678,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle rosse",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -18417,6 +19689,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -18427,6 +19700,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -18437,6 +19711,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino",
+        "name_normalized": "pecorino",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -18447,6 +19722,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 15,
         "unit": "g",
         "is_main": true,
@@ -18457,6 +19733,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18467,6 +19744,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18477,6 +19755,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18533,6 +19812,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Carciofi",
+        "name_normalized": "carciofo",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -18543,6 +19823,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18553,6 +19834,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 45,
         "unit": "ml",
         "is_main": true,
@@ -18563,6 +19845,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchio",
         "is_main": false,
@@ -18573,6 +19856,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 45,
         "unit": "ml",
         "is_main": false,
@@ -18583,6 +19867,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18593,6 +19878,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18603,6 +19889,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18613,6 +19900,7 @@ export const RECIPES = [
       },
       {
         "name": "Menta",
+        "name_normalized": "menta",
         "quantity": 1,
         "unit": "rametto",
         "is_main": false,
@@ -18668,6 +19956,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cipolle borettane",
+        "name_normalized": "cipolla borettana",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -18678,6 +19967,7 @@ export const RECIPES = [
       },
       {
         "name": "Aceto di mele",
+        "name_normalized": "aceto di mele",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -18688,6 +19978,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero di canna",
+        "name_normalized": "zucchero di canna",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -18698,6 +19989,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -18708,6 +20000,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 15,
         "unit": "g",
         "is_main": false,
@@ -18718,6 +20011,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 1,
         "unit": "rametto",
         "is_main": false,
@@ -18728,6 +20022,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18738,6 +20033,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18791,6 +20087,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Lenticchie secche",
+        "name_normalized": "lenticchia secca",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -18801,6 +20098,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -18811,6 +20109,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18821,6 +20120,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -18831,6 +20131,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -18841,6 +20142,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla dorata",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": true,
@@ -18851,6 +20153,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchio",
         "is_main": false,
@@ -18861,6 +20164,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 3,
         "unit": "foglie",
         "is_main": false,
@@ -18871,6 +20175,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18881,6 +20186,7 @@ export const RECIPES = [
       },
       {
         "name": "Salvia",
+        "name_normalized": "salvia",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18891,6 +20197,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18901,6 +20208,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -18954,6 +20262,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Peperoni",
+        "name_normalized": "peperone",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -18964,6 +20273,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle rosse di Tropea",
+        "name_normalized": "cipolla",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -18974,6 +20284,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -18984,6 +20295,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -18994,6 +20306,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -19004,6 +20317,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19014,6 +20328,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19068,6 +20383,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -19078,6 +20394,7 @@ export const RECIPES = [
       },
       {
         "name": "Aceto di vino bianco",
+        "name_normalized": "aceto",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -19088,6 +20405,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -19098,6 +20416,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -19108,6 +20427,7 @@ export const RECIPES = [
       },
       {
         "name": "Menta",
+        "name_normalized": "menta",
         "quantity": 2,
         "unit": "rametti",
         "is_main": false,
@@ -19118,6 +20438,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19128,6 +20449,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19182,6 +20504,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cavoletti di Bruxelles",
+        "name_normalized": "cavoletto di bruxelles",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -19192,6 +20515,7 @@ export const RECIPES = [
       },
       {
         "name": "Scalogno",
+        "name_normalized": "scalogno",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -19202,6 +20526,7 @@ export const RECIPES = [
       },
       {
         "name": "Speck",
+        "name_normalized": "speck",
         "quantity": 90,
         "unit": "g",
         "is_main": true,
@@ -19212,6 +20537,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": 250,
         "unit": "ml",
         "is_main": true,
@@ -19222,6 +20548,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19232,6 +20559,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19242,6 +20570,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19297,6 +20626,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -19307,6 +20637,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -19317,6 +20648,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 2,
         "unit": "cucchiai",
         "is_main": false,
@@ -19327,6 +20659,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -19337,6 +20670,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19347,6 +20681,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19399,6 +20734,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -19409,6 +20745,7 @@ export const RECIPES = [
       },
       {
         "name": "Yogurt bianco naturale non zuccherato",
+        "name_normalized": "yogurt bianco naturale",
         "quantity": 125,
         "unit": "g",
         "is_main": true,
@@ -19419,6 +20756,7 @@ export const RECIPES = [
       },
       {
         "name": "Senape delicata",
+        "name_normalized": "senape",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -19429,6 +20767,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19439,6 +20778,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 1,
         "unit": "mazzetto",
         "is_main": false,
@@ -19449,6 +20789,7 @@ export const RECIPES = [
       },
       {
         "name": "Maionese",
+        "name_normalized": "maionese",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -19459,6 +20800,7 @@ export const RECIPES = [
       },
       {
         "name": "Erba cipollina",
+        "name_normalized": "erba cipollina",
         "quantity": 1,
         "unit": "mazzetto",
         "is_main": false,
@@ -19469,6 +20811,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19523,6 +20866,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Melanzane",
+        "name_normalized": "melanzana",
         "quantity": 280,
         "unit": "g",
         "is_main": true,
@@ -19533,6 +20877,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -19543,6 +20888,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni verdi",
+        "name_normalized": "peperone",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -19553,6 +20899,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni gialli",
+        "name_normalized": "peperone",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -19563,6 +20910,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori perini",
+        "name_normalized": "pomodoro",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -19573,6 +20921,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -19583,6 +20932,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -19593,6 +20943,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19603,6 +20954,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19613,6 +20965,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19623,6 +20976,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19633,6 +20987,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19691,6 +21046,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -19701,6 +21057,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori di Pachino",
+        "name_normalized": "pomodoro",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -19711,6 +21068,7 @@ export const RECIPES = [
       },
       {
         "name": "Capperi sotto sale",
+        "name_normalized": "cappero",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -19721,6 +21079,7 @@ export const RECIPES = [
       },
       {
         "name": "Olive verdi denocciolate",
+        "name_normalized": "oliva",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -19731,6 +21090,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle rosse",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -19741,6 +21101,7 @@ export const RECIPES = [
       },
       {
         "name": "Aceto di vino bianco",
+        "name_normalized": "aceto",
         "quantity": 20,
         "unit": "ml",
         "is_main": false,
@@ -19751,6 +21112,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19761,6 +21123,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano secco",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19771,6 +21134,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19781,6 +21145,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19791,6 +21156,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19844,6 +21210,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Carciofi",
+        "name_normalized": "carciofo",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -19854,6 +21221,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -19864,6 +21232,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -19874,6 +21243,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19884,6 +21254,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19894,6 +21265,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -19904,6 +21276,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19914,6 +21287,7 @@ export const RECIPES = [
       },
       {
         "name": "Limoni",
+        "name_normalized": "limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -19924,6 +21298,7 @@ export const RECIPES = [
       },
       {
         "name": "Menta",
+        "name_normalized": "menta",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -19978,6 +21353,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Catalogna",
+        "name_normalized": "catalogna",
         "quantity": 1.5,
         "unit": "kg",
         "is_main": true,
@@ -19988,6 +21364,7 @@ export const RECIPES = [
       },
       {
         "name": "Acciughe (alici)",
+        "name_normalized": "acciuga",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -19998,6 +21375,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 30,
         "unit": "ml",
         "is_main": false,
@@ -20008,6 +21386,7 @@ export const RECIPES = [
       },
       {
         "name": "Aceto di vino bianco",
+        "name_normalized": "aceto",
         "quantity": 10,
         "unit": "ml",
         "is_main": false,
@@ -20018,6 +21397,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 0.5,
         "unit": "spicchi",
         "is_main": false,
@@ -20028,6 +21408,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20038,6 +21419,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20095,6 +21477,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -20105,6 +21488,7 @@ export const RECIPES = [
       },
       {
         "name": "Melanzane",
+        "name_normalized": "melanzana",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -20115,6 +21499,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni rossi",
+        "name_normalized": "peperone",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -20125,6 +21510,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -20135,6 +21521,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20145,6 +21532,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -20155,6 +21543,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -20165,6 +21554,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20175,6 +21565,7 @@ export const RECIPES = [
       },
       {
         "name": "Maggiorana",
+        "name_normalized": "maggiorana",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20185,6 +21576,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20240,6 +21632,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Carciofi",
+        "name_normalized": "carciofo",
         "quantity": 5,
         "unit": "pz",
         "is_main": true,
@@ -20250,6 +21643,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 5,
         "unit": "cucchiai",
         "is_main": false,
@@ -20260,6 +21654,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino",
+        "name_normalized": "pecorino",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -20270,6 +21665,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -20280,6 +21676,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 3,
         "unit": "cucchiai",
         "is_main": false,
@@ -20290,6 +21687,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20300,6 +21698,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20353,6 +21752,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate rosse",
+        "name_normalized": "patata rossa",
         "quantity": 700,
         "unit": "g",
         "is_main": true,
@@ -20363,6 +21763,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -20373,6 +21774,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano dop",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -20383,6 +21785,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -20393,6 +21796,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20403,6 +21807,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20456,6 +21861,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Finocchi",
+        "name_normalized": "finocchio",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -20466,6 +21872,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20476,6 +21883,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20486,6 +21894,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -20496,6 +21905,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20548,6 +21958,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Verza",
+        "name_normalized": "verza",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -20558,6 +21969,7 @@ export const RECIPES = [
       },
       {
         "name": "Olive taggiasche",
+        "name_normalized": "oliva taggiasca",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -20568,6 +21980,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla dorata",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -20578,6 +21991,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 3,
         "unit": "cucchiai",
         "is_main": false,
@@ -20588,6 +22002,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": 100,
         "unit": "ml",
         "is_main": false,
@@ -20598,6 +22013,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20608,6 +22024,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20661,6 +22078,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -20671,6 +22089,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika dolce",
+        "name_normalized": "paprika dolce",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20681,6 +22100,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 2,
         "unit": "cucchiai",
         "is_main": false,
@@ -20691,6 +22111,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 2,
         "unit": "rametti",
         "is_main": false,
@@ -20701,6 +22122,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -20711,6 +22133,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20764,6 +22187,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Funghi misti",
+        "name_normalized": "fungo",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -20774,6 +22198,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -20784,6 +22209,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20794,6 +22220,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -20804,6 +22231,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -20858,6 +22286,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Finocchi",
+        "name_normalized": "finocchio",
         "quantity": 480,
         "unit": "g",
         "is_main": true,
@@ -20868,6 +22297,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -20878,6 +22308,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -20888,6 +22319,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20898,6 +22330,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20908,6 +22341,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -20918,6 +22352,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 2,
         "unit": "rametti",
         "is_main": false,
@@ -20970,6 +22405,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Carciofi mammole",
+        "name_normalized": "carciofo mammola",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -20980,6 +22416,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi",
+        "name_normalized": "olio di semi",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -20990,6 +22427,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21042,6 +22480,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 640,
         "unit": "g",
         "is_main": true,
@@ -21052,6 +22491,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -21062,6 +22502,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 2,
         "unit": "rametti",
         "is_main": false,
@@ -21072,6 +22513,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 50,
         "unit": "ml",
         "is_main": false,
@@ -21082,6 +22524,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21092,6 +22535,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21102,6 +22546,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21155,6 +22600,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Melanzane",
+        "name_normalized": "melanzana",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -21165,6 +22611,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 160,
         "unit": "g",
         "is_main": true,
@@ -21175,6 +22622,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate rosse",
+        "name_normalized": "patata",
         "quantity": 190,
         "unit": "g",
         "is_main": true,
@@ -21185,6 +22633,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni",
+        "name_normalized": "peperone",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -21195,6 +22644,7 @@ export const RECIPES = [
       },
       {
         "name": "Scamorza affumicata",
+        "name_normalized": "scamorza",
         "quantity": 260,
         "unit": "g",
         "is_main": true,
@@ -21205,6 +22655,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -21215,6 +22666,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -21225,6 +22677,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21235,6 +22688,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21245,6 +22699,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21255,6 +22710,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21311,6 +22767,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -21321,6 +22778,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -21331,6 +22789,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 180,
         "unit": "g",
         "is_main": true,
@@ -21341,6 +22800,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -21351,6 +22811,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21361,6 +22822,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21371,6 +22833,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21381,6 +22844,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio in polvere",
+        "name_normalized": "aglio in polvere",
         "quantity": 2,
         "unit": "g",
         "is_main": false,
@@ -21391,6 +22855,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21401,6 +22866,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21411,6 +22877,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 2,
         "unit": "cucchiai",
         "is_main": false,
@@ -21465,6 +22932,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Zucca mantovana",
+        "name_normalized": "zucca",
         "quantity": 1500,
         "unit": "g",
         "is_main": true,
@@ -21475,6 +22943,7 @@ export const RECIPES = [
       },
       {
         "name": "Mandorle in scaglie",
+        "name_normalized": "mandorla",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -21485,6 +22954,7 @@ export const RECIPES = [
       },
       {
         "name": "Semi di zucca",
+        "name_normalized": "seme di zucca",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -21495,6 +22965,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": 140,
         "unit": "g",
         "is_main": false,
@@ -21505,6 +22976,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21515,6 +22987,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika affumicata",
+        "name_normalized": "paprika",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21525,6 +22998,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21535,6 +23009,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21545,6 +23020,7 @@ export const RECIPES = [
       },
       {
         "name": "Salvia",
+        "name_normalized": "salvia",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21555,6 +23031,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21610,6 +23087,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Fave",
+        "name_normalized": "fava",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -21620,6 +23098,7 @@ export const RECIPES = [
       },
       {
         "name": "Pisellini",
+        "name_normalized": "pisellino",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -21630,6 +23109,7 @@ export const RECIPES = [
       },
       {
         "name": "Lattuga",
+        "name_normalized": "lattuga",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -21640,6 +23120,7 @@ export const RECIPES = [
       },
       {
         "name": "Carciofi mammole",
+        "name_normalized": "carciofo",
         "quantity": 390,
         "unit": "g",
         "is_main": true,
@@ -21650,6 +23131,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipollotto fresco",
+        "name_normalized": "cipollotto",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -21660,6 +23142,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino fresco",
+        "name_normalized": "peperoncino",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -21670,6 +23153,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco secco",
+        "name_normalized": "vino_bianco",
         "quantity": 70,
         "unit": "ml",
         "is_main": true,
@@ -21680,6 +23164,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21690,6 +23175,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21747,6 +23233,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Peperoni",
+        "name_normalized": "peperone",
         "quantity": 700,
         "unit": "g",
         "is_main": true,
@@ -21757,6 +23244,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle rosse",
+        "name_normalized": "cipolla_rossa",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -21767,6 +23255,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21777,6 +23266,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio_extravergine_oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21787,6 +23277,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21839,6 +23330,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Melanzane",
+        "name_normalized": "melanzana",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -21849,6 +23341,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori ramati",
+        "name_normalized": "pomodoro",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -21859,6 +23352,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": 10,
         "unit": "foglie",
         "is_main": false,
@@ -21869,6 +23363,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -21879,6 +23374,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21889,6 +23385,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -21899,6 +23396,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di arachide",
+        "name_normalized": "olio di semi di arachide",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -21953,6 +23451,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Lenticchie secche",
+        "name_normalized": "lenticchia secca",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -21963,6 +23462,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -21973,6 +23473,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 3,
         "unit": "pz",
         "is_main": false,
@@ -21983,6 +23484,7 @@ export const RECIPES = [
       },
       {
         "name": "Chiodi di garofano",
+        "name_normalized": "chiodo di garofano",
         "quantity": 5,
         "unit": "pz",
         "is_main": false,
@@ -21993,6 +23495,7 @@ export const RECIPES = [
       },
       {
         "name": "Ginepro",
+        "name_normalized": "ginepro",
         "quantity": 6,
         "unit": "pz",
         "is_main": false,
@@ -22003,6 +23506,7 @@ export const RECIPES = [
       },
       {
         "name": "Pancetta affumicata",
+        "name_normalized": "pancetta affumicata",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -22013,6 +23517,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": 1.5,
         "unit": "l",
         "is_main": true,
@@ -22023,6 +23528,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino rosso",
+        "name_normalized": "vino rosso",
         "quantity": 80,
         "unit": "ml",
         "is_main": true,
@@ -22033,6 +23539,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22043,6 +23550,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22053,6 +23561,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22108,6 +23617,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pomodorini ciliegino",
+        "name_normalized": "pomodorino ciliegino",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -22118,6 +23628,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 3,
         "unit": "spicchi",
         "is_main": false,
@@ -22128,6 +23639,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -22138,6 +23650,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 70,
         "unit": "g",
         "is_main": false,
@@ -22148,6 +23661,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22158,6 +23672,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22210,6 +23725,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Spinaci",
+        "name_normalized": "spinacio",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -22220,6 +23736,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -22230,6 +23747,7 @@ export const RECIPES = [
       },
       {
         "name": "Pinoli",
+        "name_normalized": "pinolo",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -22240,6 +23758,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -22250,6 +23769,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": true,
@@ -22260,6 +23780,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22270,6 +23791,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22280,6 +23802,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22290,6 +23813,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22300,6 +23824,7 @@ export const RECIPES = [
       },
       {
         "name": "Taleggio",
+        "name_normalized": "taleggio",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -22310,6 +23835,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 150,
         "unit": "ml",
         "is_main": true,
@@ -22367,6 +23893,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Peperoni rossi",
+        "name_normalized": "peperone rosso",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -22377,6 +23904,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni gialli",
+        "name_normalized": "peperone giallo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -22387,6 +23915,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine di oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22397,6 +23926,7 @@ export const RECIPES = [
       },
       {
         "name": "Pane raffermo",
+        "name_normalized": "pane raffermo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -22407,6 +23937,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino",
+        "name_normalized": "pecorino",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -22417,6 +23948,7 @@ export const RECIPES = [
       },
       {
         "name": "Capperi",
+        "name_normalized": "cappero",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": true,
@@ -22427,6 +23959,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22437,6 +23970,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -22489,6 +24023,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Asparagi",
+        "name_normalized": "asparago",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -22499,6 +24034,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -22509,6 +24045,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -22519,6 +24056,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo limonato",
+        "name_normalized": "timo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22529,6 +24067,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22539,6 +24078,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22549,6 +24089,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22601,6 +24142,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina_00",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -22611,6 +24153,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -22621,6 +24164,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 75,
         "unit": "g",
         "is_main": true,
@@ -22631,6 +24175,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 260,
         "unit": "g",
         "is_main": false,
@@ -22641,6 +24186,7 @@ export const RECIPES = [
       },
       {
         "name": "Miele millefiori",
+        "name_normalized": "miele_millefiori",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -22651,6 +24197,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -22661,6 +24208,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -22671,6 +24219,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte_intero",
         "quantity": 140,
         "unit": "ml",
         "is_main": true,
@@ -22681,6 +24230,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza_di_limone",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22691,6 +24241,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza d'arancia",
+        "name_normalized": "scorza_di_arancia",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22701,6 +24252,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale_fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22711,6 +24263,7 @@ export const RECIPES = [
       },
       {
         "name": "Grano cotto",
+        "name_normalized": "grano_cotto",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -22721,6 +24274,7 @@ export const RECIPES = [
       },
       {
         "name": "Ricotta di pecora",
+        "name_normalized": "ricotta_di_pecora",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -22731,6 +24285,7 @@ export const RECIPES = [
       },
       {
         "name": "Cedro candito",
+        "name_normalized": "cedro_candito",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -22741,6 +24296,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua di fiori d'arancio",
+        "name_normalized": "acqua_di_fiori_di_arancio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22751,6 +24307,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero_a_velo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22815,6 +24372,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Mascarpone",
+        "name_normalized": "mascarpone",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -22825,6 +24383,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 8,
         "unit": "pz",
         "is_main": true,
@@ -22835,6 +24394,7 @@ export const RECIPES = [
       },
       {
         "name": "Savoiardi",
+        "name_normalized": "savoiardo",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -22845,6 +24405,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 200,
         "unit": "g",
         "is_main": false,
@@ -22855,6 +24416,7 @@ export const RECIPES = [
       },
       {
         "name": "Caffè",
+        "name_normalized": "caffè",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -22865,6 +24427,7 @@ export const RECIPES = [
       },
       {
         "name": "Cacao amaro in polvere",
+        "name_normalized": "cacao amaro in polvere",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -22921,6 +24484,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cioccolato fondente al 55%",
+        "name_normalized": "cioccolato fondente",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -22931,6 +24495,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -22941,6 +24506,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -22951,6 +24517,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 150,
         "unit": "g",
         "is_main": false,
@@ -22961,6 +24528,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -22971,6 +24539,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23027,6 +24596,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -23037,6 +24607,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -23047,6 +24618,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 500,
         "unit": "ml",
         "is_main": true,
@@ -23057,6 +24629,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -23067,6 +24640,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23121,6 +24695,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 125,
         "unit": "g",
         "is_main": true,
@@ -23131,6 +24706,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 200,
         "unit": "ml",
         "is_main": true,
@@ -23141,6 +24717,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 25,
         "unit": "g",
         "is_main": true,
@@ -23151,6 +24728,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 15,
         "unit": "g",
         "is_main": false,
@@ -23161,6 +24739,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -23171,6 +24750,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito in polvere per dolci",
         "quantity": 6,
         "unit": "g",
         "is_main": false,
@@ -23181,6 +24761,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23191,6 +24772,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23201,6 +24783,7 @@ export const RECIPES = [
       },
       {
         "name": "Sciroppo di acero",
+        "name_normalized": "sciroppo di acero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23211,6 +24794,7 @@ export const RECIPES = [
       },
       {
         "name": "More",
+        "name_normalized": "mora",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23221,6 +24805,7 @@ export const RECIPES = [
       },
       {
         "name": "Lamponi",
+        "name_normalized": "lampone",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23275,6 +24860,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cioccolato fondente al 70%",
+        "name_normalized": "cioccolato fondente",
         "quantity": 110,
         "unit": "g",
         "is_main": true,
@@ -23285,6 +24871,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 110,
         "unit": "g",
         "is_main": true,
@@ -23295,6 +24882,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -23305,6 +24893,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -23315,6 +24904,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 25,
         "unit": "g",
         "is_main": true,
@@ -23325,6 +24915,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23335,6 +24926,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23345,6 +24937,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23399,6 +24992,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 500,
         "unit": "ml",
         "is_main": true,
@@ -23409,6 +25003,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 130,
         "unit": "g",
         "is_main": false,
@@ -23419,6 +25014,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 125,
         "unit": "g",
         "is_main": true,
@@ -23429,6 +25025,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di riso",
+        "name_normalized": "amido di riso",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -23439,6 +25036,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -23449,6 +25047,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": false,
@@ -23502,6 +25101,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Mele renette",
+        "name_normalized": "mela renetta",
         "quantity": 700,
         "unit": "g",
         "is_main": true,
@@ -23512,6 +25112,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 200,
         "unit": "g",
         "is_main": false,
@@ -23522,6 +25123,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -23532,6 +25134,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -23542,6 +25145,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 150,
         "unit": "ml",
         "is_main": true,
@@ -23552,6 +25156,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -23562,6 +25167,7 @@ export const RECIPES = [
       },
       {
         "name": "Limoni",
+        "name_normalized": "limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -23572,6 +25178,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito in polvere",
         "quantity": 16,
         "unit": "g",
         "is_main": false,
@@ -23582,6 +25189,7 @@ export const RECIPES = [
       },
       {
         "name": "Cannella in polvere",
+        "name_normalized": "cannella",
         "quantity": 0.5,
         "unit": "cucchiaini",
         "is_main": false,
@@ -23592,6 +25200,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23602,6 +25211,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23657,6 +25267,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -23667,6 +25278,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -23677,6 +25289,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero",
         "quantity": 150,
         "unit": "g",
         "is_main": false,
@@ -23687,6 +25300,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uova",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -23744,6 +25358,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cioccolato fondente",
+        "name_normalized": "cioccolato fondente",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -23754,6 +25369,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -23764,6 +25380,7 @@ export const RECIPES = [
       },
       {
         "name": "Biscotti secchi",
+        "name_normalized": "biscotto secco",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -23774,6 +25391,7 @@ export const RECIPES = [
       },
       {
         "name": "Cacao amaro in polvere",
+        "name_normalized": "cacao amaro in polvere",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -23784,6 +25402,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -23794,6 +25413,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": 70,
         "unit": "g",
         "is_main": false,
@@ -23804,6 +25424,7 @@ export const RECIPES = [
       },
       {
         "name": "Rum",
+        "name_normalized": "rum",
         "quantity": 30,
         "unit": "ml",
         "is_main": true,
@@ -23814,6 +25435,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23871,6 +25493,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 125,
         "unit": "g",
         "is_main": true,
@@ -23881,6 +25504,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 265,
         "unit": "g",
         "is_main": true,
@@ -23891,6 +25515,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 135,
         "unit": "g",
         "is_main": false,
@@ -23901,6 +25526,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 135,
         "unit": "ml",
         "is_main": true,
@@ -23911,6 +25537,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 110,
         "unit": "g",
         "is_main": true,
@@ -23921,6 +25548,7 @@ export const RECIPES = [
       },
       {
         "name": "Gocce di cioccolato fondente",
+        "name_normalized": "goccia di cioccolato fondente",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -23931,6 +25559,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -23941,6 +25570,7 @@ export const RECIPES = [
       },
       {
         "name": "Bicarbonato",
+        "name_normalized": "bicarbonato",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -23951,6 +25581,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -23961,6 +25592,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito in polvere",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -24016,6 +25648,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -24026,6 +25659,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -24036,6 +25670,7 @@ export const RECIPES = [
       },
       {
         "name": "Gocce di cioccolato fondente",
+        "name_normalized": "goccia di cioccolato fondente",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -24046,6 +25681,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -24056,6 +25692,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero di canna",
+        "name_normalized": "zucchero di canna",
         "quantity": 90,
         "unit": "g",
         "is_main": true,
@@ -24066,6 +25703,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 90,
         "unit": "g",
         "is_main": true,
@@ -24076,6 +25714,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito in polvere per dolci",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -24086,6 +25725,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -24096,6 +25736,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -24151,6 +25792,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cioccolato fondente al 55%",
+        "name_normalized": "cioccolato fondente",
         "quantity": 260,
         "unit": "g",
         "is_main": true,
@@ -24161,6 +25803,7 @@ export const RECIPES = [
       },
       {
         "name": "Nocciole intere spellate",
+        "name_normalized": "nocciola",
         "quantity": 170,
         "unit": "g",
         "is_main": true,
@@ -24171,6 +25814,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 160,
         "unit": "g",
         "is_main": false,
@@ -24181,6 +25825,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -24191,6 +25836,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 110,
         "unit": "g",
         "is_main": true,
@@ -24201,6 +25847,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 90,
         "unit": "g",
         "is_main": true,
@@ -24211,6 +25858,7 @@ export const RECIPES = [
       },
       {
         "name": "Cacao amaro in polvere",
+        "name_normalized": "cacao amaro in polvere",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -24221,6 +25869,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -24276,6 +25925,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -24286,6 +25936,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 125,
         "unit": "g",
         "is_main": true,
@@ -24296,6 +25947,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -24306,6 +25958,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -24316,6 +25969,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -24326,6 +25980,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 400,
         "unit": "ml",
         "is_main": true,
@@ -24336,6 +25991,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca",
         "quantity": 100,
         "unit": "ml",
         "is_main": true,
@@ -24346,6 +26002,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 140,
         "unit": "g",
         "is_main": false,
@@ -24356,6 +26013,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 6,
         "unit": "pz",
         "is_main": true,
@@ -24366,6 +26024,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di mais",
+        "name_normalized": "amido di mais",
         "quantity": 45,
         "unit": "g",
         "is_main": true,
@@ -24376,6 +26035,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -24386,6 +26046,7 @@ export const RECIPES = [
       },
       {
         "name": "Fragole",
+        "name_normalized": "fragola",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -24396,6 +26057,7 @@ export const RECIPES = [
       },
       {
         "name": "Confettura",
+        "name_normalized": "confettura",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -24406,6 +26068,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -24416,6 +26079,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -24475,6 +26139,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cioccolato fondente al 55%",
+        "name_normalized": "cioccolato fondente",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -24485,6 +26150,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -24495,6 +26161,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 150,
         "unit": "g",
         "is_main": false,
@@ -24505,6 +26172,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -24515,6 +26183,7 @@ export const RECIPES = [
       },
       {
         "name": "Cacao amaro in polvere",
+        "name_normalized": "cacao amaro in polvere",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -24525,6 +26194,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -24535,6 +26205,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito in polvere per dolci",
         "quantity": 8,
         "unit": "g",
         "is_main": false,
@@ -24545,6 +26216,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 1,
         "unit": "pizzico",
         "is_main": false,
@@ -24555,6 +26227,7 @@ export const RECIPES = [
       },
       {
         "name": "Cacao amaro in polvere",
+        "name_normalized": "cacao amaro in polvere",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -24609,6 +26282,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Biscotti secchi",
+        "name_normalized": "biscotto secco",
         "quantity": 360,
         "unit": "g",
         "is_main": true,
@@ -24619,6 +26293,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -24629,6 +26304,7 @@ export const RECIPES = [
       },
       {
         "name": "Formaggio spalmabile Philadelphia",
+        "name_normalized": "formaggio spalmabile",
         "quantity": 750,
         "unit": "g",
         "is_main": true,
@@ -24639,6 +26315,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -24649,6 +26326,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -24659,6 +26337,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -24669,6 +26348,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -24679,6 +26359,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di mais (maizena)",
+        "name_normalized": "amido di mais",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -24689,6 +26370,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di limone",
+        "name_normalized": "succo di limone",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": false,
@@ -24699,6 +26381,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": false,
@@ -24709,6 +26392,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna acida",
+        "name_normalized": "panna acida",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -24719,6 +26403,7 @@ export const RECIPES = [
       },
       {
         "name": "Frutti di bosco",
+        "name_normalized": "frutto di bosco",
         "quantity": 200,
         "unit": "g",
         "is_main": false,
@@ -24729,6 +26414,7 @@ export const RECIPES = [
       },
       {
         "name": "Menta",
+        "name_normalized": "menta",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -24739,6 +26425,7 @@ export const RECIPES = [
       },
       {
         "name": "Fragole",
+        "name_normalized": "fragola",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -24797,6 +26484,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Biscotti secchi",
+        "name_normalized": "biscotto secco",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -24807,6 +26495,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -24817,6 +26506,7 @@ export const RECIPES = [
       },
       {
         "name": "Formaggio fresco spalmabile",
+        "name_normalized": "formaggio fresco spalmabile",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -24827,6 +26517,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -24837,6 +26528,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero",
         "quantity": 225,
         "unit": "g",
         "is_main": false,
@@ -24847,6 +26539,7 @@ export const RECIPES = [
       },
       {
         "name": "Gelatina in fogli",
+        "name_normalized": "gelatina",
         "quantity": 10,
         "unit": "g",
         "is_main": true,
@@ -24857,6 +26550,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -24867,6 +26561,7 @@ export const RECIPES = [
       },
       {
         "name": "Lamponi",
+        "name_normalized": "lampone",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -24877,6 +26572,7 @@ export const RECIPES = [
       },
       {
         "name": "Mirtilli",
+        "name_normalized": "mirtillo",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -24887,6 +26583,7 @@ export const RECIPES = [
       },
       {
         "name": "Fragole",
+        "name_normalized": "fragola",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -24897,6 +26594,7 @@ export const RECIPES = [
       },
       {
         "name": "Menta",
+        "name_normalized": "menta",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -24954,6 +26652,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 500,
         "unit": "ml",
         "is_main": false,
@@ -24964,6 +26663,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -24974,6 +26674,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -24984,6 +26685,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -24994,6 +26696,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -25004,6 +26707,7 @@ export const RECIPES = [
       },
       {
         "name": "Nutella",
+        "name_normalized": "nutella",
         "quantity": 240,
         "unit": "g",
         "is_main": true,
@@ -25014,6 +26718,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -25068,6 +26773,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 5,
         "unit": "pz",
         "is_main": true,
@@ -25078,6 +26784,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 150,
         "unit": "g",
         "is_main": false,
@@ -25088,6 +26795,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina_00",
         "quantity": 75,
         "unit": "g",
         "is_main": true,
@@ -25098,6 +26806,7 @@ export const RECIPES = [
       },
       {
         "name": "Fecola di patate",
+        "name_normalized": "fecola_di_patate",
         "quantity": 75,
         "unit": "g",
         "is_main": true,
@@ -25108,6 +26817,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello_di_vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -25118,6 +26828,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -25128,6 +26839,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -25181,6 +26893,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -25191,6 +26904,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -25201,6 +26915,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": 150,
         "unit": "g",
         "is_main": false,
@@ -25211,6 +26926,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -25221,6 +26937,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": false,
@@ -25231,6 +26948,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -25241,6 +26959,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito in polvere",
         "quantity": 4,
         "unit": "g",
         "is_main": false,
@@ -25251,6 +26970,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 500,
         "unit": "ml",
         "is_main": true,
@@ -25261,6 +26981,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -25271,6 +26992,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 5,
         "unit": "pz",
         "is_main": true,
@@ -25281,6 +27003,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di mais",
+        "name_normalized": "amido di mais",
         "quantity": 25,
         "unit": "g",
         "is_main": false,
@@ -25291,6 +27014,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di riso",
+        "name_normalized": "amido di riso",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -25301,6 +27025,7 @@ export const RECIPES = [
       },
       {
         "name": "Pinoli",
+        "name_normalized": "pinolo",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -25362,6 +27087,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cioccolato fondente al 60%",
+        "name_normalized": "cioccolato fondente al 60%",
         "quantity": 75,
         "unit": "g",
         "is_main": true,
@@ -25372,6 +27098,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -25382,6 +27109,7 @@ export const RECIPES = [
       },
       {
         "name": "Albumi",
+        "name_normalized": "albume",
         "quantity": 90,
         "unit": "g",
         "is_main": true,
@@ -25392,6 +27120,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 65,
         "unit": "g",
         "is_main": true,
@@ -25402,6 +27131,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 65,
         "unit": "g",
         "is_main": true,
@@ -25412,6 +27142,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -25422,6 +27153,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 90,
         "unit": "g",
         "is_main": false,
@@ -25432,6 +27164,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -25442,6 +27175,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -25452,6 +27186,7 @@ export const RECIPES = [
       },
       {
         "name": "Confettura di albicocche",
+        "name_normalized": "confettura di albicocche",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -25462,6 +27197,7 @@ export const RECIPES = [
       },
       {
         "name": "Cioccolato fondente al 60%",
+        "name_normalized": "cioccolato fondente al 60%",
         "quantity": 185,
         "unit": "g",
         "is_main": true,
@@ -25472,6 +27208,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 125,
         "unit": "ml",
         "is_main": true,
@@ -25533,6 +27270,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Mascarpone",
+        "name_normalized": "mascarpone",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -25543,6 +27281,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 125,
         "unit": "g",
         "is_main": false,
@@ -25553,6 +27292,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -25563,6 +27303,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 50,
         "unit": "ml",
         "is_main": false,
@@ -25573,6 +27314,7 @@ export const RECIPES = [
       },
       {
         "name": "Cacao amaro in polvere",
+        "name_normalized": "cacao amaro in polvere",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -25626,6 +27368,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Biscotti Digestive",
+        "name_normalized": "biscotto digestive",
         "quantity": 180,
         "unit": "g",
         "is_main": true,
@@ -25636,6 +27379,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -25646,6 +27390,7 @@ export const RECIPES = [
       },
       {
         "name": "Ricotta vaccina",
+        "name_normalized": "ricotta vaccina",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -25656,6 +27401,7 @@ export const RECIPES = [
       },
       {
         "name": "Formaggio fresco spalmabile",
+        "name_normalized": "formaggio fresco spalmabile",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -25666,6 +27412,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 100,
         "unit": "ml",
         "is_main": true,
@@ -25676,6 +27423,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": 150,
         "unit": "g",
         "is_main": false,
@@ -25686,6 +27434,7 @@ export const RECIPES = [
       },
       {
         "name": "Gelatina in fogli",
+        "name_normalized": "gelatina in fogli",
         "quantity": 10,
         "unit": "g",
         "is_main": true,
@@ -25696,6 +27445,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -25706,6 +27456,7 @@ export const RECIPES = [
       },
       {
         "name": "More",
+        "name_normalized": "mora",
         "quantity": 190,
         "unit": "g",
         "is_main": true,
@@ -25716,6 +27467,7 @@ export const RECIPES = [
       },
       {
         "name": "Mirtilli",
+        "name_normalized": "mirtillo",
         "quantity": 180,
         "unit": "g",
         "is_main": true,
@@ -25726,6 +27478,7 @@ export const RECIPES = [
       },
       {
         "name": "Lamponi",
+        "name_normalized": "lampone",
         "quantity": 180,
         "unit": "g",
         "is_main": true,
@@ -25736,6 +27489,7 @@ export const RECIPES = [
       },
       {
         "name": "Ribes",
+        "name_normalized": "ribes",
         "quantity": 135,
         "unit": "g",
         "is_main": true,
@@ -25746,6 +27500,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -25756,6 +27511,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di limone",
+        "name_normalized": "succo di limone",
         "quantity": 70,
         "unit": "ml",
         "is_main": false,
@@ -25766,6 +27522,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di mais (maizena)",
+        "name_normalized": "amido di mais",
         "quantity": 35,
         "unit": "g",
         "is_main": true,
@@ -25776,6 +27533,7 @@ export const RECIPES = [
       },
       {
         "name": "Frutti di bosco",
+        "name_normalized": "frutto di bosco",
         "quantity": 280,
         "unit": "g",
         "is_main": true,
@@ -25786,6 +27544,7 @@ export const RECIPES = [
       },
       {
         "name": "Frutti di bosco",
+        "name_normalized": "frutto di bosco",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -25796,6 +27555,7 @@ export const RECIPES = [
       },
       {
         "name": "Menta",
+        "name_normalized": "menta",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -25854,6 +27614,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Biscotti secchi",
+        "name_normalized": "biscotto secco",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -25864,6 +27625,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -25874,6 +27636,7 @@ export const RECIPES = [
       },
       {
         "name": "Ricotta vaccina",
+        "name_normalized": "ricotta vaccina",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -25884,6 +27647,7 @@ export const RECIPES = [
       },
       {
         "name": "Formaggio fresco spalmabile",
+        "name_normalized": "formaggio fresco spalmabile",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -25894,6 +27658,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di limone",
+        "name_normalized": "succo di limone",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -25904,6 +27669,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": 150,
         "unit": "g",
         "is_main": false,
@@ -25914,6 +27680,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -25924,6 +27691,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -25934,6 +27702,7 @@ export const RECIPES = [
       },
       {
         "name": "Gelatina in fogli",
+        "name_normalized": "gelatina in fogli",
         "quantity": 10,
         "unit": "g",
         "is_main": true,
@@ -25944,6 +27713,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di limone",
+        "name_normalized": "succo di limone",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -25954,6 +27724,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di mais (maizena)",
+        "name_normalized": "amido di mais",
         "quantity": 15,
         "unit": "g",
         "is_main": true,
@@ -25964,6 +27735,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 100,
         "unit": "ml",
         "is_main": false,
@@ -25974,6 +27746,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 80,
         "unit": "g",
         "is_main": false,
@@ -25984,6 +27757,7 @@ export const RECIPES = [
       },
       {
         "name": "Curcuma in polvere",
+        "name_normalized": "curcuma in polvere",
         "quantity": 0.25,
         "unit": "cucchiaini",
         "is_main": false,
@@ -25994,6 +27768,7 @@ export const RECIPES = [
       },
       {
         "name": "Limoni",
+        "name_normalized": "limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -26004,6 +27779,7 @@ export const RECIPES = [
       },
       {
         "name": "Menta",
+        "name_normalized": "menta",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -26014,6 +27790,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -26024,6 +27801,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 80,
         "unit": "ml",
         "is_main": false,
@@ -26083,6 +27861,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Yogurt bianco naturale",
+        "name_normalized": "yogurt bianco naturale",
         "quantity": 125,
         "unit": "ml",
         "is_main": true,
@@ -26093,6 +27872,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 2,
         "unit": "vasetti",
         "is_main": false,
@@ -26103,6 +27883,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 2,
         "unit": "vasetti",
         "is_main": true,
@@ -26113,6 +27894,7 @@ export const RECIPES = [
       },
       {
         "name": "Fecola di patate",
+        "name_normalized": "fecola di patate",
         "quantity": 1,
         "unit": "vasetto",
         "is_main": true,
@@ -26123,6 +27905,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di girasole",
+        "name_normalized": "olio di semi di girasole",
         "quantity": 1,
         "unit": "vasetto",
         "is_main": false,
@@ -26133,6 +27916,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito in polvere per dolci",
         "quantity": 16,
         "unit": "g",
         "is_main": true,
@@ -26143,6 +27927,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -26199,6 +27984,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -26209,6 +27995,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina_00",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -26219,6 +28006,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina di mandorle",
+        "name_normalized": "farina_di_mandorle",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -26229,6 +28017,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -26239,6 +28028,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 150,
         "unit": "g",
         "is_main": false,
@@ -26249,6 +28039,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di girasole",
+        "name_normalized": "olio_di_semi_di_girasole",
         "quantity": 150,
         "unit": "g",
         "is_main": false,
@@ -26259,6 +28050,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo d'arancia",
+        "name_normalized": "succo_d_arancia",
         "quantity": 80,
         "unit": "ml",
         "is_main": true,
@@ -26269,6 +28061,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza d'arancia",
+        "name_normalized": "scorza_d_arancia",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -26279,6 +28072,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito_in_polvere_per_dolci",
         "quantity": 16,
         "unit": "g",
         "is_main": false,
@@ -26289,6 +28083,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale_fino",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -26299,6 +28094,7 @@ export const RECIPES = [
       },
       {
         "name": "Mandorle in scaglie",
+        "name_normalized": "mandorla_in_scaglie",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -26309,6 +28105,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero_a_velo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -26365,6 +28162,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -26375,6 +28173,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -26385,6 +28184,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero",
         "quantity": 200,
         "unit": "g",
         "is_main": false,
@@ -26395,6 +28195,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -26405,6 +28206,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito in polvere",
         "quantity": 8,
         "unit": "g",
         "is_main": false,
@@ -26457,6 +28259,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 62,
         "unit": "g",
         "is_main": false,
@@ -26467,6 +28270,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 62,
         "unit": "g",
         "is_main": true,
@@ -26477,6 +28281,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 55,
         "unit": "g",
         "is_main": true,
@@ -26487,6 +28292,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 3,
         "unit": "g",
         "is_main": false,
@@ -26497,6 +28303,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 8,
         "unit": "g",
         "is_main": false,
@@ -26507,6 +28314,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 77,
         "unit": "g",
         "is_main": true,
@@ -26517,6 +28325,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uova",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -26527,6 +28336,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -26537,6 +28347,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -26547,6 +28358,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -26557,6 +28369,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -26567,6 +28380,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -26577,6 +28391,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 200,
         "unit": "g",
         "is_main": false,
@@ -26587,6 +28402,7 @@ export const RECIPES = [
       },
       {
         "name": "Cioccolato fondente",
+        "name_normalized": "cioccolato fondente",
         "quantity": 450,
         "unit": "g",
         "is_main": true,
@@ -26597,6 +28413,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -26607,6 +28424,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -26617,6 +28435,7 @@ export const RECIPES = [
       },
       {
         "name": "Fiocchi di sale",
+        "name_normalized": "fiocchi di sale",
         "quantity": 1,
         "unit": "pizzico",
         "is_main": false,
@@ -26681,6 +28500,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 270,
         "unit": "g",
         "is_main": true,
@@ -26691,6 +28511,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -26701,6 +28522,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero",
         "quantity": 220,
         "unit": "g",
         "is_main": false,
@@ -26711,6 +28533,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 6,
         "unit": "pz",
         "is_main": true,
@@ -26721,6 +28544,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -26731,6 +28555,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 500,
         "unit": "ml",
         "is_main": true,
@@ -26741,6 +28566,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di mais",
+        "name_normalized": "amido di mais",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -26751,6 +28577,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": false,
@@ -26761,6 +28588,7 @@ export const RECIPES = [
       },
       {
         "name": "Fragole",
+        "name_normalized": "fragola",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -26771,6 +28599,7 @@ export const RECIPES = [
       },
       {
         "name": "Kiwi",
+        "name_normalized": "kiwi",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -26781,6 +28610,7 @@ export const RECIPES = [
       },
       {
         "name": "Ananas",
+        "name_normalized": "ananas",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -26791,6 +28621,7 @@ export const RECIPES = [
       },
       {
         "name": "Mirtilli",
+        "name_normalized": "mirtillo",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -26801,6 +28632,7 @@ export const RECIPES = [
       },
       {
         "name": "Lamponi",
+        "name_normalized": "lampone",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -26811,6 +28643,7 @@ export const RECIPES = [
       },
       {
         "name": "More",
+        "name_normalized": "mora",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -26821,6 +28654,7 @@ export const RECIPES = [
       },
       {
         "name": "Menta",
+        "name_normalized": "menta",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -26881,6 +28715,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -26891,6 +28726,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 300,
         "unit": "g",
         "is_main": false,
@@ -26901,6 +28737,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": null,
         "unit": "pz",
         "is_main": true,
@@ -26911,6 +28748,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 180,
         "unit": "ml",
         "is_main": true,
@@ -26921,6 +28759,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -26931,6 +28770,7 @@ export const RECIPES = [
       },
       {
         "name": "Cioccolato fondente",
+        "name_normalized": "cioccolato fondente",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -26941,6 +28781,7 @@ export const RECIPES = [
       },
       {
         "name": "Cacao amaro in polvere",
+        "name_normalized": "cacao amaro in polvere",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -26951,6 +28792,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito in polvere per dolci",
         "quantity": 6,
         "unit": "g",
         "is_main": false,
@@ -26961,6 +28803,7 @@ export const RECIPES = [
       },
       {
         "name": "Bicarbonato",
+        "name_normalized": "bicarbonato",
         "quantity": 2,
         "unit": "g",
         "is_main": false,
@@ -27014,6 +28857,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 200,
         "unit": "ml",
         "is_main": false,
@@ -27024,6 +28868,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina_00",
         "quantity": 125,
         "unit": "g",
         "is_main": true,
@@ -27034,6 +28879,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -27044,6 +28890,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -27054,6 +28901,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -27064,6 +28912,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 200,
         "unit": "ml",
         "is_main": true,
@@ -27074,6 +28923,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna_fresca_liquida",
         "quantity": 50,
         "unit": "ml",
         "is_main": true,
@@ -27084,6 +28934,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 70,
         "unit": "g",
         "is_main": false,
@@ -27094,6 +28945,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -27104,6 +28956,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di mais",
+        "name_normalized": "amido_di_mais",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -27114,6 +28967,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza_di_limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -27124,6 +28978,7 @@ export const RECIPES = [
       },
       {
         "name": "Amarene sciroppate",
+        "name_normalized": "amarena_sciroppata",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -27134,6 +28989,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero_a_velo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -27192,6 +29048,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 300,
         "unit": "g",
         "is_main": false,
@@ -27202,6 +29059,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina_00",
         "quantity": 290,
         "unit": "g",
         "is_main": true,
@@ -27212,6 +29070,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 200,
         "unit": "ml",
         "is_main": false,
@@ -27222,6 +29081,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di girasole",
+        "name_normalized": "olio_di_semi_di_girasole",
         "quantity": 120,
         "unit": "ml",
         "is_main": false,
@@ -27232,6 +29092,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 6,
         "unit": "pz",
         "is_main": true,
@@ -27242,6 +29103,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello_di_vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -27252,6 +29114,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza_di_limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -27262,6 +29125,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito_in_polvere_per_dolci",
         "quantity": 16,
         "unit": "g",
         "is_main": false,
@@ -27272,6 +29136,7 @@ export const RECIPES = [
       },
       {
         "name": "Cremor tartaro",
+        "name_normalized": "cremor_tartaro",
         "quantity": 8,
         "unit": "g",
         "is_main": false,
@@ -27282,6 +29147,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale_fino",
         "quantity": 2,
         "unit": "g",
         "is_main": false,
@@ -27292,6 +29158,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero_a_velo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -27349,6 +29216,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cioccolato fondente al 50%",
+        "name_normalized": "cioccolato fondente",
         "quantity": 170,
         "unit": "g",
         "is_main": true,
@@ -27359,6 +29227,7 @@ export const RECIPES = [
       },
       {
         "name": "Mandorle pelate",
+        "name_normalized": "mandorla",
         "quantity": 85,
         "unit": "g",
         "is_main": true,
@@ -27369,6 +29238,7 @@ export const RECIPES = [
       },
       {
         "name": "Nocciole intere spellate di Giffoni",
+        "name_normalized": "nocciola",
         "quantity": 85,
         "unit": "g",
         "is_main": true,
@@ -27379,6 +29249,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero",
         "quantity": 170,
         "unit": "g",
         "is_main": false,
@@ -27389,6 +29260,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 170,
         "unit": "g",
         "is_main": true,
@@ -27399,6 +29271,7 @@ export const RECIPES = [
       },
       {
         "name": "Fecola di patate",
+        "name_normalized": "fecola di patate",
         "quantity": 25,
         "unit": "g",
         "is_main": true,
@@ -27409,6 +29282,7 @@ export const RECIPES = [
       },
       {
         "name": "Cacao amaro in polvere",
+        "name_normalized": "cacao",
         "quantity": 14,
         "unit": "g",
         "is_main": false,
@@ -27419,6 +29293,7 @@ export const RECIPES = [
       },
       {
         "name": "Albumi",
+        "name_normalized": "albume",
         "quantity": 148,
         "unit": "g",
         "is_main": true,
@@ -27429,6 +29304,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 85,
         "unit": "g",
         "is_main": true,
@@ -27439,6 +29315,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito",
         "quantity": 4,
         "unit": "g",
         "is_main": false,
@@ -27449,6 +29326,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia di Bourbon",
+        "name_normalized": "vaniglia",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": false,
@@ -27459,6 +29337,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -27469,6 +29348,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -27526,6 +29406,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -27536,6 +29417,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -27546,6 +29428,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 80,
         "unit": "g",
         "is_main": false,
@@ -27556,6 +29439,7 @@ export const RECIPES = [
       },
       {
         "name": "Gelatina in fogli",
+        "name_normalized": "gelatina in fogli",
         "quantity": 8,
         "unit": "g",
         "is_main": true,
@@ -27609,6 +29493,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Cioccolato fondente",
+        "name_normalized": "cioccolato fondente",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -27619,6 +29504,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -27629,6 +29515,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 130,
         "unit": "g",
         "is_main": true,
@@ -27639,6 +29526,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 85,
         "unit": "g",
         "is_main": true,
@@ -27649,6 +29537,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 80,
         "unit": "g",
         "is_main": false,
@@ -27659,6 +29548,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito in polvere per dolci",
         "quantity": 2.5,
         "unit": "g",
         "is_main": false,
@@ -27669,6 +29559,7 @@ export const RECIPES = [
       },
       {
         "name": "Cioccolato al latte",
+        "name_normalized": "cioccolato al latte",
         "quantity": 215,
         "unit": "g",
         "is_main": true,
@@ -27679,6 +29570,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 120,
         "unit": "ml",
         "is_main": true,
@@ -27689,6 +29581,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -27699,6 +29592,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -27709,6 +29603,7 @@ export const RECIPES = [
       },
       {
         "name": "Frutti di bosco",
+        "name_normalized": "frutto di bosco",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -27719,6 +29614,7 @@ export const RECIPES = [
       },
       {
         "name": "Menta",
+        "name_normalized": "menta",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -27777,6 +29673,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -27787,6 +29684,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -27797,6 +29695,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 200,
         "unit": "g",
         "is_main": false,
@@ -27807,6 +29706,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -27817,6 +29717,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -27827,6 +29728,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito in polvere per dolci",
         "quantity": 8,
         "unit": "g",
         "is_main": false,
@@ -27837,6 +29739,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -27847,6 +29750,7 @@ export const RECIPES = [
       },
       {
         "name": "Codette colorate",
+        "name_normalized": "codetta colorata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -27857,6 +29761,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 10,
         "unit": "pz",
         "is_main": true,
@@ -27914,6 +29819,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -27924,6 +29830,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 115,
         "unit": "g",
         "is_main": false,
@@ -27934,6 +29841,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -27944,6 +29852,7 @@ export const RECIPES = [
       },
       {
         "name": "Estratto di vaniglia",
+        "name_normalized": "estratto di vaniglia",
         "quantity": 1,
         "unit": "cucchiaino",
         "is_main": false,
@@ -27954,6 +29863,7 @@ export const RECIPES = [
       },
       {
         "name": "Nutella",
+        "name_normalized": "nutella",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -27964,6 +29874,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -27974,6 +29885,7 @@ export const RECIPES = [
       },
       {
         "name": "Cacao amaro in polvere",
+        "name_normalized": "cacao amaro in polvere",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -28029,6 +29941,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 320,
         "unit": "ml",
         "is_main": false,
@@ -28039,6 +29952,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -28049,6 +29963,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -28059,6 +29974,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -28069,6 +29985,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -28079,6 +29996,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito in polvere per dolci",
         "quantity": 13,
         "unit": "g",
         "is_main": false,
@@ -28089,6 +30007,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 3,
         "unit": "g",
         "is_main": false,
@@ -28099,6 +30018,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -28109,6 +30029,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -28119,6 +30040,7 @@ export const RECIPES = [
       },
       {
         "name": "Sciroppo di acero",
+        "name_normalized": "sciroppo di acero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -28129,6 +30051,7 @@ export const RECIPES = [
       },
       {
         "name": "Mirtilli",
+        "name_normalized": "mirtillo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -28184,6 +30107,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Banane",
+        "name_normalized": "banana",
         "quantity": 450,
         "unit": "g",
         "is_main": true,
@@ -28194,6 +30118,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -28204,6 +30129,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -28214,6 +30140,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 120,
         "unit": "g",
         "is_main": false,
@@ -28224,6 +30151,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -28234,6 +30162,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito in polvere per dolci",
+        "name_normalized": "lievito in polvere",
         "quantity": 6,
         "unit": "g",
         "is_main": false,
@@ -28244,6 +30173,7 @@ export const RECIPES = [
       },
       {
         "name": "Cannella in polvere",
+        "name_normalized": "cannella",
         "quantity": 0.5,
         "unit": "cucchiaini",
         "is_main": false,
@@ -28254,6 +30184,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -28264,6 +30195,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di limone",
+        "name_normalized": "succo di limone",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": false,
@@ -28274,6 +30206,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -28284,6 +30217,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -28340,6 +30274,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -28350,6 +30285,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -28360,6 +30296,7 @@ export const RECIPES = [
       },
       {
         "name": "Albumi",
+        "name_normalized": "albume",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -28370,6 +30307,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 0",
+        "name_normalized": "farina",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -28423,6 +30361,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Savoiardi",
+        "name_normalized": "savoiardo",
         "quantity": 40,
         "unit": "pz",
         "is_main": true,
@@ -28433,6 +30372,7 @@ export const RECIPES = [
       },
       {
         "name": "Fragole",
+        "name_normalized": "fragola",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -28443,6 +30383,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 70,
         "unit": "g",
         "is_main": false,
@@ -28453,6 +30394,7 @@ export const RECIPES = [
       },
       {
         "name": "Menta",
+        "name_normalized": "menta",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -28463,6 +30405,7 @@ export const RECIPES = [
       },
       {
         "name": "Mascarpone",
+        "name_normalized": "mascarpone",
         "quantity": 1.5,
         "unit": "kg",
         "is_main": true,
@@ -28473,6 +30416,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 500,
         "unit": "g",
         "is_main": false,
@@ -28483,6 +30427,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 12,
         "unit": "pz",
         "is_main": true,
@@ -28493,6 +30438,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 200,
         "unit": "g",
         "is_main": false,
@@ -28550,6 +30496,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 130,
         "unit": "g",
         "is_main": true,
@@ -28560,6 +30507,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 54,
         "unit": "g",
         "is_main": true,
@@ -28570,6 +30518,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 30,
         "unit": "ml",
         "is_main": false,
@@ -28580,6 +30529,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi",
+        "name_normalized": "olio",
         "quantity": 9,
         "unit": "g",
         "is_main": false,
@@ -28590,6 +30540,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -28600,6 +30551,7 @@ export const RECIPES = [
       },
       {
         "name": "Mele Golden",
+        "name_normalized": "mela golden",
         "quantity": 750,
         "unit": "g",
         "is_main": true,
@@ -28610,6 +30562,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -28620,6 +30573,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -28630,6 +30584,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -28640,6 +30595,7 @@ export const RECIPES = [
       },
       {
         "name": "Uvetta",
+        "name_normalized": "uvetta",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -28650,6 +30606,7 @@ export const RECIPES = [
       },
       {
         "name": "Pinoli",
+        "name_normalized": "pinolo",
         "quantity": 25,
         "unit": "g",
         "is_main": true,
@@ -28660,6 +30617,7 @@ export const RECIPES = [
       },
       {
         "name": "Cannella in polvere",
+        "name_normalized": "cannella",
         "quantity": 1,
         "unit": "cucchiaino",
         "is_main": false,
@@ -28670,6 +30628,7 @@ export const RECIPES = [
       },
       {
         "name": "Rum",
+        "name_normalized": "rum",
         "quantity": 2,
         "unit": "cucchiai",
         "is_main": true,
@@ -28680,6 +30639,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -28690,6 +30650,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -28700,6 +30661,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -28760,6 +30722,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Biscotti Digestive",
+        "name_normalized": "biscotto digestive",
         "quantity": 180,
         "unit": "g",
         "is_main": true,
@@ -28770,6 +30733,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -28780,6 +30744,7 @@ export const RECIPES = [
       },
       {
         "name": "Nutella",
+        "name_normalized": "nutella",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -28790,6 +30755,7 @@ export const RECIPES = [
       },
       {
         "name": "Formaggio fresco spalmabile",
+        "name_normalized": "formaggio fresco spalmabile",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -28800,6 +30766,7 @@ export const RECIPES = [
       },
       {
         "name": "Granella di nocciole",
+        "name_normalized": "granella di nocciola",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -28854,6 +30821,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -28864,6 +30832,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -28874,6 +30843,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 300,
         "unit": "ml",
         "is_main": false,
@@ -28884,6 +30854,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -28894,6 +30865,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 4,
         "unit": "g",
         "is_main": true,
@@ -28951,6 +30923,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 230,
         "unit": "ml",
         "is_main": true,
@@ -28961,6 +30934,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 550,
         "unit": "g",
         "is_main": true,
@@ -28971,6 +30945,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -28981,6 +30956,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -28991,6 +30967,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -29001,6 +30978,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -29011,6 +30989,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 14,
         "unit": "g",
         "is_main": true,
@@ -29021,6 +31000,7 @@ export const RECIPES = [
       },
       {
         "name": "Prosciutto cotto",
+        "name_normalized": "prosciutto cotto",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -29031,6 +31011,7 @@ export const RECIPES = [
       },
       {
         "name": "Scamorza (provola)",
+        "name_normalized": "scamorza",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -29041,6 +31022,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 20,
         "unit": "ml",
         "is_main": false,
@@ -29051,6 +31033,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -29108,6 +31091,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -29118,6 +31102,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 315,
         "unit": "ml",
         "is_main": true,
@@ -29128,6 +31113,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -29138,6 +31124,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 4,
         "unit": "g",
         "is_main": true,
@@ -29148,6 +31135,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -29158,6 +31146,7 @@ export const RECIPES = [
       },
       {
         "name": "Fiocchi di sale",
+        "name_normalized": "fiocchi di sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -29168,6 +31157,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -29225,6 +31215,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 380,
         "unit": "g",
         "is_main": true,
@@ -29235,6 +31226,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 30,
         "unit": "ml",
         "is_main": false,
@@ -29245,6 +31237,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 70,
         "unit": "ml",
         "is_main": false,
@@ -29255,6 +31248,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 10,
         "unit": "g",
         "is_main": true,
@@ -29265,6 +31259,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -29275,6 +31270,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -29285,6 +31281,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -29295,6 +31292,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 4,
         "unit": "g",
         "is_main": false,
@@ -29305,6 +31303,7 @@ export const RECIPES = [
       },
       {
         "name": "Arancia candita",
+        "name_normalized": "arancia candita",
         "quantity": 35,
         "unit": "g",
         "is_main": true,
@@ -29315,6 +31314,7 @@ export const RECIPES = [
       },
       {
         "name": "Uvetta",
+        "name_normalized": "uvetta",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -29325,6 +31325,7 @@ export const RECIPES = [
       },
       {
         "name": "Pasta di arance",
+        "name_normalized": "pasta di arance",
         "quantity": 35,
         "unit": "g",
         "is_main": true,
@@ -29335,6 +31336,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -29345,6 +31347,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di mais",
+        "name_normalized": "amido di mais",
         "quantity": 8,
         "unit": "g",
         "is_main": false,
@@ -29355,6 +31358,7 @@ export const RECIPES = [
       },
       {
         "name": "Mandorle pelate",
+        "name_normalized": "mandorla pelata",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -29365,6 +31369,7 @@ export const RECIPES = [
       },
       {
         "name": "Albumi",
+        "name_normalized": "albume",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -29375,6 +31380,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina di mais fioretto",
+        "name_normalized": "farina di mais fioretto",
         "quantity": 15,
         "unit": "g",
         "is_main": false,
@@ -29385,6 +31391,7 @@ export const RECIPES = [
       },
       {
         "name": "Nocciole intere spellate",
+        "name_normalized": "nocciola intera spellata",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -29395,6 +31402,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero di canna",
+        "name_normalized": "zucchero di canna",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -29405,6 +31413,7 @@ export const RECIPES = [
       },
       {
         "name": "Granella di zucchero",
+        "name_normalized": "granella di zucchero",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -29415,6 +31424,7 @@ export const RECIPES = [
       },
       {
         "name": "Mandorle",
+        "name_normalized": "mandorla",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -29484,6 +31494,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -29494,6 +31505,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 0",
+        "name_normalized": "farina 0",
         "quantity": 180,
         "unit": "g",
         "is_main": true,
@@ -29504,6 +31516,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 360,
         "unit": "ml",
         "is_main": false,
@@ -29514,6 +31527,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 17,
         "unit": "g",
         "is_main": true,
@@ -29524,6 +31538,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -29534,6 +31549,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 12,
         "unit": "g",
         "is_main": false,
@@ -29544,6 +31560,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -29554,6 +31571,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova sode",
+        "name_normalized": "uovo sodo",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -29564,6 +31582,7 @@ export const RECIPES = [
       },
       {
         "name": "Salame napoletano",
+        "name_normalized": "salame napoletano",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -29574,6 +31593,7 @@ export const RECIPES = [
       },
       {
         "name": "Cicoli",
+        "name_normalized": "cicoli",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -29584,6 +31604,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino Romano DOP",
+        "name_normalized": "pecorino romano dop",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -29594,6 +31615,7 @@ export const RECIPES = [
       },
       {
         "name": "Provolone",
+        "name_normalized": "provolone",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -29604,6 +31626,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -29614,6 +31637,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -29624,6 +31648,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -29681,6 +31706,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00 di grano tenero",
+        "name_normalized": "farina 00",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -29691,6 +31717,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 25,
         "unit": "g",
         "is_main": true,
@@ -29701,6 +31728,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 15,
         "unit": "g",
         "is_main": false,
@@ -29711,6 +31739,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -29721,6 +31750,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 300,
         "unit": "ml",
         "is_main": false,
@@ -29731,6 +31761,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori perini",
+        "name_normalized": "pomodoro perino",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -29741,6 +31772,7 @@ export const RECIPES = [
       },
       {
         "name": "Olive baresane",
+        "name_normalized": "oliva baresana",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -29751,6 +31783,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodorini ciliegino",
+        "name_normalized": "pomodorino ciliegino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -29761,6 +31794,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -29771,6 +31805,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -29828,6 +31863,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -29838,6 +31874,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -29848,6 +31885,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 350,
         "unit": "ml",
         "is_main": false,
@@ -29858,6 +31896,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 7,
         "unit": "g",
         "is_main": true,
@@ -29868,6 +31907,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 8,
         "unit": "g",
         "is_main": false,
@@ -29878,6 +31918,7 @@ export const RECIPES = [
       },
       {
         "name": "Malto",
+        "name_normalized": "malto",
         "quantity": 1,
         "unit": "cucchiaino",
         "is_main": true,
@@ -29936,6 +31977,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 0",
+        "name_normalized": "farina",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -29946,6 +31988,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 340,
         "unit": "ml",
         "is_main": false,
@@ -29956,6 +31999,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 7,
         "unit": "g",
         "is_main": true,
@@ -29966,6 +32010,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine di oliva",
         "quantity": 85,
         "unit": "g",
         "is_main": false,
@@ -29976,6 +32021,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -29986,6 +32032,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale di maldon",
+        "name_normalized": "sale di maldon",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -30042,6 +32089,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -30052,6 +32100,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -30062,6 +32111,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 7,
         "unit": "g",
         "is_main": true,
@@ -30072,6 +32122,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 300,
         "unit": "ml",
         "is_main": true,
@@ -30082,6 +32133,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -30092,6 +32144,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -30102,6 +32155,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 7,
         "unit": "g",
         "is_main": false,
@@ -30112,6 +32166,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -30122,6 +32177,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 20,
         "unit": "ml",
         "is_main": true,
@@ -30176,6 +32232,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 0",
+        "name_normalized": "farina",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -30186,6 +32243,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 310,
         "unit": "ml",
         "is_main": false,
@@ -30196,6 +32254,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 25,
         "unit": "g",
         "is_main": false,
@@ -30206,6 +32265,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -30216,6 +32276,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra",
         "quantity": 6,
         "unit": "g",
         "is_main": true,
@@ -30226,6 +32287,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -30236,6 +32298,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori pelati",
+        "name_normalized": "pomodoro pelato",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -30246,6 +32309,7 @@ export const RECIPES = [
       },
       {
         "name": "Caciocavallo",
+        "name_normalized": "caciocavallo",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -30256,6 +32320,7 @@ export const RECIPES = [
       },
       {
         "name": "Prosciutto cotto",
+        "name_normalized": "prosciutto cotto",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -30266,6 +32331,7 @@ export const RECIPES = [
       },
       {
         "name": "Pasta Sfoglia",
+        "name_normalized": "pasta sfoglia",
         "quantity": 230,
         "unit": "g",
         "is_main": true,
@@ -30276,6 +32342,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca",
         "quantity": 2,
         "unit": "cucchiai",
         "is_main": true,
@@ -30286,6 +32353,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -30296,6 +32364,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -30355,6 +32424,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -30365,6 +32435,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -30375,6 +32446,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 130,
         "unit": "g",
         "is_main": false,
@@ -30385,6 +32457,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 215,
         "unit": "g",
         "is_main": false,
@@ -30395,6 +32468,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -30405,6 +32479,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -30415,6 +32490,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -30425,6 +32501,7 @@ export const RECIPES = [
       },
       {
         "name": "Estratto di vaniglia",
+        "name_normalized": "estratto di vaniglia",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -30435,6 +32512,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fine",
         "quantity": 6,
         "unit": "g",
         "is_main": false,
@@ -30445,6 +32523,7 @@ export const RECIPES = [
       },
       {
         "name": "Cannella in polvere",
+        "name_normalized": "cannella in polvere",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -30455,6 +32534,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": 150,
         "unit": "g",
         "is_main": false,
@@ -30515,6 +32595,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 340,
         "unit": "g",
         "is_main": true,
@@ -30525,6 +32606,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 185,
         "unit": "ml",
         "is_main": false,
@@ -30535,6 +32617,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -30545,6 +32628,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra secco",
+        "name_normalized": "lievito di birra",
         "quantity": 2,
         "unit": "g",
         "is_main": true,
@@ -30555,6 +32639,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 15,
         "unit": "g",
         "is_main": true,
@@ -30565,6 +32650,7 @@ export const RECIPES = [
       },
       {
         "name": "Fiocchi di sale",
+        "name_normalized": "fiocchi di sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -30575,6 +32661,7 @@ export const RECIPES = [
       },
       {
         "name": "Bicarbonato",
+        "name_normalized": "bicarbonato",
         "quantity": 35,
         "unit": "g",
         "is_main": true,
@@ -30585,6 +32672,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 2,
         "unit": "l",
         "is_main": false,
@@ -30642,6 +32730,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -30652,6 +32741,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -30662,6 +32752,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 12,
         "unit": "g",
         "is_main": true,
@@ -30672,6 +32763,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza d'arancia",
+        "name_normalized": "scorza di arancia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -30682,6 +32774,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -30692,6 +32785,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -30702,6 +32796,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 2,
         "unit": "g",
         "is_main": false,
@@ -30712,6 +32807,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 90,
         "unit": "ml",
         "is_main": false,
@@ -30722,6 +32818,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -30732,6 +32829,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -30742,6 +32840,7 @@ export const RECIPES = [
       },
       {
         "name": "Rum",
+        "name_normalized": "rum",
         "quantity": 12,
         "unit": "ml",
         "is_main": true,
@@ -30752,6 +32851,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -30762,6 +32862,7 @@ export const RECIPES = [
       },
       {
         "name": "Arancia candita",
+        "name_normalized": "arancia candita",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -30772,6 +32873,7 @@ export const RECIPES = [
       },
       {
         "name": "Uvetta",
+        "name_normalized": "uvetta",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -30782,6 +32884,7 @@ export const RECIPES = [
       },
       {
         "name": "Mandorle pelate",
+        "name_normalized": "mandorla pelata",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -30792,6 +32895,7 @@ export const RECIPES = [
       },
       {
         "name": "Nocciole intere spellate",
+        "name_normalized": "nocciola intera spellata",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -30802,6 +32906,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero di canna",
+        "name_normalized": "zucchero di canna",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -30812,6 +32917,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di mais (maizena)",
+        "name_normalized": "amido di mais",
         "quantity": 8,
         "unit": "g",
         "is_main": true,
@@ -30822,6 +32928,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina di mais fioretto",
+        "name_normalized": "farina di mais fioretto",
         "quantity": 15,
         "unit": "g",
         "is_main": true,
@@ -30832,6 +32939,7 @@ export const RECIPES = [
       },
       {
         "name": "Albumi",
+        "name_normalized": "albume",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -30842,6 +32950,7 @@ export const RECIPES = [
       },
       {
         "name": "Granella di zucchero",
+        "name_normalized": "granella di zucchero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -30852,6 +32961,7 @@ export const RECIPES = [
       },
       {
         "name": "Mandorle",
+        "name_normalized": "mandorla",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -30912,6 +33022,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -30922,6 +33033,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -30932,6 +33044,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte",
+        "name_normalized": "latte",
         "quantity": 250,
         "unit": "ml",
         "is_main": true,
@@ -30942,6 +33055,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 75,
         "unit": "g",
         "is_main": true,
@@ -30952,6 +33066,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 70,
         "unit": "g",
         "is_main": false,
@@ -30962,6 +33077,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -30972,6 +33088,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 12,
         "unit": "g",
         "is_main": true,
@@ -30982,6 +33099,7 @@ export const RECIPES = [
       },
       {
         "name": "Estratto di vaniglia",
+        "name_normalized": "estratto di vaniglia",
         "quantity": 1,
         "unit": "cucchiaino",
         "is_main": false,
@@ -30992,6 +33110,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 6,
         "unit": "g",
         "is_main": false,
@@ -31002,6 +33121,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": 150,
         "unit": "g",
         "is_main": false,
@@ -31012,6 +33132,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -31022,6 +33143,7 @@ export const RECIPES = [
       },
       {
         "name": "Cioccolato fondente",
+        "name_normalized": "cioccolato fondente",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -31032,6 +33154,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -31042,6 +33165,7 @@ export const RECIPES = [
       },
       {
         "name": "Coloranti alimentari",
+        "name_normalized": "colorante alimentare",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -31052,6 +33176,7 @@ export const RECIPES = [
       },
       {
         "name": "Confettini colorati",
+        "name_normalized": "confettino colorato",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -31062,6 +33187,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di arachide",
+        "name_normalized": "olio di semi di arachide",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -31123,6 +33249,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 120,
         "unit": "ml",
         "is_main": true,
@@ -31133,6 +33260,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina_00",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -31143,6 +33271,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra secco",
+        "name_normalized": "lievito_birra",
         "quantity": 3,
         "unit": "g",
         "is_main": true,
@@ -31153,6 +33282,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -31163,6 +33293,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina_manitoba",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -31173,6 +33304,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -31183,6 +33315,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 250,
         "unit": "g",
         "is_main": false,
@@ -31193,6 +33326,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 130,
         "unit": "g",
         "is_main": true,
@@ -31203,6 +33337,7 @@ export const RECIPES = [
       },
       {
         "name": "Miele di acacia",
+        "name_normalized": "miele",
         "quantity": 8,
         "unit": "g",
         "is_main": true,
@@ -31213,6 +33348,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza_limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -31223,6 +33359,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 8,
         "unit": "g",
         "is_main": false,
@@ -31233,6 +33370,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di arachide",
+        "name_normalized": "olio_arachide",
         "quantity": 1,
         "unit": "l",
         "is_main": false,
@@ -31290,6 +33428,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 0",
+        "name_normalized": "farina 0",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -31300,6 +33439,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 375,
         "unit": "ml",
         "is_main": false,
@@ -31310,6 +33450,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 10,
         "unit": "g",
         "is_main": true,
@@ -31320,6 +33461,7 @@ export const RECIPES = [
       },
       {
         "name": "Miele",
+        "name_normalized": "miele",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -31330,6 +33472,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 15,
         "unit": "g",
         "is_main": false,
@@ -31392,6 +33535,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -31402,6 +33546,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -31412,6 +33557,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 300,
         "unit": "ml",
         "is_main": false,
@@ -31422,6 +33568,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 25,
         "unit": "g",
         "is_main": false,
@@ -31432,6 +33579,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -31442,6 +33590,7 @@ export const RECIPES = [
       },
       {
         "name": "Miele",
+        "name_normalized": "miele",
         "quantity": 8,
         "unit": "g",
         "is_main": true,
@@ -31452,6 +33601,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra secco",
+        "name_normalized": "lievito di birra secco",
         "quantity": 5,
         "unit": "g",
         "is_main": true,
@@ -31462,6 +33612,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodorini ciliegino",
+        "name_normalized": "pomodorino ciliegino",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -31472,6 +33623,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -31482,6 +33634,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -31492,6 +33645,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale grosso",
+        "name_normalized": "sale grosso",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -31549,6 +33703,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 0",
+        "name_normalized": "farina 0",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -31559,6 +33714,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 370,
         "unit": "g",
         "is_main": false,
@@ -31569,6 +33725,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -31579,6 +33736,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 15,
         "unit": "g",
         "is_main": false,
@@ -31589,6 +33747,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra secco",
+        "name_normalized": "lievito di birra secco",
         "quantity": 6,
         "unit": "g",
         "is_main": true,
@@ -31599,6 +33758,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -31609,6 +33769,7 @@ export const RECIPES = [
       },
       {
         "name": "Fiordilatte",
+        "name_normalized": "fiordilatte",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -31619,6 +33780,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -31629,6 +33791,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -31690,6 +33853,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -31700,6 +33864,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 420,
         "unit": "g",
         "is_main": false,
@@ -31710,6 +33875,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 16,
         "unit": "g",
         "is_main": false,
@@ -31720,6 +33886,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -31730,6 +33897,7 @@ export const RECIPES = [
       },
       {
         "name": "Crescenza",
+        "name_normalized": "crescenza",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -31788,6 +33956,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 0",
+        "name_normalized": "farina",
         "quantity": 700,
         "unit": "g",
         "is_main": true,
@@ -31798,6 +33967,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 500,
         "unit": "ml",
         "is_main": false,
@@ -31808,6 +33978,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito_di_birra",
         "quantity": 4,
         "unit": "g",
         "is_main": true,
@@ -31818,6 +33989,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -31828,6 +34000,7 @@ export const RECIPES = [
       },
       {
         "name": "Scarola",
+        "name_normalized": "scarola",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -31838,6 +34011,7 @@ export const RECIPES = [
       },
       {
         "name": "Olive di Gaeta",
+        "name_normalized": "oliva",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -31848,6 +34022,7 @@ export const RECIPES = [
       },
       {
         "name": "Capperi sotto sale",
+        "name_normalized": "cappero",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -31858,6 +34033,7 @@ export const RECIPES = [
       },
       {
         "name": "Acciughe sott'olio",
+        "name_normalized": "acciuga",
         "quantity": 10,
         "unit": "g",
         "is_main": true,
@@ -31868,6 +34044,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio_extravergine_d_oliva",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -31878,6 +34055,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio_extravergine_d_oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -31938,6 +34116,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina mix manitoba e 00",
+        "name_normalized": "farina",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -31948,6 +34127,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -31958,6 +34138,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 80,
         "unit": "ml",
         "is_main": true,
@@ -31968,6 +34149,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra secco",
+        "name_normalized": "lievito di birra",
         "quantity": 4,
         "unit": "g",
         "is_main": true,
@@ -31978,6 +34160,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 176,
         "unit": "g",
         "is_main": true,
@@ -31988,6 +34171,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -31998,6 +34182,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -32008,6 +34193,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -32018,6 +34204,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza d'arancia",
+        "name_normalized": "scorza di arancia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -32028,6 +34215,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -32038,6 +34226,7 @@ export const RECIPES = [
       },
       {
         "name": "Rum bianco",
+        "name_normalized": "rum",
         "quantity": 10,
         "unit": "ml",
         "is_main": false,
@@ -32048,6 +34237,7 @@ export const RECIPES = [
       },
       {
         "name": "Albumi",
+        "name_normalized": "albume",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -32058,6 +34248,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -32068,6 +34259,7 @@ export const RECIPES = [
       },
       {
         "name": "Granella di zucchero",
+        "name_normalized": "granella di zucchero",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -32133,6 +34325,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 312,
         "unit": "g",
         "is_main": true,
@@ -32143,6 +34336,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito madre",
+        "name_normalized": "lievito madre",
         "quantity": 65,
         "unit": "g",
         "is_main": true,
@@ -32153,6 +34347,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 125,
         "unit": "ml",
         "is_main": false,
@@ -32163,6 +34358,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 130,
         "unit": "g",
         "is_main": true,
@@ -32173,6 +34369,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 240,
         "unit": "g",
         "is_main": false,
@@ -32183,6 +34380,7 @@ export const RECIPES = [
       },
       {
         "name": "Malto",
+        "name_normalized": "malto",
         "quantity": 2,
         "unit": "g",
         "is_main": false,
@@ -32193,6 +34391,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -32203,6 +34402,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 2,
         "unit": "g",
         "is_main": false,
@@ -32213,6 +34413,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -32223,6 +34424,7 @@ export const RECIPES = [
       },
       {
         "name": "Miele di acacia",
+        "name_normalized": "miele",
         "quantity": 16,
         "unit": "g",
         "is_main": true,
@@ -32233,6 +34435,7 @@ export const RECIPES = [
       },
       {
         "name": "Cedro candito",
+        "name_normalized": "cedro candito",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -32243,6 +34446,7 @@ export const RECIPES = [
       },
       {
         "name": "Arancia candita",
+        "name_normalized": "arancia candita",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -32253,6 +34457,7 @@ export const RECIPES = [
       },
       {
         "name": "Pasta di arance",
+        "name_normalized": "pasta di arance",
         "quantity": 75,
         "unit": "g",
         "is_main": true,
@@ -32263,6 +34468,7 @@ export const RECIPES = [
       },
       {
         "name": "Pasta di mandarini",
+        "name_normalized": "pasta di mandarini",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -32273,6 +34479,7 @@ export const RECIPES = [
       },
       {
         "name": "Pasta di limoni",
+        "name_normalized": "pasta di limoni",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -32283,6 +34490,7 @@ export const RECIPES = [
       },
       {
         "name": "Uvetta sultanina",
+        "name_normalized": "uvetta",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -32293,6 +34501,7 @@ export const RECIPES = [
       },
       {
         "name": "Mandarini",
+        "name_normalized": "mandarino",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -32360,6 +34569,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -32370,6 +34580,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 110,
         "unit": "g",
         "is_main": true,
@@ -32380,6 +34591,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 72,
         "unit": "ml",
         "is_main": true,
@@ -32390,6 +34602,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -32400,6 +34613,7 @@ export const RECIPES = [
       },
       {
         "name": "Miele",
+        "name_normalized": "miele",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -32410,6 +34624,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -32420,6 +34635,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 9,
         "unit": "g",
         "is_main": true,
@@ -32430,6 +34646,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 3,
         "unit": "g",
         "is_main": false,
@@ -32440,6 +34657,7 @@ export const RECIPES = [
       },
       {
         "name": "Estratto di vaniglia",
+        "name_normalized": "estratto di vaniglia",
         "quantity": 1,
         "unit": "cucchiaino",
         "is_main": false,
@@ -32450,6 +34668,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -32507,6 +34726,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 530,
         "unit": "g",
         "is_main": true,
@@ -32517,6 +34737,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 430,
         "unit": "ml",
         "is_main": true,
@@ -32527,6 +34748,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -32537,6 +34759,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -32547,6 +34770,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra secco",
+        "name_normalized": "lievito di birra secco",
         "quantity": 4,
         "unit": "g",
         "is_main": true,
@@ -32557,6 +34781,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -32567,6 +34792,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -32577,6 +34803,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -32587,6 +34814,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -32597,6 +34825,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 50,
         "unit": "ml",
         "is_main": false,
@@ -32607,6 +34836,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 50,
         "unit": "ml",
         "is_main": true,
@@ -32617,6 +34847,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -32627,6 +34858,7 @@ export const RECIPES = [
       },
       {
         "name": "Amido di mais",
+        "name_normalized": "amido di mais",
         "quantity": 25,
         "unit": "g",
         "is_main": true,
@@ -32637,6 +34869,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -32696,6 +34929,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -32706,6 +34940,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 180,
         "unit": "ml",
         "is_main": false,
@@ -32716,6 +34951,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 6,
         "unit": "g",
         "is_main": true,
@@ -32726,6 +34962,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 7,
         "unit": "g",
         "is_main": false,
@@ -32736,6 +34973,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -32746,6 +34984,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -32804,6 +35043,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina per pinsa",
+        "name_normalized": "farina per pinsa",
         "quantity": 1000,
         "unit": "g",
         "is_main": true,
@@ -32814,6 +35054,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 7,
         "unit": "g",
         "is_main": true,
@@ -32824,6 +35065,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 750,
         "unit": "ml",
         "is_main": false,
@@ -32834,6 +35076,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -32844,6 +35087,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -32854,6 +35098,7 @@ export const RECIPES = [
       },
       {
         "name": "Semola di grano duro rimacinata",
+        "name_normalized": "semola di grano duro rimacinata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -32915,6 +35160,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -32925,6 +35171,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -32935,6 +35182,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -32945,6 +35193,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -32955,6 +35204,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 25,
         "unit": "g",
         "is_main": true,
@@ -32965,6 +35215,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -32975,6 +35226,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 1.5,
         "unit": "l",
         "is_main": false,
@@ -32985,6 +35237,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 600,
         "unit": "g",
         "is_main": false,
@@ -32995,6 +35248,7 @@ export const RECIPES = [
       },
       {
         "name": "Rum",
+        "name_normalized": "rum",
         "quantity": 300,
         "unit": "ml",
         "is_main": true,
@@ -33005,6 +35259,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -33015,6 +35270,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza d'arancia",
+        "name_normalized": "scorza di arancia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -33025,6 +35281,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -33035,6 +35292,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -33045,6 +35303,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -33055,6 +35314,7 @@ export const RECIPES = [
       },
       {
         "name": "Fragole",
+        "name_normalized": "fragola",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -33065,6 +35325,7 @@ export const RECIPES = [
       },
       {
         "name": "Menta",
+        "name_normalized": "menta",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -33126,6 +35387,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 0",
+        "name_normalized": "farina 0",
         "quantity": 1000,
         "unit": "g",
         "is_main": true,
@@ -33136,6 +35398,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 700,
         "unit": "ml",
         "is_main": false,
@@ -33146,6 +35409,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra secco",
+        "name_normalized": "lievito di birra secco",
         "quantity": 5,
         "unit": "g",
         "is_main": true,
@@ -33156,6 +35420,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -33166,6 +35431,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 25,
         "unit": "g",
         "is_main": false,
@@ -33176,6 +35442,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori pelati",
+        "name_normalized": "pomodoro pelato",
         "quantity": 1000,
         "unit": "g",
         "is_main": true,
@@ -33186,6 +35453,7 @@ export const RECIPES = [
       },
       {
         "name": "Mozzarella",
+        "name_normalized": "mozzarella",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -33196,6 +35464,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano dop",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -33206,6 +35475,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -33216,6 +35486,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -33226,6 +35497,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -33288,6 +35560,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -33298,6 +35571,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -33308,6 +35582,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 340,
         "unit": "ml",
         "is_main": false,
@@ -33318,6 +35593,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 3,
         "unit": "g",
         "is_main": true,
@@ -33328,6 +35604,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -33338,6 +35615,7 @@ export const RECIPES = [
       },
       {
         "name": "Miele",
+        "name_normalized": "miele",
         "quantity": 5,
         "unit": "g",
         "is_main": true,
@@ -33348,6 +35626,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -33358,6 +35637,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -33368,6 +35648,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -33426,6 +35707,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Uva passa",
+        "name_normalized": "uva passa",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -33436,6 +35718,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -33446,6 +35729,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 0",
+        "name_normalized": "farina 0",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -33456,6 +35740,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -33466,6 +35751,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 1195,
         "unit": "ml",
         "is_main": false,
@@ -33476,6 +35762,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -33552,6 +35839,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -33562,6 +35850,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 0",
+        "name_normalized": "farina 0",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -33572,6 +35861,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 300,
         "unit": "ml",
         "is_main": true,
@@ -33582,6 +35872,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 150,
         "unit": "ml",
         "is_main": false,
@@ -33592,6 +35883,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -33602,6 +35894,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 50,
         "unit": "ml",
         "is_main": false,
@@ -33612,6 +35905,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 10,
         "unit": "g",
         "is_main": true,
@@ -33622,6 +35916,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -33678,6 +35973,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 450,
         "unit": "g",
         "is_main": true,
@@ -33688,6 +35984,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 125,
         "unit": "ml",
         "is_main": false,
@@ -33698,6 +35995,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 125,
         "unit": "ml",
         "is_main": true,
@@ -33708,6 +36006,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 15,
         "unit": "g",
         "is_main": true,
@@ -33718,6 +36017,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -33728,6 +36028,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -33738,6 +36039,7 @@ export const RECIPES = [
       },
       {
         "name": "Mortadella",
+        "name_normalized": "mortadella",
         "quantity": 125,
         "unit": "g",
         "is_main": true,
@@ -33748,6 +36050,7 @@ export const RECIPES = [
       },
       {
         "name": "Salame napoletano",
+        "name_normalized": "salame napoletano",
         "quantity": 125,
         "unit": "g",
         "is_main": true,
@@ -33758,6 +36061,7 @@ export const RECIPES = [
       },
       {
         "name": "Provolone piccante",
+        "name_normalized": "provolone piccante",
         "quantity": 125,
         "unit": "g",
         "is_main": true,
@@ -33768,6 +36072,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova sode",
+        "name_normalized": "uovo sodo",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -33778,6 +36083,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino Romano DOP",
+        "name_normalized": "pecorino romano dop",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -33788,6 +36094,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -33798,6 +36105,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -33808,6 +36116,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -33867,6 +36176,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -33877,6 +36187,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -33887,6 +36198,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 140,
         "unit": "ml",
         "is_main": false,
@@ -33897,6 +36209,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -33907,6 +36220,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -33917,6 +36231,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -33927,6 +36242,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 15,
         "unit": "g",
         "is_main": true,
@@ -33937,6 +36253,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 6,
         "unit": "g",
         "is_main": false,
@@ -33947,6 +36264,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi",
+        "name_normalized": "olio di semi",
         "quantity": 1,
         "unit": "l",
         "is_main": false,
@@ -33957,6 +36275,7 @@ export const RECIPES = [
       },
       {
         "name": "Crema pasticcera",
+        "name_normalized": "crema pasticcera",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -33967,6 +36286,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -34027,6 +36347,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -34037,6 +36358,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 360,
         "unit": "ml",
         "is_main": false,
@@ -34047,6 +36369,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 2,
         "unit": "g",
         "is_main": true,
@@ -34057,6 +36380,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina integrale",
+        "name_normalized": "farina integrale",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -34067,6 +36391,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 2",
+        "name_normalized": "farina tipo 2",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -34077,6 +36402,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -34087,6 +36413,7 @@ export const RECIPES = [
       },
       {
         "name": "Malto",
+        "name_normalized": "malto",
         "quantity": 1,
         "unit": "cucchiaino",
         "is_main": true,
@@ -34145,6 +36472,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 535,
         "unit": "g",
         "is_main": true,
@@ -34155,6 +36483,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra fresco",
         "quantity": 13,
         "unit": "g",
         "is_main": true,
@@ -34165,6 +36494,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 75,
         "unit": "ml",
         "is_main": false,
@@ -34175,6 +36505,7 @@ export const RECIPES = [
       },
       {
         "name": "Malto",
+        "name_normalized": "malto",
         "quantity": 1,
         "unit": "cucchiaino",
         "is_main": true,
@@ -34185,6 +36516,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 75,
         "unit": "g",
         "is_main": false,
@@ -34195,6 +36527,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 120,
         "unit": "ml",
         "is_main": true,
@@ -34205,6 +36538,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -34215,6 +36549,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 170,
         "unit": "g",
         "is_main": true,
@@ -34225,6 +36560,7 @@ export const RECIPES = [
       },
       {
         "name": "Gocce di cioccolato fondente",
+        "name_normalized": "goccia di cioccolato fondente",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -34235,6 +36571,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -34245,6 +36582,7 @@ export const RECIPES = [
       },
       {
         "name": "Albumi",
+        "name_normalized": "albume",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -34255,6 +36593,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero a velo",
+        "name_normalized": "zucchero a velo",
         "quantity": 150,
         "unit": "g",
         "is_main": false,
@@ -34310,6 +36649,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 0",
+        "name_normalized": "farina",
         "quantity": 475,
         "unit": "g",
         "is_main": true,
@@ -34320,6 +36660,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 100,
         "unit": "g",
         "is_main": false,
@@ -34330,6 +36671,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra fresco",
+        "name_normalized": "lievito di birra",
         "quantity": 10,
         "unit": "g",
         "is_main": true,
@@ -34340,6 +36682,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -34350,6 +36693,7 @@ export const RECIPES = [
       },
       {
         "name": "Baccello di vaniglia",
+        "name_normalized": "baccello di vaniglia",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -34360,6 +36704,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 160,
         "unit": "ml",
         "is_main": false,
@@ -34370,6 +36715,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorli",
+        "name_normalized": "tuorlo",
         "quantity": 105,
         "unit": "g",
         "is_main": true,
@@ -34380,6 +36726,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -34390,6 +36737,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 90,
         "unit": "g",
         "is_main": true,
@@ -34400,6 +36748,7 @@ export const RECIPES = [
       },
       {
         "name": "Tuorlo",
+        "name_normalized": "tuorlo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -34410,6 +36759,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca",
         "quantity": 2,
         "unit": "cucchiai",
         "is_main": true,
@@ -34469,6 +36819,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate gialle",
+        "name_normalized": "patata gialla",
         "quantity": 1500,
         "unit": "g",
         "is_main": true,
@@ -34479,6 +36830,7 @@ export const RECIPES = [
       },
       {
         "name": "Prosciutto cotto",
+        "name_normalized": "prosciutto cotto",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -34489,6 +36841,7 @@ export const RECIPES = [
       },
       {
         "name": "Mozzarella di bufala affumicata",
+        "name_normalized": "mozzarella di bufala affumicata",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -34499,6 +36852,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -34509,6 +36863,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -34519,6 +36874,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -34529,6 +36885,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -34539,6 +36896,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -34549,6 +36907,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -34603,6 +36962,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Spaghetti",
+        "name_normalized": "spaghetto",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -34613,6 +36973,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 5,
         "unit": "pz",
         "is_main": true,
@@ -34623,6 +36984,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte",
         "quantity": 100,
         "unit": "ml",
         "is_main": true,
@@ -34633,6 +36995,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -34643,6 +37006,7 @@ export const RECIPES = [
       },
       {
         "name": "Scamorza affumicata",
+        "name_normalized": "scamorza",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -34653,6 +37017,7 @@ export const RECIPES = [
       },
       {
         "name": "Pancetta affumicata",
+        "name_normalized": "pancetta",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -34663,6 +37028,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 1,
         "unit": "rametto",
         "is_main": false,
@@ -34673,6 +37039,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -34683,6 +37050,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -34693,6 +37061,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchio",
         "is_main": false,
@@ -34748,6 +37117,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Spaghetti di riso",
+        "name_normalized": "spaghetti di riso",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -34758,6 +37128,7 @@ export const RECIPES = [
       },
       {
         "name": "Lonza di maiale",
+        "name_normalized": "lonza di maiale",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -34768,6 +37139,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -34778,6 +37150,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -34788,6 +37161,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -34798,6 +37172,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -34808,6 +37183,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di girasole",
+        "name_normalized": "olio di semi di girasole",
         "quantity": 6,
         "unit": "cucchiai",
         "is_main": false,
@@ -34818,6 +37194,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino di riso",
+        "name_normalized": "vino di riso",
         "quantity": 2,
         "unit": "cucchiai",
         "is_main": false,
@@ -34828,6 +37205,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsa di soia",
+        "name_normalized": "salsa di soia",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -34838,6 +37216,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -34848,6 +37227,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe bianco",
+        "name_normalized": "pepe bianco",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -34903,6 +37283,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -34913,6 +37294,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 190,
         "unit": "ml",
         "is_main": false,
@@ -34923,6 +37305,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": 30,
         "unit": "g",
         "is_main": true,
@@ -34933,6 +37316,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito istantaneo per preparazioni salate",
+        "name_normalized": "lievito istantaneo",
         "quantity": 6,
         "unit": "g",
         "is_main": true,
@@ -34943,6 +37327,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 6,
         "unit": "g",
         "is_main": false,
@@ -34953,6 +37338,7 @@ export const RECIPES = [
       },
       {
         "name": "Macinato di manzo",
+        "name_normalized": "macinato di manzo",
         "quantity": 450,
         "unit": "g",
         "is_main": true,
@@ -34963,6 +37349,7 @@ export const RECIPES = [
       },
       {
         "name": "Fagioli neri precotti",
+        "name_normalized": "fagiolo nero precotto",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -34973,6 +37360,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni rossi",
+        "name_normalized": "peperone rosso",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -34983,6 +37371,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -34993,6 +37382,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo di carne",
+        "name_normalized": "brodo di carne",
         "quantity": 500,
         "unit": "ml",
         "is_main": true,
@@ -35003,6 +37393,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle rosse",
+        "name_normalized": "cipolla rossa",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -35013,6 +37404,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -35023,6 +37415,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino fresco",
+        "name_normalized": "peperoncino fresco",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -35033,6 +37426,7 @@ export const RECIPES = [
       },
       {
         "name": "Coriandolo in polvere",
+        "name_normalized": "coriandolo in polvere",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -35043,6 +37437,7 @@ export const RECIPES = [
       },
       {
         "name": "Cumino in polvere",
+        "name_normalized": "cumino in polvere",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -35053,6 +37448,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero di canna",
+        "name_normalized": "zucchero di canna",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -35063,6 +37459,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine di oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -35073,6 +37470,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -35083,6 +37481,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -35093,6 +37492,7 @@ export const RECIPES = [
       },
       {
         "name": "Edamer",
+        "name_normalized": "edamer",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -35103,6 +37503,7 @@ export const RECIPES = [
       },
       {
         "name": "Mais",
+        "name_normalized": "mais",
         "quantity": 160,
         "unit": "g",
         "is_main": true,
@@ -35113,6 +37514,7 @@ export const RECIPES = [
       },
       {
         "name": "Avocado",
+        "name_normalized": "avocado",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -35123,6 +37525,7 @@ export const RECIPES = [
       },
       {
         "name": "Lime",
+        "name_normalized": "lime",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -35184,6 +37587,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso Bomba",
+        "name_normalized": "riso bomba",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -35194,6 +37598,7 @@ export const RECIPES = [
       },
       {
         "name": "Cozze",
+        "name_normalized": "cozza",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -35204,6 +37609,7 @@ export const RECIPES = [
       },
       {
         "name": "Calamari",
+        "name_normalized": "calamaro",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -35214,6 +37620,7 @@ export const RECIPES = [
       },
       {
         "name": "Scampi",
+        "name_normalized": "scampo",
         "quantity": 8,
         "unit": "pz",
         "is_main": true,
@@ -35224,6 +37631,7 @@ export const RECIPES = [
       },
       {
         "name": "Gamberi",
+        "name_normalized": "gambero",
         "quantity": 8,
         "unit": "pz",
         "is_main": true,
@@ -35234,6 +37642,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -35244,6 +37653,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -35254,6 +37664,7 @@ export const RECIPES = [
       },
       {
         "name": "Fumetto di crostacei",
+        "name_normalized": "fumetto di crostacei",
         "quantity": 750,
         "unit": "g",
         "is_main": true,
@@ -35264,6 +37675,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -35274,6 +37686,7 @@ export const RECIPES = [
       },
       {
         "name": "Zafferano",
+        "name_normalized": "zafferano",
         "quantity": 0.25,
         "unit": "g",
         "is_main": false,
@@ -35284,6 +37697,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika dolce",
+        "name_normalized": "paprika dolce",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -35294,6 +37708,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino dolce",
+        "name_normalized": "peperoncino dolce",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -35304,6 +37719,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -35314,6 +37730,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -35324,6 +37741,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -35348,8 +37766,8 @@ export const RECIPES = [
     "baby_compatibility": {
       "min_age_green": 12,
       "min_age_amber": 12,
-      "amber_note": "Adattabile ometti il sale, attenzione a Cozze, Gamberi, Scampi, Calamari.",
-      "red_note": "Non adatta: contiene sale aggiunto, contiene Cozze, Gamberi, Scampi, Calamari."
+      "amber_note": "Adattabile ometti il sale, attenzione a Cozze, Gamberi, Calamari, Scampi.",
+      "red_note": "Non adatta: contiene sale aggiunto, contiene Cozze, Gamberi, Calamari, Scampi."
     }
   },
   {
@@ -35383,6 +37801,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 1000,
         "unit": "g",
         "is_main": true,
@@ -35393,6 +37812,7 @@ export const RECIPES = [
       },
       {
         "name": "Prosciutto cotto",
+        "name_normalized": "prosciutto_cotto",
         "quantity": 160,
         "unit": "g",
         "is_main": true,
@@ -35403,6 +37823,7 @@ export const RECIPES = [
       },
       {
         "name": "Provola dolce",
+        "name_normalized": "provola_dolce",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -35413,6 +37834,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana_padano",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -35423,6 +37845,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -35433,6 +37856,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe_nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -35443,6 +37867,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte_intero",
         "quantity": 500,
         "unit": "ml",
         "is_main": true,
@@ -35453,6 +37878,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -35463,6 +37889,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina_00",
         "quantity": 25,
         "unit": "g",
         "is_main": true,
@@ -35473,6 +37900,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce_moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -35530,6 +37958,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Noodles",
+        "name_normalized": "noodle",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -35540,6 +37969,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 3,
         "unit": "l",
         "is_main": false,
@@ -35550,6 +37980,7 @@ export const RECIPES = [
       },
       {
         "name": "Alga kombu",
+        "name_normalized": "alga_kombu",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -35560,6 +37991,7 @@ export const RECIPES = [
       },
       {
         "name": "Pancia di maiale",
+        "name_normalized": "pancia_di_maiale",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -35570,6 +38002,7 @@ export const RECIPES = [
       },
       {
         "name": "Pollo",
+        "name_normalized": "pollo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -35580,6 +38013,7 @@ export const RECIPES = [
       },
       {
         "name": "Zenzero fresco",
+        "name_normalized": "zenzero_fresco",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -35590,6 +38024,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipollotto fresco",
+        "name_normalized": "cipollotto_fresco",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -35600,6 +38035,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -35610,6 +38046,7 @@ export const RECIPES = [
       },
       {
         "name": "Niboshi",
+        "name_normalized": "niboshi",
         "quantity": 3,
         "unit": "pz",
         "is_main": false,
@@ -35620,6 +38057,7 @@ export const RECIPES = [
       },
       {
         "name": "Katsuobushi",
+        "name_normalized": "katsuobushi",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -35630,6 +38068,7 @@ export const RECIPES = [
       },
       {
         "name": "Tamari",
+        "name_normalized": "tamari",
         "quantity": 1.5,
         "unit": "l",
         "is_main": false,
@@ -35640,6 +38079,7 @@ export const RECIPES = [
       },
       {
         "name": "Sake",
+        "name_normalized": "sake",
         "quantity": 640,
         "unit": "g",
         "is_main": false,
@@ -35650,6 +38090,7 @@ export const RECIPES = [
       },
       {
         "name": "Mirin",
+        "name_normalized": "mirin",
         "quantity": 480,
         "unit": "g",
         "is_main": false,
@@ -35660,6 +38101,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 3,
         "unit": "spicchi",
         "is_main": false,
@@ -35670,6 +38112,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uova",
         "quantity": 8,
         "unit": "pz",
         "is_main": true,
@@ -35680,6 +38123,7 @@ export const RECIPES = [
       },
       {
         "name": "Mirin",
+        "name_normalized": "mirin",
         "quantity": 130,
         "unit": "g",
         "is_main": false,
@@ -35690,6 +38134,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsa di soia",
+        "name_normalized": "salsa_di_soia",
         "quantity": 110,
         "unit": "g",
         "is_main": false,
@@ -35700,6 +38145,7 @@ export const RECIPES = [
       },
       {
         "name": "Sake",
+        "name_normalized": "sake",
         "quantity": 60,
         "unit": "g",
         "is_main": false,
@@ -35710,6 +38156,7 @@ export const RECIPES = [
       },
       {
         "name": "Cannella in stecche",
+        "name_normalized": "cannella_in_stecche",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -35720,6 +38167,7 @@ export const RECIPES = [
       },
       {
         "name": "Anice stellato",
+        "name_normalized": "anice_stellato",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -35730,6 +38178,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe in grani",
+        "name_normalized": "pepe_in_grani",
         "quantity": 4,
         "unit": "pz",
         "is_main": false,
@@ -35740,6 +38189,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla_dorata",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -35750,6 +38200,7 @@ export const RECIPES = [
       },
       {
         "name": "Strutto",
+        "name_normalized": "strutto",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -35760,6 +38211,7 @@ export const RECIPES = [
       },
       {
         "name": "Alga nori",
+        "name_normalized": "alga_nori",
         "quantity": 8,
         "unit": "pz",
         "is_main": false,
@@ -35770,6 +38222,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe_nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -35800,8 +38253,8 @@ export const RECIPES = [
     "baby_compatibility": {
       "min_age_green": 12,
       "min_age_amber": 12,
-      "amber_note": "Adattabile attenzione a Katsuobushi, Niboshi.",
-      "red_note": "Non adatta: contiene Katsuobushi, Niboshi."
+      "amber_note": "Adattabile attenzione a Niboshi, Katsuobushi.",
+      "red_note": "Non adatta: contiene Niboshi, Katsuobushi."
     }
   },
   {
@@ -35835,6 +38288,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Capocollo di manzo",
+        "name_normalized": "capocollo",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -35845,6 +38299,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -35855,6 +38310,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -35865,6 +38321,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -35875,6 +38332,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni",
+        "name_normalized": "peperone",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -35885,6 +38343,7 @@ export const RECIPES = [
       },
       {
         "name": "Pastinaca",
+        "name_normalized": "pastinaca",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -35895,6 +38354,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori ramati",
+        "name_normalized": "pomodoro",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -35905,6 +38365,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -35915,6 +38376,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika dolce",
+        "name_normalized": "paprika",
         "quantity": 3,
         "unit": "cucchiai",
         "is_main": false,
@@ -35925,6 +38387,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika piccante",
+        "name_normalized": "paprika",
         "quantity": 1,
         "unit": "cucchiaio",
         "is_main": false,
@@ -35935,6 +38398,7 @@ export const RECIPES = [
       },
       {
         "name": "Semi di cumino",
+        "name_normalized": "cumino",
         "quantity": 0.5,
         "unit": "cucchiaio",
         "is_main": false,
@@ -35945,6 +38409,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero in grani",
+        "name_normalized": "pepe",
         "quantity": 15,
         "unit": "pz",
         "is_main": false,
@@ -35955,6 +38420,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -35965,6 +38431,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -35975,6 +38442,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -35985,6 +38453,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36046,6 +38515,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso Arborio",
+        "name_normalized": "riso arborio",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -36056,6 +38526,7 @@ export const RECIPES = [
       },
       {
         "name": "Tonno sott'olio",
+        "name_normalized": "tonno",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -36066,6 +38537,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodorini datterini",
+        "name_normalized": "pomodorino datterino",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -36076,6 +38548,7 @@ export const RECIPES = [
       },
       {
         "name": "Scamorza (provola)",
+        "name_normalized": "scamorza",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -36086,6 +38559,7 @@ export const RECIPES = [
       },
       {
         "name": "Prosciutto cotto",
+        "name_normalized": "prosciutto cotto",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -36096,6 +38570,7 @@ export const RECIPES = [
       },
       {
         "name": "Pisellini",
+        "name_normalized": "pisellino",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -36106,6 +38581,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni rossi",
+        "name_normalized": "peperone rosso",
         "quantity": 75,
         "unit": "g",
         "is_main": true,
@@ -36116,6 +38592,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni gialli",
+        "name_normalized": "peperone giallo",
         "quantity": 75,
         "unit": "g",
         "is_main": true,
@@ -36126,6 +38603,7 @@ export const RECIPES = [
       },
       {
         "name": "Olive nere",
+        "name_normalized": "oliva nera",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -36136,6 +38614,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36146,6 +38625,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36156,6 +38636,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36214,6 +38695,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 500,
         "unit": "ml",
         "is_main": true,
@@ -36224,6 +38706,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -36234,6 +38717,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -36244,6 +38728,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36254,6 +38739,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 130,
         "unit": "g",
         "is_main": true,
@@ -36264,6 +38750,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36274,6 +38761,7 @@ export const RECIPES = [
       },
       {
         "name": "Asparagi",
+        "name_normalized": "asparago",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -36284,6 +38772,7 @@ export const RECIPES = [
       },
       {
         "name": "Groviera",
+        "name_normalized": "groviera",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -36294,6 +38783,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 2,
         "unit": "cucchiai",
         "is_main": true,
@@ -36304,6 +38794,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36363,6 +38854,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso nishiki",
+        "name_normalized": "riso nishiki",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -36373,6 +38865,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 500,
         "unit": "ml",
         "is_main": false,
@@ -36383,6 +38876,7 @@ export const RECIPES = [
       },
       {
         "name": "Aceto di riso",
+        "name_normalized": "aceto di riso",
         "quantity": 75,
         "unit": "ml",
         "is_main": false,
@@ -36393,6 +38887,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 19,
         "unit": "g",
         "is_main": false,
@@ -36403,6 +38898,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -36413,6 +38909,7 @@ export const RECIPES = [
       },
       {
         "name": "Alga kombu",
+        "name_normalized": "alga kombu",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -36473,6 +38970,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pane bianco in cassetta",
+        "name_normalized": "pane bianco in cassetta",
         "quantity": 6,
         "unit": "pz",
         "is_main": true,
@@ -36483,6 +38981,7 @@ export const RECIPES = [
       },
       {
         "name": "Bacon",
+        "name_normalized": "bacon",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -36493,6 +38992,7 @@ export const RECIPES = [
       },
       {
         "name": "Tacchino",
+        "name_normalized": "tacchino",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -36503,6 +39003,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori ramati",
+        "name_normalized": "pomodoro",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -36513,6 +39014,7 @@ export const RECIPES = [
       },
       {
         "name": "Lattuga",
+        "name_normalized": "lattuga",
         "quantity": 4,
         "unit": "pz",
         "is_main": true,
@@ -36523,6 +39025,7 @@ export const RECIPES = [
       },
       {
         "name": "Maionese",
+        "name_normalized": "maionese",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -36533,6 +39036,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 15,
         "unit": "g",
         "is_main": false,
@@ -36589,6 +39093,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Salsiccia",
+        "name_normalized": "salsiccia",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -36599,6 +39104,7 @@ export const RECIPES = [
       },
       {
         "name": "Fagioli borlotti secchi",
+        "name_normalized": "fagiolo borlotto secco",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -36609,6 +39115,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla dorata",
         "quantity": 70,
         "unit": "g",
         "is_main": false,
@@ -36619,6 +39126,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino rosso",
+        "name_normalized": "vino rosso",
         "quantity": 50,
         "unit": "ml",
         "is_main": false,
@@ -36629,6 +39137,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -36639,6 +39148,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36649,6 +39159,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36659,6 +39170,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36669,6 +39181,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36722,6 +39235,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Controfiletto di manzo",
+        "name_normalized": "controfiletto di manzo",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -36732,6 +39246,7 @@ export const RECIPES = [
       },
       {
         "name": "Petto di pollo",
+        "name_normalized": "petto di pollo",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -36742,6 +39257,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni rossi",
+        "name_normalized": "peperone rosso",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -36752,6 +39268,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni gialli",
+        "name_normalized": "peperone giallo",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -36762,6 +39279,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla bianca",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -36772,6 +39290,7 @@ export const RECIPES = [
       },
       {
         "name": "Lime",
+        "name_normalized": "lime",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -36782,6 +39301,7 @@ export const RECIPES = [
       },
       {
         "name": "Worcestershire sauce",
+        "name_normalized": "worcestershire sauce",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -36792,6 +39312,7 @@ export const RECIPES = [
       },
       {
         "name": "Coriandolo",
+        "name_normalized": "coriandolo",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -36802,6 +39323,7 @@ export const RECIPES = [
       },
       {
         "name": "Cumino in polvere",
+        "name_normalized": "cumino in polvere",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36812,6 +39334,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36822,6 +39345,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36832,6 +39356,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -36842,6 +39367,7 @@ export const RECIPES = [
       },
       {
         "name": "Tortillas di farina",
+        "name_normalized": "tortilla di farina",
         "quantity": 8,
         "unit": "pz",
         "is_main": true,
@@ -36852,6 +39378,7 @@ export const RECIPES = [
       },
       {
         "name": "Edamer",
+        "name_normalized": "edamer",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -36862,6 +39389,7 @@ export const RECIPES = [
       },
       {
         "name": "Fagioli neri precotti",
+        "name_normalized": "fagiolo nero precotto",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -36872,6 +39400,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsa di pomodori messicana",
+        "name_normalized": "salsa di pomodori messicana",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -36882,6 +39411,7 @@ export const RECIPES = [
       },
       {
         "name": "Guacamole",
+        "name_normalized": "guacamole",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -36938,6 +39468,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Tacos",
+        "name_normalized": "taco",
         "quantity": 8,
         "unit": "pz",
         "is_main": true,
@@ -36948,6 +39479,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsiccia",
+        "name_normalized": "salsiccia",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -36958,6 +39490,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino dolce",
+        "name_normalized": "peperoncino_dolce",
         "quantity": 10,
         "unit": "g",
         "is_main": true,
@@ -36968,6 +39501,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika affumicata",
+        "name_normalized": "paprika_affumicata",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": false,
@@ -36978,6 +39512,7 @@ export const RECIPES = [
       },
       {
         "name": "Concentrato di pomodoro",
+        "name_normalized": "concentrato_di_pomodoro",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": true,
@@ -36988,6 +39523,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino rosso",
+        "name_normalized": "vino_rosso",
         "quantity": 25,
         "unit": "ml",
         "is_main": true,
@@ -36998,6 +39534,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio_extravergine_oliva",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -37008,6 +39545,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe_nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37018,6 +39556,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodorini datterini",
+        "name_normalized": "pomodorino_datterino",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -37028,6 +39567,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipollotto fresco",
+        "name_normalized": "cipollotto_fresco",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -37038,6 +39578,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 1,
         "unit": "mazzetto",
         "is_main": false,
@@ -37048,6 +39589,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di lime",
+        "name_normalized": "succo_di_lime",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": true,
@@ -37058,6 +39600,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale_fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37068,6 +39611,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna acida",
+        "name_normalized": "panna_acida",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -37078,6 +39622,7 @@ export const RECIPES = [
       },
       {
         "name": "Yogurt greco",
+        "name_normalized": "yogurt_greco",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -37088,6 +39633,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di lime",
+        "name_normalized": "scorza_di_lime",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": false,
@@ -37146,6 +39692,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Petto di pollo",
+        "name_normalized": "petto di pollo",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -37156,6 +39703,7 @@ export const RECIPES = [
       },
       {
         "name": "Yogurt greco",
+        "name_normalized": "yogurt greco",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -37166,6 +39714,7 @@ export const RECIPES = [
       },
       {
         "name": "Zenzero fresco",
+        "name_normalized": "zenzero fresco",
         "quantity": 30,
         "unit": "g",
         "is_main": false,
@@ -37176,6 +39725,7 @@ export const RECIPES = [
       },
       {
         "name": "Garam Masala",
+        "name_normalized": "garam masala",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -37186,6 +39736,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika affumicata",
+        "name_normalized": "paprika affumicata",
         "quantity": 3,
         "unit": "g",
         "is_main": false,
@@ -37196,6 +39747,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 4,
         "unit": "spicchi",
         "is_main": false,
@@ -37206,6 +39758,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di lime",
+        "name_normalized": "succo di lime",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": false,
@@ -37216,6 +39769,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37226,6 +39780,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -37236,6 +39791,7 @@ export const RECIPES = [
       },
       {
         "name": "Panna fresca liquida",
+        "name_normalized": "panna fresca liquida",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -37246,6 +39802,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla bianca",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -37256,6 +39813,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino fresco",
+        "name_normalized": "peperoncino fresco",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -37266,6 +39824,7 @@ export const RECIPES = [
       },
       {
         "name": "Cumino",
+        "name_normalized": "cumino",
         "quantity": 3,
         "unit": "g",
         "is_main": false,
@@ -37276,6 +39835,7 @@ export const RECIPES = [
       },
       {
         "name": "Curcuma in polvere",
+        "name_normalized": "curcuma in polvere",
         "quantity": 3,
         "unit": "g",
         "is_main": false,
@@ -37286,6 +39846,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero di canna",
+        "name_normalized": "zucchero di canna",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -37296,6 +39857,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -37306,6 +39868,7 @@ export const RECIPES = [
       },
       {
         "name": "Coriandolo",
+        "name_normalized": "coriandolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37363,6 +39926,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Spinaci",
+        "name_normalized": "spinacio",
         "quantity": 700,
         "unit": "g",
         "is_main": true,
@@ -37373,6 +39937,7 @@ export const RECIPES = [
       },
       {
         "name": "Ricotta di pecora",
+        "name_normalized": "ricotta di pecora",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -37383,6 +39948,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 45,
         "unit": "g",
         "is_main": true,
@@ -37393,6 +39959,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -37403,6 +39970,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -37413,6 +39981,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37423,6 +39992,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37433,6 +40003,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37443,6 +40014,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -37453,6 +40025,7 @@ export const RECIPES = [
       },
       {
         "name": "Salvia",
+        "name_normalized": "salvia",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37509,6 +40082,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -37519,6 +40093,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -37529,6 +40104,7 @@ export const RECIPES = [
       },
       {
         "name": "Montasio",
+        "name_normalized": "montasio",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -37539,6 +40115,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -37549,6 +40126,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37559,6 +40137,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37615,6 +40194,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Ossibuchi di vitello",
+        "name_normalized": "ossibucho di vitello",
         "quantity": 1200,
         "unit": "g",
         "is_main": true,
@@ -37625,6 +40205,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla dorata",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -37635,6 +40216,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 50,
         "unit": "ml",
         "is_main": true,
@@ -37645,6 +40227,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -37655,6 +40238,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -37665,6 +40249,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 40,
         "unit": "g",
         "is_main": true,
@@ -37675,6 +40260,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37685,6 +40271,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37695,6 +40282,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 1,
         "unit": "ciuffo",
         "is_main": false,
@@ -37705,6 +40293,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -37715,6 +40304,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -37725,6 +40315,7 @@ export const RECIPES = [
       },
       {
         "name": "Manzo",
+        "name_normalized": "manzo",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -37735,6 +40326,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 1,
         "unit": "costa",
         "is_main": true,
@@ -37745,6 +40337,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -37755,6 +40348,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": true,
@@ -37765,6 +40359,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 2,
         "unit": "l",
         "is_main": false,
@@ -37775,6 +40370,7 @@ export const RECIPES = [
       },
       {
         "name": "Riso Carnaroli",
+        "name_normalized": "riso carnaroli",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -37785,6 +40381,7 @@ export const RECIPES = [
       },
       {
         "name": "Midollo",
+        "name_normalized": "midollo",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -37795,6 +40392,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco secco",
+        "name_normalized": "vino bianco secco",
         "quantity": 50,
         "unit": "ml",
         "is_main": true,
@@ -37805,6 +40403,7 @@ export const RECIPES = [
       },
       {
         "name": "Zafferano",
+        "name_normalized": "zafferano",
         "quantity": 0.3,
         "unit": "g",
         "is_main": true,
@@ -37815,6 +40414,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 80,
         "unit": "g",
         "is_main": true,
@@ -37878,6 +40478,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso Basmati",
+        "name_normalized": "riso basmati",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -37888,6 +40489,7 @@ export const RECIPES = [
       },
       {
         "name": "Lenticchie rosse decorticate",
+        "name_normalized": "lenticchia rossa decorticata",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -37898,6 +40500,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 200,
         "unit": "ml",
         "is_main": false,
@@ -37908,6 +40511,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte di cocco",
+        "name_normalized": "latte di cocco",
         "quantity": 200,
         "unit": "ml",
         "is_main": true,
@@ -37918,6 +40522,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -37928,6 +40533,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla bianca",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": true,
@@ -37938,6 +40544,7 @@ export const RECIPES = [
       },
       {
         "name": "Zenzero fresco",
+        "name_normalized": "zenzero fresco",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -37948,6 +40555,7 @@ export const RECIPES = [
       },
       {
         "name": "Semi di cumino",
+        "name_normalized": "seme di cumino",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -37958,6 +40566,7 @@ export const RECIPES = [
       },
       {
         "name": "Curcuma in polvere",
+        "name_normalized": "curcuma in polvere",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -37968,6 +40577,7 @@ export const RECIPES = [
       },
       {
         "name": "Garam Masala",
+        "name_normalized": "garam masala",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -37978,6 +40588,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio in polvere",
+        "name_normalized": "aglio in polvere",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37988,6 +40599,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoncino in polvere",
+        "name_normalized": "peperoncino in polvere",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -37998,6 +40610,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38008,6 +40621,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38064,6 +40678,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Ceci precotti",
+        "name_normalized": "cece precotto",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -38074,6 +40689,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 105,
         "unit": "g",
         "is_main": true,
@@ -38084,6 +40700,7 @@ export const RECIPES = [
       },
       {
         "name": "Senape",
+        "name_normalized": "senape",
         "quantity": 25,
         "unit": "g",
         "is_main": false,
@@ -38094,6 +40711,7 @@ export const RECIPES = [
       },
       {
         "name": "Scalogno",
+        "name_normalized": "scalogno",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -38104,6 +40722,7 @@ export const RECIPES = [
       },
       {
         "name": "Zenzero fresco",
+        "name_normalized": "zenzero fresco",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -38114,6 +40733,7 @@ export const RECIPES = [
       },
       {
         "name": "Pancarrè",
+        "name_normalized": "pancarrè",
         "quantity": 35,
         "unit": "g",
         "is_main": true,
@@ -38124,6 +40744,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38134,6 +40755,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38144,6 +40766,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -38154,6 +40777,7 @@ export const RECIPES = [
       },
       {
         "name": "Panini per hamburger",
+        "name_normalized": "panino per hamburger",
         "quantity": 8,
         "unit": "pz",
         "is_main": true,
@@ -38164,6 +40788,7 @@ export const RECIPES = [
       },
       {
         "name": "Insalata",
+        "name_normalized": "insalata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -38174,6 +40799,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori",
+        "name_normalized": "pomodoro",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -38184,6 +40810,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsa ketchup",
+        "name_normalized": "salsa ketchup",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38194,6 +40821,7 @@ export const RECIPES = [
       },
       {
         "name": "Maionese",
+        "name_normalized": "maionese",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38248,6 +40876,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Fagioli cannellini secchi",
+        "name_normalized": "fagiolo cannellino secco",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -38258,6 +40887,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori pelati",
+        "name_normalized": "pomodoro pelato",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -38268,6 +40898,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsiccia",
+        "name_normalized": "salsiccia",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -38278,6 +40909,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 3,
         "unit": "spicchi",
         "is_main": false,
@@ -38288,6 +40920,7 @@ export const RECIPES = [
       },
       {
         "name": "Salvia",
+        "name_normalized": "salvia",
         "quantity": 4,
         "unit": "pz",
         "is_main": false,
@@ -38298,6 +40931,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38308,6 +40942,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38318,6 +40953,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38373,6 +41009,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina di mais",
+        "name_normalized": "farina di mais",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -38383,6 +41020,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 2,
         "unit": "l",
         "is_main": false,
@@ -38393,6 +41031,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale grosso",
+        "name_normalized": "sale",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": false,
@@ -38445,6 +41084,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Fagioli cannellini secchi",
+        "name_normalized": "fagiolo cannellini secco",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -38455,6 +41095,7 @@ export const RECIPES = [
       },
       {
         "name": "Pane raffermo",
+        "name_normalized": "pane raffermo",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -38465,6 +41106,7 @@ export const RECIPES = [
       },
       {
         "name": "Verza",
+        "name_normalized": "verza",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -38475,6 +41117,7 @@ export const RECIPES = [
       },
       {
         "name": "Cavolo nero",
+        "name_normalized": "cavolo nero",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -38485,6 +41128,7 @@ export const RECIPES = [
       },
       {
         "name": "Bietole",
+        "name_normalized": "bietola",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -38495,6 +41139,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -38505,6 +41150,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori pelati",
+        "name_normalized": "pomodoro pelato",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -38515,6 +41161,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -38525,6 +41172,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -38535,6 +41183,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -38545,6 +41194,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -38555,6 +41205,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38565,6 +41216,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38575,6 +41227,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38585,6 +41238,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38645,6 +41299,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Lattuga romana",
+        "name_normalized": "lattuga romana",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -38655,6 +41310,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -38665,6 +41321,7 @@ export const RECIPES = [
       },
       {
         "name": "Petto di pollo",
+        "name_normalized": "petto di pollo",
         "quantity": 600,
         "unit": "g",
         "is_main": true,
@@ -38675,6 +41332,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38685,6 +41343,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38695,6 +41354,7 @@ export const RECIPES = [
       },
       {
         "name": "Pane raffermo",
+        "name_normalized": "pane raffermo",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -38705,6 +41365,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38715,6 +41376,7 @@ export const RECIPES = [
       },
       {
         "name": "Maionese",
+        "name_normalized": "maionese",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -38725,6 +41387,7 @@ export const RECIPES = [
       },
       {
         "name": "Succo di limone",
+        "name_normalized": "succo di limone",
         "quantity": 50,
         "unit": "g",
         "is_main": false,
@@ -38735,6 +41398,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -38745,6 +41409,7 @@ export const RECIPES = [
       },
       {
         "name": "Senape di Digione",
+        "name_normalized": "senape di digione",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -38755,6 +41420,7 @@ export const RECIPES = [
       },
       {
         "name": "Acciughe sott'olio",
+        "name_normalized": "acciuga",
         "quantity": 3,
         "unit": "filetti",
         "is_main": true,
@@ -38765,6 +41431,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsa Worcestershire",
+        "name_normalized": "salsa worcestershire",
         "quantity": 15,
         "unit": "g",
         "is_main": false,
@@ -38825,6 +41492,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Paccheri",
+        "name_normalized": "pacchero",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -38835,6 +41503,7 @@ export const RECIPES = [
       },
       {
         "name": "Funghi champignon",
+        "name_normalized": "fungo champignon",
         "quantity": 450,
         "unit": "g",
         "is_main": true,
@@ -38845,6 +41514,7 @@ export const RECIPES = [
       },
       {
         "name": "Salsiccia",
+        "name_normalized": "salsiccia",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -38855,6 +41525,7 @@ export const RECIPES = [
       },
       {
         "name": "Ricotta vaccina",
+        "name_normalized": "ricotta vaccina",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -38865,6 +41536,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -38875,6 +41547,7 @@ export const RECIPES = [
       },
       {
         "name": "Porri",
+        "name_normalized": "porro",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -38885,6 +41558,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -38895,6 +41569,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 50,
         "unit": "ml",
         "is_main": true,
@@ -38905,6 +41580,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 4,
         "unit": "cucchiai",
         "is_main": false,
@@ -38915,6 +41591,7 @@ export const RECIPES = [
       },
       {
         "name": "Triplo concentrato di pomodoro",
+        "name_normalized": "triplo concentrato di pomodoro",
         "quantity": 1,
         "unit": "cucchiaio",
         "is_main": true,
@@ -38925,6 +41602,7 @@ export const RECIPES = [
       },
       {
         "name": "Timo",
+        "name_normalized": "timo",
         "quantity": 3,
         "unit": "rametti",
         "is_main": false,
@@ -38935,6 +41613,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38945,6 +41624,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -38955,6 +41635,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 200,
         "unit": "ml",
         "is_main": true,
@@ -38965,6 +41646,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 20,
         "unit": "g",
         "is_main": true,
@@ -38975,6 +41657,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": 15,
         "unit": "g",
         "is_main": true,
@@ -38985,6 +41668,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": 1,
         "unit": "pizzico",
         "is_main": false,
@@ -39043,6 +41727,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso Bomba",
+        "name_normalized": "riso bomba",
         "quantity": 120,
         "unit": "g",
         "is_main": true,
@@ -39053,6 +41738,7 @@ export const RECIPES = [
       },
       {
         "name": "Coniglio",
+        "name_normalized": "coniglio",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -39063,6 +41749,7 @@ export const RECIPES = [
       },
       {
         "name": "Pollo",
+        "name_normalized": "pollo",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -39073,6 +41760,7 @@ export const RECIPES = [
       },
       {
         "name": "Fegato di coniglio",
+        "name_normalized": "fegato di coniglio",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -39083,6 +41771,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori ramati",
+        "name_normalized": "pomodoro ramato",
         "quantity": 3,
         "unit": "pz",
         "is_main": true,
@@ -39093,6 +41782,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni rossi",
+        "name_normalized": "peperone rosso",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -39103,6 +41793,7 @@ export const RECIPES = [
       },
       {
         "name": "Fagiolini piattoni",
+        "name_normalized": "fagiolino piattone",
         "quantity": 140,
         "unit": "g",
         "is_main": true,
@@ -39113,6 +41804,7 @@ export const RECIPES = [
       },
       {
         "name": "Carciofi",
+        "name_normalized": "carciofo",
         "quantity": 2,
         "unit": "pz",
         "is_main": true,
@@ -39123,6 +41815,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 3,
         "unit": "spicchi",
         "is_main": false,
@@ -39133,6 +41826,7 @@ export const RECIPES = [
       },
       {
         "name": "Zafferano in pistilli",
+        "name_normalized": "zafferano in pistilli",
         "quantity": 6,
         "unit": "pz",
         "is_main": false,
@@ -39143,6 +41837,7 @@ export const RECIPES = [
       },
       {
         "name": "Polpa di pimiento choricero",
+        "name_normalized": "polpa di pimiento choricero",
         "quantity": 1,
         "unit": "cucchiaini",
         "is_main": false,
@@ -39153,6 +41848,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -39163,6 +41859,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika dolce",
+        "name_normalized": "paprika dolce",
         "quantity": 0.5,
         "unit": "cucchiai",
         "is_main": false,
@@ -39173,6 +41870,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 80,
         "unit": "g",
         "is_main": false,
@@ -39183,6 +41881,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39193,6 +41892,7 @@ export const RECIPES = [
       },
       {
         "name": "Porri",
+        "name_normalized": "porro",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -39203,6 +41903,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla bianca",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -39213,6 +41914,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 0.5,
         "unit": "pz",
         "is_main": true,
@@ -39223,6 +41925,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -39233,6 +41936,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 3.5,
         "unit": "l",
         "is_main": false,
@@ -39243,6 +41947,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero in grani",
+        "name_normalized": "pepe nero in grani",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39303,6 +42008,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Riso Arborio",
+        "name_normalized": "riso arborio",
         "quantity": 300,
         "unit": "g",
         "is_main": true,
@@ -39313,6 +42019,7 @@ export const RECIPES = [
       },
       {
         "name": "Cozze",
+        "name_normalized": "cozza",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -39323,6 +42030,7 @@ export const RECIPES = [
       },
       {
         "name": "Patate",
+        "name_normalized": "patata",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -39333,6 +42041,7 @@ export const RECIPES = [
       },
       {
         "name": "Pecorino Romano DOP",
+        "name_normalized": "pecorino romano",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -39343,6 +42052,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodorini ciliegino",
+        "name_normalized": "pomodorino ciliegino",
         "quantity": 100,
         "unit": "pz",
         "is_main": true,
@@ -39353,6 +42063,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla bianca",
         "quantity": 70,
         "unit": "g",
         "is_main": true,
@@ -39363,6 +42074,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 2,
         "unit": "ciuffi",
         "is_main": false,
@@ -39373,6 +42085,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 1,
         "unit": "spicchi",
         "is_main": false,
@@ -39383,6 +42096,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 300,
         "unit": "ml",
         "is_main": false,
@@ -39393,6 +42107,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39403,6 +42118,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39413,6 +42129,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39473,6 +42190,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Triglie",
+        "name_normalized": "triglia",
         "quantity": 550,
         "unit": "g",
         "is_main": true,
@@ -39483,6 +42201,7 @@ export const RECIPES = [
       },
       {
         "name": "Gallinella",
+        "name_normalized": "gallinella",
         "quantity": 550,
         "unit": "g",
         "is_main": true,
@@ -39493,6 +42212,7 @@ export const RECIPES = [
       },
       {
         "name": "Coda di rospo",
+        "name_normalized": "coda di rospo",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -39503,6 +42223,7 @@ export const RECIPES = [
       },
       {
         "name": "Seppie",
+        "name_normalized": "seppia",
         "quantity": 400,
         "unit": "g",
         "is_main": true,
@@ -39513,6 +42234,7 @@ export const RECIPES = [
       },
       {
         "name": "Gamberi",
+        "name_normalized": "gambero",
         "quantity": 300,
         "unit": "pz",
         "is_main": true,
@@ -39523,6 +42245,7 @@ export const RECIPES = [
       },
       {
         "name": "Cozze",
+        "name_normalized": "cozza",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -39533,6 +42256,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -39543,6 +42267,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 50,
         "unit": "ml",
         "is_main": true,
@@ -39553,6 +42278,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 4,
         "unit": "spicchi",
         "is_main": false,
@@ -39563,6 +42289,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39573,6 +42300,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39583,6 +42311,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39593,6 +42322,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39603,6 +42333,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe bianco in grani",
+        "name_normalized": "pepe bianco",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39613,6 +42344,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle bianche",
+        "name_normalized": "cipolla bianca",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -39623,6 +42355,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -39633,6 +42366,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -39643,6 +42377,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 1.5,
         "unit": "l",
         "is_main": false,
@@ -39669,8 +42404,8 @@ export const RECIPES = [
     "baby_compatibility": {
       "min_age_green": 12,
       "min_age_amber": 12,
-      "amber_note": "Adattabile ometti il sale, attenzione a Cozze, Gamberi, Seppie.",
-      "red_note": "Non adatta: contiene sale aggiunto, contiene Cozze, Gamberi, Seppie."
+      "amber_note": "Adattabile ometti il sale, attenzione a Cozze, Seppie, Gamberi.",
+      "red_note": "Non adatta: contiene sale aggiunto, contiene Cozze, Seppie, Gamberi."
     }
   },
   {
@@ -39704,6 +42439,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Pane toscano",
+        "name_normalized": "pane toscano",
         "quantity": 350,
         "unit": "g",
         "is_main": true,
@@ -39714,6 +42450,7 @@ export const RECIPES = [
       },
       {
         "name": "Pomodori ramati",
+        "name_normalized": "pomodoro",
         "quantity": 220,
         "unit": "g",
         "is_main": true,
@@ -39724,6 +42461,7 @@ export const RECIPES = [
       },
       {
         "name": "Cetrioli",
+        "name_normalized": "cetriolo",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -39734,6 +42472,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle rosse",
+        "name_normalized": "cipolla",
         "quantity": 90,
         "unit": "g",
         "is_main": true,
@@ -39744,6 +42483,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39754,6 +42494,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 250,
         "unit": "ml",
         "is_main": false,
@@ -39764,6 +42505,7 @@ export const RECIPES = [
       },
       {
         "name": "Aceto di vino bianco",
+        "name_normalized": "aceto",
         "quantity": 60,
         "unit": "ml",
         "is_main": false,
@@ -39774,6 +42516,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39784,6 +42527,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39794,6 +42538,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39849,6 +42594,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Couscous",
+        "name_normalized": "couscous",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -39859,6 +42605,7 @@ export const RECIPES = [
       },
       {
         "name": "Brodo vegetale",
+        "name_normalized": "brodo vegetale",
         "quantity": 220,
         "unit": "ml",
         "is_main": false,
@@ -39869,6 +42616,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -39879,6 +42627,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39889,6 +42638,7 @@ export const RECIPES = [
       },
       {
         "name": "Petto di pollo",
+        "name_normalized": "petto di pollo",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -39899,6 +42649,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchine",
+        "name_normalized": "zucchina",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -39909,6 +42660,7 @@ export const RECIPES = [
       },
       {
         "name": "Peperoni rossi",
+        "name_normalized": "peperone rosso",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -39919,6 +42671,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 140,
         "unit": "g",
         "is_main": true,
@@ -39929,6 +42682,7 @@ export const RECIPES = [
       },
       {
         "name": "Pisellini",
+        "name_normalized": "pisellino",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -39939,6 +42693,7 @@ export const RECIPES = [
       },
       {
         "name": "Scalogno",
+        "name_normalized": "scalogno",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -39949,6 +42704,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39959,6 +42715,7 @@ export const RECIPES = [
       },
       {
         "name": "Paprika dolce",
+        "name_normalized": "paprika dolce",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -39969,6 +42726,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -40026,6 +42784,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina Manitoba",
+        "name_normalized": "farina manitoba",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -40036,6 +42795,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 125,
         "unit": "g",
         "is_main": true,
@@ -40046,6 +42806,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 125,
         "unit": "g",
         "is_main": false,
@@ -40056,6 +42817,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -40066,6 +42828,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 40,
         "unit": "g",
         "is_main": false,
@@ -40076,6 +42839,7 @@ export const RECIPES = [
       },
       {
         "name": "Lievito di birra secco",
+        "name_normalized": "lievito di birra secco",
         "quantity": 4,
         "unit": "g",
         "is_main": true,
@@ -40086,6 +42850,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale fino",
         "quantity": 10,
         "unit": "g",
         "is_main": false,
@@ -40096,6 +42861,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -40106,6 +42872,7 @@ export const RECIPES = [
       },
       {
         "name": "Fontina",
+        "name_normalized": "fontina",
         "quantity": 200,
         "unit": "g",
         "is_main": true,
@@ -40116,6 +42883,7 @@ export const RECIPES = [
       },
       {
         "name": "Speck",
+        "name_normalized": "speck",
         "quantity": 150,
         "unit": "g",
         "is_main": true,
@@ -40126,6 +42894,7 @@ export const RECIPES = [
       },
       {
         "name": "Uova",
+        "name_normalized": "uovo",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -40136,6 +42905,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 1,
         "unit": "cucchiai",
         "is_main": true,
@@ -40193,6 +42963,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Melanzane",
+        "name_normalized": "melanzana",
         "quantity": 900,
         "unit": "g",
         "is_main": true,
@@ -40203,6 +42974,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 1,
         "unit": "l",
         "is_main": true,
@@ -40213,6 +42985,7 @@ export const RECIPES = [
       },
       {
         "name": "Mozzarella",
+        "name_normalized": "mozzarella",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -40223,6 +42996,7 @@ export const RECIPES = [
       },
       {
         "name": "Formaggio grattugiato",
+        "name_normalized": "formaggio grattugiato",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -40233,6 +43007,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla dorata",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -40243,6 +43018,7 @@ export const RECIPES = [
       },
       {
         "name": "Basilico",
+        "name_normalized": "basilico",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -40253,6 +43029,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -40263,6 +43040,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -40273,6 +43051,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -40329,6 +43108,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Farina di ceci",
+        "name_normalized": "farina di ceci",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -40339,6 +43119,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 1.4,
         "unit": "l",
         "is_main": false,
@@ -40349,6 +43130,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": 20,
         "unit": "g",
         "is_main": false,
@@ -40359,6 +43141,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 1,
         "unit": "ciuffo",
         "is_main": false,
@@ -40369,6 +43152,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi",
+        "name_normalized": "olio di semi",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -40379,6 +43163,7 @@ export const RECIPES = [
       },
       {
         "name": "Pane",
+        "name_normalized": "pane",
         "quantity": 8,
         "unit": "pz",
         "is_main": true,
@@ -40435,6 +43220,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Alette di pollo",
+        "name_normalized": "aletta di pollo",
         "quantity": 800,
         "unit": "g",
         "is_main": true,
@@ -40445,6 +43231,7 @@ export const RECIPES = [
       },
       {
         "name": "Acqua",
+        "name_normalized": "acqua",
         "quantity": 6200,
         "unit": "ml",
         "is_main": false,
@@ -40455,6 +43242,7 @@ export const RECIPES = [
       },
       {
         "name": "Carote",
+        "name_normalized": "carota",
         "quantity": 60,
         "unit": "g",
         "is_main": true,
@@ -40465,6 +43253,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 25,
         "unit": "g",
         "is_main": true,
@@ -40475,6 +43264,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle dorate",
+        "name_normalized": "cipolla dorata",
         "quantity": 180,
         "unit": "g",
         "is_main": true,
@@ -40485,6 +43275,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": 25,
         "unit": "g",
         "is_main": false,
@@ -40495,6 +43286,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale grosso",
+        "name_normalized": "sale",
         "quantity": 18,
         "unit": "g",
         "is_main": false,
@@ -40505,6 +43297,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero in grani",
+        "name_normalized": "pepe nero",
         "quantity": 8,
         "unit": "pz",
         "is_main": false,
@@ -40515,6 +43308,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -40525,6 +43319,7 @@ export const RECIPES = [
       },
       {
         "name": "Ossibuchi di vitello",
+        "name_normalized": "ossobuco di vitello",
         "quantity": 1600,
         "unit": "g",
         "is_main": true,
@@ -40535,6 +43330,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": 100,
         "unit": "ml",
         "is_main": false,
@@ -40545,6 +43341,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino bianco",
+        "name_normalized": "vino bianco",
         "quantity": 100,
         "unit": "ml",
         "is_main": true,
@@ -40555,6 +43352,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 95,
         "unit": "g",
         "is_main": true,
@@ -40565,6 +43363,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina di grano saraceno",
+        "name_normalized": "farina di grano saraceno",
         "quantity": 8,
         "unit": "g",
         "is_main": true,
@@ -40575,6 +43374,7 @@ export const RECIPES = [
       },
       {
         "name": "Rosmarino",
+        "name_normalized": "rosmarino",
         "quantity": 5,
         "unit": "g",
         "is_main": false,
@@ -40585,6 +43385,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -40595,6 +43396,7 @@ export const RECIPES = [
       },
       {
         "name": "Scorza di limone",
+        "name_normalized": "scorza di limone",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -40605,6 +43407,7 @@ export const RECIPES = [
       },
       {
         "name": "Riso Carnaroli",
+        "name_normalized": "riso carnaroli",
         "quantity": 320,
         "unit": "g",
         "is_main": true,
@@ -40615,6 +43418,7 @@ export const RECIPES = [
       },
       {
         "name": "Grana Padano DOP",
+        "name_normalized": "grana padano dop",
         "quantity": 45,
         "unit": "g",
         "is_main": true,
@@ -40625,6 +43429,7 @@ export const RECIPES = [
       },
       {
         "name": "Zafferano in pistilli",
+        "name_normalized": "zafferano",
         "quantity": 0.5,
         "unit": "g",
         "is_main": true,
@@ -40698,6 +43503,7 @@ export const RECIPES = [
     "ingredients": [
       {
         "name": "Manzo",
+        "name_normalized": "manzo",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -40708,6 +43514,7 @@ export const RECIPES = [
       },
       {
         "name": "Maiale",
+        "name_normalized": "maiale",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -40718,6 +43525,7 @@ export const RECIPES = [
       },
       {
         "name": "Passata di pomodoro",
+        "name_normalized": "passata di pomodoro",
         "quantity": 100,
         "unit": "g",
         "is_main": true,
@@ -40728,6 +43536,7 @@ export const RECIPES = [
       },
       {
         "name": "Concentrato di pomodoro",
+        "name_normalized": "concentrato di pomodoro",
         "quantity": 25,
         "unit": "g",
         "is_main": true,
@@ -40738,6 +43547,7 @@ export const RECIPES = [
       },
       {
         "name": "Cipolle",
+        "name_normalized": "cipolla",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -40748,6 +43558,7 @@ export const RECIPES = [
       },
       {
         "name": "Sedano",
+        "name_normalized": "sedano",
         "quantity": 1,
         "unit": "pz",
         "is_main": true,
@@ -40758,6 +43569,7 @@ export const RECIPES = [
       },
       {
         "name": "Aglio",
+        "name_normalized": "aglio",
         "quantity": 2,
         "unit": "spicchi",
         "is_main": false,
@@ -40768,6 +43580,7 @@ export const RECIPES = [
       },
       {
         "name": "Zucchero",
+        "name_normalized": "zucchero",
         "quantity": 0.5,
         "unit": "cucchiaini",
         "is_main": false,
@@ -40778,6 +43591,7 @@ export const RECIPES = [
       },
       {
         "name": "Vino rosso",
+        "name_normalized": "vino rosso",
         "quantity": 1,
         "unit": "bicchieri",
         "is_main": true,
@@ -40788,6 +43602,7 @@ export const RECIPES = [
       },
       {
         "name": "Alloro",
+        "name_normalized": "alloro",
         "quantity": 2,
         "unit": "pz",
         "is_main": false,
@@ -40798,6 +43613,7 @@ export const RECIPES = [
       },
       {
         "name": "Cannella in stecche",
+        "name_normalized": "cannella",
         "quantity": 1,
         "unit": "pz",
         "is_main": false,
@@ -40808,6 +43624,7 @@ export const RECIPES = [
       },
       {
         "name": "Anice stellato",
+        "name_normalized": "anice stellato",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -40818,6 +43635,7 @@ export const RECIPES = [
       },
       {
         "name": "Prezzemolo",
+        "name_normalized": "prezzemolo",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -40828,6 +43646,7 @@ export const RECIPES = [
       },
       {
         "name": "Noce moscata",
+        "name_normalized": "noce moscata",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -40838,6 +43657,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio extravergine d'oliva",
+        "name_normalized": "olio extravergine d'oliva",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -40848,6 +43668,7 @@ export const RECIPES = [
       },
       {
         "name": "Sale fino",
+        "name_normalized": "sale",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -40858,6 +43679,7 @@ export const RECIPES = [
       },
       {
         "name": "Pepe nero",
+        "name_normalized": "pepe nero",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -40868,6 +43690,7 @@ export const RECIPES = [
       },
       {
         "name": "Melanzane",
+        "name_normalized": "melanzana",
         "quantity": 1,
         "unit": "kg",
         "is_main": true,
@@ -40878,6 +43701,7 @@ export const RECIPES = [
       },
       {
         "name": "Farina 00",
+        "name_normalized": "farina 00",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -40888,6 +43712,7 @@ export const RECIPES = [
       },
       {
         "name": "Olio di semi di arachide",
+        "name_normalized": "olio di semi di arachide",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
@@ -40898,6 +43723,7 @@ export const RECIPES = [
       },
       {
         "name": "Latte intero",
+        "name_normalized": "latte intero",
         "quantity": 500,
         "unit": "g",
         "is_main": true,
@@ -40908,6 +43734,7 @@ export const RECIPES = [
       },
       {
         "name": "Yogurt greco",
+        "name_normalized": "yogurt greco",
         "quantity": 250,
         "unit": "g",
         "is_main": true,
@@ -40918,6 +43745,7 @@ export const RECIPES = [
       },
       {
         "name": "Burro",
+        "name_normalized": "burro",
         "quantity": 50,
         "unit": "g",
         "is_main": true,
@@ -40928,6 +43756,7 @@ export const RECIPES = [
       },
       {
         "name": "Parmigiano Reggiano DOP",
+        "name_normalized": "parmigiano reggiano dop",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -40938,6 +43767,7 @@ export const RECIPES = [
       },
       {
         "name": "Pangrattato",
+        "name_normalized": "pangrattato",
         "quantity": null,
         "unit": "q.b.",
         "is_main": true,
@@ -40948,6 +43778,7 @@ export const RECIPES = [
       },
       {
         "name": "Origano",
+        "name_normalized": "origano",
         "quantity": null,
         "unit": "q.b.",
         "is_main": false,
