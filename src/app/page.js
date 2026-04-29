@@ -150,6 +150,19 @@ export default function Home() {
                 ⭐ Preferiti
               </Link>
             </div>
+            <Link
+              href="/le-mie-ricette/"
+              className="block w-full mt-2 py-2.5 bg-white text-[#C65D3B] border border-[#C65D3B] rounded-lg text-sm font-medium hover:bg-[#FDF4F0] transition text-center"
+            >
+              ✏️ Le mie ricette
+            </Link>
+
+            <Link
+              href="/backup/"
+              className="block w-full mt-2 py-2 bg-white text-gray-600 border border-gray-200 rounded-lg text-xs hover:bg-gray-50 transition text-center"
+            >
+              💾 Backup dati
+            </Link>
           </>
         )}
 

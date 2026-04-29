@@ -6,7 +6,9 @@ import { useParams } from 'next/navigation';
 import { CATEGORIES } from '@/data/categories';
 import { RECIPES } from '@/data/recipes';
 import { getCompatibilityLevel } from '@/lib/compatibility';
+import { applyFilters, EMPTY_FILTERS } from '@/lib/filters';
 import RecipeCard from '@/components/RecipeCard';
+import FiltersPanel from '@/components/FiltersPanel';
 
 export default function CategoryPage() {
   const params = useParams();
@@ -15,6 +17,7 @@ export default function CategoryPage() {
   const [mode, setMode] = useState('adult');
   const [ageMonths, setAgeMonths] = useState(9);
   const [hydrated, setHydrated] = useState(false);
+  const [filters, setFilters] = useState(EMPTY_FILTERS);
 
   useEffect(() => {
     const savedMode = localStorage.getItem('cosa-cucino-mode');
@@ -47,6 +50,8 @@ export default function CategoryPage() {
       return compat.level !== 'red';
     });
   }
+
+  recipes = recipes.filter((r) => applyFilters(r, filters));
 
   if (!hydrated) {
     return (
@@ -87,15 +92,17 @@ export default function CategoryPage() {
           </div>
         )}
 
+        <FiltersPanel filters={filters} onChange={setFilters} />
+
+        <p className="text-xs text-gray-500 mb-2">
+          {recipes.length === 0 ? 'Nessuna ricetta' : recipes.length === 1 ? '1 ricetta' : `${recipes.length} ricette`}
+        </p>
+
         {recipes.length === 0 ? (
           <div className="bg-white rounded-lg border border-gray-200 p-4 text-center">
             <div className="text-3xl mb-2">😕</div>
-            <p className="text-sm text-gray-700 mb-1">Nessuna ricetta disponibile</p>
-            <p className="text-xs text-gray-500">
-              {mode === 'baby'
-                ? `Prova a cambiare l'età o torna alla modalità Adulti.`
-                : `Al momento non ci sono ricette in questa categoria.`}
-            </p>
+            <p className="text-sm text-gray-700 mb-1">Nessuna ricetta corrisponde ai filtri</p>
+            <p className="text-xs text-gray-500">Prova ad allargare i criteri o reimposta i filtri.</p>
           </div>
         ) : (
           <div className="flex flex-col gap-2.5">
