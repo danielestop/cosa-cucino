@@ -7,6 +7,7 @@ import { RECIPES } from '@/data/recipes';
 import { getCompatibilityLevel } from '@/lib/compatibility';
 import { scaleIngredient, formatIngredient } from '@/lib/scaling';
 import CompatibilityBadge from '@/components/CompatibilityBadge';
+import { useFavorites } from '@/lib/useFavorites';
 
 export default function RecipePage() {
   const params = useParams();
@@ -18,6 +19,8 @@ export default function RecipePage() {
 
   const recipe = RECIPES.find((r) => r.id === id);
   const [servings, setServings] = useState(recipe?.servings ?? 4);
+  const { isFavorite, toggleFavorite } = useFavorites();
+  const isFav = isFavorite(id);
 
   useEffect(() => {
     const savedMode = localStorage.getItem('cosa-cucino-mode');
@@ -82,10 +85,13 @@ export default function RecipePage() {
               </p>
             </div>
             <button
-              className="text-xl leading-none text-gray-400 hover:text-yellow-500 transition"
-              aria-label="Aggiungi ai preferiti"
+              onClick={() => toggleFavorite(id)}
+              className={`text-2xl leading-none transition ${
+                isFav ? 'text-yellow-500' : 'text-gray-300 hover:text-yellow-400'
+              }`}
+              aria-label={isFav ? 'Rimuovi dai preferiti' : 'Aggiungi ai preferiti'}
             >
-              ⭐
+              {isFav ? '★' : '☆'}
             </button>
           </div>
 

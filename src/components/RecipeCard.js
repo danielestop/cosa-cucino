@@ -2,10 +2,13 @@
 
 import Link from 'next/link';
 import { getCompatibilityLevel } from '@/lib/compatibility';
+import { useFavorites } from '@/lib/useFavorites';
 
 export default function RecipeCard({ recipe, mode, ageMonths }) {
-  let babyBadge = null;
+  const { isFavorite } = useFavorites();
+  const isFav = isFavorite(recipe.id);
 
+  let babyBadge = null;
   if (mode === 'baby') {
     if (recipe.recipe_type === 'weaning' && recipe.weaning_min_age_months) {
       babyBadge = (
@@ -34,7 +37,7 @@ export default function RecipeCard({ recipe, mode, ageMonths }) {
   return (
     <Link
       href={`/recipe/${recipe.id}/`}
-      className="block bg-white rounded-lg border border-gray-200 overflow-hidden hover:shadow-sm transition"
+      className="block bg-white rounded-lg border border-gray-200 overflow-hidden hover:shadow-sm transition relative"
     >
       <div className="flex">
         <div
@@ -53,7 +56,7 @@ export default function RecipeCard({ recipe, mode, ageMonths }) {
           )}
         </div>
         <div className="py-2.5 px-3 flex-1 min-w-0">
-          <div className="text-sm font-medium text-gray-800 truncate">
+          <div className="text-sm font-medium text-gray-800 truncate pr-5">
             {recipe.title}
           </div>
           <div className="text-xs text-gray-500 mt-0.5 truncate">
@@ -70,6 +73,11 @@ export default function RecipeCard({ recipe, mode, ageMonths }) {
           </div>
         </div>
       </div>
+      {isFav && (
+        <span className="absolute top-1.5 right-2 text-yellow-500 text-lg leading-none" aria-hidden="true">
+          ★
+        </span>
+      )}
     </Link>
   );
 }
