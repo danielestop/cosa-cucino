@@ -4,6 +4,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { useCustomRecipes } from '@/lib/useCustomRecipes';
+import { parseQuantityRaw } from '@/lib/parseQuantity';
 
 const API_URL = 'https://cosa-cucino-api.vercel.app/api/extract';
 
@@ -83,14 +84,17 @@ export default function ImportaRicettaPage() {
       servings: parseServings(preview.info?.['dosi per']),
       difficulty: (preview.info?.difficoltà || 'media').toLowerCase(),
       cooking_method: 'fornelli',
-      ingredients: preview.ingredients.map((ing) => ({
-        name: ing.name,
-        quantity: null,
-        unit: 'q.b.',
-        is_main: true,
-        is_staple: false,
-        quantity_raw: ing.quantity_raw,
-      })),
+      ingredients: preview.ingredients.map((ing) => {
+        const parsed = parseQuantityRaw(ing.quantity_raw);
+        return {
+          name: ing.name,
+          quantity: parsed.quantity,
+          unit: parsed.unit,
+          is_main: true,
+          is_staple: false,
+          quantity_raw: ing.quantity_raw,
+        };
+      }),
       steps: preview.steps,
       diet_flags: {},
       recipe_type: 'adult',
