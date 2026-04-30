@@ -38,12 +38,20 @@ export default function LeMieRicettePage() {
         </div>
 
         {!showForm && (
-          <button
-            onClick={() => setShowForm(true)}
-            className="w-full py-3 bg-[#C65D3B] text-white rounded-lg font-medium mb-4 hover:opacity-90"
-          >
-            + Aggiungi nuova ricetta
-          </button>
+          <>
+            <button
+              onClick={() => setShowForm(true)}
+              className="w-full py-3 bg-[#C65D3B] text-white rounded-lg font-medium hover:opacity-90"
+            >
+              + Aggiungi nuova ricetta
+            </button>
+            <Link
+              href="/importa-ricetta/"
+              className="block w-full mt-2 py-3 bg-white text-[#C65D3B] border border-[#C65D3B] rounded-lg font-medium hover:bg-[#FDF4F0] transition text-center mb-4"
+            >
+              🔗 Importa da URL
+            </Link>
+          </>
         )}
 
         {showForm && (
