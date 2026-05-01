@@ -10,6 +10,7 @@ const API_URL = 'https://cosa-cucino-api.vercel.app/api/extract';
 
 const SUPPORTED_SITES = [
   { name: 'Giallo Zafferano', host: 'ricette.giallozafferano.it' },
+  { name: 'Uppa', host: 'www.uppa.it' },
 ];
 
 function timeToMinutes(timeStr) {
