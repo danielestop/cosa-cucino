@@ -4,13 +4,15 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { useCustomRecipes } from '@/lib/useCustomRecipes';
-import { parseQuantityRaw } from '@/lib/parseQuantity';
+import { parseQuantityRaw, parseIngredientLine } from '@/lib/parseQuantity';
+import { CATEGORIES } from '@/data/categories';
 
 const API_URL = 'https://cosa-cucino-api.vercel.app/api/extract';
 
 const SUPPORTED_SITES = [
   { name: 'Giallo Zafferano', host: 'ricette.giallozafferano.it' },
   { name: 'Uppa', host: 'www.uppa.it' },
+  { name: 'Bimbi Sani e Belli', host: 'www.bimbisaniebelli.it' },
 ];
 
 function timeToMinutes(timeStr) {
@@ -70,11 +72,13 @@ export default function ImportaRicettaPage() {
     const cook = timeToMinutes(preview.info?.cottura);
     const total = prep + cook;
 
+    const finalCategory = preview.suggested_category || 'primi';
+    const cat = CATEGORIES.find((c) => c.slug === finalCategory);
     const recipe = {
       title: preview.title,
-      category: 'primi',
-      emoji: '🍽️',
-      image_color: '#F5C4B3',
+      category: finalCategory,
+      emoji: cat?.emoji || '🍽️',
+      image_color: cat?.color || '#F5C4B3',
       description: '',
       source_url: preview.source_url,
       source_site: preview.source_site,
@@ -82,24 +86,41 @@ export default function ImportaRicettaPage() {
       prep_time_min: prep,
       cook_time_min: cook,
       total_time_min: total || 30,
-      servings: parseServings(preview.info?.['dosi per']),
+      servings: preview.info?.['dosi per']
+        ? parseServings(preview.info['dosi per'])
+        : (preview.recipe_type === 'weaning' ? 1 : 4),
       difficulty: (preview.info?.difficoltà || 'media').toLowerCase(),
       cooking_method: 'fornelli',
       ingredients: preview.ingredients.map((ing) => {
-        const parsed = parseQuantityRaw(ing.quantity_raw);
-        return {
-          name: ing.name,
-          quantity: parsed.quantity,
-          unit: parsed.unit,
-          is_main: true,
-          is_staple: false,
-          quantity_raw: ing.quantity_raw,
-        };
+        // Per GialloZafferano: name + quantity_raw separati
+        // Per BSB/Uppa: tutto in name (es. "150 g di yogurt greco")
+        if (ing.quantity_raw && ing.quantity_raw.trim()) {
+          const parsed = parseQuantityRaw(ing.quantity_raw);
+          return {
+            name: ing.name,
+            quantity: parsed.quantity,
+            unit: parsed.unit,
+            is_main: true,
+            is_staple: false,
+            quantity_raw: ing.quantity_raw,
+          };
+        } else {
+          // BSB/Uppa: estrai tutto da ing.name
+          const parsed = parseIngredientLine(ing.name);
+          return {
+            name: parsed.name || ing.name,
+            quantity: parsed.quantity,
+            unit: parsed.unit,
+            is_main: true,
+            is_staple: false,
+            quantity_raw: '',
+          };
+        }
       }),
       steps: preview.steps,
       diet_flags: {},
-      recipe_type: 'adult',
-      weaning_min_age_months: null,
+      recipe_type: preview.recipe_type || 'adult',
+      weaning_min_age_months: preview.weaning_min_age_months || null,
       baby_compatibility: null,
     };
 

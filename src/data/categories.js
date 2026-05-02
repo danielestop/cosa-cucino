@@ -35,4 +35,11 @@ export const CATEGORIES = [
     emoji: '🍰',
     color: '#F4C0D1',
   },
+  {
+    slug: 'svezzamento',
+    name: 'Svezzamento',
+    emoji: '👶',
+    color: '#B5D4F4',
+    weaning_only: true,
+  },
 ];

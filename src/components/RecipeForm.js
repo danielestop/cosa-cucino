@@ -110,10 +110,10 @@ export default function RecipeForm({ initialRecipe, onSave, onCancel }) {
       cooking_method: form.cooking_method,
       ingredients: validIngredients,
       steps: validSteps,
-      diet_flags: {},
-      recipe_type: 'adult',
-      weaning_min_age_months: null,
-      baby_compatibility: null,
+      diet_flags: initialRecipe?.diet_flags || {},
+      recipe_type: initialRecipe?.recipe_type || 'adult',
+      weaning_min_age_months: initialRecipe?.weaning_min_age_months ?? null,
+      baby_compatibility: initialRecipe?.baby_compatibility || null,
     };
 
     onSave(recipe);

@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { CATEGORIES } from '@/data/categories';
 import { RECIPES } from '@/data/recipes';
+import { useCustomRecipes } from '@/lib/useCustomRecipes';
 import { getCompatibilityLevel } from '@/lib/compatibility';
 import { applyFilters, EMPTY_FILTERS } from '@/lib/filters';
 import RecipeCard from '@/components/RecipeCard';
@@ -42,7 +43,9 @@ export default function CategoryPage() {
     );
   }
 
-  let recipes = RECIPES.filter((r) => r.category === slug);
+  const { recipes: customRecipes } = useCustomRecipes();
+  const allRecipes = [...customRecipes, ...RECIPES];
+  let recipes = allRecipes.filter((r) => r.category === slug);
 
   if (mode === 'baby') {
     recipes = recipes.filter((r) => {
