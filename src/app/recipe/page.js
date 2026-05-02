@@ -1,8 +1,8 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import Link from 'next/link';
-import { useParams, useRouter } from 'next/navigation';
+import { useSearchParams, useRouter } from 'next/navigation';
 import { RECIPES } from '@/data/recipes';
 import { useCustomRecipes } from '@/lib/useCustomRecipes';
 import { useFavorites } from '@/lib/useFavorites';
@@ -11,10 +11,11 @@ import { scaleIngredient, formatIngredient } from '@/lib/scaling';
 import CompatibilityBadge from '@/components/CompatibilityBadge';
 import RecipeForm from '@/components/RecipeForm';
 
-export default function RecipePage() {
-  const params = useParams();
+
+function RecipePage() {
+  const searchParams = useSearchParams();
   const router = useRouter();
-  const id = params.id;
+  const id = searchParams.get('id');
 
   const [mode, setMode] = useState('adult');
   const [ageMonths, setAgeMonths] = useState(9);
@@ -23,7 +24,7 @@ export default function RecipePage() {
 
   const { isFavorite, toggleFavorite } = useFavorites();
   const { recipes: customRecipes, updateRecipe, deleteRecipe, hydrated: customHydrated } = useCustomRecipes();
-  const isFav = isFavorite(id);
+  const isFav = id ? isFavorite(id) : false;
 
   const customRecipe = customRecipes.find((r) => r.id === id);
   const staticRecipe = RECIPES.find((r) => r.id === id);
@@ -55,7 +56,18 @@ export default function RecipePage() {
     }
   }
 
-  if (!recipe && (customRecipe === undefined && customHydrated)) {
+  if (!id) {
+    return (
+      <main className="min-h-screen bg-[#FAF7F2] p-4">
+        <div className="max-w-md mx-auto">
+          <p className="text-gray-700">Nessuna ricetta selezionata.</p>
+          <Link href="/" className="text-[#C65D3B] underline">← Torna alla home</Link>
+        </div>
+      </main>
+    );
+  }
+
+  if (!recipe && customHydrated) {
     return (
       <main className="min-h-screen bg-[#FAF7F2] p-4">
         <div className="max-w-md mx-auto">
@@ -216,5 +228,19 @@ export default function RecipePage() {
         </div>
       </div>
     </main>
+  );
+}
+
+export default function RecipePageWrapper() {
+  return (
+    <Suspense fallback={
+      <main className="min-h-screen bg-[#FAF7F2] p-4">
+        <div className="max-w-md mx-auto">
+          <div className="text-gray-500 text-sm">Caricamento...</div>
+        </div>
+      </main>
+    }>
+      <RecipePage />
+    </Suspense>
   );
 }

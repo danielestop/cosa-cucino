@@ -104,7 +104,7 @@ export default function ImportaRicettaPage() {
     };
 
     const id = addRecipe(recipe);
-    router.push(`/recipe/${id}/`);
+    router.push(`/recipe/?id=${id}`);
   }
 
   return (

@@ -77,7 +77,7 @@ export default function LeMieRicettePage() {
             <div className="flex flex-col gap-2.5">
               {recipes.map((r) => (
                 <div key={r.id} className="bg-white rounded-lg border border-gray-200 overflow-hidden">
-                  <Link href={`/recipe/${r.id}/`} className="block hover:bg-gray-50">
+                  <Link href={`/recipe/?id=${r.id}`} className="block hover:bg-gray-50">
                     <div className="flex">
                       <div
                         className="w-[90px] h-[90px] flex items-center justify-center flex-shrink-0 overflow-hidden"

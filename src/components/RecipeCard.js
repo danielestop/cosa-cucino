@@ -36,7 +36,7 @@ export default function RecipeCard({ recipe, mode, ageMonths }) {
 
   return (
     <Link
-      href={`/recipe/${recipe.id}/`}
+      href={`/recipe/?id=${recipe.id}`}
       className="block bg-white rounded-lg border border-gray-200 overflow-hidden hover:shadow-sm transition relative"
     >
       <div className="flex">

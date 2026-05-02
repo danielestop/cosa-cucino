@@ -199,7 +199,7 @@ export default function GiraLaRuotaPage() {
             {pickedRecipe && !spinning && (
               <div className="mt-3 flex flex-col gap-2 w-full">
                 <Link
-                  href={`/recipe/${pickedRecipe.id}/`}
+                  href={`/recipe/?id=${pickedRecipe.id}`}
                   className="block w-full py-2.5 bg-[#6B8E4E] text-white rounded-lg text-sm font-medium hover:opacity-90 transition"
                 >
                   Vai alla ricetta →
