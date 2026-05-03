@@ -13,7 +13,8 @@ import RecipeForm from '@/components/RecipeForm';
 import { useDiary } from '@/lib/useDiary';
 import CookedModal from '@/components/CookedModal';
 import { usePlanner, DAYS, MEALS } from '@/lib/usePlanner';
-
+import { useTimers, parseTimersFromStep } from '@/lib/useTimers';
+import TimerBar from '@/components/TimerBar';
 
 function RecipePage() {
   const searchParams = useSearchParams();
@@ -26,6 +27,7 @@ function RecipePage() {
   const [editing, setEditing] = useState(false);
   const { addEntry, getEntriesForRecipe } = useDiary();
   const [showCookedModal, setShowCookedModal] = useState(false);
+  const { timers, addTimer, toggleTimer, resetTimer, removeTimer } = useTimers();
 
   const { addRecipeToSlot } = usePlanner();
   const [showPlannerAdd, setShowPlannerAdd] = useState(false);
@@ -194,12 +196,30 @@ function RecipePage() {
 
           <h2 className="text-sm font-medium text-gray-600 mt-4 mb-2">Procedimento</h2>
           <ol className="bg-white rounded-md border border-gray-200 p-3 text-sm text-gray-800 space-y-3">
-            {recipe.steps.map((step, idx) => (
-              <li key={idx} className="flex gap-2">
-                <span className="font-medium text-[#C65D3B] flex-shrink-0">{idx + 1}.</span>
-                <span>{step}</span>
-              </li>
-            ))}
+            {recipe.steps.map((step, idx) => {
+              const timerInfo = parseTimersFromStep(step);
+              return (
+                <li key={idx} className="flex flex-col gap-1.5">
+                  <div className="flex gap-2">
+                    <span className="font-medium text-[#C65D3B] flex-shrink-0">{idx + 1}.</span>
+                    <span>{step}</span>
+                  </div>
+                  {timerInfo.length > 0 && (
+                    <div className="flex flex-wrap gap-1.5 ml-4">
+                      {timerInfo.map((t, tidx) => (
+                        <button
+                          key={tidx}
+                          onClick={() => addTimer(t.minutes, t.label, idx)}
+                          className="flex items-center gap-1 bg-[#FDF4F0] text-[#C65D3B] border border-[#C65D3B]/30 px-2 py-1 rounded text-xs hover:bg-[#F8E8E0] transition"
+                        >
+                          ⏱ {t.label}
+                        </button>
+                      ))}
+                    </div>
+                  )}
+                </li>
+              );
+            })}
           </ol>
 
           {recipe.source_url ? (
@@ -229,6 +249,12 @@ function RecipePage() {
               </button>
             </div>
           )}
+          <Link
+            href={`/cucina/?id=${id}`}
+            className="mt-4 w-full block py-2.5 bg-gray-900 text-white rounded-lg text-sm font-medium hover:opacity-90 transition text-center"
+          >
+            🍳 Modalità cucina
+          </Link>
           {!showPlannerAdd ? (
             <button
               onClick={() => setShowPlannerAdd(true)}
@@ -306,7 +332,14 @@ function RecipePage() {
             }}
             onCancel={() => setShowCookedModal(false)}
           />
-        )}
+          )}
+
+          <TimerBar
+          timers={timers}
+          onToggle={toggleTimer}
+          onReset={resetTimer}
+          onRemove={removeTimer}
+        />
         </div>
       </div>
     </main>

@@ -8,6 +8,8 @@ import ModeToggle from '@/components/ModeToggle';
 import AgeSlider from '@/components/AgeSlider';
 import CategoryGrid from '@/components/CategoryGrid';
 import RecipeCard from '@/components/RecipeCard';
+import { useTimers, parseTimersFromStep } from '@/lib/useTimers';
+import TimerBar from '@/components/TimerBar';
 
 function normalize(text) {
   if (!text) return '';
