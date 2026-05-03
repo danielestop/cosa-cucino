@@ -16,13 +16,13 @@ export const metadata = {
   description: "Ricettario intelligente per adulti e svezzamento",
 };
 
+
 export default function RootLayout({ children }) {
   return (
-    <html
-      lang="it"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}</body>
+    <html lang="it" suppressHydrationWarning>
+      <body className="antialiased dark:bg-[#1a1a1a] dark:text-[#f0f0f0]">
+        {children}
+      </body>
     </html>
   );
 }
