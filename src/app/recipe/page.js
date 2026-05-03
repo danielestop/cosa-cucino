@@ -10,6 +10,8 @@ import { getCompatibilityLevel } from '@/lib/compatibility';
 import { scaleIngredient, formatIngredient } from '@/lib/scaling';
 import CompatibilityBadge from '@/components/CompatibilityBadge';
 import RecipeForm from '@/components/RecipeForm';
+import { useDiary } from '@/lib/useDiary';
+import CookedModal from '@/components/CookedModal';
 
 
 function RecipePage() {
@@ -21,6 +23,8 @@ function RecipePage() {
   const [ageMonths, setAgeMonths] = useState(9);
   const [hydrated, setHydrated] = useState(false);
   const [editing, setEditing] = useState(false);
+  const { addEntry, getEntriesForRecipe } = useDiary();
+  const [showCookedModal, setShowCookedModal] = useState(false);
 
   const { isFavorite, toggleFavorite } = useFavorites();
   const { recipes: customRecipes, updateRecipe, deleteRecipe, hydrated: customHydrated } = useCustomRecipes();
@@ -220,11 +224,37 @@ function RecipePage() {
             </div>
           )}
 
-          {!recipe.is_custom && (
-            <button className="mt-2 w-full py-2.5 bg-[#6B8E4E] text-white rounded-lg text-sm font-medium hover:opacity-90">
-              ✓ Segna come cucinata
-            </button>
-          )}
+          <button
+            onClick={() => setShowCookedModal(true)}
+            className="mt-2 w-full py-2.5 bg-[#6B8E4E] text-white rounded-lg text-sm font-medium hover:opacity-90"
+          >
+            ✓ Cucinata oggi
+          </button>
+
+          {(() => {
+            const cookedTimes = getEntriesForRecipe(id).length;
+            if (cookedTimes > 0) {
+              return (
+                <Link
+                  href="/diario/"
+                  className="block mt-2 text-center text-xs text-[#6B8E4E] hover:underline"
+                >
+                  ✓ Hai cucinato questa ricetta {cookedTimes} {cookedTimes === 1 ? 'volta' : 'volte'} →
+                </Link>
+              );
+            }
+            return null;
+          })()}
+          {showCookedModal && (
+          <CookedModal
+            recipe={recipe}
+            onSave={(entry) => {
+              addEntry(entry);
+              setShowCookedModal(false);
+            }}
+            onCancel={() => setShowCookedModal(false)}
+          />
+        )}
         </div>
       </div>
     </main>
