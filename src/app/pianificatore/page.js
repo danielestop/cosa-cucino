@@ -226,17 +226,9 @@ export default function PianificatorePage() {
             </button>
             {showHistory && (
               <div className="mt-2 space-y-2">
-                {history.map((item, idx) => {
-                  const total = Object.values(item.plan).reduce(
-                    (acc, day) => acc + Object.values(day).reduce((a, slot) => a + slot.length, 0), 0
-                  );
-                  const date = new Date(item.archived_at).toLocaleDateString('it-IT', { day: 'numeric', month: 'short', year: 'numeric' });
-                  return (
-                    <div key={idx} className="bg-white border border-gray-200 rounded p-2.5 text-xs text-gray-600">
-                      📅 Settimana archiviata il {date} · {total} ricette
-                    </div>
-                  );
-                })}
+                {history.map((item, idx) => (
+                  <ArchivedWeek key={idx} item={item} />
+                ))}
               </div>
             )}
           </div>
@@ -255,4 +247,57 @@ export default function PianificatorePage() {
       )}
     </main>
   );
+
+  function ArchivedWeek({ item }) {
+  const [expanded, setExpanded] = useState(false);
+  const total = Object.values(item.plan).reduce(
+    (acc, day) => acc + Object.values(day).reduce((a, slot) => a + slot.length, 0), 0
+  );
+  const date = new Date(item.archived_at).toLocaleDateString('it-IT', { day: 'numeric', month: 'short', year: 'numeric' });
+
+  return (
+    <div className="bg-white border border-gray-200 rounded overflow-hidden">
+      <button
+        onClick={() => setExpanded(!expanded)}
+        className="w-full px-3 py-2 flex items-center justify-between hover:bg-gray-50 text-left"
+      >
+        <span className="text-xs text-gray-700">
+          📅 Archiviata il {date} · {total} ricette
+        </span>
+        <span className="text-gray-400 text-xs">{expanded ? '▲' : '▼'}</span>
+      </button>
+      {expanded && (
+        <div className="px-3 pb-3 border-t border-gray-100">
+          {DAYS.map((day) => {
+            const dayHasRecipes = MEALS.some((meal) => item.plan[day]?.[meal]?.length > 0);
+            if (!dayHasRecipes) return null;
+            return (
+              <div key={day} className="mt-2">
+                <div className="text-xs font-medium text-gray-600">{day}</div>
+                {MEALS.map((meal) => {
+                  const slots = item.plan[day]?.[meal] || [];
+                  if (slots.length === 0) return null;
+                  return (
+                    <div key={meal} className="ml-2 mt-0.5">
+                      <span className="text-xs text-gray-500">{meal}: </span>
+                      {slots.map((slot, idx) => (
+                        <span key={idx} className="text-xs text-gray-700">
+                          {idx > 0 && ', '}
+                          <Link href={`/recipe/?id=${slot.recipe_id}`} className="hover:text-[#C65D3B] hover:underline">
+                            {slot.recipe_title}
+                          </Link>
+                          <span className="text-gray-400"> ({slot.servings} pers.)</span>
+                        </span>
+                      ))}
+                    </div>
+                  );
+                })}
+              </div>
+            );
+          })}
+        </div>
+      )}
+    </div>
+  );
+}
 }
