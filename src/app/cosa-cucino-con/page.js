@@ -7,6 +7,7 @@ import { getCompatibilityLevel } from '@/lib/compatibility';
 import { searchRecipesByIngredients } from '@/lib/recipeSearch';
 import IngredientChipsInput from '@/components/IngredientChipsInput';
 import RecipeCard from '@/components/RecipeCard';
+import { usePantry } from '@/lib/usePantry';
 
 const TIME_OPTIONS = [
   { value: null, label: 'Qualsiasi' },
@@ -33,6 +34,7 @@ export default function CosaCucinoConPage() {
   const [maxTime, setMaxTime] = useState(null);
   const [maxMissing, setMaxMissing] = useState(2);
   const [results, setResults] = useState(null);
+  const { items: pantryItems } = usePantry();
 
   useEffect(() => {
     const savedMode = localStorage.getItem('cosa-cucino-mode');
@@ -52,11 +54,12 @@ function handleSearch(overrideTime, overrideMissing) {
     const found = searchRecipesByIngredients(
       RECIPES,
       ingredients,
-      useMissing,
-      useTime,
+      maxMissing,
+      maxTime,
       mode,
       ageMonths,
-      getCompatibilityLevel
+      getCompatibilityLevel,
+      pantryItems
     );
     setResults(found);
   }
@@ -175,6 +178,7 @@ function handleSearch(overrideTime, overrideMissing) {
                 maxMissing={maxMissing}
                 mode={mode}
                 ageMonths={ageMonths}
+                pantryItems={pantryItems}
                 onApplyTime={(t) => { setMaxTime(t); handleSearch(t, undefined); }}
                 onApplyMissing={(m) => { setMaxMissing(m); handleSearch(undefined, m); }}
               />
@@ -198,13 +202,13 @@ function handleSearch(overrideTime, overrideMissing) {
     </main>
   );
 
-  function NoResultsHelper({ ingredients, maxTime, maxMissing, mode, ageMonths, onApplyTime, onApplyMissing }) {
+  function NoResultsHelper({ ingredients, maxTime, maxMissing, mode, ageMonths, pantryItems, onApplyTime, onApplyMissing }) {
   const suggestions = [];
 
   if (maxTime !== null) {
     const widerTimes = [maxTime + 15, maxTime + 30, null];
     for (const t of widerTimes) {
-      const r = searchRecipesByIngredients(RECIPES, ingredients, maxMissing, t, mode, ageMonths, getCompatibilityLevel);
+      const r = searchRecipesByIngredients(RECIPES, ingredients, maxMissing, t, mode, ageMonths, getCompatibilityLevel, pantryItems);
       if (r.length > 0) {
         const label = t === null ? 'qualsiasi tempo' : `entro ${t} min`;
         suggestions.push({
@@ -219,7 +223,7 @@ function handleSearch(overrideTime, overrideMissing) {
   const widerMissingValues = [maxMissing + 3, maxMissing + 5, 99];
   for (const m of widerMissingValues) {
     if (m <= maxMissing) continue;
-    const r = searchRecipesByIngredients(RECIPES, ingredients, m, maxTime, mode, ageMonths, getCompatibilityLevel);
+    const r = searchRecipesByIngredients(RECIPES, ingredients, m, maxTime, mode, ageMonths, getCompatibilityLevel, pantryItems);
     if (r.length > 0) {
       suggestions.push({
         text: `${r.length} ${r.length === 1 ? 'ricetta' : 'ricette'} con max ${m === 99 ? 'tanti' : m} ingredienti mancanti`,

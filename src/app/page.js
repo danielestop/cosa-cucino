@@ -157,6 +157,12 @@ export default function Home() {
               📊 Diario di cucina
             </Link>
             <Link
+              href="/dispensa/"
+              className="block w-full mt-2 py-2.5 bg-white text-[#C65D3B] border border-[#C65D3B] rounded-lg text-sm font-medium hover:bg-[#FDF4F0] transition text-center"
+            >
+              🥫 Dispensa
+            </Link>
+            <Link
               href="/le-mie-ricette/"
               className="block w-full mt-2 py-2.5 bg-white text-[#C65D3B] border border-[#C65D3B] rounded-lg text-sm font-medium hover:bg-[#FDF4F0] transition text-center"
             >

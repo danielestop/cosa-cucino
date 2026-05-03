@@ -53,7 +53,17 @@ function matchesIngredient(searchTerm, recipeIngredient) {
   );
 }
 
-export function searchRecipesByIngredients(recipes, searchIngredients, maxMissing, maxTotalMinutes, mode, ageMonths, getCompatibilityLevel) {
+function isInPantry(recipeIngredient, pantryItems) {
+  if (!pantryItems || pantryItems.length === 0) return false;
+  for (const pantryName of pantryItems) {
+    if (matchesIngredient(pantryName, recipeIngredient)) {
+      return true;
+    }
+  }
+  return false;
+}
+
+export function searchRecipesByIngredients(recipes, searchIngredients, maxMissing, maxTotalMinutes, mode, ageMonths, getCompatibilityLevel, pantryItems = []) {
   if (!searchIngredients || searchIngredients.length === 0) {
     return [];
   }
@@ -68,8 +78,10 @@ export function searchRecipesByIngredients(recipes, searchIngredients, maxMissin
       if (compat.level === 'red') continue;
     }
 
+    // Ingredienti rilevanti: main e non staple (sale/olio sono sempre dati per scontati)
+    // E inoltre, escludiamo quelli in dispensa
     const mainIngredients = (recipe.ingredients || []).filter(
-      (ing) => ing.is_main && !ing.is_staple
+      (ing) => ing.is_main && !ing.is_staple && !isInPantry(ing, pantryItems)
     );
 
     const matchedSearchTerms = new Set();
