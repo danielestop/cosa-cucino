@@ -8,6 +8,9 @@ Aggiornato manualmente durante l'uso dell'app.
 ## 🐛 Bug UI / UX
 
 <!-- Cose che non funzionano bene visivamente o che confondono -->
+- [] Alcune ricette hanno un quantitativo strano "per persona". mi sono accorto quando ho messo le ricette su pianificatore. Esempio HUMMUS da 700 persone o GUACAMOLE 550 persone. Credo che sia il quantitativo del primo ingrediente che compare
+- [] 
+- [] 
 
 - [x] Barra di ricerca: testo placeholder e digitato poco contrastati — risolto il 22/04/2026
 - [x] Frecce "back" poco visibili e non centrate — risolto il 22/04/2026

@@ -12,6 +12,7 @@ import CompatibilityBadge from '@/components/CompatibilityBadge';
 import RecipeForm from '@/components/RecipeForm';
 import { useDiary } from '@/lib/useDiary';
 import CookedModal from '@/components/CookedModal';
+import { usePlanner, DAYS, MEALS } from '@/lib/usePlanner';
 
 
 function RecipePage() {
@@ -25,6 +26,11 @@ function RecipePage() {
   const [editing, setEditing] = useState(false);
   const { addEntry, getEntriesForRecipe } = useDiary();
   const [showCookedModal, setShowCookedModal] = useState(false);
+
+  const { addRecipeToSlot } = usePlanner();
+  const [showPlannerAdd, setShowPlannerAdd] = useState(false);
+  const [plannerDay, setPlannerDay] = useState('Lunedì');
+  const [plannerMeal, setPlannerMeal] = useState('Cena');
 
   const { isFavorite, toggleFavorite } = useFavorites();
   const { recipes: customRecipes, updateRecipe, deleteRecipe, hydrated: customHydrated } = useCustomRecipes();
@@ -221,6 +227,52 @@ function RecipePage() {
               >
                 🗑 Elimina
               </button>
+            </div>
+          )}
+          {!showPlannerAdd ? (
+            <button
+              onClick={() => setShowPlannerAdd(true)}
+              className="mt-4 w-full py-2.5 bg-white text-[#C65D3B] border border-[#C65D3B] rounded-lg text-sm font-medium hover:bg-[#FDF4F0]"
+            >
+              📅 Aggiungi al pianificatore
+            </button>
+          ) : (
+            <div className="mt-4 bg-white border border-[#C65D3B] rounded-lg p-3">
+              <p className="text-xs font-medium text-gray-700 mb-2">Aggiungi a:</p>
+              <div className="grid grid-cols-2 gap-2 mb-2">
+                <select
+                  value={plannerDay}
+                  onChange={(e) => setPlannerDay(e.target.value)}
+                  className="px-2 py-1.5 border border-gray-200 rounded text-sm text-gray-800 focus:outline-none focus:border-[#C65D3B]"
+                >
+                  {DAYS.map((d) => <option key={d} value={d}>{d}</option>)}
+                </select>
+                <select
+                  value={plannerMeal}
+                  onChange={(e) => setPlannerMeal(e.target.value)}
+                  className="px-2 py-1.5 border border-gray-200 rounded text-sm text-gray-800 focus:outline-none focus:border-[#C65D3B]"
+                >
+                  {MEALS.map((m) => <option key={m} value={m}>{m}</option>)}
+                </select>
+              </div>
+              <div className="flex gap-2">
+                <button
+                  onClick={() => setShowPlannerAdd(false)}
+                  className="flex-1 py-2 border border-gray-300 rounded text-sm text-gray-700"
+                >
+                  Annulla
+                </button>
+                <button
+                  onClick={() => {
+                    addRecipeToSlot(plannerDay, plannerMeal, recipe, servings);
+                    setShowPlannerAdd(false);
+                    alert(`Aggiunto a ${plannerDay} - ${plannerMeal}!`);
+                  }}
+                  className="flex-1 py-2 bg-[#C65D3B] text-white rounded text-sm font-medium"
+                >
+                  Aggiungi
+                </button>
+              </div>
             </div>
           )}
 
