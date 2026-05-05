@@ -47,9 +47,15 @@ export default function LeMieRicettePage() {
             </button>
             <Link
               href="/importa-ricetta/"
-              className="block w-full mt-2 py-3 bg-white text-[#C65D3B] border border-[#C65D3B] rounded-lg font-medium hover:bg-[#FDF4F0] transition text-center mb-4"
+              className="block w-full mt-2 py-3 bg-white text-[#C65D3B] border border-[#C65D3B] rounded-lg font-medium hover:bg-[#FDF4F0] transition text-center"
             >
               🔗 Importa da URL
+            </Link>
+            <Link
+              href="/importa-da-foto/"
+              className="block w-full mt-2 py-3 bg-white text-[#C65D3B] border border-[#C65D3B] rounded-lg font-medium hover:bg-[#FDF4F0] transition text-center mb-4"
+            >
+              📷 Importa da foto
             </Link>
           </>
         )}
