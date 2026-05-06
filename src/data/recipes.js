@@ -1,5 +1,5 @@
-// File generato automaticamente da convert_to_app.py
-// NON modificare a mano - rigenerare da scraper/convert_to_app.py
+// File generato automaticamente da convert_to_app.py + convert_e2.py
+// NON modificare a mano - rigenerare dagli script di scraper/
 
 export const RECIPES = [
   {
@@ -477768,6 +477768,16203 @@ export const RECIPES = [
       "min_age_amber": 12,
       "amber_note": "Adattabile ometti zucchero/miele.",
       "red_note": "Non adatta: contiene zucchero/miele."
+    }
+  },
+  {
+    "id": "crema-di-riso-alla-trota",
+    "title": "Crema di riso alla trota",
+    "slug": "crema-di-riso-alla-trota",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/crema-di-riso-alla-trota-26736",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema delicata e nutriente a base di riso e trota, perfetta per l'inizio dello svezzamento. Ricca di proteine nobili e facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "crema di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "trota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulisci e taglia la trota in piccoli pezzi, eliminando spine e pelle",
+      "Taglia la carota e la patata in cubetti piccoli",
+      "Cuoci le verdure in acqua o brodo leggero per circa 15-20 minuti fino a renderle tenere",
+      "Aggiungi la trota e cuoci per altri 5-10 minuti",
+      "Aggiungi la crema di riso e mescola bene",
+      "Frulla il tutto fino a ottenere una consistenza cremosa e liscia",
+      "Condisci con un filo di olio extravergine d'oliva e servi tiepida"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "torta-alle-mandorle",
+    "title": "Torta alle mandorle",
+    "slug": "torta-alle-mandorle",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/torta-alle-mandorle-46563",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una deliziosa torta alle mandorle perfetta per i bambini da 24 mesi in poi. Ricca di ingredienti naturali, morbida e facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mandorle",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina integrale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cannella",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Mescolare il burro ammorbidito con lo zucchero fino a ottenere un composto cremoso",
+      "Aggiungere le uova uno alla volta, mescolando bene",
+      "Tritare finemente le mandorle e aggiungerle al composto",
+      "Setacciare la farina integrale con il lievito e la cannella, quindi incorporarli delicatamente",
+      "Aggiungere un pizzico di sale e mescolare fino a ottenere un impasto omogeneo",
+      "Versare in uno stampo imburrato e infornare fino a cottura completa"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "involtini-di-verza-ripieni-di-baccala-norvegese",
+    "title": "Involtini di verza ripieni di baccalà Norvegese",
+    "slug": "involtini-di-verza-ripieni-di-baccala-norvegese",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/02/involtini-di-verza-png.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/involtini-verza-ripieni-baccala-norvegese-60903",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Involtini di verza ripieni di baccalà Norvegese, una ricetta nutriente e gustosa per lo svezzamento. Piatto proteico adatto dai 12 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "Baccalà Norvegese",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Verza",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Pangrattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Timo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Sale",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulisci il baccalà e cuocilo al vapore per ammorbidirlo",
+      "Cuoci le patate e schiacchiale leggermente",
+      "Preriscalda il forno a 180°C",
+      "Stacca le foglie di verza e lessale brevemente",
+      "Prepara il ripieno mescolando il baccalà sminuzzato, le patate, il pangrattato e il timo",
+      "Distribuisci il ripieno su ogni foglia di verza e arrotola",
+      "Disponi gli involtini in una pirofila, condisci con olio extravergine",
+      "Cuoci in forno per 20-25 minuti fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "mousse-di-platessa",
+    "title": "Mousse di platessa",
+    "slug": "mousse-di-platessa",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/02/platessa_0.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/mousse-di-platessa-15148",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una delicata mousse di pesce bianco perfetta per l'inizio dello svezzamento. Ricca di proteine e facile da digerire per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "pollo-al-latte",
+    "title": "Pollo al latte",
+    "slug": "pollo-al-latte",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/pollo-al-latte-59269",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato e nutriente a base di pollo tenero cotto nel latte, perfetto per l'alimentazione dei bambini dai 10 mesi in poi. Ricetta semplice da preparare con ingredienti di base.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "pollo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire il pollo e tagliarlo a pezzetti piccoli",
+      "Lavare e pelare le patate, quindi tagliarle a dadini",
+      "In una pentola, scaldare l'olio extravergine d'oliva",
+      "Aggiungere il pollo e le patate, rosolare leggermente",
+      "Coprire con il latte e cuocere a fuoco medio fino a quando il pollo risulta tenero e le patate cotte",
+      "Frullare il composto se necessario per renderlo più omogeneo"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "polpette-di-ricotta-e-spinaci-senza-uova",
+    "title": "Polpette di ricotta e spinaci senza uova",
+    "slug": "polpette-di-ricotta-e-spinaci-senza-uova",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Polpette morbide e nutrienti a base di ricotta e spinaci, perfette per lo svezzamento. Una ricetta senza uova ideale dai 7 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "gelato-alla-frutta-mista",
+    "title": "Gelato alla frutta mista",
+    "slug": "gelato-alla-frutta-mista",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/07/gelato-frutta-.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/gelato-alla-frutta-mista-77724",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un gelato cremoso e nutriente a base di banana e albicocca, perfetto per i bambini da 10 mesi. Ricetta semplice e rinfrescante ideale per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "albicocca",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "latte vegetale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "da svezzamento",
+        "quantity_raw": "1 biscotto"
+      }
+    ],
+    "steps": [
+      "Sbuccia la banana e l'albicocca",
+      "Taglia i frutti a pezzetti",
+      "Frulla i frutti con il latte vegetale fino a ottenere un composto cremoso",
+      "Aggiungi il biscotto da svezzamento sbriciolato e mescola",
+      "Versa il composto in un contenitore e congela per alcune ore",
+      "Servi il gelato a temperature fredde ma non troppo duro"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "polpette-di-cavolo-e-pollo",
+    "title": "Polpette di cavolo e pollo",
+    "slug": "polpette-di-cavolo-e-pollo",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Polpette nutrienti a base di pollo e cavolo, ideali per lo svezzamento dai 10 mesi. Ricetta di difficoltà media, ricca di proteine e verdure.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "pollo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cavolo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carote",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina integrale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulisci e trita il pollo e il cavolo in piccoli pezzi",
+      "Grattugia le carote e aggiungile al composto",
+      "Incorpora il pangrattato e la farina integrale",
+      "Forma delle piccole polpette con le mani",
+      "Cuoci in padella con olio extravergine d'oliva fino a cottura completa"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "gnocchi-di-spinaci",
+    "title": "Gnocchi di spinaci",
+    "slug": "gnocchi-di-spinaci",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/05/gnocchi-di-spinaci.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/gnocchi-di-spinaci-77999",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta delicata e nutriente a base di spinaci, perfetta per l'introduzione di nuovi sapori. Ideale per bambini a partire dai 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-al-mango-e-mele",
+    "title": "Crema al mango e mele",
+    "slug": "crema-al-mango-e-mele",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/09/crema-al-mango-e-mele.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/crema-al-mango-e-mele-23819",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema dolce e nutriente a base di mango e mele, perfetta per introdurre la frutta durante lo svezzamento. Ricetta semplice e veloce, ideale da preparare in pochi minuti.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "crema-di-mais-alla-frutta",
+    "title": "Crema di mais alla frutta",
+    "slug": "crema-di-mais-alla-frutta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/crema-di-mais-alla-frutta",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema delicata a base di mais e tapioca arricchita con frutta, perfetta per lo svezzamento. Ricetta semplice e nutriente adatta dai 6 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "Crema di mais e tapioca",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Latte formulato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Omogeneizzato di pera",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Versare la crema di mais e tapioca in una ciotola",
+      "Aggiungere il latte formulato",
+      "Incorporare l'omogeneizzato di pera",
+      "Mescolare bene fino a ottenere una crema omogenea",
+      "Servire tiepida"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "frittata-con-verdure-a-julienne",
+    "title": "Frittata con verdure a julienne",
+    "slug": "frittata-con-verdure-a-julienne",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una frittata soffice e nutriente con verdure tagliate a julienne, perfetta per bambini da 12 mesi. Ricca di proteine uova e verdure fresche.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchine",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carote",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio stagionato tipo grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare le verdure tagliandole a julienne (sottili bastoncini)",
+      "Sbattere le uova con il latte e aggiungere la ricotta",
+      "Aggiungere le verdure tagliate e il formaggio grattugiato all'impasto",
+      "Versare in una padella con olio caldo",
+      "Cuocere a fuoco medio-basso fino a quando la frittata risulta cotta e dorata"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "burger-di-fagioli",
+    "title": "Burger di fagioli",
+    "slug": "burger-di-fagioli",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/03/burger-fagioli.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/burger-di-fagioli-88125",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Polpettone di fagioli neri con uova e pangrattato, perfetto per l'introduzione di legumi nell'alimentazione del bambino. Una ricetta vegetariana gustosa e ricca di proteine.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "fagioli neri",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "scalogno",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Scola i fagioli neri e frullali leggermente per mantenerli un po' grossolani",
+      "Tritare finemente lo scalogno e il prezzemolo",
+      "Mescola i fagioli frullati con l'uovo, il pangrattato, lo scalogno e il prezzemolo",
+      "Forma dei burger con la miscela ottenuta",
+      "Cuoci i burger in una padella con olio extravergine d'oliva fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "patate-gratinate",
+    "title": "Patate gratinate",
+    "slug": "patate-gratinate",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/patate-gratinate-40609",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente a base di patate gratinate, perfetto per l'alimentazione dei bambini a partire dai 12 mesi. Ricco di vitamine e minerali essenziali per la crescita.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crocchette-di-ricotta-al-forno",
+    "title": "Crocchette di ricotta al forno",
+    "slug": "crocchette-di-ricotta-al-forno",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/03/crocchette-di-ricotta.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/crocchette-di-ricotta-al-forno-50347",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziose crocchette di ricotta al forno, perfette per lo svezzamento a partire dai 12 mesi. Un piatto nutriente e facile da masticare per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "riso-con-le-albicocche",
+    "title": "Riso con le albicocche",
+    "slug": "riso-con-le-albicocche",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/riso-con-le-albicocche-77649",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato a base di riso e albicocche, perfetto per l'alimentazione complementare. Ricco di carboidrati e frutta dolce, ideale per i bambini da 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "albicocche",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere il riso in acqua o brodo fino a renderlo molto tenero",
+      "Aggiungere il latte e mescolare bene",
+      "Incorporare le albicocche tagliate a piccoli pezzi",
+      "Aggiustare di zucchero se necessario e completare con una spruzzata di succo di limone",
+      "Servire tiepido"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "dolce-di-riso-al-ribes",
+    "title": "Dolce di riso al ribes",
+    "slug": "dolce-di-riso-al-ribes",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/11/dolce-di-riso-al-ribes.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/dolce-di-riso-al-ribes-27140",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un dolce cremoso a base di riso, latte e vaniglia, arricchito con i ribes rossi. Perfetto per i bambini dai 12 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero",
+        "quantity_raw": ""
+      },
+      {
+        "name": "vaniglia",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ribes",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere il riso in latte bollente salato fino a renderlo morbido e cremoso",
+      "Aggiungere lo zucchero e la vaniglia durante la cottura",
+      "Lasciar raffreddare leggermente",
+      "Decorare con i ribes freschi prima di servire"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "panzanella-leggera-al-tonno",
+    "title": "Panzanella leggera al tonno",
+    "slug": "panzanella-leggera-al-tonno",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/09/panazanella.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/panzanella-leggera-al-tonno-14267",
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto fresco e leggero a base di pane, verdure crude e tonno, perfetto per i bambini da 12 mesi. Ricco di proteine e verdure, facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pane",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodori",
+        "quantity_raw": ""
+      },
+      {
+        "name": "insalata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "tonno",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Taglia il pane a cubetti e disponilo in una ciotola",
+      "Lava e taglia i pomodori e l'insalata in piccoli pezzi",
+      "Aggiungi le verdure al pane",
+      "Scola il tonno e sgranalo con una forchetta",
+      "Versa il tonno nelle verdure e mescola bene",
+      "Condisci con olio extravergine d'oliva e basilico fresco",
+      "Mescola delicatamente e lascia riposare alcuni minuti prima di servire"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "uovo-in-camicia-su-fetta-di-pane",
+    "title": "Uovo in camicia su fetta di pane",
+    "slug": "uovo-in-camicia-su-fetta-di-pane",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente perfetto per lo svezzamento, con uovo in camicia servito su pane tostato. Ricco di proteine e facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "uovo",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "pane",
+        "quantity_raw": "1 fetta"
+      },
+      {
+        "name": "aceto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Portare a ebollizione una pentola d'acqua con un po' di aceto",
+      "Rompere l'uovo in una ciotola",
+      "Creare un vortice nell'acqua e versare l'uovo al centro",
+      "Cuocere per 3-4 minuti fino a quando l'albume è solido ma il tuorlo rimane morbido",
+      "Tostare leggermente la fetta di pane",
+      "Posizionare l'uovo sulla fetta di pane",
+      "Condire con un filo d'olio extravergine d'oliva e prezzemolo fresco"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "frittatina-dolce-di-mele",
+    "title": "Frittatina dolce di mele",
+    "slug": "frittatina-dolce-di-mele",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/08/frittata-di-mele.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/frittatina-dolce-di-mele-34904",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una frittatina dolce a base di mele, perfetta per lo svezzamento. Ricetta semplice e nutriente adatta ai bambini da 12 mesi in su.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "macedonia-autunnale",
+    "title": "Macedonia autunnale",
+    "slug": "macedonia-autunnale",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/macedonia-autunnale",
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta di svezzamento a base di frutta fresca autunnale, perfetta per i bambini da 8 mesi. Semplice e nutriente, combina mela, pera, uva e kiwi con yogurt bianco.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "mela",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "pera",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "uva",
+        "quantity_raw": "1 grappolo"
+      },
+      {
+        "name": "kiwi",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "yogurt bianco",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare bene tutta la frutta sotto acqua corrente",
+      "Sbucciare mela, pera e kiwi, eliminare i semi dall'uva",
+      "Tagliare la frutta in piccoli pezzi adatti alla masticazione del bambino",
+      "Disporre la frutta in una ciotola e aggiungere una porzione di yogurt bianco",
+      "Mescolare delicatamente e servire subito"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "chiacchiere-al-forno",
+    "title": "Chiacchiere al forno",
+    "slug": "chiacchiere-al-forno",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/chiacchiere-al-forno.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/chiacchiere-al-forno-45889",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta dolce e croccante perfetta per i bambini a partire dai 12 mesi. Un dolcetto al forno semplice e adatto all'alimentazione infantile.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-di-piselli",
+    "title": "Crema di piselli",
+    "slug": "crema-di-piselli",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/11/crema-di-piselli.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/crema-di-piselli-33116",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema delicata e nutriente a base di piselli, perfetta per lo svezzamento dei bambini. Semplice da preparare e ricca di vitamine e fibre.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "clafoutis-alle-pesche",
+    "title": "Clafoutis alle pesche",
+    "slug": "clafoutis-alle-pesche",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/08/clafoutis-pesche.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/clafoutis-alle-pesche-81859",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un dolce francese delicato e profumato alle pesche, perfetto per l'alimentazione dei bambini dopo i 12 mesi. Facile da preparare e ricco di frutta fresca.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pesche",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare le pesche lavandole bene e tagliandole a pezzi",
+      "Mescolare le uova con lo zucchero fino a ottenere un composto omogeneo",
+      "Aggiungere il latte, la farina e un pizzico di sale, amalgamando bene",
+      "Disporre le pesche in una teglia unta",
+      "Versare il composto sulle pesche",
+      "Cuocere in forno a 180°C fino a quando la superficie risulta dorata e assestata"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "risotto-giallo",
+    "title": "Risotto giallo",
+    "slug": "risotto-giallo",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/03/risotto-giallo.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/risotto-giallo-65374",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un primo piatto delicato e nutriente perfetto per l'introduzione del riso nello svezzamento. Ideale da 12 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "involtini-con-prosciutto",
+    "title": "Involtini con prosciutto",
+    "slug": "involtini-con-prosciutto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/10/involtini-2.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/involtini-con-prosciutto-74442",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta per bambini a partire dai 12 mesi. Involtini gustosi e nutrienti con prosciutto, perfetti per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-di-piselli-e-mela",
+    "title": "Crema di piselli e mela",
+    "slug": "crema-di-piselli-e-mela",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/01/crema-di-piselli-e-mela.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/crema-di-piselli-e-mela-13585",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema delicata e nutriente a base di piselli e mela, perfetta per l'inizio dello svezzamento. Ricca di vitamine e minerali essenziali per la crescita del bambino.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "brodo-di-carne-di-coniglio",
+    "title": "Brodo di carne di coniglio",
+    "slug": "brodo-di-carne-di-coniglio",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/12/brodo-di-carne-di-coniglio.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/brodo-di-carne-di-coniglio-42416",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un brodo leggero e nutriente a base di carne di coniglio, perfetto per lo svezzamento dei bambini a partire dagli 8 mesi. Ideale come base per pappe e primi piatti.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "zucchette-di-riso",
+    "title": "Zucchette di riso",
+    "slug": "zucchette-di-riso",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/10/zuchette-di-riso-hallow.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/zucchette-di-riso-11711",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta delicata a base di riso e zucca, perfetta per lo svezzamento. Un piatto nutriente e facilmente digeribile per i bambini da 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "zucca",
+        "quantity_raw": ""
+      },
+      {
+        "name": "riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "brodo vegetale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cipolla",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zafferano",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato tipo grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olive nere denocciolate",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire la zucca, eliminare i semi e tagliare a pezzetti piccoli",
+      "Rosolare la cipolla tritata fine in un pentola con burro e olio",
+      "Aggiungere la zucca e il riso, tostare per 1-2 minuti",
+      "Versare il brodo vegetale caldo e cuocere fino a cottura completa del riso, circa 18-20 minuti",
+      "A fine cottura aggiungere lo zafferano, le olive nere denocciolate e mescolare",
+      "Manteccare con formaggio grattugiato e prezzemolo tritato",
+      "Lasciare raffreddare a temperatura adatta e servire"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pappa-gustosa",
+    "title": "Pappa gustosa",
+    "slug": "pappa-gustosa",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente perfetta per iniziare lo svezzamento. Ideale per bambini a partire dai 6 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "sfoglia-al-prosciutto",
+    "title": "Sfoglia al prosciutto",
+    "slug": "sfoglia-al-prosciutto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta gustosa e facile da preparare con pasta sfoglia, prosciutto e formaggio. Perfetta per i bambini a partire dai 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pasta sfoglia",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prosciutto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio tipo gruviera",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Stendi la pasta sfoglia su una superficie pulita",
+      "Distribuisci il prosciutto e il formaggio grattugiato sulla pasta",
+      "Arrotola la pasta sfoglia in modo compatto",
+      "Taglia la sfoglia in porzioni",
+      "Spennella con uovo sbattuto",
+      "Cuoci in forno fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "fragoloni-di-babbo-natale",
+    "title": "Fragoloni di Babbo Natale",
+    "slug": "fragoloni-di-babbo-natale",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/12/fragoloni-natale.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/fragoloni-babbo-natale-90355",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un dolcetto natalizio divertente e semplice da preparare per i bambini da 12 mesi in poi. Fragole decorate con panna montata e cioccolato.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "fragole",
+        "quantity_raw": ""
+      },
+      {
+        "name": "panna da montare",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cioccolato",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulisci le fragole e asciugale bene",
+      "Monta la panna da montare fino a raggiungere la consistenza desiderata",
+      "Decora le fragole con la panna montata usando una sac a poche o un cucchiaio",
+      "Sciogli il cioccolato a bagnomaria o al microonde",
+      "Aggiungi il cioccolato sciolto per decorare i fragoloni come gli occhi di Babbo Natale"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "barchette-con-crema-di-fragole",
+    "title": "Barchette con crema di fragole",
+    "slug": "barchette-con-crema-di-fragole",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/06/barchette-crema-fragole.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/barchette-con-crema-di-fragole-57353",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Dolcetti a forma di barchetta con una deliziosa crema di fragole, perfetti per il weaning da 12 mesi. Una ricetta di media difficoltà che combina frutta e cereali.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "farina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "miele d'acacia",
+        "quantity_raw": ""
+      },
+      {
+        "name": "yogurt greco magro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "fragole",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare l'impasto con farina, zucchero, olio e miele d'acacia",
+      "Formare piccole barchette con l'impasto",
+      "Cuocere in forno fino a doratura",
+      "Lavare e frullare le fragole",
+      "Mescolare le fragole frullate con lo yogurt greco magro",
+      "Farcire le barchette con la crema di fragole"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "biscotti-leggeri-alla-banana",
+    "title": "Biscotti leggeri alla banana",
+    "slug": "biscotti-leggeri-alla-banana",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/12/biscotti-leggeri.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/biscotti-leggeri-alla-banana-70377",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Biscotti delicati e nutrienti a base di banana, ideali per lo svezzamento dai 12 mesi. Ricetta semplice con ingredienti naturali e senza zuccheri raffinati.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "farina di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina di mais",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina di mandorle",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero integrale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "banana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare gli ingredienti secchi mescolando farina di riso, farina di mais, farina di mandorle e zucchero integrale in una ciotola.",
+      "Schiacciare la banana fino a ottenere una purea omogenea.",
+      "Aggiungere la banana e l'olio extravergine d'oliva al composto secco.",
+      "Mescolare bene fino a ottenere un impasto consistente.",
+      "Stendere l'impasto e ricavare i biscotti con le forme desiderate.",
+      "Cuocere in forno fino a doratura."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "friselle-ai-pomodori",
+    "title": "Friselle ai pomodori",
+    "slug": "friselle-ai-pomodori",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/friselle-ai-pomodori",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e gustoso a base di friselle con pomodorini freschi e basilico. Perfetto per i bambini a partire dai 15 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "friselle",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodorini",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare le friselle secondo le istruzioni sulla confezione",
+      "Lavare i pomodorini e tagliarli a pezzetti piccoli",
+      "Condire le friselle con i pomodorini, basilico fresco e un filo di olio extravergine d'oliva",
+      "Servire tiepido o a temperatura ambiente"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "merluzzo-vellutato",
+    "title": "Merluzzo vellutato",
+    "slug": "merluzzo-vellutato",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/nasello_0.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/merluzzo-vellutato-79454",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato e nutriente a base di merluzzo perfetto per l'inizio dello svezzamento. Ricetta facile e adatta ai bambini a partire da 6 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "gnocchi-alla-romana-light-con-il-semolino",
+    "title": "Gnocchi alla romana light con il semolino",
+    "slug": "gnocchi-alla-romana-light-con-il-semolino",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2020/01/gnocchi-alla-romana.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/gnocchi-alla-romana-light-con-il-semolino-72656",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta di gnocchi alla romana preparati con semolino, leggera e adatta ai bambini a partire da 12 mesi. Un piatto facile da preparare e digeribile.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "minestra-di-patate",
+    "title": "Minestra di patate",
+    "slug": "minestra-di-patate",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto che i bambini adorano e di cui chiedono sempre il bis. Perfetto per lo svezzamento grazie alla sua consistenza e al sapore delicato.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "triangoli-con-tonno-e-crescenza",
+    "title": "Triangoli con tonno e crescenza",
+    "slug": "triangoli-con-tonno-e-crescenza",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/08/fotolia_36515508_s.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/triangoli-con-tonno-e-crescenza-30356",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta semplice e nutriente per bambini da 12 mesi. Triangoli farciti con tonno e crescenza, facili da preparare e adatti allo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "grissini-osso-di-halloween",
+    "title": "Grissini-osso di Halloween",
+    "slug": "grissini-osso-di-halloween",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/10/grissini-osso.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/grissini-osso-di-halloween-96071",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Grissini divertenti a forma di osso perfetti per i bambini a partire dai 12 mesi. Una ricetta semplice e giocosa per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "composta-di-zucca-e-mela",
+    "title": "Composta di zucca e mela",
+    "slug": "composta-di-zucca-e-mela",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/10/zucca.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/composta-di-zucca-e-mela-52483",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente a base di zucca e mela, perfetta per l'alimentazione dei bambini da 12 mesi. Facile da preparare e ricca di vitamine.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "zucchine-ripiene-al-forno-con-ricotta-e-crescenza",
+    "title": "Zucchine ripiene al forno con ricotta e crescenza",
+    "slug": "zucchine-ripiene-al-forno-con-ricotta-e-crescenza",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/01/zucchine-ripiene.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/zucchine-ripiene-al-forno-con-ricotta-e-crescenza-89707",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Zucchine ripiene al forno con un delizioso ripieno di ricotta e crescenza. Una ricetta nutriente e facile da preparare, perfetta per lo svezzamento dai 10 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "pappa-di-nasello",
+    "title": "Pappa di nasello",
+    "slug": "pappa-di-nasello",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/svezzamento_ricette_omogenizzato_nasello_con_carota.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/pappa-di-nasello-44783",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente a base di pesce magro, perfetta per l'inizio dello svezzamento. Il nasello è facilmente digeribile e ricco di proteine di alta qualità.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "pappa-con-patate-dolci",
+    "title": "Pappa con patate dolci",
+    "slug": "pappa-con-patate-dolci",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2020/05/pappa-patate.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/pappa-con-patate-dolci-40556",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente a base di patate dolci, perfetta per iniziare lo svezzamento. Ricca di vitamine e dal sapore dolce naturale, ideale per i bambini a partire dai 6 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "burger-decorato",
+    "title": "Burger decorato",
+    "slug": "burger-decorato",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/05/burger-personalizzato.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/burger-decorato-14780",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un burger sano e gustoso preparato con petto di pollo macinato, perfetto per bambini dai 12 mesi in poi. Un piatto divertente e nutriente che combina proteine, verdure e pane integrale.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "petto di pollo",
+        "quantity_raw": "200g"
+      },
+      {
+        "name": "mollica di pane",
+        "quantity_raw": "30g"
+      },
+      {
+        "name": "latte",
+        "quantity_raw": "50ml"
+      },
+      {
+        "name": "scorza di limone",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "timo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pane da burger",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olive",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prosciutto cotto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "insalata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodori",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cetrioli",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Tritare finemente il petto di pollo e mescolare con la mollica di pane ammollata nel latte",
+      "Aggiungere la scorza di limone grattugiata, il timo, il sale e impastare bene",
+      "Formare polpettoni rotondi e passarli nel pangrattato",
+      "Cuocere in padella con olio extravergine d'oliva fino a cottura completa",
+      "Assembler il burger con il pane, la polpetta, insalata, pomodori, cetrioli, olive e prosciutto cotto",
+      "Decorare con gli ingredienti per creare volti divertenti"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "burger-tricolore",
+    "title": "Burger tricolore",
+    "slug": "burger-tricolore",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Polpettone a forma di burger preparato con carne di tacchino, spinaci e formaggio. Un piatto completo e gustoso adatto ai bambini da 12 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "carne trita di tacchino",
+        "quantity_raw": ""
+      },
+      {
+        "name": "spinaci",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato tipo grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pane",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire gli spinaci e lessarli in acqua leggermente salata",
+      "Strizzare bene gli spinaci cotti per eliminare l'acqua in eccesso",
+      "Tritare finemente gli spinaci lessati",
+      "In una ciotola mescolare la carne trita di tacchino con gli spinaci tritati",
+      "Aggiungere il formaggio grattugiato, il pangrattato e il pane ammollato",
+      "Condire con sale e olio extravergine d'oliva",
+      "Formare delle polpettone a forma di burger",
+      "Cuocere in padella con un filo d'olio fino a doratura su entrambi i lati"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "filetto-di-sogliola-con-pure-arancione",
+    "title": "Filetto di sogliola con purè arancione",
+    "slug": "filetto-di-sogliola-con-pure-arancione",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/11/sogliola-con-purc3a8.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/filetto-di-sogliola-con-pure-arancione-17282",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato e nutriente a base di pesce magro e verdure arancioni, perfetto per l'inizio dello svezzamento. Ricco di proteine e vitamine essenziali per la crescita del bambino.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "sorpresa-ai-frutti-di-bosco",
+    "title": "Sorpresa ai frutti di bosco",
+    "slug": "sorpresa-ai-frutti-di-bosco",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un dolce e goloso piatto a base di biscotti e frutti di bosco, perfetto per i bambini a partire dai 12 mesi. Una ricetta semplice e nutriente che combina cereali e frutta fresca.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "biscotti",
+        "quantity_raw": ""
+      },
+      {
+        "name": "frutti di bosco",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Sgretolate i biscotti in una ciotola",
+      "Aggiungete il latte e mescolate fino a ottenere una consistenza cremosa",
+      "Aggiungete i frutti di bosco e mescolate delicatamente",
+      "Servite subito al vostro bambino"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-di-mais-e-tapioca-al-prosciutto",
+    "title": "Crema di mais e tapioca al prosciutto",
+    "slug": "crema-di-mais-e-tapioca-al-prosciutto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/09/crema-di-mais-prosciutto.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/crema-di-mais-e-tapioca-al-prosciutto-37934",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema delicata a base di mais e tapioca arricchita con prosciutto, ideale per l'alimentazione dei bambini a partire dai 7 mesi. Ricetta semplice e nutriente per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "merenda-alla-ricotta",
+    "title": "Merenda alla ricotta",
+    "slug": "merenda-alla-ricotta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/11/fotolia_33344501_xs.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/merenda-alla-ricotta-42892",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una merenda semplice e nutriente a base di ricotta, perfetta per l'inizio dello svezzamento. Ricca di proteine e calcio, ideale per bambini a partire dai 6 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "creme-caramel-una-crema-da-leccarsi-i-baffi",
+    "title": "Crème caramel: una crema da leccarsi i baffi",
+    "slug": "creme-caramel-una-crema-da-leccarsi-i-baffi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://www.uppa.it/wp-content/uploads/2013/06/Creme-caramel.jpg",
+    "source_site": "Uppa",
+    "source_url": "https://www.uppa.it/una-crema-da-leccarsi-i-baffi/",
+    "prep_time_min": 0,
+    "cook_time_min": 20,
+    "total_time_min": 20,
+    "servings": 2,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una delizia dolce e sofisticata da preparare insieme ai bambini. Budino al forno con caramello croccante da servire freddo.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "tuorli",
+        "quantity_raw": "2"
+      },
+      {
+        "name": "zucchero più un cucchiaio per il caramello",
+        "quantity_raw": "60 gr"
+      },
+      {
+        "name": "litro di latte",
+        "quantity_raw": "1/4 di"
+      }
+    ],
+    "steps": [
+      "Preparate il caramello mettendo un cucchiaio di zucchero in un pentolino antiaderente su fiamma media. Tenetelo d'occhio senza girarlo e toglietelo dal fuoco quando diventa brunito, circa 3-4 minuti.",
+      "Versatate subito il caramello sul fondo di due stampini di alluminio da budino.",
+      "Sbattete bene i due tuorli con i 60 grammi di zucchero, poi versatevi sopra il latte tiepido.",
+      "Amalgamate bene il composto e travasatelo nei due stampini.",
+      "Cuocete in forno a bagnomaria a 100°C per circa 20 minuti. La superficie deve avere una consistenza abbastanza solida.",
+      "Mettete a raffreddare in frigo, quindi servite capovolgendo gli stampini in modo che il caramello coli sopra il budino."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "ghiaccioli-alla-frutta",
+    "title": "Ghiaccioli alla frutta",
+    "slug": "ghiaccioli-alla-frutta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/08/ghiaccioli-frutta.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/ghiaccioli-alla-frutta-18558",
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ghiaccioli freschi e naturali a base di frutta, perfetti per l'estate. Una merenda rinfrescante e sana per i bambini da 12 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pesche",
+        "quantity_raw": ""
+      },
+      {
+        "name": "albicocche",
+        "quantity_raw": ""
+      },
+      {
+        "name": "succo d'arancia",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare e sbucciare le pesche e le albicocche",
+      "Frullare la frutta con il succo d'arancia fino a ottenere un composto omogeneo",
+      "Versare il composto negli stampi per ghiaccioli",
+      "Inserire i bastoncini negli stampi",
+      "Congelare per almeno 4-6 ore o fino al completo congelamento"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pomodori-ripieni-di-merluzzo",
+    "title": "Pomodori ripieni di merluzzo",
+    "slug": "pomodori-ripieni-di-merluzzo",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/11/pomodori-ripieni-di-merluzzo.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/pomodori-ripieni-di-merluzzo-97385",
+    "prep_time_min": 20,
+    "cook_time_min": 25,
+    "total_time_min": 45,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente e gustoso a base di pomodori ripieni di merluzzo norvegese, ideale per l'alimentazione complementare dai 12 mesi. Ricetta di media difficoltà con ingredienti freschi e genuini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "merluzzo norvegese 200g",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodori 4 medi",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olive 50g",
+        "quantity_raw": ""
+      },
+      {
+        "name": "capperi 1 cucchiaio",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pangrattato 3 cucchiai",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova 1",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cipolla 1/2 piccola",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico fresco q.b.",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale q.b.",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pepe q.b.",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare i pomodori e tagliarli a metà, svuotarli delicatamente con un cucchiaio",
+      "Tritare finemente il merluzzo e la cipolla",
+      "In una ciotola unire il merluzzo tritato, le olive tagliate, i capperi, il pangrattato, l'uovo e il basilico",
+      "Condire con sale e pepe e mescolare bene il composto",
+      "Riempire le metà di pomodoro con il composto preparato",
+      "Disporre in una pirofila unta e cuocere in forno a 180°C per circa 20-25 minuti fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "spiedini-di-patata-a-soffietto",
+    "title": "Spiedini di patata a soffietto",
+    "slug": "spiedini-di-patata-a-soffietto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/04/spiedini-di-patata.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/spiedini-patata-soffietto-39237",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Spiedini di patata a soffietto adatti a bambini da 8 mesi. Un piatto semplice e originale a base di patata fresca aromatizzata con erbe.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "timo fresco",
+        "quantity_raw": ""
+      },
+      {
+        "name": "origano",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e pelate la patata",
+      "Tagliare la patata a fette sottili e uniforme",
+      "Alternare le fette di patata su uno spiedino creando un effetto soffietto",
+      "Condire con olio extravergine d'oliva e erbe aromatiche",
+      "Cuocere in forno o al vapore fino a cottura completa"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "mini-burger-di-vitello-e-carote",
+    "title": "Mini burger di vitello e carote",
+    "slug": "mini-burger-di-vitello-e-carote",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/05/mini-burger.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/mini-burger-carne-vitello-carote-76561",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi mini burger homemade a base di vitello e carote, perfetti per l'alimentazione del bambino dai 8 mesi. Una ricetta nutriente e facile da maneggiare per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "biscotti-di-halloween",
+    "title": "Biscotti di Halloween",
+    "slug": "biscotti-di-halloween",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi biscotti a forma di Halloween perfetti per i bambini da 12 mesi in poi. Una ricetta divertente e semplice per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-con-prosciutto",
+    "title": "Crema con prosciutto",
+    "slug": "crema-con-prosciutto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/crema-con-prosciutto-57141",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema cremosa a base di patate, carote e zucchine arricchita con prosciutto cotto. Perfetta per i bambini dai 8 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carote",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchine",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prosciutto cotto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "crema di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e lavare bene le verdure (patate, carote e zucchine)",
+      "Tagliare le verdure a pezzi piccoli",
+      "Cuocere le verdure in acqua salata fino a renderle morbide",
+      "Aggiungere la crema di riso durante la cottura",
+      "Frullare il tutto fino a ottenere una consistenza liscia e cremosa",
+      "Aggiungere il prosciutto cotto finemente tritato",
+      "Completare con un filo di olio extravergine d'oliva"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "sformato-di-finocchi",
+    "title": "Sformato di finocchi",
+    "slug": "sformato-di-finocchi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/ricette_sformatodifinocchi.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/sformato-di-finocchi-80949",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso sformato a base di finocchi, perfetto per l'alimentazione dei bambini da 12 mesi. Un piatto nutriente e facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "zuppa-di-legumi",
+    "title": "Zuppa di legumi",
+    "slug": "zuppa-di-legumi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una zuppa nutriente a base di legumi misti e verdure, perfetta per l'alimentazione del bambino a partire dai 10 mesi. Ricca di proteine e fibre, facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "ceci",
+        "quantity_raw": ""
+      },
+      {
+        "name": "fagioli",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lenticchie rosse",
+        "quantity_raw": ""
+      },
+      {
+        "name": "broccoli",
+        "quantity_raw": ""
+      },
+      {
+        "name": "kamut",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Sciacqua i legumi e lasciali in ammollo per almeno 8 ore",
+      "Cuoci i legumi in acqua bollente fino a quando non diventano teneri",
+      "Aggiungi il kamut e continua la cottura",
+      "Taglia il broccoli in piccole parti e aggiungilo alla zuppa",
+      "Cuoci fino a quando tutte le verdure sono morbide",
+      "Condisci con olio extravergine d'oliva e servi"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "cuori-di-polenta",
+    "title": "Cuori di polenta",
+    "slug": "cuori-di-polenta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/cuori-di-polenta.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/cuori-di-polenta-33972",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi cuori di polenta con pomodoro e mozzarella, perfetti per lo svezzamento. Un piatto nutriente e facile da mangiare per i bambini a partire dai 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "farina di mais",
+        "quantity_raw": ""
+      },
+      {
+        "name": "polpa di pomodoro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mozzarella",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "origano",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere la farina di mais in acqua salata secondo le istruzioni del prodotto per preparare la polenta.",
+      "Aggiungere la polpa di pomodoro, la mozzarella e l'origano alla polenta ancora calda.",
+      "Mescolare bene fino a ottenere un composto omogeneo.",
+      "Versare la polenta su un piano di lavoro umido e far raffreddare.",
+      "Tagliare la polenta con formine a forma di cuore o in porzioni regolari.",
+      "Condire con un filo d'olio extravergine d'oliva e servire."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "spiedini-di-salmone-con-verdure",
+    "title": "Spiedini di salmone con verdure",
+    "slug": "spiedini-di-salmone-con-verdure",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/12/spiedini-salmone.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/spiedini-di-salmone-con-verdure-41633",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Spiedini gustosi a base di salmone norvegese e verdure fresche, perfetti per l'alimentazione complementare. Una ricetta semplice e nutriente per i bambini a partire dai 10 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "salmone norvegese",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cipolla",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone con foglie",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare gli ingredienti: pulire la zucchina e tagliarla a pezzi, sbucciare e tagliare la patata, mondare la cipolla.",
+      "Cuocere la patata in acqua bollente fino a renderla tenera.",
+      "Cuocere il salmone al vapore o in forno per alcuni minuti fino a cottura completa.",
+      "Montare gli spiedini alternando il salmone cotto con la zucchina e la patata.",
+      "Condire con olio, succo di limone e basilico fresco macinato."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "semolino-in-succo-di-mela",
+    "title": "Semolino in succo di mela",
+    "slug": "semolino-in-succo-di-mela",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/10/semolino-in-succo-di-mela.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/semolino-in-succo-di-mela-89261",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato e nutriente perfetto per l'inizio dello svezzamento. Combina semolino cremoso con il succo dolce di mela e banana, arricchito con ricotta vaccina.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "semolino",
+        "quantity_raw": ""
+      },
+      {
+        "name": "succo di mela",
+        "quantity_raw": ""
+      },
+      {
+        "name": "banana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta vaccina",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare il semolino seguendo le indicazioni sulla confezione con il succo di mela.",
+      "Aggiungere la ricotta vaccina al semolino cotto.",
+      "Frullare o schiacciare la banana e incorporarla al preparato.",
+      "Mescolare bene fino a ottenere una consistenza cremosa e omogenea.",
+      "Servire tiepido."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "biscottini-al-farro",
+    "title": "Biscottini al farro",
+    "slug": "biscottini-al-farro",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/biscottini-al-farro-14253",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi biscottini al farro perfetti per lo svezzamento a partire dai 12 mesi. Ricetta facile e nutriente con ingredienti semplici.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "farina di farro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "bicarbonato",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Mescola il burro con lo zucchero di canna fino a ottenere un composto cremoso",
+      "Aggiungi le uova uno alla volta, mescolando bene dopo ogni aggiunta",
+      "Incorpora la farina di farro, il bicarbonato e il sale",
+      "Aggiungi la scorza di limone e mescola fino a ottenere un impasto omogeneo",
+      "Stendi l'impasto e ritaglia i biscottini con le forme desiderate",
+      "Disponi i biscottini su una teglia rivestita di carta forno",
+      "Cuoci in forno preiscaldato fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "semolino-al-finocchio",
+    "title": "Semolino al finocchio",
+    "slug": "semolino-al-finocchio",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/10/semolino-al-finocchio.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/semolino-al-finocchio-57939",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato e nutriente perfetto per lo svezzamento dei bambini a partire dai 6 mesi. Il semolino cremoso aromatizzato al finocchio è facile da digerire e ricco di benefici.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "involtini-di-platessa",
+    "title": "Involtini di platessa",
+    "slug": "involtini-di-platessa",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/involtini-di-platessa-79887",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Delicati involtini di pesce per i bambini a partire dai 12 mesi. Un piatto ricco di proteine e nutrienti con aromi delicati.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "filetti di platessa",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olive",
+        "quantity_raw": ""
+      },
+      {
+        "name": "scorza di limone",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "timo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire i filetti di platessa e disponerli su un piano di lavoro",
+      "Lessare le patate e ridurle in purè",
+      "Tritare finemente le olive, il prezzemolo e il timo",
+      "Mescolare il purè di patate con le olive tritate e gli aromi",
+      "Distribuire il composto sui filetti di platessa",
+      "Arrotolare delicatamente i filetti e fissarli con stuzzicadenti se necessario",
+      "Cuocere gli involtini al forno o in padella con un filo d'olio extravergine d'oliva",
+      "Profumare con scorza di limone prima di servire"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "carote-in-agrodolce",
+    "title": "Carote in agrodolce",
+    "slug": "carote-in-agrodolce",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://www.uppa.it/wp-content/uploads/2013/06/Carote-in-agrodolce-720x413.jpg",
+    "source_site": "Uppa",
+    "source_url": "https://www.uppa.it/carote-in-agrodolce/",
+    "prep_time_min": 0,
+    "cook_time_min": 10,
+    "total_time_min": 10,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un contorno appetitoso a base di carote affettate sottili cotte in un liquido agrodolce. Piacerà sia ai bambini che agli adulti.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "carote",
+        "quantity_raw": "1/2 chilo"
+      },
+      {
+        "name": "burro",
+        "quantity_raw": "1 noce"
+      },
+      {
+        "name": "sale q.b.",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mezzo limone",
+        "quantity_raw": ""
+      },
+      {
+        "name": "raso di zucchero",
+        "quantity_raw": "1 cucchiaio"
+      },
+      {
+        "name": "acqua",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulite bene mezzo chilo di carote e affettatele a rondelle molto sottili, preferibilmente con una macchinetta affetta-verdure.",
+      "Fate sciogliere una noce di burro in un tegame antiaderente e aggiungete le carote. Rigiratele bene, aggiungete poco sale e coprite per qualche minuto.",
+      "In un bicchiere preparate il liquido agrodolce: spremete mezzo limone, aggiungete un cucchiaio raso di zucchero e riempite d'acqua fino al bordo.",
+      "Versate il liquido agrodolce nelle carote, rigirate di tanto in tanto e cuocete a fuoco medio con il coperchio per circa 10 minuti.",
+      "Le carote sono pronte quando sono leggermente al dente e il liquido è completamente evaporato."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "passato-di-zucchine-e-multicereali",
+    "title": "Passato di zucchine e multicereali",
+    "slug": "passato-di-zucchine-e-multicereali",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/08/passato-zucchine-multicereali.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/passato-di-zucchine-e-multicereali-81723",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato e nutriente perfetto per l'inizio dello svezzamento. Combina verdure fresche e cereali per un pasto completo e facilmente digeribile.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "multicereali",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio tipo grana",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e lavare la carota e la zucchina",
+      "Tagliare le verdure in piccoli pezzi",
+      "Cuocere le verdure in acqua bollente fino a quando diventano morbide",
+      "Cuocere i multicereali secondo le istruzioni sulla confezione",
+      "Frullare insieme le verdure cotte e i cereali fino a ottenere un passato omogeneo",
+      "Aggiungere un filo di olio extravergine d'oliva e grattugiare un poco di formaggio"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "crema-di-patate-allegra",
+    "title": "Crema di patate allegra",
+    "slug": "crema-di-patate-allegra",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/03/crema-di-patate.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/crema-patate-allegra-74614",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema di patate semplice e nutriente, perfetta per l'inizio dello svezzamento. Arricchita con formaggio fresco e verdure per un piatto completo e delizioso.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lattuga",
+        "quantity_raw": ""
+      },
+      {
+        "name": "brodo vegetale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio fresco morbido",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e tagliare le patate a cubetti",
+      "Cuocere le patate nel brodo vegetale fino a quando non sono tenere",
+      "Aggiungere la lattuga e il prezzemolo al brodo",
+      "Frullare il tutto fino a ottenere una crema liscia",
+      "Aggiungere il formaggio fresco morbido e mescolare bene",
+      "Condire con un filo di olio extravergine d'oliva"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "spezzatino-in-crema-di-verdure",
+    "title": "Spezzatino in crema di verdure",
+    "slug": "spezzatino-in-crema-di-verdure",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/spezzatino-in-crema-di-verdure-53097",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso spezzatino di vitello con una cremosa salsa di verdure, perfetto per l'alimentazione complementare. Ricetta ricca di proteine e verdure per una nutrizione completa.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "vitello",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "spinaci",
+        "quantity_raw": ""
+      },
+      {
+        "name": "fagiolini",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodori",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Tagliare il vitello in piccoli pezzi e rosolarli leggermente in olio extravergine d'oliva",
+      "Aggiungere le verdure tagliate finemente: zucchina, fagiolini, spinaci e pomodori",
+      "Cuocere a fuoco dolce fino a quando tutti gli ingredienti sono molto teneri",
+      "Frullare il tutto fino a ottenere una crema omogenea e cremosa",
+      "Servire tiepido in porzioni appropriate per l'eta del bambino"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "anellini-gustosi",
+    "title": "Anellini gustosi",
+    "slug": "anellini-gustosi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e gustosa a base di anellini, ideale per l'inizio dello svezzamento. Perfetta per bambini a partire dagli 8 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "sogliola-alla-parmigiana",
+    "title": "Sogliola alla parmigiana",
+    "slug": "sogliola-alla-parmigiana",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/svezzamento_sogliola_formaggio.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/sogliola-alla-parmigiana-25530",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delicato piatto di pesce magro per lo svezzamento. La sogliola gratinata al forno con formaggio è nutriente e facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "omino-pancake",
+    "title": "Omino Pancake",
+    "slug": "omino-pancake",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/12/omino-pancake.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/omino-pancake-95982",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi pancake a forma di omino perfetti per i bambini da 12 mesi. Una ricetta divertente e appetibile per rendere la colazione più giocosa e invitante.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "bicarbonato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "fragole",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mirtilli",
+        "quantity_raw": ""
+      },
+      {
+        "name": "marshmallow",
+        "quantity_raw": ""
+      },
+      {
+        "name": "stecchini da aperitivo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina di cocco",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Prepara l'impasto mescolando uova, latte, farina e bicarbonato",
+      "Scalda l'olio in padella a fuoco medio",
+      "Versa l'impasto in padella e cuoci i pancake fino a doratura",
+      "Disponi i pancake sul piatto e decora con fragole e mirtilli per formare il viso",
+      "Utilizza stecchini e marshmallow per creare i dettagli dell'omino",
+      "Completa la decorazione con la farina di cocco se desiderato"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "biscotti-delle-feste",
+    "title": "Biscotti delle feste",
+    "slug": "biscotti-delle-feste",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/biscotti-delle-feste",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi biscotti speziati con zenzero e melassa, perfetti per lo svezzamento dai 12 mesi in poi. Ricetta di difficoltà media con ingredienti naturali.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "farina integrale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "melassa",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zenzero",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero a velo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "albume pastorizzato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone",
+        "quantity_raw": ""
+      },
+      {
+        "name": "coloranti alimentari",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Mescola il burro con lo zucchero di canna e la melassa",
+      "Aggiungi la farina integrale, il lievito e lo zenzero",
+      "Incorpora l'albume pastorizzato e il succo di limone",
+      "Modella i biscotti e disponi su carta forno",
+      "Cuoci fino a doratura",
+      "Decora con zucchero a velo e coloranti alimentari"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "insalata-di-pesce",
+    "title": "Insalata di pesce",
+    "slug": "insalata-di-pesce",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/06/insalata-di-pesce.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/insalata-di-pesce-14905",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto fresco e nutriente a base di pesce, perfetto per l'introduzione del pesce nella dieta del bambino. Ricca di proteine e omega-3, facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "pappa-gustosa-al-pollo",
+    "title": "Pappa gustosa al pollo",
+    "slug": "pappa-gustosa-al-pollo",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/05/pappa-con-pollo.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/pappa-gustosa-al-pollo-40302",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente perfetta per l'inizio dello svezzamento. A base di pollo tenero e ingredienti delicati per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "macedonia-golosa",
+    "title": "Macedonia golosa",
+    "slug": "macedonia-golosa",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/08/macedonia-golosa.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/macedonia-golosa-22376",
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta fresca e colorata a base di frutta mista, perfetta per il primo approccio del bambino ai frutti di bosco e alla frutta fresca. Yogurt bianco e biscotti per l'infanzia completano questo piatto nutriente e appetitoso.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "kiwi",
+        "quantity_raw": ""
+      },
+      {
+        "name": "fragole",
+        "quantity_raw": ""
+      },
+      {
+        "name": "albicocche",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mirtilli",
+        "quantity_raw": ""
+      },
+      {
+        "name": "yogurt bianco",
+        "quantity_raw": ""
+      },
+      {
+        "name": "biscotti per l'infanzia",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare accuratamente la frutta sotto acqua corrente",
+      "Sbucciare il kiwi e le albicocche, rimuovere i semi dalle fragole",
+      "Tagliare la frutta in piccoli pezzi adatti alle dimensioni della bocca del bambino",
+      "Disporre la frutta in una ciotola",
+      "Aggiungere lo yogurt bianco sulla frutta",
+      "Sbricciolare i biscotti per l'infanzia sulla superficie",
+      "Servire subito"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "polenta-con-formaggio",
+    "title": "Polenta con formaggio",
+    "slug": "polenta-con-formaggio",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/01/polenta-con-formaggio.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/polenta-con-formaggio-72800",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente perfetto per l'inizio dello svezzamento. La polenta cremosa con formaggio è facile da digerire e ricca di carboidrati.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "delizia-alla-rapa",
+    "title": "Delizia alla rapa",
+    "slug": "delizia-alla-rapa",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato a base di sedano rapa e polenta cremosa, arricchito con formaggio e mela. Perfetto per lo svezzamento dai 10 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "sedano rapa",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mela",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "polenta cremosa",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio tipo grana",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e tagliare il sedano rapa in piccoli pezzi",
+      "Sbucciare e tagliare la patata",
+      "Lavare la mela e grattuggiarla o tagliarla in piccoli pezzi",
+      "Cuocere il sedano rapa e la patata in acqua fino a renderli teneri",
+      "Preparare la polenta cremosa secondo le istruzioni del prodotto",
+      "Unire il sedano rapa e la patata cotti alla polenta",
+      "Aggiungere la mela fresca grattugiata",
+      "Spolverare con formaggio grana grattugiato",
+      "Finire con un filo di olio extravergine d'oliva"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "zeppole-di-baccala-di-norvegia-e-alghe",
+    "title": "Zeppole di baccalà di Norvegia e alghe",
+    "slug": "zeppole-di-baccala-di-norvegia-e-alghe",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/11/zeppole-norvegia.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/zeppole-baccala-norvegia-alghe-73621",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Delizioso piatto a base di baccalà norvegese fresco e alghe nori, ideale per l'introduzione di pesce nel menu dello svezzamento. Una ricetta di difficoltà media adatta dai 12 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "baccalà Norvegese",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      },
+      {
+        "name": "alga nori",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pepe",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e dissalare il baccalà norvegese seguendo le indicazioni del fornitore",
+      "In una ciotola, mescolare la farina con il lievito e un pizzico di sale",
+      "Aggiungere il baccalà desalato e sminuzzato all'impasto",
+      "Tritare finemente l'alga nori e incorporarla all'impasto",
+      "Formare le zeppole con le mani bagnate d'acqua",
+      "Friggere in olio extravergine d'oliva caldo fino a doratura",
+      "Scolare su carta assorbente e servire ancora tiepide"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "alberelli-salati",
+    "title": "Alberelli salati",
+    "slug": "alberelli-salati",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/12/alberelli-di-natale.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/alberelli-salati-32806",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Salatini divertenti e colorati a forma di albero perfetti per lo svezzamento. Ricetta media con formaggio, olive e burro.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "farina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olive verdi",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olive nere",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare l'impasto con farina, uova e burro",
+      "Aggiungere il formaggio grattugiato e mescolare bene",
+      "Incorporare le olive verdi e nere tritate",
+      "Stendere l'impasto e ritagliare le forme a albero",
+      "Cuocere in forno fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "palombo-con-pisellini-e-pomodoro-fresco",
+    "title": "Palombo con pisellini e pomodoro fresco",
+    "slug": "palombo-con-pisellini-e-pomodoro-fresco",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/06/palombo-pisellini.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/palombo-con-pisellini-e-pomodoro-fresco-73461",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato a base di palombo, pisellini e pomodori freschi, perfetto per l'introduzione del pesce nell'alimentazione del bambino. Ricetta semplice e nutriente adatta dai 10 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "palombo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodori",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pisellini",
+        "quantity_raw": ""
+      },
+      {
+        "name": "origano",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire il palombo e tagliarlo in piccoli pezzi adatti alle dimensioni del bambino",
+      "Lavare i pomodori e tagliarli in dadini piccoli",
+      "In una pentola, scaldare un filo di olio extravergine d'oliva",
+      "Aggiungere il palombo e cuocere brevemente fino a doratura",
+      "Unire i pisellini e i pomodori al pesce",
+      "Aggiungere origano e basilico fresco",
+      "Continuare la cottura fino a quando il pesce e i pisellini sono teneri",
+      "Servire tiepido, eventualmente frullando per i primi assaggi"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "spiedini-di-uva-e-formaggio",
+    "title": "Spiedini di uva e formaggio",
+    "slug": "spiedini-di-uva-e-formaggio",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/09/spiedini-con-il-formaggio.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/spiedini-di-uva-e-formaggio-74824",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta semplice e divertente per bambini dai 12 mesi. Spiedini colorati con uva e formaggio, perfetti per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "caffe-dorzo-aromatizzato",
+    "title": "Caffè d'orzo aromatizzato",
+    "slug": "caffe-dorzo-aromatizzato",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/03/caffe-orzo.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/caffe-dorzo-aromatizzato-29422",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una bevanda calda e profumata a base di caffè d'orzo, perfetta per i bambini dai 12 mesi. Aromatizzata con miele e spezie scelte, è facile da preparare e molto apprezzata.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "caffè d'orzo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "miele",
+        "quantity_raw": ""
+      },
+      {
+        "name": "spezie a scelta",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare il caffè d'orzo seguendo le indicazioni sulla confezione",
+      "Aggiungere il miele e le spezie scelte secondo il gusto",
+      "Mescolare bene e servire tiepido"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "falafel-di-ceci",
+    "title": "Falafel di ceci",
+    "slug": "falafel-di-ceci",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/12/scandi_img_0413.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/falafel-di-ceci-89423",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Polpettine croccanti a base di ceci, perfette per l'alimentazione del bambino da 12 mesi. Una ricetta vegetariana e nutriente, facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "ceci",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cumino",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuoci i ceci fino a renderli morbidi",
+      "Schiaccia i ceci e mescola con la farina, il prezzemolo tritato e il cumino",
+      "Aggiungi il lievito e il sale secondo il gusto",
+      "Forma piccole polpettine con le mani",
+      "Cuoci in forno o in padella con un filo d'olio extravergine d'oliva fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "tartine-maialine",
+    "title": "Tartine maialine",
+    "slug": "tartine-maialine",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/tartine-maialine-47730",
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Tartine divertenti e facili da preparare con prosciutto cotto e ricotta per i bambini in svezzamento. Una ricetta semplice e appetitosa perfetta dai 10 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "pancarrè",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prosciutto cotto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olive nere denocciolate",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Stendi le fette di pancarrè su un piano di lavoro",
+      "Spalma uno strato di ricotta su ogni fetta",
+      "Aggiungi il prosciutto cotto e le olive nere denocciolate",
+      "Ritaglia la tartina a piacimento per creare la forma desiderata",
+      "Servi al bambino in pezzi facili da afferrare"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "insalata-di-riso-e-fagiolini",
+    "title": "Insalata di riso e fagiolini",
+    "slug": "insalata-di-riso-e-fagiolini",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/insalata-di-riso-e-fagiolini-73077",
+    "prep_time_min": 10,
+    "cook_time_min": 18,
+    "total_time_min": 28,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto leggero e nutriente a base di riso, fagiolini e carote, perfetto per lo svezzamento. Semplice da preparare e ricco di vitamine.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "riso 50g",
+        "quantity_raw": ""
+      },
+      {
+        "name": "fagiolini 50g",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carote 30g",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio tipo grana 10g",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva 1 cucchiaino",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico fresco q.b.",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere il riso in acqua salata per circa 15-18 minuti fino a cottura completa.",
+      "Nel frattempo, pulire e tagliare a pezzetti i fagiolini e le carote.",
+      "Cuocere fagiolini e carote a vapore o in acqua bollente per 10-12 minuti fino a renderli teneri.",
+      "Scolare il riso e raffreddare leggermente.",
+      "Mescolare il riso con i fagiolini e le carote cotte.",
+      "Condire con un filo d'olio extravergine d'oliva, aggiungere il formaggio grattugiato e il basilico.",
+      "Mescolare bene e servire tiepido."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "polpettine-con-zucchine-e-ricotta",
+    "title": "Polpettine con zucchine e ricotta",
+    "slug": "polpettine-con-zucchine-e-ricotta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/05/polpettine-con-le-zucchine.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/polpettine-con-zucchine-e-ricotta-69969",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Polpettine morbide e nutrienti preparate con zucchine e ricotta, perfette per l'alimentazione dei bambini da 12 mesi. Un piatto completo e facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "risotto-gustoso-alla-zucca",
+    "title": "Risotto gustoso alla zucca",
+    "slug": "risotto-gustoso-alla-zucca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/02/shutterstock_765673777.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/risotto-gustoso-alla-zucca-98895",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un risotto cremoso e nutriente a base di zucca, perfetto per lo svezzamento dei bambini dai 8 mesi. Ricco di vitamine e dal sapore delicato.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "margherite-di-tramezzino",
+    "title": "Margherite di tramezzino",
+    "slug": "margherite-di-tramezzino",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/05/margherite-di-tramezzino.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/margherite-di-tramezzino-88080",
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Panini divertenti a forma di margherita con ingredienti freschi e delicati per bambini da 12 mesi. Una ricetta semplice e colorata che unisce pane integrale, formaggio e verdure.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pane integrale in cassetta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prosciutto cotto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio spalmabile",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodoro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lattuga",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Taglia il pane integrale in cassetta in forme di margherita utilizzando un coltello o uno stampo",
+      "Spalma il formaggio spalmabile su ogni pezzo di pane",
+      "Aggiungi il prosciutto cotto e la lattuga fresca",
+      "Decora con pezzetti di pomodoro e una foglia di basilico",
+      "Condisci leggermente con un filo di olio extravergine d'oliva"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "chiacchiere-light",
+    "title": "Chiacchiere light",
+    "slug": "chiacchiere-light",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/03/chiacchiere-light.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/chiacchiere-light-37912",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Dolcetto croccante e leggero perfetto per i bambini a partire dai 12 mesi. Ricetta facile da preparare con ingredienti semplici e genuini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "farina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero a velo",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Mescola la farina con il lievito e il sale in una ciotola",
+      "Aggiungi le uova e il burro ammorbidito",
+      "Aggiungi la scorza di limone per profumare l'impasto",
+      "Impasta fino a ottenere un composto omogeneo",
+      "Stendi l'impasto e ritaglia in strisce",
+      "Cuoci in forno fino a doratura",
+      "Lascia raffreddare e cospargi di zucchero a velo"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "renne-di-pancare",
+    "title": "Renne di pancarrè",
+    "slug": "renne-di-pancare",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2021/12/tramezzino-renna.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/renne-di-pancarre-31743",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto divertente e creativo a base di pancarrè, ricotta e prosciutto, perfetto per i bambini a partire da 12 mesi. Una ricetta semplice e veloce da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pancarrè",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prosciutto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mozzarella",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare gli ingredienti",
+      "Assemblare il piatto seguendo le indicazioni per creare la forma di renna",
+      "Servire al bambino"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "vellutata-di-zucca-per-halloween",
+    "title": "Vellutata di zucca per Halloween",
+    "slug": "vellutata-di-zucca-per-halloween",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2020/10/vellutata-zucca-halloween.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/vellutata-di-zucca-per-halloween-44463",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una vellutata cremosa di zucca perfetta per lo svezzamento dei bambini a partire dai 6 mesi. Ricetta semplice e nutriente ideale per Halloween.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "grissini-ripieni-di-asparagi",
+    "title": "Grissini ripieni di asparagi",
+    "slug": "grissini-ripieni-di-asparagi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/04/grissini-ripieni.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/grissini-ripieni-di-asparagi-44473",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi grissini ripieni di asparagi, perfetti per i bambini a partire dai 12 mesi. Una ricetta facile e nutriente ideale per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "stelle-di-nasello",
+    "title": "Stelle di nasello",
+    "slug": "stelle-di-nasello",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/svezzamento_ricette_stelle_nasello_0.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/stelle-di-nasello-18742",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato e nutriente a base di nasello, perfetto per l'alimentazione dei bambini dai 12 mesi. Facile da preparare e ricco di proteine.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "minestrina-di-zucca",
+    "title": "Minestrina di zucca",
+    "slug": "minestrina-di-zucca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/minestrina-di-zucca-45213",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una minestrina delicata a base di zucca, perfetta per l'inizio dello svezzamento. Ricca di vitamine e dal sapore dolce, naturalmente apprezzata dai bambini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "zucca",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pastina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cipolla",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire la zucca, eliminare i semi e tagliarla a pezzi",
+      "In una pentola, rosolare leggermente la cipolla tritata in olio extravergine d'oliva",
+      "Aggiungere la zucca a pezzi e coprire con brodo o acqua",
+      "Portare a ebollizione e cuocere fino a che la zucca non sia molto tenera",
+      "Aggiungere la pastina e proseguire la cottura secondo le indicazioni della confezione",
+      "A fine cottura, aggiungere il formaggio grattugiato e mescolare bene",
+      "Se necessario, frullare per ottenere la consistenza desiderata"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "merenda-con-biscotti",
+    "title": "Merenda con biscotti",
+    "slug": "merenda-con-biscotti",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/svezzamento_ricette_yogurt_biscotti.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/merenda-con-biscotti-61943",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una merenda semplice e nutriente perfetta per i primi mesi di svezzamento. Ideale per introdurre nuovi sapori in modo graduale.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "platessa-alle-carote",
+    "title": "Platessa alle carote",
+    "slug": "platessa-alle-carote",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/06/platessa-alle-carote.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/platessa-alle-carote-45084",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato e nutriente a base di platessa e carote, perfetto per l'introduzione del pesce durante lo svezzamento. Ricco di proteine e vitamine, facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "platessa",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carote",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire la platessa e rimuovere eventuali lische",
+      "Lavare e pelate le carote",
+      "Cuocere la platessa e le carote al vapore fino a quando sono tenere",
+      "Frullare il pesce e le carote insieme fino a ottenere una purea liscia",
+      "Aggiungere un filo di olio extravergine d'oliva e un pizzico di basilico tritato finemente",
+      "Servire tiepido"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "crema-di-tacchino-e-fagiolini",
+    "title": "Crema di tacchino e fagiolini",
+    "slug": "crema-di-tacchino-e-fagiolini",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/10/crema-di-tacch-e-fagiolini.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/crema-di-tacchino-e-fagiolini-46052",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta delicata e nutriente perfetta per l'inizio dello svezzamento. Una crema morbida a base di tacchino e fagiolini, ricca di proteine e verdure.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "vellutata-di-zucchine-e-patate",
+    "title": "Vellutata di zucchine e patate",
+    "slug": "vellutata-di-zucchine-e-patate",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una vellutata cremosa e nutriente a base di zucchine e patate, perfetta per l'inizio dello svezzamento. Ricca di vitamine e facilmente digeribile.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "polpette-soffici-di-sogliola",
+    "title": "Polpette soffici di sogliola",
+    "slug": "polpette-soffici-di-sogliola",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/11/polpette-di-sogliola.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/polpette-soffici-di-sogliola-52691",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziose polpette di pesce bianco perfette per lo svezzamento. Un piatto semplice e nutriente ideale a partire dai 10 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "prima-pappa-al-tacchino",
+    "title": "Prima pappa al tacchino",
+    "slug": "prima-pappa-al-tacchino",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente per lo svezzamento dei bambini a partire dai 6 mesi. Combina crema di riso, verdure fresche e tacchino per un pasto completo e facilmente digeribile.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "crema di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "tacchino",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e tagliare la carota e la patata in piccoli pezzi",
+      "Cuocere le verdure in acqua fino a quando non saranno molto tenere",
+      "Aggiungere il tacchino cotto e continuare la cottura",
+      "Preparare la crema di riso secondo le istruzioni sulla confezione",
+      "Frullare il tutto insieme fino a ottenere una consistenza omogenea e cremosa",
+      "Aggiungere un filo di olio extravergine d'oliva prima di servire"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pasta-con-i-fagiolini",
+    "title": "Pasta con i fagiolini",
+    "slug": "pasta-con-i-fagiolini",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/pasta-con-i-fagiolini-67795",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "total_time_min": 30,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto leggero e nutriente a base di pasta e fagiolini freschi, perfetto per lo svezzamento. Semplice da preparare e ricco di verdure.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "fagiolini freschi",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pasta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire i fagiolini freschi eliminando le estremità",
+      "Cuocere i fagiolini in acqua salata per circa 15-20 minuti fino a renderli teneri",
+      "Cuocere la pasta in acqua salata secondo il tempo indicato sulla confezione",
+      "Scolare la pasta e i fagiolini",
+      "Mescolare pasta e fagiolini insieme",
+      "Aggiungere il formaggio grattugiato e un filo d'olio extravergine d'oliva",
+      "Completare con basilico fresco tritato"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "spaghetti-con-finocchi-e-pangrattato",
+    "title": "Spaghetti con finocchi e pangrattato",
+    "slug": "spaghetti-con-finocchi-e-pangrattato",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/03/pasta-al-finocchio.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/spaghetti-con-finocchi-e-pangrattato-77405",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente a base di spaghetti e finocchio, arricchito con pangrattato croccante. Ideale per bambini da 12 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pasta tipo spaghetti",
+        "quantity_raw": ""
+      },
+      {
+        "name": "finocchio",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone non trattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire il finocchio e tagliarlo a pezzi piccoli",
+      "Cuocere gli spaghetti in acqua salata fino a cottura",
+      "In una padella, far rosolare il finocchio con un filo di olio extravergine d'oliva",
+      "Aggiungere il pangrattato e mescolare bene",
+      "Scolare la pasta e condirla con il finocchio, il pangrattato e una grattugia di limone"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "stelline-di-uova-e-carciofi",
+    "title": "Stelline di uova e carciofi",
+    "slug": "stelline-di-uova-e-carciofi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/09/frittata-di-carciofi.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/stelline-di-uova-e-carciofi-33718",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutritivo a base di uova e carciofi, perfetto per l'alimentazione complementare dai 12 mesi. Ricco di proteine e verdure, facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "semolino-dolce",
+    "title": "Semolino dolce",
+    "slug": "semolino-dolce",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/svezzamento_ricette_semolino_dolce.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/semolino-dolce-17777",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente a base di semolino, perfetto per l'inizio dello svezzamento. Facile da preparare e digeribile per i bambini piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "pasta-con-ricotta-e-menta",
+    "title": "Pasta con ricotta e menta",
+    "slug": "pasta-con-ricotta-e-menta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/pasta-ricotta-menta",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente a base di pasta mista, ricotta fresca e menta per il delicato palato dei bambini. Perfetto per lo svezzamento dai 10 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "pasta mista",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "menta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio tipo grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuoci la pasta mista in acqua salata fino a cottura.",
+      "Scola la pasta e condiscila con la ricotta fresca.",
+      "Aggiungere un filo di olio extravergine d'oliva e spolverare di formaggio grana grattugiato.",
+      "Guarnisci con foglioline di menta fresca e servi tiepida."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "piselli-gustosi",
+    "title": "Piselli gustosi",
+    "slug": "piselli-gustosi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/piselli-gustosi",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente a base di piselli, perfetta per l'introduzione di legumi nella dieta del bambino. Ideale per lo svezzamento a partire dai 10 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "carote-alla-parmigiana",
+    "title": "Carote alla parmigiana",
+    "slug": "carote-alla-parmigiana",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/09/carote.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/carote-alla-parmigiana-52012",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente a base di carote gratinate al formaggio, perfetto per lo svezzamento. Ricco di vitamine e dal sapore delicato adatto ai bambini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "quadrotti-di-frittata",
+    "title": "Quadrotti di frittata",
+    "slug": "quadrotti-di-frittata",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/03/quadrotti-frittata.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/quadrotti-di-frittata-15811",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Frittata tagliata in quadrotti perfetta per lo svezzamento dai 12 mesi. Una ricetta nutriente e facile da maneggiare per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "broccoli",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodori",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio tipo grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere le patate e i broccoli fino a renderli teneri",
+      "Tagliare le patate a cubetti piccoli e tritare i broccoli",
+      "Sbattere le uova con il latte e il formaggio grattugiato",
+      "Aggiungere le patate, i broccoli e i pomodori tritati al composto di uova",
+      "Versare il composto in una padella oliata e cuocere a fuoco medio fino a quando la frittata è ben cotta",
+      "Far raffreddare e tagliare in quadrotti di dimensioni adatte al bambino"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "bocconcini-di-ricotta",
+    "title": "Bocconcini di ricotta",
+    "slug": "bocconcini-di-ricotta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/bocconcini-di-ricotta.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/bocconcini-di-ricotta-67467",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Delicati bocconcini di ricotta perfetti per l'alimentazione dei bambini a partire dai 12 mesi. Una ricetta ricca di proteine e calcio, ideale per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "mousse-di-mela",
+    "title": "Mousse di mela",
+    "slug": "mousse-di-mela",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/03/mousse-di-mela.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/mousse-di-mela-83921",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una dolce e delicata mousse di mela perfetta per lo svezzamento del bambino. Ricetta semplice e nutriente a base di frutta fresca.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "golden",
+        "quantity_raw": "1 mela"
+      },
+      {
+        "name": "succo di mela",
+        "quantity_raw": ""
+      },
+      {
+        "name": "yogurt intero",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare e sbucciare la mela golden",
+      "Tagliare la mela a pezzi e frullare con il succo di mela fino a ottenere una consistenza liscia",
+      "Aggiungere lo yogurt intero e mescolare bene",
+      "Servire la mousse a temperatura ambiente"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "pappa-lattea-alla-pera",
+    "title": "Pappa lattea alla pera",
+    "slug": "pappa-lattea-alla-pera",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/10/pappa-lattea-pera.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/4-6-mesi-cibi/pappa-lattea-alla-pera-83092",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una pappa lattea dolce e nutriente a base di latte formulato, crema di riso e omogeneizzato di pera. Perfetta per i primi mesi di svezzamento, facile da preparare e digeribile.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "latte formulato di tipo 2",
+        "quantity_raw": ""
+      },
+      {
+        "name": "crema di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "omogeneizzato di pera",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Versa il latte formulato in un pentolino e scaldalo leggermente",
+      "Aggiungi la crema di riso mescolando bene per evitare grumi",
+      "Incorpora l'omogeneizzato di pera e mescola fino a ottenere una consistenza omogenea",
+      "Lascia intiepidire e servi al bambino"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "stecchi-ai-frutti-di-bosco",
+    "title": "Stecchi ai frutti di bosco",
+    "slug": "stecchi-ai-frutti-di-bosco",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/07/stecchi-frutti-di-bosco.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/stecchi-ai-frutti-di-bosco-66222",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Golosi stecchi ghiacciati ai frutti di bosco, perfetti per i bambini a partire dai 12 mesi. Una ricetta fresca e nutriente ideale per le giornate calde.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "riso-primavera",
+    "title": "Riso primavera",
+    "slug": "riso-primavera",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/03/risotto-alla-parmigiana-grande.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/riso-primavera-10782",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto di riso leggero e colorato perfetto per lo svezzamento. Ricco di verdure fresche e adatto ai bambini a partire dai 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "torta-di-pane-e-frutta-secca",
+    "title": "Torta di pane e frutta secca",
+    "slug": "torta-di-pane-e-frutta-secca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/12/torta-di-pane-e-frutta-secca.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/torta-di-pane-e-frutta-secca-44657",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una torta gustosa e nutriente a base di pane raffermo, frutta secca e cacao, perfetta per i bambini da 12 mesi in poi. Ricetta di difficoltà media con ingredienti semplici e genuini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pane raffermo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cacao amaro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "miele",
+        "quantity_raw": ""
+      },
+      {
+        "name": "noci",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mandorle",
+        "quantity_raw": ""
+      },
+      {
+        "name": "biscotti secchi",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare gli ingredienti: sbriciolate il pane raffermo e i biscotti secchi",
+      "Mescolare il pane sbriciolato con il cacao amaro, le noci e le mandorle tritate finemente",
+      "Aggiungere il burro ammorbidito, il miele e il latte, mescolando bene fino a ottenere un impasto omogeneo",
+      "Trasferire l'impasto in una teglia imburrata e cuocere secondo le preferenze"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "burger-di-lenticchie-e-pomodori-secchi",
+    "title": "Burger di lenticchie e pomodori secchi",
+    "slug": "burger-di-lenticchie-e-pomodori-secchi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/04/burger-lenticchie.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/burger-di-lenticchie-e-pomodori-secchi-55986",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Burger vegetariano a base di lenticchie e pomodori secchi, ideale per il primo assaggio di piatti più strutturati. Una ricetta nutriente e gustosa per bambini da 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "lenticchie",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodori secchi",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere le lenticchie fino a renderle morbide",
+      "Tritare finemente i pomodori secchi",
+      "Schiacciare le lenticchie cotte e mescolarle con i pomodori secchi tritati",
+      "Aggiungere l'uovo, il pangrattato, il prezzemolo e un pizzico di sale",
+      "Mescolare bene fino a ottenere un impasto omogeneo",
+      "Formare piccoli burger con le mani umide",
+      "Cuocere in padella con olio extravergine d'oliva fino a doratura su entrambi i lati"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "insalata-di-pesce-e-pomodori",
+    "title": "Insalata di pesce e pomodori",
+    "slug": "insalata-di-pesce-e-pomodori",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/08/pesce-e-pomodori.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/insalata-pesce-pomodori-39378",
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "total_time_min": 25,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un'insalata fresca e leggera a base di pesce magro e pomodorini, perfetta per introdurre il pesce nell'alimentazione del bambino. Ricca di proteine e vitamine, facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "filetti di pesce tipo nasello",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodorini rossi",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sedano",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere il filetto di nasello al vapore fino a cottura completa",
+      "Pulire e tritare finemente i pomodorini rossi",
+      "Tagliare la carota e il sedano in piccoli cubetti",
+      "Sminuzzare il pesce in piccoli pezzi adatti al bambino",
+      "Mescolare il pesce con i pomodorini, la carota e il sedano",
+      "Condire con un filo di olio extravergine d'oliva e servire"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "sformatini-di-zucca",
+    "title": "Sformatini di zucca",
+    "slug": "sformatini-di-zucca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/01/sformatini-zucca.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/sformatini-di-zucca-17721",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi sformatini a base di zucca, ricotta e uova, perfetti per lo svezzamento dai 12 mesi. Un piatto nutriente e facile da preparare per i bambini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "zucca",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grana grattugiato",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire la zucca, tagliarla a pezzi e cuocerla al vapore fino a renderla morbida",
+      "Frullare la zucca cotta con la ricotta fino a ottenere un composto omogeneo",
+      "Aggiungere le uova e il formaggio grana grattugiato al composto",
+      "Versare il tutto negli stampini e cuocere in forno a 180°C per 20-25 minuti fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crostini-vegetali",
+    "title": "Crostini vegetali",
+    "slug": "crostini-vegetali",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta semplice e nutriente per l'introduzione dei cereali nello svezzamento del bambino. Ideale dai 6 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "omelette-alle-erbette",
+    "title": "Omelette alle erbette",
+    "slug": "omelette-alle-erbette",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/12/dscf9037.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/omelette-alle-erbette-36952",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una frittata leggera e nutriente preparata con uova fresche e erbette, perfetta per i bambini da 12 mesi. Ricca di proteine e vitamine, facile da digerire e veloce da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "allegri-miniburger",
+    "title": "Allegri Miniburger",
+    "slug": "allegri-miniburger",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/09/allegri-miniburger.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/allegri-miniburger-73946",
+    "prep_time_min": 15,
+    "cook_time_min": 10,
+    "total_time_min": 25,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi miniburger pensati per i bambini a partire dai 12 mesi. Una ricetta semplice e gustosa che piace ai più piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "scamone macinato",
+        "quantity_raw": "200g"
+      },
+      {
+        "name": "uovo",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": "50g"
+      },
+      {
+        "name": "grana grattugiato",
+        "quantity_raw": "30g"
+      },
+      {
+        "name": "prezzemolo fresco tritato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale q.b.",
+        "quantity_raw": ""
+      },
+      {
+        "name": "panini al latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio tipo sottiletta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "insalata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodori",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "In una ciotola mescola la carne macinata, l'uovo, il pangrattato, il grana grattugiato e il prezzemolo tritato.",
+      "Aggiungi un pizzico di sale e amalgama bene tutti gli ingredienti.",
+      "Forma dei piccoli burger con le mani bagnate per evitare che l'impasto si attacchi.",
+      "Riscalda un po' di olio extravergine in una padella e cuoci i miniburger a fuoco medio per circa 3-4 minuti per lato fino a doratura.",
+      "Togli i burger dalla padella e falli raffreddare leggermente.",
+      "Disponi un burger su ogni panino, aggiungi una sottiletta, un po' di insalata e un pomodoro affettato.",
+      "Servi a temperatura tiepida, assicurandoti che il cibo sia adatto alla temperatura corporea del bambino."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "tiramisu-alla-frutta",
+    "title": "Tiramisù alla frutta",
+    "slug": "tiramisu-alla-frutta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un dolce delicato e adatto allo svezzamento, preparato con frutta fresca e ingredienti semplici. Perfetto per bambini a partire dai 10 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "muffin-ai-pistacchi",
+    "title": "Muffin ai pistacchi",
+    "slug": "muffin-ai-pistacchi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/07/muffin-pistacchi.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/muffin-ai-pistacchi-59058",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Dolcetti morbidi e nutrienti a base di pistacchio e farina di mandorle, perfetti per lo svezzamento. Ricchi di ingredienti naturali e senza conservanti.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pistacchio",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina di mandorle",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carote",
+        "quantity_raw": ""
+      },
+      {
+        "name": "fecola di patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "succo d'arancia",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare gli ingredienti secchi mescolando farina di mandorle, fecola di patate e lievito",
+      "Aggiungere i pistacchi tritati e le carote grattugiate al composto secco",
+      "Sbattere le uova con lo zucchero di canna fino a ottenere un composto spumoso",
+      "Unire gli ingredienti secchi a quelli liquidi insieme al succo d'arancia",
+      "Versare il composto negli stampi per muffin e cuocere in forno fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pesciolini-di-mare",
+    "title": "Pesciolini di mare",
+    "slug": "pesciolini-di-mare",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/09/pesciolini-di-mare.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/pesciolini-di-mare-58609",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta creativa e divertente per bambini da 10 mesi in poi. Preparazione a base di merluzzo e uova, decorata con frutta fresca.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "Merluzzo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Passata di pomodoro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Farina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Prezzemolo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Lamponi e mirtilli per decorazione",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare il merluzzo pulito e desosato",
+      "Mescolare il merluzzo con le uova e la farina",
+      "Aggiungere il prezzemolo tritato al composto",
+      "Modellare il composto a forma di pesciolini",
+      "Cuocere i pesciolini in olio extravergine d'oliva",
+      "Decorare con passata di pomodoro, lamponi e mirtilli"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "chips-di-ceci",
+    "title": "Chips di ceci",
+    "slug": "chips-di-ceci",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/04/chips-ceci.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/chips-di-ceci-99538",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta croccante e nutriente perfetta per lo svezzamento a partire da 12 mesi. Una merenda sana e divertente a base di legumi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "frittata-gustosa",
+    "title": "Frittata gustosa",
+    "slug": "frittata-gustosa",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una frittata semplice e nutriente per bambini a partire dai 12 mesi. Preparazione veloce con ingredienti freschi e facilmente digeribili.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodorini",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare i pomodorini e tagliarli a piccoli pezzi",
+      "In una ciotola, battere le uova insieme al latte",
+      "Aggiungere il formaggio grattugiato, il pangrattato e il basilico tritato",
+      "Incorporare i pomodorini negli ingredienti mescolati",
+      "Versare il composto in una padella con olio extravergine d'oliva riscaldato",
+      "Cuocere a fuoco medio fino a quando la frittata risulta dorata e ben cotta"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-di-fragole",
+    "title": "Crema di fragole",
+    "slug": "crema-di-fragole",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/05/crema-fragole.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una delicata crema a base di fragole, perfetta per i bambini a partire dai 12 mesi. Ricetta di difficoltà media, ricca di frutta fresca e nutrienti.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "fragole",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare gli ingredienti secondo la ricetta",
+      "Seguire le indicazioni di cottura e miscelazione",
+      "Servire a temperatura appropriata per il bambino"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "muffin-di-carote",
+    "title": "Muffin di carote",
+    "slug": "muffin-di-carote",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/11/muffin-di-carote.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/muffin-di-carote-39719",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi muffin di carote perfetti per lo svezzamento da 12 mesi. Una ricetta semplice e nutriente per i bambini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "clafoutis-integrale-alle-ciliegie",
+    "title": "Clafoutis integrale alle ciliegie",
+    "slug": "clafoutis-integrale-alle-ciliegie",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/06/clafoutis-ciliegie.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/clafoutis-integrale-alle-ciliegie-78538",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso clafoutis integrale alle ciliegie, perfetto per lo svezzamento dopo i 12 mesi. Una ricetta francese rivisitata in versione baby-friendly con ingredienti semplici e nutrienti.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "ciliegie",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina integrale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "yogurt bianco",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare le ciliegie e rimuovere i noccioli",
+      "Imburare una forma da forno",
+      "Mescolare la farina integrale, lo zucchero di canna e le uova",
+      "Aggiungere lo yogurt bianco e il latte al composto",
+      "Versare il composto nella forma e distribuire le ciliegie",
+      "Cuocere in forno fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "purea-di-pesca",
+    "title": "Purea di pesca",
+    "slug": "purea-di-pesca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una purea dolce e nutriente a base di pesca e pera, perfetta per l'inizio dello svezzamento. Ricetta semplice e veloce da preparare per il vostro bambino.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "pesca",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "pera",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "acqua quanto basta",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare bene la pesca e la pera",
+      "Sbucciare i frutti e rimuovere i noccioli",
+      "Tagliare la frutta a pezzetti",
+      "Cuocere in acqua fino a quando la frutta non diventa morbida",
+      "Frullare fino a ottenere una purea liscia",
+      "Aggiungere un po' di acqua di cottura se necessario per ottenere la consistenza desiderata"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "pomodoro-ripieno",
+    "title": "Pomodoro ripieno",
+    "slug": "pomodoro-ripieno",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/10/pomodori-ripieno.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/pomodoro-ripieno-40419",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto gustoso e nutriente perfetto per lo svezzamento, a base di pomodoro ripieno di carne trita e pangrattato. Una ricetta semplice e dal basso contenuto di difficoltà, ideale per bambini dai 10 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "pomodoro",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "carne trita",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio stagionato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare il pomodoro e tagliarlo a metà, eliminando delicatamente i semi e la parte interna",
+      "In una ciotola, mescolare la carne trita con pangrattato, formaggio stagionato grattugiato e prezzemolo tritato",
+      "Riempire le metà di pomodoro con il composto preparato",
+      "Posizionare i pomodori ripieni in una teglia unta con olio extravergine d'oliva",
+      "Cuocere in forno a temperatura moderata fino a cottura completa"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "mele-al-forno",
+    "title": "Mele al forno",
+    "slug": "mele-al-forno",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/01/mele-al-forno.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/mele-al-forno-53693",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un dolce semplicissimo a base di mele cotte al forno, perfetto per i bambini a partire dai 12 mesi. Ricco di fibre e vitamine naturali.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "spaghettini-al-rosmarino",
+    "title": "Spaghettini al rosmarino",
+    "slug": "spaghettini-al-rosmarino",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/11/spaghetti-al-rosmarino.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/spaghettini-al-rosmarino-84752",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e gustosa di pasta con rosmarino, perfetta per introdurre i sapori della cucina italiana tradizionale. Adatta dai 10 mesi di età.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "crema-di-platessa",
+    "title": "Crema di platessa",
+    "slug": "crema-di-platessa",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/crema-di-platessa-92461",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta delicata e nutriente a base di platessa, perfetta per introdurre il pesce nella dieta del bambino. Facile da preparare e ricca di proteine di qualità.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "spiedino-sfizioso",
+    "title": "Spiedino sfizioso",
+    "slug": "spiedino-sfizioso",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto colorato e divertente per i bambini a partire dagli 8 mesi di svezzamento. Uno spiedino semplice da preparare e facile da mangiare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "multicereali-alle-verdure",
+    "title": "Multicereali alle verdure",
+    "slug": "multicereali-alle-verdure",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/11/multicereali-alle-verdure.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/multicereali-alle-verdure-61930",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto completo di cereali misti con verdure, perfetto per iniziare lo svezzamento. Ricetta facile e nutriente adatta dai 6 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "asparagi-al-forno-gratinati",
+    "title": "Asparagi al forno gratinati",
+    "slug": "asparagi-al-forno-gratinati",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/04/asparagi-con-formaggio.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/asparagi-al-forno-76868",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Asparagi teneri gratinati al forno, un contorno semplice e nutriente perfetto per lo svezzamento. Ricetta facile da preparare e digeribile per i bambini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "farfalline-con-pesto-alla-menta",
+    "title": "Farfalline con pesto alla menta",
+    "slug": "farfalline-con-pesto-alla-menta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/03/farfalline-con-pesto-alla-menta.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/farfalline-con-pesto-alla-menta-15312",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto di pasta colorato e profumato con un delizioso pesto di menta, ideale per i bambini da 12 mesi in poi. Una ricetta semplice che unisce il gusto della menta fresca alla pasta.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "farro-con-legumi",
+    "title": "Farro con legumi",
+    "slug": "farro-con-legumi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/farro-con-legumi-44530",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente a base di farro e lenticchie, arricchito con verdure fresche. Perfetto per l'introduzione dei cereali integrali nello svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "farro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lenticchie",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carote",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sedano",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare accuratamente il farro e le lenticchie",
+      "Pulire e tagliare a piccoli pezzi le patate, carote e sedano",
+      "Portare a ebollizione l'acqua in una pentola",
+      "Aggiungere lenticchie e verdure tagliate, cuocere per circa 20-25 minuti",
+      "Aggiungere il farro e continuare la cottura per altri 30-40 minuti fino a quando tutto sia tenero",
+      "Frullare il composto fino a raggiungere la consistenza desiderata",
+      "Aggiungere l'olio extravergine d'oliva e un pizzico di formaggio grana grattugiato se gradito"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "dolce-al-cacao",
+    "title": "Dolce al cacao",
+    "slug": "dolce-al-cacao",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso dolce al cacao adatto ai bambini a partire dai 12 mesi. Ricetta semplice e veloce, perfetta per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "prima-pappa-di-mais-e-tapioca",
+    "title": "Prima pappa di mais e tapioca",
+    "slug": "prima-pappa-di-mais-e-tapioca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/06/prima-pappa-mais-e-tapioca.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/4-6-mesi-cibi/prima-pappa-di-mais-e-tapioca-21953",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e delicata per il primo svezzamento del bambino. Perfetta per iniziare l'alimentazione complementare a partire dai 4 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "insalata-di-nasello",
+    "title": "Insalata di nasello",
+    "slug": "insalata-di-nasello",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/11/ricetta_nasello.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/insalata-di-nasello-55360",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto leggero e nutriente a base di nasello, ideale per l'alimentazione dei bambini dai 10 mesi in poi. Ricca di proteine nobili e facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "carote-saporite",
+    "title": "Carote saporite",
+    "slug": "carote-saporite",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/05/carote-rondelle.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/carote-saporite-40653",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato a base di carote, perfetto per l'inizio dello svezzamento. Ricco di vitamine e dal sapore naturalmente dolce, ideale per i bambini dai 8 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "carote",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cipolla",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e tagliare le carote in piccoli pezzi",
+      "Rosolare leggermente la cipolla in olio extravergine d'oliva",
+      "Aggiungere le carote e cuocere fino a renderle tenere",
+      "Frullare il composto fino a ottenere una purea liscia",
+      "Aggiungere il grana grattugiato e mescolare bene"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "crocchette-di-pollo",
+    "title": "Crocchette di pollo",
+    "slug": "crocchette-di-pollo",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://www.uppa.it/wp-content/uploads/2013/06/Crocchette-di-pollo.jpg",
+    "source_site": "Uppa",
+    "source_url": "https://www.uppa.it/crocchette-di-pollo/",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 3,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta veloce e pratica per preparare crocchette di pollo e patate, perfette da surgelare per i momenti di emergenza. Ideale per cene affrettate senza rinunciare a un piatto nutriente e gustoso.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "petto di pollo",
+        "quantity_raw": "150 grammi"
+      },
+      {
+        "name": "medie",
+        "quantity_raw": "2 patate"
+      },
+      {
+        "name": "uovo",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "Parmigiano grattugiato",
+        "quantity_raw": "1 cucchiaio"
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": "1 cucchiaio"
+      },
+      {
+        "name": "buccia di limone grattugiata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "poca noce moscata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extra vergine d'oliva q.b.",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Fate bollire 150 grammi di pollo e due patate di medie dimensioni.",
+      "Una volta raffreddate, mettete i due ingredienti nel mixer insieme a un uovo, un cucchiaio di parmigiano e uno di pangrattato.",
+      "Aggiungete buccia di limone grattugiata e poca noce moscata secondo il gusto.",
+      "Con l'impasto formate delle crocchette.",
+      "Friggerete in olio extravergine di oliva oppure imburrate e cuocete in forno per 10 minuti a 200°C.",
+      "Potete surgelare le crocchette per i momenti di emergenza."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "anellini-con-ricotta-e-menta",
+    "title": "Anellini con ricotta e menta",
+    "slug": "anellini-con-ricotta-e-menta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/06/anellini-ricotta.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/anellini-con-ricotta-e-menta-24992",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente a base di pastina per l'infanzia, ricotta cremosa e menta fresca. Ideale per lo svezzamento dai 8 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "pastina per l'infanzia",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "menta fresca",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuoci la pastina per l'infanzia in acqua o brodo leggero secondo le istruzioni sulla confezione.",
+      "Scolala e lasciala intiepidire leggermente.",
+      "Aggiungi la ricotta e mescola bene fino a ottenere un composto cremoso.",
+      "Aggiusta di olio extravergine d'oliva e menta fresca tritata finemente.",
+      "Servi tiepido o a temperatura ambiente."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "crema-al-latte-e-carota",
+    "title": "Crema al latte e carota",
+    "slug": "crema-al-latte-e-carota",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/04/crema-latte-e-carota.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/4-6-mesi-cibi/crema-al-latte-e-carota-36931",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente perfetta per lo svezzamento. Crema cremosa a base di latte e carota, ideale dai 4 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "semolino-alla-mela",
+    "title": "Semolino alla mela",
+    "slug": "semolino-alla-mela",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/02/semolino.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/semolino-alla-mela-32328",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e delizioso a base di semolino cremoso condito con mela fresca, perfetto per lo svezzamento dei bambini a partire dai 6 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "spaghettini-con-i-broccoli-e-pomodori",
+    "title": "Spaghettini con i broccoli e pomodori",
+    "slug": "spaghettini-con-i-broccoli-e-pomodori",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/svezzamento_ricette_spaghettini_broccoli.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/spaghettini-con-i-broccoli-e-pomodori-60288",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto completo e nutriente a base di pasta, broccoli freschi e pomodori. Ideale per introdurre le verdure nella dieta del bambino dopo i 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "bocconcini-di-carne",
+    "title": "Bocconcini di carne",
+    "slug": "bocconcini-di-carne",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/bocconcini-di-carne-27100",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Gustosi bocconcini di carne macinata con verdure, perfetti per lo svezzamento. Una ricetta semplice e nutriente ideale a partire dai 10 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "carne trita",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sedano",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodorini",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "brodo vegetale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Tritare finemente carota e sedano",
+      "Rosolare le verdure in olio extravergine d'oliva",
+      "Aggiungere la carne trita e cuocere fino a quando non cambia colore",
+      "Aggiungere i pomodorini e continuare la cottura",
+      "Quando il composto è cotto, aggiungere l'uovo e mescolare bene",
+      "Versare poco brodo vegetale per mantenere il composto morbido",
+      "Cuocere ancora per pochi minuti e servire tiepido"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "torta-di-zucca-pumpkin-pie",
+    "title": "Torta di zucca (pumpkin pie)",
+    "slug": "torta-di-zucca-pumpkin-pie",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/10/torta-zucca-halloween.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/torta-di-zucca-pumpkin-pie-82671",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una deliziosa torta di zucca con pasta brisè, perfetta per i bambini da 12 mesi in poi. Dolce, nutriente e facile da masticare, ideale per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pasta brisè",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucca",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "panna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cannella",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zenzero",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulisci e taglia la zucca in pezzi",
+      "Cuoci la zucca al vapore o in forno fino a renderla morbida",
+      "Schiaccia la zucca cotta e mescolala con lo zucchero di canna, le uova e la panna",
+      "Aggiungi la cannella e lo zenzero al composto di zucca",
+      "Stendi la pasta brisè in una teglia",
+      "Versa il ripieno sulla pasta brisè",
+      "Cuoci in forno a 180°C fino a doratura della superficie"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "budino-di-zucca",
+    "title": "Budino di zucca",
+    "slug": "budino-di-zucca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/10/crema-zucca.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/budino-di-zucca-16661",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso budino a base di zucca, perfetto per lo svezzamento. Ricco di vitamine e dal sapore dolce e naturale.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "macedonia-estiva",
+    "title": "Macedonia estiva",
+    "slug": "macedonia-estiva",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/05/macedonia-estiva.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/macedonia-estiva-59160",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto fresco e colorato a base di frutta mista, perfetto per l'estate. Ideale per introdurre la frutta nella dieta del bambino durante lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "biscotti-delle-feste-ad-alberello",
+    "title": "Biscotti delle feste ad alberello",
+    "slug": "biscotti-delle-feste-ad-alberello",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi biscotti natalizi a forma di alberello, perfetti per bambini da 12 mesi in su. Ricetta semplice con ingredienti base, ideale per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "farina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cannella",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Mescola il burro con lo zucchero fino a ottenere un composto cremoso",
+      "Aggiungi le uova e continua a mescolare",
+      "Incorpora la farina e il lievito setacciati",
+      "Aggiungi la cannella per il sapore",
+      "Forma i biscotti a forma di alberello su una teglia"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-ricca-al-finocchio-e-al-vitello",
+    "title": "Crema ricca al finocchio e al vitello",
+    "slug": "crema-ricca-al-finocchio-e-al-vitello",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/11/crema-ricca-con-finocchio.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/crema-ricca-al-finocchio-e-al-vitello-11972",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema nutriente a base di finocchio e vitello, perfetta per lo svezzamento dei bambini a partire dagli 8 mesi. Un piatto ricco di sapore e facilmente digeribile.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "focaccia-all-uva",
+    "title": "Focaccia all'uva",
+    "slug": "focaccia-all-uva",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/10/focaccia-all27uva.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/focaccia-alluva-69193",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una focaccia dolce e soffice con uvetta, perfetta per i bambini a partire dai 12 mesi. Ricetta di media difficoltà ideale per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "palline-di-riso-e-verdure",
+    "title": "Palline di riso e verdure",
+    "slug": "palline-di-riso-e-verdure",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/palline-riso-verdure-75927",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziose palline a base di riso e verdure, perfette per lo svezzamento. Un piatto nutriente e facile da afferrare per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodoro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "piselli",
+        "quantity_raw": ""
+      },
+      {
+        "name": "maggiorana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "scalogno",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere il riso in acqua fino a renderlo morbido",
+      "Tritare finemente lo scalogno e rosolare leggermente in olio extravergine d'oliva",
+      "Aggiungere il pomodoro e i piselli già cotti, cuocere brevemente",
+      "Mescolare il riso con il condimento di verdure",
+      "Aggiungere maggiorana e prezzemolo tritati finemente",
+      "Formare piccole palline con le mani bagnate e servire tiepide"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "frappe-di-banane-con-biscotti",
+    "title": "Frappé di banane con biscotti",
+    "slug": "frappe-di-banane-con-biscotti",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/banana_al_biscotto.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/frappe-di-banane-con-biscotti-38177",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un frappé dolce e nutriente a base di banane e biscotti, perfetto per bambini a partire dai 12 mesi. Ricetta semplice e veloce da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "tortino-di-farro",
+    "title": "Tortino di farro",
+    "slug": "tortino-di-farro",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/tortino-di-farro",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un tortino soffice a base di farro, perfetto per l'alimentazione dei bambini a partire dai 12 mesi. Ricetta semplice e nutriente per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pappa-al-pomodoro-con-stoccafisso-di-norvegia",
+    "title": "Pappa al pomodoro con stoccafisso di Norvegia",
+    "slug": "pappa-al-pomodoro-con-stoccafisso-di-norvegia",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/11/pappa-al-pomodo-sito.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/pappa-al-pomodoro-stoccafisso-norvegia-75371",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una pappa nutriente e delicata a base di pomodori freschi e stoccafisso norvegese, perfetta per il primo anno di svezzamento. Ricca di proteine nobili e verdure, facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "Stoccafisso norvegese",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Pomodori",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Pane toscano",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Aglio",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Brodo vegetale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Basilico",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare lo stoccafisso seguito le indicazioni del prodotto",
+      "Cuocere i pomodori in brodo vegetale insieme all'aglio",
+      "Aggiungere lo stoccafisso cotto e desquamato al brodo di pomodoro",
+      "Incorporare la ricotta e mescolare bene",
+      "Aggiungere il pane toscano sbriciolato per dare consistenza",
+      "Condire con basilico fresco e olio extravergine d'oliva"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "torta-nasello-e-patate",
+    "title": "Torta nasello e patate",
+    "slug": "torta-nasello-e-patate",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/svezzamento_ricette_torta_patate.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/torta-nasello-patate-svezzamento-ricette-10-12-mesi-36010",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente a base di nasello e patate, perfetta per l'introduzione del pesce durante lo svezzamento. Ideale per i bambini a partire dai 10 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "gelato-alla-banana-super-veloce",
+    "title": "Gelato alla banana super veloce",
+    "slug": "gelato-alla-banana-super-veloce",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/09/gelato-banana.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/gelato-alla-banana-super-veloce-84745",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un gelato naturale e velocissimo a base di banana, perfetto per i bambini in svezzamento. Ricetta semplice e senza cottura, ideale dai 8 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "tortino-di-riso-e-zucchine-al-forno",
+    "title": "Tortino di riso e zucchine al forno",
+    "slug": "tortino-di-riso-e-zucchine-al-forno",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/12/tortino-di-riso-e-zucchine.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/tortino-di-riso-e-zucchine-al-forno-94796",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un tortino soffice e nutriente a base di riso e zucchine, perfetto per i bambini da 12 mesi. Ricetta facile e gustosa, ideale per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "sogliola-all-arancia",
+    "title": "Sogliola all'arancia",
+    "slug": "sogliola-all-arancia",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/02/sogliola-arancia.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/sogliola-allarancia-29975",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso secondo piatto a base di filetto di sogliola fresco, aromatizzato con il profumo dell'arancia. Ricetta consigliata dai 12 mesi, di media difficoltà, perfetta per introdurre il pesce magro nella dieta del bambino.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "filetto di sogliola",
+        "quantity_raw": ""
+      },
+      {
+        "name": "arancia",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e preparare il filetto di sogliola",
+      "Infarinare leggermente il filetto",
+      "Cuocere in padella con burro e succo d'arancia",
+      "Servire tiepido"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pure-di-patate-e-spinaci",
+    "title": "Purè di patate e spinaci",
+    "slug": "pure-di-patate-e-spinaci",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/02/pure-patate-spinaci.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/pure-di-patate-e-spinaci-37981",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "total_time_min": 30,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente e delicato a base di patate e spinaci, ideale per l'introduzione di verdure nella dieta del bambino. Ricco di vitamine e minerali essenziali per la crescita.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "spinaci freschi",
+        "quantity_raw": "200g"
+      },
+      {
+        "name": "patate",
+        "quantity_raw": "150g"
+      },
+      {
+        "name": "latte formulato diluito",
+        "quantity_raw": "100ml"
+      },
+      {
+        "name": "formaggio grana",
+        "quantity_raw": "10g"
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": "1 cucchiaino"
+      }
+    ],
+    "steps": [
+      "Lavare e sbucciare le patate, tagliarle a pezzi",
+      "Lavare gli spinaci eliminando i gambi più duri",
+      "Cuocere patate e spinaci a vapore per circa 15-20 minuti fino a renderli molto teneri",
+      "Passare le verdure cotte al passaverdure o frullatore insieme al latte formulato",
+      "Aggiungere il formaggio grana grattugiato e l'olio d'oliva",
+      "Mescolare bene fino a ottenere una consistenza liscia e omogenea"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "mousse-di-kaki",
+    "title": "Mousse di kaki",
+    "slug": "mousse-di-kaki",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un dolce e delicato mousse a base di kaki perfetto per lo svezzamento. Una ricetta semplice e nutriente ideale dai 10 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "kaki",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mela cotogna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "yogurt bianco",
+        "quantity_raw": ""
+      },
+      {
+        "name": "menta",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Seleziona un kaki maturo e privalo della buccia",
+      "Aggiungi la mela cotogna grattugiata o tritata finemente",
+      "Mescola con lo yogurt bianco in parti uguali",
+      "Frulla il composto fino a ottenere una mousse liscia e cremosa",
+      "Decora con una foglia di menta fresca e servi subito"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "zuppa-di-pane-al-basilico",
+    "title": "Zuppa di pane al basilico",
+    "slug": "zuppa-di-pane-al-basilico",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/04/zuppa-di-pane-al-basilico.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/zuppa-di-pane-al-basilico-64906",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una zuppa semplice e nutriente a base di pane e basilico, perfetta per l'alimentazione dei bambini dai 10 mesi in poi. Ricetta di media difficoltà.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "pure-di-pisellini-e-menta",
+    "title": "Purè di pisellini e menta",
+    "slug": "pure-di-pisellini-e-menta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/pure-pisellini-menta",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso purè a base di pisellini freschi e menta, perfetto per lo svezzamento dai 8 mesi. Ricco di vitamine e dal sapore delicato, ideale come primo piatto nutriente.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "pisellini",
+        "quantity_raw": ""
+      },
+      {
+        "name": "brodo vegetale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "trito di verdure per soffritto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "menta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare il soffritto con il trito di verdure in olio extravergine d'oliva",
+      "Aggiungere i pisellini al soffritto e farli rosolare per pochi minuti",
+      "Coprire con brodo vegetale e cuocere fino a quando i pisellini sono molto teneri",
+      "Frullare il tutto in un purè omogeneo aggiungendo un po' di brodo se necessario",
+      "Aggiungere la menta fresca e mescolare bene",
+      "Servire tiepido"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "pappa-di-quinoa-e-ceci",
+    "title": "Pappa di quinoa e ceci",
+    "slug": "pappa-di-quinoa-e-ceci",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una pappa nutriente a base di quinoa e ceci, ideale per lo svezzamento dai 8 mesi. Ricetta semplice e leggera, ricca di proteine vegetali.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "quinoa",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ceci",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere la quinoa secondo le istruzioni sulla confezione",
+      "Scolare e cuocere i ceci fino a renderli morbidi",
+      "Pulire e cuocere la zucchina al vapore",
+      "Frullare insieme quinoa, ceci e zucchina fino a ottenere una pappa omogenea",
+      "Condire con olio extravergine d'oliva e servire tiepida"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "triangoli-gustosi",
+    "title": "Triangoli gustosi",
+    "slug": "triangoli-gustosi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/06/triangoli-gustosi.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/triangoli-gustosi-12569",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta semplice e appetitosa per bambini a partire dai 12 mesi. Piatto facile da preparare e perfetto per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "muffin-integrale-alla-mela",
+    "title": "Muffin integrale alla mela",
+    "slug": "muffin-integrale-alla-mela",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/muffin-integrale-alla-mela-72533",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi muffin integrali arricchiti con mela fresca, perfetti per lo svezzamento. Una ricetta nutriente e golosa adatta ai bambini a partire da 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "farina integrale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina di frumento",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": "2"
+      },
+      {
+        "name": "zucchero di canna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "miele",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio di semi di girasole",
+        "quantity_raw": ""
+      },
+      {
+        "name": "succo di mele",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cannella",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mela",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavate e pelate la mela, quindi grattugiatela o tagliatela a pezzetti piccoli",
+      "In una ciotola unite le due farine, il lievito e la cannella",
+      "In un'altra ciotola sbattete le uova con lo zucchero di canna e il miele",
+      "Aggiungete l'olio di semi di girasole e il succo di mele al composto di uova",
+      "Unite gli ingredienti secchi a quelli liquidi mescolando delicatamente",
+      "Incorporate la mela grattugiata all'impasto",
+      "Versate il composto negli stampi per muffin riempiendo ogni cavità per tre quarti",
+      "Cuocete in forno preriscaldato finché i muffin non risulteranno dorati e staccheranno facilmente dagli stampi"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "omelette-verde",
+    "title": "Omelette verde",
+    "slug": "omelette-verde",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/09/omelette-verde.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/omelette-verde-66655",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una frittata leggera e nutriente a base di uova e verdure, perfetta per l'alimentazione dei bambini dopo i 12 mesi. Ricca di proteine e vitamine, facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pappa-di-fagiolini-e-pollo",
+    "title": "Pappa di fagiolini e pollo",
+    "slug": "pappa-di-fagiolini-e-pollo",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/pappa-fagiolini-pollo",
+    "prep_time_min": 10,
+    "cook_time_min": 25,
+    "total_time_min": 35,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una pappa nutriente e completa per lo svezzamento, ricca di proteine dal pollo e verdure fresche. Adatta dai 8 mesi in poi, facile da digerire e ricca di vitamine.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "pollo",
+        "quantity_raw": "100g"
+      },
+      {
+        "name": "fagiolini",
+        "quantity_raw": "100g"
+      },
+      {
+        "name": "media",
+        "quantity_raw": "1 patata"
+      },
+      {
+        "name": "media",
+        "quantity_raw": "1 carota"
+      },
+      {
+        "name": "sedano",
+        "quantity_raw": "1 gambo"
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": "1 cucchiaio"
+      },
+      {
+        "name": "brodo vegetale o acqua",
+        "quantity_raw": "200ml"
+      }
+    ],
+    "steps": [
+      "Lavare e preparare tutte le verdure, tagliandole in pezzetti piccoli.",
+      "Tagliare il pollo in cubetti e inserire in una pentola con il brodo.",
+      "Aggiungere le verdure preparate e portare a ebollizione.",
+      "Cuocere a fuoco medio per circa 20-25 minuti fino a quando verdure e pollo sono molto teneri.",
+      "Frullare il tutto fino a ottenere una pappa liscia e omogenea.",
+      "Aggiungere l'olio extravergine d'oliva e mescolare bene prima di servire."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "minestrina-delicata",
+    "title": "Minestrina delicata",
+    "slug": "minestrina-delicata",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una minestrina semplice e delicata perfetta per iniziare lo svezzamento. Ricetta facile da preparare, ideale per bambini a partire da 8 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "vellutata-di-zucca-e-ricotta",
+    "title": "Vellutata di zucca e ricotta",
+    "slug": "vellutata-di-zucca-e-ricotta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/03/vellutata-di-zucca.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/vellutata-di-zucca-e-ricotta-84500",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una vellutata cremosa e nutriente a base di zucca e ricotta, perfetta per lo svezzamento. Ricca di vitamine e facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "stelle-con-mousse-di-salmone-e-yogurt-bianco",
+    "title": "Stelle con mousse di salmone e yogurt bianco",
+    "slug": "stelle-con-mousse-di-salmone-e-yogurt-bianco",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/11/stelle-con-yogurt-bianco-scaldasole.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato e nutriente a base di salmone e yogurt, perfetto per l'introduzione del pesce nello svezzamento. Ideale per bambini dai 12 mesi, facile da preparare e ricca di proteine.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "Salmone",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Yogurt bianco",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Pane di segale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Succo di limone",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Pistacchio",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Sale e pepe",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere il salmone a vapore fino a cottura completa.",
+      "Sbriciolare il salmone cotto e frullarlo con la ricotta e lo yogurt bianco.",
+      "Aggiungere qualche goccia di succo di limone per esaltare i sapori.",
+      "Tostare il pane di segale e tagliarli a forma di stella.",
+      "Distribuire la mousse di salmone sulle stelle di pane.",
+      "Decorare con pistacchio tritato finemente e servire."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "uovo-ripieno-ceci-e-ricotta",
+    "title": "Uovo ripieno ceci e ricotta",
+    "slug": "uovo-ripieno-ceci-e-ricotta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2025/07/uova-ripiene-di-ceci.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/uovo-ripieno-ceci-ricotta-49924",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto proteico e nutritivo perfetto per l'alimentazione dei bambini da 12 mesi. Uova ripiene con un delizioso ripieno di ceci e ricotta.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "sogliola-al-vapore",
+    "title": "Sogliola al vapore",
+    "slug": "sogliola-al-vapore",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/04/sogliola-al-vapore.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/sogliola-al-vapore-64733",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato e nutriente perfetto per l'inizio dello svezzamento. La sogliola al vapore è facile da digerire e ricca di proteine di qualità.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "sfoglie-con-salmone-norvegese",
+    "title": "Sfoglie con salmone norvegese",
+    "slug": "sfoglie-con-salmone-norvegese",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/12/tortelli-di-pasta-sfoglia-con-salmone-norvegese-e-sesamo.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/sfoglie-con-salmone-norvegese-91574",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta a base di salmone norvegese per i bambini a partire da 12 mesi. Un piatto gustoso e nutriente, perfetto per l'alimentazione complementare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "flan-di-mele",
+    "title": "Flan di mele",
+    "slug": "flan-di-mele",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/05/flan-di-mele.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/flan-di-mele-23345",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso flan alle mele perfetto per lo svezzamento dai 12 mesi. Ricetta di difficoltà media con ingredienti semplici e naturali.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "mele",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina bianca",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina integrale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      },
+      {
+        "name": "succo di limone",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare gli ingredienti necessari per la ricetta",
+      "Cuocere secondo le indicazioni fino a cottura completa"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "formine-al-miele",
+    "title": "Formine al miele",
+    "slug": "formine-al-miele",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/formine-al-miele-65239",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziose formine al miele ideali per i bambini a partire dai 12 mesi. Una ricetta dolce e nutriente perfetta per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "biscotti-con-marmellata",
+    "title": "Biscotti con marmellata",
+    "slug": "biscotti-con-marmellata",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi biscotti con marmellata ideali per lo svezzamento a partire dai 12 mesi. Una ricetta semplice e nutriente perfetta per i bambini piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pizzette-effetto-mummia",
+    "title": "Pizzette effetto mummia",
+    "slug": "pizzette-effetto-mummia",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/10/pizzette-effetto-mummia.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/pizzette-effetto-mummia-73885",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta divertente e creativa per bambini da 12 mesi. Pizzette decorate a forma di mummia, perfette per Halloween e per rendere il pasto più giocoso.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pancarrè",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olive",
+        "quantity_raw": ""
+      },
+      {
+        "name": "passata di pomodoro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio tipo emmental",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Taglia le fette di pancarrè in rettangoli per creare la base della pizzetta.",
+      "Spalma la passata di pomodoro su ogni rettangolo di pane.",
+      "Aggiungi il formaggio a strisce per creare l'effetto bende della mummia.",
+      "Posiziona le olive per gli occhi della mummia.",
+      "Cuoci in forno preriscaldato fino a doratura, se desiderato, o servi freddo."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pappa-alla-pera-e-patata",
+    "title": "Pappa alla pera e patata",
+    "slug": "pappa-alla-pera-e-patata",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/03/pappa-pera-patate.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/pappa-alla-pera-e-patata-20287",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente perfetta per l'inizio dello svezzamento. Combina cereali, frutta e verdura in un piatto delicato e facilmente digeribile.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "crema di mais e tapioca",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pera",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato tipo grana",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere la patata fino a renderla morbida",
+      "Ridurre la patata cotta in purea liscia",
+      "Aggiungere la crema di mais e tapioca secondo le dosi indicate",
+      "Incorporare la pera fresca grattugiata o in purea",
+      "Condire con olio extravergine d'oliva",
+      "Completare con formaggio grattugiato se gradito"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "frappe-con-biscotti",
+    "title": "Frappé con biscotti",
+    "slug": "frappe-con-biscotti",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/03/frappecc80-con-biscottin_0.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/frappe-con-biscotti-91152",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una bevanda fresca e nutriente a base di latte e biscotti, perfetta per lo svezzamento dai 6 mesi. Ricetta semplice e veloce da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "sformato-di-fagiolini",
+    "title": "Sformato di fagiolini",
+    "slug": "sformato-di-fagiolini",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delicato sformato a base di fagiolini e uova, perfetto per l'alimentazione del bambino dai 10 mesi. Ricco di verdure e proteine, facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "fagiolini",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "maggiorana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e cuocere i fagiolini in acqua salata fino a quando risultano teneri",
+      "Frullare i fagiolini cotti insieme alla ricotta",
+      "Aggiungere le uova, il pangrattato, la maggiorana e il prezzemolo tritato",
+      "Mescolare bene gli ingredienti fino a ottenere un composto omogeneo",
+      "Versare in uno stampo unta to d'olio e cuocere in forno a 180°C per 20-25 minuti",
+      "Lasciare raffreddare leggermente prima di servire"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "orzotto-ai-piselli",
+    "title": "Orzotto ai piselli",
+    "slug": "orzotto-ai-piselli",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/05/orzotto-ai-piselli.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/orzotto-ai-piselli-16353",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente a base di orzo perlato e piselli freschi, arricchito con carota e ricotta. Ideale per l'alimentazione complementare dai 9 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "orzo perlato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "piselli freschi",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carote",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare l'orzo perlato e metterlo in una pentola con acqua",
+      "Aggiungere la carota tagliata a piccoli pezzi e cuocere fino a che l'orzo non è tenero",
+      "Aggiungere i piselli freschi e continuare la cottura",
+      "A cottura completata, aggiungere la ricotta e l'olio extravergine d'oliva",
+      "Mescolare bene e ridurre in purea a seconda dell'età del bambino"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "minestra-di-cavolfiore",
+    "title": "Minestra di Cavolfiore",
+    "slug": "minestra-di-cavolfiore",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una minestra delicata a base di cavolfiore, perfetta per l'inizio dello svezzamento. Ricca di vitamine e facile da digerire per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "cavolfiore",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cipolla",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pastina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato tipo grana",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire il cavolfiore e dividerlo in piccoli fiori",
+      "Tritare finemente la cipolla",
+      "Rosolare la cipolla in olio extravergine d'oliva",
+      "Aggiungere il cavolfiore e coprire con acqua",
+      "Portare a ebollizione e cuocere per 15-20 minuti fino a quando il cavolfiore è molto tenero",
+      "Aggiungere la pastina e cuocere secondo il tempo indicato sulla confezione",
+      "Frullare il composto per ottenere una consistenza liscia e cremosa",
+      "Aggiungere il formaggio grattugiato prima di servire"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "crema-di-mele-carote-e-cipolle",
+    "title": "Crema di mele, carote e cipolle",
+    "slug": "crema-di-mele-carote-e-cipolle",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/crema-mele-carote-cipolle-35131",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema delicata a base di mele, carote e cipolle, perfetta per l'inizio dello svezzamento. Ricca di vitamine e facile da digerire per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "mele",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carote",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cipolla",
+        "quantity_raw": ""
+      },
+      {
+        "name": "brodo vegetale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio tipo grana",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulisci e taglia le mele, le carote e la cipolla in piccoli pezzi",
+      "Cuoci gli ingredienti nel brodo vegetale fino a quando non diventano teneri",
+      "Frulla il composto fino a ottenere una crema liscia e omogenea",
+      "Aggiungi un filo d'olio extravergine d'oliva e un pizzico di formaggio grattugiato",
+      "Servi tiepida ai tuoi bambini"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "polpette-di-carne-e-riso",
+    "title": "Polpette di carne e riso",
+    "slug": "polpette-di-carne-e-riso",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/polpette-di-carne-e-riso-24450",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Polpette morbide e gustose a base di pollo e riso, perfette per lo svezzamento. Un piatto completo e nutriente indicato da 8 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "pollo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sedano",
+        "quantity_raw": ""
+      },
+      {
+        "name": "riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere il riso in acqua salata fino a cottura completa",
+      "Lessare la carota, la patata e il sedano insieme al pollo",
+      "Tritare finemente il pollo cotto con le verdure",
+      "Mescolare il pollo tritato con il riso cotto, il pangrattato e il formaggio grana grattugiato",
+      "Formare piccole polpette con il composto",
+      "Cuocere le polpette in forno a 180°C per circa 15-20 minuti fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "pappa-lattea-alla-mela",
+    "title": "Pappa lattea alla mela",
+    "slug": "pappa-lattea-alla-mela",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2020/02/crema-alle-mele.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/4-6-mesi-cibi/pappa-lattea-alla-mela-11983",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una pappa lattea delicata e nutriente a base di mela, perfetta per iniziare lo svezzamento. Ricca di vitamine e facilmente digeribile per i neonati.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "frullato-di-cachi",
+    "title": "Frullato di cachi",
+    "slug": "frullato-di-cachi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/10/frullatocachi.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/frullato-di-cachi-90033",
+    "prep_time_min": 5,
+    "cook_time_min": 0,
+    "total_time_min": 5,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un frullato dolce e nutriente a base di cachi, perfetto per l'alimentazione complementare dai 12 mesi in poi. Ricetta semplice e veloce, ideale per offrire frutta fresca ai bambini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "maturi",
+        "quantity_raw": "2 cachi"
+      },
+      {
+        "name": "Acqua o latte (facoltativo)",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Seleziona cachi maturi e ben tollerati dal bambino",
+      "Lava accuratamente i frutti sotto acqua corrente",
+      "Sbuccia i cachi e rimuovi i semi",
+      "Frulla la polpa fino a ottenere una consistenza omogenea",
+      "Aggiungi acqua o latte se necessario per raggiungere la giusta densità",
+      "Servi subito al bambino a temperatura ambiente"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pancake-con-le-mele",
+    "title": "Pancake con le mele",
+    "slug": "pancake-con-le-mele",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/pancake-con-le-mele-90688",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Pancake dolci e soffici preparati con mele fresche, perfetti per il secondo anno di vita del bambino. Un dolcetto nutriente e gustoso ideale per la colazione.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pure-verde",
+    "title": "Purè verde",
+    "slug": "pure-verde",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/05/pure-verde.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/pure-verde-74083",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso purè a base di pisellini e patate, arricchito con ricotta e formaggio grana. Perfetto per l'inizio dello svezzamento, facile da digerire e ricco di nutrienti.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "pisellini",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte formulato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere i pisellini e le patate in acqua bollente fino a quando non sono molto teneri",
+      "Scolare bene le verdure cotte",
+      "Frullare pisellini e patate con un po' di latte formulato fino a ottenere un purè omogeneo",
+      "Aggiungere la ricotta e mescolare bene",
+      "Aggiungere il formaggio grana grattugiato e un filo di olio extravergine d'oliva",
+      "Servire a temperatura tiepida"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "stelline-dorate",
+    "title": "Stelline dorate",
+    "slug": "stelline-dorate",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/05/stelline-dorate.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/stelline-dorate-96320",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e gustoso a base di pasta stellata, perfetto per i bambini a partire dai 12 mesi. Una ricetta facile da preparare e completa dal punto di vista nutrizionale.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pasta-con-merluzzo-e-pesto-di-basilico",
+    "title": "Pasta con merluzzo e pesto di basilico",
+    "slug": "pasta-con-merluzzo-e-pesto-di-basilico",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/pasta-merluzzo-pesto-basilico",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente e gustoso per lo svezzamento, che combina pasta, merluzzo fresco e pesto di basilico fatto in casa. Perfetto dai 10 mesi in poi per introdurre il pesce e i sapori mediterranei.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "merluzzo norvegese",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pasta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sedano",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire il merluzzo e cuocerlo a vapore o in acqua bollente fino a quando non è completamente cotto",
+      "Cuocere la pasta in acqua salata seguendo i tempi di cottura indicati sulla confezione",
+      "Preparare il pesto frullando il basilico fresco con il sedano e l'olio",
+      "Amalgamare la pasta cotta con il merluzzo sbriciolato e il pesto",
+      "Aggiungere il formaggio grattugiato e servire tiepido"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "vellutata-di-carote-e-patate",
+    "title": "Vellutata di carote e patate",
+    "slug": "vellutata-di-carote-e-patate",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/4-6-mesi-cibi/vellutata-di-carote-e-patate",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una vellutata cremosa e nutriente perfetta per l'inizio dello svezzamento. A base di carote e patate, ricca di vitamine e minerali essenziali per la crescita del bambino.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "carote",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire le carote e le patate, tagliarle a pezzi",
+      "Cuocere in acqua bollente fino a quando sono teneri",
+      "Frullare le verdure cotte insieme a parte dell'acqua di cottura",
+      "Aggiungere il formaggio grana grattugiato e l'olio extravergine d'oliva",
+      "Mescolare bene fino a ottenere una vellutata cremosa e omogenea"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "riso-con-piselli",
+    "title": "Riso con piselli",
+    "slug": "riso-con-piselli",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/07/riso-con-piselli.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/riso-con-piselli-28961",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un primo piatto delicato e nutriente a base di riso e piselli, perfetto per l'alimentazione dei bambini dai 12 mesi in poi. Ricetta semplice e digeribile.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pastina-al-cavolfiore",
+    "title": "Pastina al cavolfiore",
+    "slug": "pastina-al-cavolfiore",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente perfetto per lo svezzamento dei bambini a partire dagli 8 mesi. La pastina al cavolfiore è facile da digerire e ricca di vitamine.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "polpette-vegetali",
+    "title": "Polpette vegetali",
+    "slug": "polpette-vegetali",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Polpette vegetali adatte dai 12 mesi in poi. Una ricetta media per variare l'alimentazione del bambino con ingredienti freschi e salutari.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "frullato-di-melone",
+    "title": "Frullato di melone",
+    "slug": "frullato-di-melone",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/08/frullato-di-melone.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/frullato-di-melone-83886",
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un frullato rinfrescante e nutriente a base di melone perfetto per i bambini da 10 mesi. Facile da preparare e ricco di vitamine.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "melone maturo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte vegetale o latte di proseguimento",
+        "quantity_raw": ""
+      },
+      {
+        "name": "essenza di vaniglia",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ghiaccio",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare e tagliare il melone in pezzi, rimuovendo i semi",
+      "Frullare il melone con il latte vegetale o di proseguimento",
+      "Aggiungere una goccia di essenza di vaniglia",
+      "Aggiungere il ghiaccio e frullare di nuovo fino a ottenere un composto omogeneo",
+      "Versare in una tazza e servire subito"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "polpettone-vegetariano",
+    "title": "Polpettone vegetariano",
+    "slug": "polpettone-vegetariano",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/01/polpettone-vegetariano.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/polpettone-vegetariano-40447",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente e gustoso a base di verdure, ideale per l'alimentazione dei bambini dai 12 mesi in su. Ricco di proteine vegetali e facilmente masticabile.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pulcini-di-uova",
+    "title": "Pulcini di uova",
+    "slug": "pulcini-di-uova",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/03/pulicni-di-uova.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/pulcini-di-uova-18906",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e divertente a base di uova, perfetta per i bambini a partire dai 12 mesi. Un piatto nutriente e facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "letterine-in-brodo",
+    "title": "Letterine in brodo",
+    "slug": "letterine-in-brodo",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/01/letterine-in-brodo.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/letterine-in-brodo-18768",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una minestra leggera e nutriente a base di pastina e verdure fresche, perfetta per l'inizio dello svezzamento. Ricca di vitamine e minerali essenziali per la crescita del bambino.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "zucchina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "piselli",
+        "quantity_raw": ""
+      },
+      {
+        "name": "spinaci",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pastina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare e sbucciare le verdure (zucchina, carota, spinaci)",
+      "Tagliare la zucchina e la carota a piccoli pezzi",
+      "Mettere in pentola l'acqua e portare a ebollizione",
+      "Aggiungere le verdure tagliate e i piselli",
+      "Cuocere fino a quando le verdure sono ben tenere",
+      "Aggiungere la pastina e cuocere secondo i tempi indicati sulla confezione",
+      "Condire con olio extravergine d'oliva e un pizzico di formaggio grattugiato",
+      "Frullare o schiacciare leggermente se necessario per l'età del bambino"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "pure-piselli-prosciutto",
+    "title": "Purè di piselli e prosciutto",
+    "slug": "pure-piselli-prosciutto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un purè delicato a base di piselli e prosciutto cotto, perfetto per lo svezzamento. Ricco di proteine e vitamine, facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "piselli",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prosciutto cotto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "menta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere i piselli in acqua bollente fino a renderli molto teneri",
+      "Frullare i piselli cotti insieme al prosciutto cotto e la menta",
+      "Aggiungere un filo d'olio extravergine d'oliva e amalgamare bene",
+      "Servire tiepido al neonato"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "chips-di-mela",
+    "title": "Chips di mela",
+    "slug": "chips-di-mela",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/03/chips-mela.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/chips-di-mela-48833",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Snack croccante a base di mele, perfetto per i bambini a partire da 12 mesi. Una ricetta semplice e salutare per introdurre la frutta in modo diverso.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "mele",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare e affettare sottilmente le mele",
+      "Cospargere le fette con zucchero di canna e succo di limone",
+      "Disporre su una teglia e cuocere fino a renderle croccanti"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "risotto-di-primavera",
+    "title": "Risotto di primavera",
+    "slug": "risotto-di-primavera",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/risotto-di-primavera",
+    "prep_time_min": 10,
+    "cook_time_min": 25,
+    "total_time_min": 35,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso risotto con verdure di stagione perfetto per lo svezzamento. Ricco di sapore e facilmente digeribile per i bambini da 10 mesi in su.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "riso",
+        "quantity_raw": "150g"
+      },
+      {
+        "name": "zucchine",
+        "quantity_raw": "100g"
+      },
+      {
+        "name": "asparagi",
+        "quantity_raw": "80g"
+      },
+      {
+        "name": "piselli",
+        "quantity_raw": "60g"
+      },
+      {
+        "name": "brodo vegetale",
+        "quantity_raw": "500ml"
+      },
+      {
+        "name": "scalogno",
+        "quantity_raw": "30g"
+      },
+      {
+        "name": "formaggio tipo grana",
+        "quantity_raw": "20g"
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": "2 cucchiai"
+      },
+      {
+        "name": "basilico q.b.",
+        "quantity_raw": ""
+      },
+      {
+        "name": "maggiorana q.b.",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e tagliare finemente lo scalogno, quindi farlo rosolare in un pentola con olio extravergine d'oliva",
+      "Aggiungere il riso e tostarlo leggermente per 1-2 minuti, mescolando costantemente",
+      "Versare il brodo vegetale caldo poco alla volta, mescolando frequentemente e attendendo che il riso lo assorba prima di aggiungerne altro",
+      "Nel frattempo, tagliare le verdure in piccoli pezzi e aggiungerle al risotto quando il riso inizia a cuocere",
+      "Continuare la cottura per circa 18-20 minuti fino a quando il riso è tenero e cremoso",
+      "Mantecare con il formaggio tipo grana grattugiato e le erbe aromatiche secondo il gusto",
+      "Servire tiepido ai bambini"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "semolino-al-latte",
+    "title": "Semolino al latte",
+    "slug": "semolino-al-latte",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un primo piatto cremoso e nutriente perfetto per l'inizio dello svezzamento. Facile da preparare e digeribile per i bambini a partire dai 6 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "omini-di-pan-di-zenzero",
+    "title": "Omini di Pan di Zenzero",
+    "slug": "omini-di-pan-di-zenzero",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/12/omini-zenzero.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/omini-di-pan-di-zenzero-68565",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Biscotti divertenti e profumati a forma di omini, perfetti per i bambini da 12 mesi. Una ricetta semplice e golosa per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pancake-babbo-natale",
+    "title": "Pancake Babbo Natale",
+    "slug": "pancake-babbo-natale",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2020/12/pancake-babbo-natale.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/pancake-babbo-natale-92949",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi pancake a forma di Babbo Natale, perfetti per i bambini a partire dai 24 mesi. Una ricetta semplice e divertente per rendere la colazione più allegra.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 24,
+    "ingredients": [
+      {
+        "name": "farina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      },
+      {
+        "name": "miele",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "panna montata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "fragole",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mirtilli",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Mescola la farina, il lievito e il sale in una ciotola.",
+      "In un'altra ciotola sbatti le uova con lo zucchero e il miele.",
+      "Combina gli ingredienti bagnati con quelli secchi, aggiungi il latte e l'olio fino a ottenere un impasto omogeneo.",
+      "Scalda l'olio in una padella e versa l'impasto in piccole porzioni.",
+      "Cuoci i pancake fino a doratura da entrambi i lati.",
+      "Decora con panna montata, fragole e mirtilli per creare la forma di Babbo Natale."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 24,
+      "min_age_amber": 24,
+      "amber_note": "Adatta dai 24 mesi.",
+      "red_note": "Adatta dai 24 mesi."
+    }
+  },
+  {
+    "id": "tempestina-con-verdure",
+    "title": "Tempestina con verdure",
+    "slug": "tempestina-con-verdure",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/09/tempestina-con-verdure.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/tempestina-con-verdure-66640",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente a base di tempestina e verdure, perfetta per lo svezzamento. Ideale da 6 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "muffin-al-grano-saraceno",
+    "title": "Muffin al grano saraceno",
+    "slug": "muffin-al-grano-saraceno",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/05/muffin-grano-saraceno.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/muffin-al-grano-saraceno-16260",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi muffin a base di grano saraceno, perfetti per lo svezzamento dai 12 mesi. Una ricetta semplice e nutriente con frutta e yogurt.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "grano saraceno",
+        "quantity_raw": ""
+      },
+      {
+        "name": "albume",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "yogurt",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio",
+        "quantity_raw": ""
+      },
+      {
+        "name": "marmellata di albicocca",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare gli ingredienti secchi: mescolare il grano saraceno con il lievito",
+      "In una ciotola unire l'albume, lo zucchero di canna e l'olio",
+      "Aggiungere lo yogurt e il succo di limone",
+      "Incorporare gli ingredienti secchi agli ingredienti umidi",
+      "Versare l'impasto negli stampi per muffin",
+      "Aggiungere un cucchiaio di marmellata di albicocca in ogni muffin",
+      "Cuocere in forno fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "prosciutto-in-salsa-dolce",
+    "title": "Prosciutto in salsa dolce",
+    "slug": "prosciutto-in-salsa-dolce",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/svezzamento_ricette_prodciutto_mele.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/prosciutto-in-salsa-dolce-62631",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e delicata a base di prosciutto in una salsa dolce, perfetta per i bambini a partire dagli 8 mesi. Un piatto nutriente e facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "burger-di-ceci",
+    "title": "Burger di ceci",
+    "slug": "burger-di-ceci",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/07/burger-di-ceci.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/burger-di-ceci-71370",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Polpettone vegetariano a base di ceci, perfetto per introdurre i legumi nell'alimentazione del bambino. Ricetta semplice e nutriente, ideale per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "mandarini-golosi",
+    "title": "Mandarini golosi",
+    "slug": "mandarini-golosi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/mandarini-golosi",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Dolcetto appetitoso e facile da preparare con mandarini, cioccolato fondente e pistacchio. Perfetto per bambini da 18 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "mandarini",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cioccolato extra-fondente",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pistacchi",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pelate i mandarini e divideteli in spicchi.",
+      "Fate sciogliere il cioccolato extra-fondente a bagnomaria.",
+      "Immergete gli spicchi di mandarino nel cioccolato fuso.",
+      "Tritate finemente i pistacchi e cospargeteli sul cioccolato ancora morbido.",
+      "Fate raffreddare su carta forno fino a quando il cioccolato non è completamente solidificato."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "torta-salata-alla-ricotta",
+    "title": "Torta salata alla ricotta",
+    "slug": "torta-salata-alla-ricotta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/02/torta-salata.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/torta-salata-alla-ricotta-80250",
+    "prep_time_min": 15,
+    "cook_time_min": 35,
+    "total_time_min": 50,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una torta salata semplice e nutriente a base di ricotta, perfetta per i bambini da 12 mesi in poi. Ricca di proteine e calcio, ideale come piatto principale o secondo.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pasta sfoglia",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grana grattugiato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale e pepe",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Stendere la pasta sfoglia in una teglia",
+      "In una ciotola mescolare la ricotta con le uova e il grana grattugiato",
+      "Aggiungere sale e pepe al composto di ricotta",
+      "Versare il composto sulla pasta sfoglia",
+      "Condire con olio extravergine d'oliva",
+      "Infornare a 180°C per circa 30-35 minuti fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "uva-con-crema-agli-amaretti",
+    "title": "Uva con crema agli amaretti",
+    "slug": "uva-con-crema-agli-amaretti",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/09/uva-con-crema-amaretti.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/uva-crema-agli-amaretti-89072",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un dolce delicato e nutriente per i piccoli, a base di uva fresca e una cremosa vellutata di ricotta e amaretti. Perfetto per il secondo anno di vita, facile da preparare e digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "uva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "amaretti",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare bene l'uva e tagliarla a metà, rimuovendo i semi se presenti",
+      "Frullare gli amaretti in polvere fine",
+      "Mescolare la ricotta con il latte fino a ottenere una crema liscia e cremosa",
+      "Incorporare la polvere di amaretti nella crema di ricotta",
+      "Disporre l'uva in un piatto e aggiungere la crema agli amaretti sopra"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "scaloppine-alle-erbe-aromatiche",
+    "title": "Scaloppine alle erbe aromatiche",
+    "slug": "scaloppine-alle-erbe-aromatiche",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://www.uppa.it/wp-content/uploads/2013/06/Scaloppine-erbe-aromatiche-720x413.jpg",
+    "source_site": "Uppa",
+    "source_url": "https://www.uppa.it/scaloppine-alle-erbe-aromatiche/",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Fettine di vitello molto sottili cotte rapidamente con erbe aromatiche, perfette per i bambini che hanno difficoltà a masticare la carne. Un secondo piatto leggero e gustoso da servire con verdure o purè.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "carne di vitello",
+        "quantity_raw": "2 fettine"
+      },
+      {
+        "name": "farina",
+        "quantity_raw": "1 cucchiaio"
+      },
+      {
+        "name": "maggiorana e timo",
+        "quantity_raw": "1 cucchiaio"
+      },
+      {
+        "name": "olio extra vergine di oliva",
+        "quantity_raw": "1 cucchiaio"
+      }
+    ],
+    "steps": [
+      "Infarinate le fettine di vitello, unendo alla farina un trito di maggiorana e timo.",
+      "Cuocete le fettine molto rapidamente in un padellino antiaderente con poco olio, circa un minuto per parte, per evitare che la carne diventi dura.",
+      "Se gradito, spruzzate qualche goccia di limone alla fine.",
+      "Servite con verdure miste o purè di patate."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "rose-di-mela",
+    "title": "Rose di mela",
+    "slug": "rose-di-mela",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/12/rose-di-mela.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/rose-di-mela-61424",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Dolcetto a base di pasta sfoglia e mele, perfetto per i bambini da 12 mesi in poi. Una ricetta semplice e golosa per variare l'alimentazione dello svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pasta sfoglia",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mele",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna integrale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mezzo limone",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cannella",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero a velo",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare le mele lavandole e sbucciandole",
+      "Tagliare le mele a fettine sottili e cospargerle di succo di limone per evitare l'ossidazione",
+      "Stendere la pasta sfoglia su una superficie piana",
+      "Arrotolare la pasta sfoglia con le mele all'interno, creando delle rose",
+      "Cospargere le rose di zucchero di canna e cannela",
+      "Cuocere in forno fino a doratura",
+      "Spolverare con zucchero a velo prima di servire"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "gelato-alle-prugne",
+    "title": "Gelato alle prugne",
+    "slug": "gelato-alle-prugne",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/08/gelato.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/gelato-alle-prugne-41774",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un gelato dolce e naturale a base di prugne, perfetto per i bambini da 12 mesi. Ricetta semplice e rinfrescante per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "polpette-di-patate-e-carote-al-forno",
+    "title": "Polpette di patate e carote al forno",
+    "slug": "polpette-di-patate-e-carote-al-forno",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2020/07/polpette-patate-carote.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/polpette-di-patate-e-carote-al-forno-52396",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Polpette morbide e nutrienti a base di patate e carote, perfette per lo svezzamento. Una ricetta semplice e gustosa al forno, senza frittura.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "prima-pappa",
+    "title": "Prima pappa",
+    "slug": "prima-pappa",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/06/prima-pappa.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/4-6-mesi-cibi/prima-pappa-neonato-84589",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "La prima pappa per il neonato, ricetta semplice e delicata indicata per iniziare lo svezzamento dai 4 mesi. Una ricetta base facile da preparare e digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-di-orzo",
+    "title": "Crema di orzo",
+    "slug": "crema-di-orzo",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema liscia e delicata a base di orzo, perfetta per l'inizio dello svezzamento. Ricca di carboidrati e facilmente digeribile per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "renna-di-pancarre",
+    "title": "Renna di pancarré",
+    "slug": "renna-di-pancarre",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/12/renna-di-pancarre.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/renna-di-pancarre-59726",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto divertente e colorato a forma di renna, perfetto per i bambini da 12 mesi. Realizzato con pancarré, ricotta e ingredienti semplici.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pancarré",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prosciutto cotto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mozzarella",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olive",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodorini",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Taglia il pancarré in due triangoli per creare la forma della testa",
+      "Spalma la ricotta sul pancarré come base",
+      "Aggiungi il prosciutto cotto e la mozzarella tagliati a pezzi",
+      "Usa le olive per gli occhi e i pomodorini per il naso",
+      "Completa con altri ingredienti per creare le corna della renna",
+      "Servi subito al bambino"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "frittata-al-forno-con-spinaci",
+    "title": "Frittata al forno con spinaci",
+    "slug": "frittata-al-forno-con-spinaci",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una frittata leggera e nutriente al forno con spinaci freschi, perfetta per l'alimentazione dei bambini da 12 mesi. Ricca di proteine e verdure, facile da preparare e digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "mozzarella-in-carrozza-light",
+    "title": "Mozzarella in carrozza light",
+    "slug": "mozzarella-in-carrozza-light",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/10/mozzarella-in-carrozza.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/mozzarella-in-carrozza-light-57482",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente a base di mozzarella panata e cotta al forno, perfetto per l'alimentazione dei bambini da 12 mesi. Una versione light della ricetta classica, più salutare e delicata.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "insalata-di-riso",
+    "title": "Insalata di riso",
+    "slug": "insalata-di-riso",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/08/stockfood_00282295_hires.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/insalata-di-riso-45120",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "total_time_min": 30,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto fresco e nutriente a base di riso con verdure e tonno, perfetto per i bambini dai 12 mesi in poi. Ricca di proteine e vitamine, facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchine",
+        "quantity_raw": ""
+      },
+      {
+        "name": "peperoni",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pisellini",
+        "quantity_raw": ""
+      },
+      {
+        "name": "tonno",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere il riso in acqua salata secondo i tempi indicati sulla confezione.",
+      "Nel frattempo, lavare e tagliare le zucchine e i peperoni in piccoli dadini.",
+      "Cuocere le verdure (zucchine, peperoni e pisellini) in acqua bollente fino a renderle tenere.",
+      "Scolare il riso e le verdure, lasciare intiepidire.",
+      "In una ciotola, mescolare il riso cotto con le verdure, il tonno sbriciolato, il succo di limone e un filo di olio extravergine d'oliva.",
+      "Decorare con prezzemolo fresco tritato e servire."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "tortino-di-prosciutto",
+    "title": "Tortino di prosciutto",
+    "slug": "tortino-di-prosciutto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/08/tortino-di-prosciutto.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/tortino-di-prosciutto-40227",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso tortino di prosciutto perfetto per l'alimentazione dei bambini a partire dai 12 mesi. Ricetta semplice e nutriente per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "sformato-di-formaggio-ed-erbette",
+    "title": "Sformato di formaggio ed erbette",
+    "slug": "sformato-di-formaggio-ed-erbette",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato e nutriente a base di erbette, formaggio e crescenza, perfetto per l'introduzione di nuovi sapori. Facile da preparare e digeribile per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "erbette",
+        "quantity_raw": ""
+      },
+      {
+        "name": "crescenza",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte anche formulato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato tipo grana",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e tritare finemente le erbette",
+      "Cuocere le erbette brevemente in una padella con un filo d'olio",
+      "In una ciotola, mescolare la crescenza con il formaggio grattugiato",
+      "Aggiungere il latte al composto fino a raggiungere una consistenza cremosa",
+      "Unire le erbette cotte al composto di formaggi",
+      "Versare il tutto in uno stampo imburrato e cuocere in forno a bagnomaria"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "pastina-al-sugo-di-sogliola",
+    "title": "Pastina al sugo di sogliola",
+    "slug": "pastina-al-sugo-di-sogliola",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/08/pastina-con-sogliola.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/pastina-al-sugo-di-sogliola-98405",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un primo piatto delicato e nutritivo a base di pastina e sogliola, perfetto per l'inizio dello svezzamento. Una ricetta semplice e gustosa che introduce il pesce bianco nella dieta del bambino.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "passato-di-farro",
+    "title": "Passato di farro",
+    "slug": "passato-di-farro",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/10/ministra-di-farro.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/passato-di-farro-16944",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un passato cremoso a base di farro, perfetto per l'alimentazione complementare dei bambini da 10 mesi. Ricca di cereali e facilmente digeribile.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "crema-di-zucca-per-halloween",
+    "title": "Crema di zucca per Halloween",
+    "slug": "crema-di-zucca-per-halloween",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema dolce e nutriente a base di zucca, perfetta per l'introduzione di nuovi sapori durante lo svezzamento. Ideale per i bambini da 6 mesi in su.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "porridge-all-uva",
+    "title": "Porridge all'uva",
+    "slug": "porridge-all-uva",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un porridge dolce e nutriente a base di fiocchi d'avena, yogurt e uva perfetto per lo svezzamento. Ricetta semplice e veloce, ideale per i bambini da 10 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "fiocchi d'avena",
+        "quantity_raw": ""
+      },
+      {
+        "name": "yogurt bianco naturale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare i fiocchi d'avena secondo le indicazioni sulla confezione",
+      "Aggiungere lo yogurt bianco naturale ai fiocchi d'avena cotti",
+      "Lavare bene l'uva e tagliarla in piccoli pezzi",
+      "Mescolare l'uva nel porridge e servire tiepido"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "pure-di-fave",
+    "title": "Purè di fave",
+    "slug": "pure-di-fave",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/pure-di-fave-31953",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso purè di fave arricchito con patata e formaggio Grana, perfetto per l'alimentazione dei bambini a partire dai 10 mesi. Un piatto nutriente e facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "fave",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio tipo grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere le fave e la patata in acqua bollente fino a quando sono tenere",
+      "Scolare bene gli ingredienti",
+      "Frullare insieme le fave e la patata fino a ottenere un purè liscio",
+      "Aggiungere il formaggio grattugiato e mescolare bene",
+      "Condire con un filo di olio extravergine d'oliva e servire"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "duchessa-al-prosciutto",
+    "title": "Duchessa al prosciutto",
+    "slug": "duchessa-al-prosciutto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/01/duchessa-al-prosciutto.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/duchessa-al-prosciutto-38017",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delizioso a base di patate e prosciutto cotto, arricchito con formaggio grattugiato. Ricetta semplice e nutriente perfetta per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prosciutto cotto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere la patata in acqua salata fino a quando non diventa tenera",
+      "Scolare e schiacciare bene la patata",
+      "Aggiungere il prosciutto cotto tritato finemente e il formaggio grattugiato",
+      "Amalgamare gli ingredienti con un po' di olio",
+      "Servire tiepido"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "spezzatino-al-vapore",
+    "title": "Spezzatino al vapore",
+    "slug": "spezzatino-al-vapore",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/svezzamento_ricette_spezzatino_vapore.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/spezzatino-al-vapore-79734",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto proteico e nutriente perfetto per lo svezzamento. Lo spezzatino cotto al vapore mantiene tutte le proprietà organolettiche della carne.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "crocchette-al-salmone-norvegese",
+    "title": "Crocchette al Salmone Norvegese",
+    "slug": "crocchette-al-salmone-norvegese",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/crocchette-al-salmone-norvegese",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Gustose crocchette a base di salmone norvegese e patate, ideali per introdurre il pesce nella dieta del bambino. Ricetta semplice e nutriente per lo svezzamento dai 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "Salmone Norvegese",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Formaggio grattugiato tipo grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Pangrattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Sale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Aneto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Erba cipollina",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuoci le patate in acqua salata fino a renderle tenere",
+      "Cuoci il salmone a vapore o in padella fino a cottura completa",
+      "Sbriciola il salmone cotto e uniscilo alle patate schiacciate",
+      "Aggiungi l'uovo, il formaggio grattugiato, l'aneto e l'erba cipollina",
+      "Mescola bene gli ingredienti fino a ottenere un impasto omogeneo",
+      "Forma delle piccole crocchette con le mani bagnate",
+      "Passa le crocchette nel pangrattato",
+      "Cuoci in forno a 180°C per circa 15-20 minuti fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-delicata-di-zucca",
+    "title": "Crema delicata di zucca",
+    "slug": "crema-delicata-di-zucca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/4-6-mesi-cibi/crema-delicata-zucca-98298",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema vellutata e nutriente a base di zucca, perfetta per i primi assaggi del bambino. Ricca di vitamine e dal sapore dolce e naturale.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "polpa di zucca",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte di proseguimento",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire la zucca, rimuovere i semi e la buccia",
+      "Tagliare la polpa a pezzetti",
+      "Cuocere la zucca al vapore fino a renderla morbida",
+      "Frullare la zucca cotta con il latte di proseguimento fino a ottenere una crema liscia e omogenea",
+      "Servire tiepida al bambino"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "multicereali-ai-finocchi",
+    "title": "Multicereali ai finocchi",
+    "slug": "multicereali-ai-finocchi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/05/multicereali-ai-finocchi.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/multicereali-ai-finocchi-25081",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente a base di cereali misti e finocchi, perfetto per lo svezzamento a partire dai 6 mesi. Ricetta facile e veloce da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "muffin-ai-fiocchi-davena",
+    "title": "Muffin ai fiocchi d'avena",
+    "slug": "muffin-ai-fiocchi-davena",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Golosi muffin a base di fiocchi d'avena, perfetti per lo svezzamento a partire dai 12 mesi. Una ricetta semplice e nutriente ideal per la colazione dei bambini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "farina d'avena",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "fiocchi d'avena",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cannella",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Mescola la farina d'avena, la farina di riso, i fiocchi d'avena, lo zucchero, la cannella e il lievito in una ciotola.",
+      "In un'altra ciotola, sbatti le uova con il latte di riso e l'olio.",
+      "Combina gli ingredienti secchi con quelli bagnati fino a ottenere un impasto omogeneo.",
+      "Aggiungi il succo di limone e mescola bene.",
+      "Versa l'impasto negli stampi per muffin e cuoci in forno fino a cottura completa."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "sandwich-dolce",
+    "title": "Sandwich dolce",
+    "slug": "sandwich-dolce",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/12/toast.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/sandwich-dolce-84112",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un sandwich dolce e semplice, perfetto per i bambini dai 10 mesi in poi. Ricetta facile da preparare e adatta all'alimentazione in fase di svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "bruschetta-sfiziosa",
+    "title": "Bruschetta sfiziosa",
+    "slug": "bruschetta-sfiziosa",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/06/svezzamento_ricette_bruschetta_tonno_pomodoro.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/bruschetta-sfiziosa-28168",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una bruschetta semplice e gustosa adatta ai bambini da 10 mesi. Perfetta per iniziare a sperimentare sapori nuovi durante lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "pure-dolce-e-ricco",
+    "title": "Purè dolce e ricco",
+    "slug": "pure-dolce-e-ricco",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/pure-dolce-ricco-32328-32328",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "total_time_min": 30,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un purè nutriente e delizioso per lo svezzamento, realizzato con patata, carota, mela e ricotta. Perfetto per i bambini a partire dai 6 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mela",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare e sbucciare patata, carota e mela",
+      "Tagliare gli ingredienti in piccoli pezzi",
+      "Cuocere patata e carota in acqua bollente fino a renderle tenere (circa 15-20 minuti)",
+      "Aggiungere la mela negli ultimi 5 minuti di cottura",
+      "Scolare gli ingredienti e farli intiepidire",
+      "Passare tutto con un passaverdure o frullatore fino a ottenere un purè omogeneo",
+      "Aggiungere la ricotta e mescolare bene",
+      "Condire con un filo di olio extravergine d'oliva"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "mousse-delicata-alla-mela",
+    "title": "Mousse delicata alla mela",
+    "slug": "mousse-delicata-alla-mela",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/08/mousse-di-mela.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/mousse-delicata-alla-mela-18466",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una mousse leggera e dolce a base di mela, perfetta per il primo assaggio di dolci per i bambini. Ricetta facile e veloce, ideale a partire dai 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "frullato-di-frutta-mista",
+    "title": "Frullato di frutta mista",
+    "slug": "frullato-di-frutta-mista",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un frullato colorato e nutriente a base di frutta fresca, perfetto per l'inizio dello svezzamento. Semplice da preparare e ricco di vitamine naturali.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "macedonia-profumata",
+    "title": "Macedonia profumata",
+    "slug": "macedonia-profumata",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/08/macedonia-allo-yogurt.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/macedonia-profumata-75491",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto fresco e colorato a base di frutta, perfetto per bambini a partire dai 10 mesi di età. Una ricetta semplice e veloce da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "filetti-impanati-al-forno",
+    "title": "Filetti impanati al forno",
+    "slug": "filetti-impanati-al-forno",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/05/filetti-impanati-al-forno.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/filetti-impanati-al-forno-21723",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Filetti di pesce impanati e cotti al forno, ricetta semplice e nutriente per bambini da 12 mesi. Un piatto proteico e leggero perfetto per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pasta-con-ricotta-e-basilico",
+    "title": "Pasta con ricotta e basilico",
+    "slug": "pasta-con-ricotta-e-basilico",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/pasta-con-ricotta-e-basilico-98696",
+    "prep_time_min": 5,
+    "cook_time_min": 10,
+    "total_time_min": 15,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente perfetto per l'inizio dello svezzamento. Pastina tenera condita con ricotta cremosa e basilico fresco.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "pastina per l'infanzia",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico fresco",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere la pastina per l'infanzia in acqua bollente secondo i tempi indicati sulla confezione",
+      "Scolare la pastina e lasciarla intiepidire leggermente",
+      "Aggiungere la ricotta e mescolare bene fino a ottenere un composto cremoso",
+      "Tritare finemente il basilico fresco",
+      "Aggiungere il basilico tritato e un filo d'olio extravergine d'oliva",
+      "Mescolare delicatamente e servire"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "burger-vegetali-di-ceci-lenticchie-e-carote",
+    "title": "Burger vegetali di ceci, lenticchie e carote",
+    "slug": "burger-vegetali-di-ceci-lenticchie-e-carote",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/06/burger-di-ceci.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/burger-vegetali-di-ceci-lenticchie-e-carote-81954",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Burger vegetali nutrienti a base di ceci, lenticchie e carote, perfetti per i bambini dal primo anno di età. Una ricetta sana e gustosa per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "tortini-di-zucca",
+    "title": "Tortini di zucca",
+    "slug": "tortini-di-zucca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/12/tortini-zucca.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/tortini-di-zucca-26194",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Tortini salati a base di zucca e ricotta, perfetti per l'alimentazione del bambino a partire dai 12 mesi. Ricetta nutriente e dal sapore delicato.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "zucca",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "brodo vegetale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cipolla",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare la zucca pulendola e tagliandola a pezzi",
+      "Cuocere la zucca nel brodo vegetale fino a renderla morbida",
+      "Far appassire delicatamente la cipolla in poco olio extravergine d'oliva",
+      "Frullare la zucca cotta con la ricotta e la cipolla",
+      "Aggiungere le uova al composto e mescolare bene",
+      "Versare il composto in stampi da muffin e cuocere in forno fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "polpette-di-platessa",
+    "title": "Polpette di platessa",
+    "slug": "polpette-di-platessa",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/09/polpette-platessa.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/polpette-di-platessa-35457",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Delicate polpette di pesce bianco, perfette per l'introduzione del pesce durante lo svezzamento. Una ricetta semplice e nutriente per bambini a partire da 8 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "crema-di-nasello-con-finocchio",
+    "title": "Crema di nasello con finocchio",
+    "slug": "crema-di-nasello-con-finocchio",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/crema-nasello-finocchio-90084",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema delicata a base di nasello, finocchio e carota, perfetta per l'introduzione del pesce nello svezzamento. Ricetta semplice e nutriente, ideale dai 8 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "crema di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "nasello",
+        "quantity_raw": ""
+      },
+      {
+        "name": "finocchio",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire il nasello e rimuovere le lische",
+      "Tagliare il finocchio e la carota in piccoli pezzi",
+      "Cuocere il nasello, il finocchio e la carota a vapore fino a renderli teneri",
+      "Frullare gli ingredienti cotti insieme alla crema di riso",
+      "Aggiungere un filo di olio extravergine d'oliva e mescolare bene"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "crema-al-pollo",
+    "title": "Crema al pollo",
+    "slug": "crema-al-pollo",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una cremosa crema a base di riso con pollo e verdure, perfetta per l'inizio dello svezzamento. Ricca di nutrienti essenziali e facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "crema di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "bietola",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pollo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare la crema di riso secondo le istruzioni del produttore.",
+      "Lavare e pelate carota, zucchina e bietola.",
+      "Cuocere le verdure in acqua bollente fino a renderle molto tenere.",
+      "Frullare le verdure cotte insieme al pollo cotto e sminuzzato.",
+      "Mescolare la crema di riso con il frullato di verdure e pollo.",
+      "Aggiungere un filo d'olio extravergine d'oliva e servire."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crocchette-di-ricotta-e-spinaci",
+    "title": "Crocchette di ricotta e spinaci",
+    "slug": "crocchette-di-ricotta-e-spinaci",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Gustose crocchette a base di ricotta e spinaci, perfette per il svezzamento. Un piatto nutriente e facile da mangiare per i bambini da 12 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "spinaci",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato tipo grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere gli spinaci in acqua bollente fino a renderli teneri",
+      "Scolare gli spinaci e farli raffreddare, quindi tritarli finemente",
+      "Mescolare la ricotta con gli spinaci tritati e il formaggio grattugiato",
+      "Aggiungere un uovo intero al composto e mescolare bene",
+      "Formare delle piccole crocchette dal composto",
+      "Passare le crocchette nel pangrattato",
+      "Cuocere in forno o in padella con olio extravergine d'oliva fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pure-di-piselli-al-formaggio",
+    "title": "Purè di piselli al formaggio",
+    "slug": "pure-di-piselli-al-formaggio",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2021/06/ricettaxsito.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/pure-di-piselli-al-formaggio-64756",
+    "prep_time_min": 5,
+    "cook_time_min": 20,
+    "total_time_min": 25,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente e facile da preparare per lo svezzamento. Perfetto per bambini da 10 mesi in poi, ricco di proteine e vitamine.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "piselli sgranati",
+        "quantity_raw": "200g"
+      },
+      {
+        "name": "formaggio spalmabile",
+        "quantity_raw": "2 cucchiai"
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": "1 cucchiaio"
+      }
+    ],
+    "steps": [
+      "Cuoci i piselli sgranati in acqua bollente salata per circa 15-20 minuti fino a renderli morbidi",
+      "Scola i piselli e inseriscili nel frullatore",
+      "Aggiungi il formaggio spalmabile e l'olio extravergine d'oliva",
+      "Frulla fino a ottenere un purè omogeneo e cremoso",
+      "Controlla la temperatura prima di servire al bambino"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "frittata-di-mele",
+    "title": "Frittata di mele",
+    "slug": "frittata-di-mele",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una frittata dolce e nutriente a base di mele, perfetta per lo svezzamento. Ricca di proteine e facilmente digeribile.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "tortino-di-pere",
+    "title": "Tortino di pere",
+    "slug": "tortino-di-pere",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/tortino-di-pere-48495",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso tortino a base di pere, ricotta e uova, perfetto per lo svezzamento. Ricetta semplice e nutriente, ideale dai 12 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pasta sfoglia",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pere",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cannella",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Stendere la pasta sfoglia in uno stampo da plumcake.",
+      "Lavare e affettare le pere, disponendole sulla base di pasta.",
+      "Mescolare la ricotta con le uova, il latte e lo zucchero di canna.",
+      "Versare il composto di ricotta sulle pere.",
+      "Spolverare con la cannella.",
+      "Cuocere in forno a 180°C per circa 20-25 minuti fino a doratura."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "cereali-alla-frutta",
+    "title": "Cereali alla frutta",
+    "slug": "cereali-alla-frutta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente per l'inizio dello svezzamento. Perfetta per introdurre cereali e frutta nella dieta del neonato.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "risottino-ai-piselli",
+    "title": "Risottino ai piselli",
+    "slug": "risottino-ai-piselli",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/risottino-ai-piselli-30240",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso risottino a base di riso e piselli, perfetto per l'introduzione dei cereali nello svezzamento. Piatto nutriente, digeribile e dal sapore delicato adatto ai bambini da 8 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "piselli",
+        "quantity_raw": ""
+      },
+      {
+        "name": "riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cipolla",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio stagionato tipo grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Mondare i piselli freschi o scongelare quelli surgelati",
+      "Tritare finemente la cipolla",
+      "Rosolare la cipolla in olio extravergine d'oliva",
+      "Aggiungere il riso e tostarlo per pochi minuti",
+      "Versare acqua calda o brodo vegetale poco per volta",
+      "Mescolare costantemente e cuocere fino a quando il riso non sarà cremoso e ben cotto",
+      "Aggiungere i piselli durante la cottura",
+      "Finire con una grattugiata di formaggio stagionato e prezzemolo tritato"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "la-prima-insalata-di-riso",
+    "title": "La prima insalata di riso",
+    "slug": "la-prima-insalata-di-riso",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/07/insalata-riso.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/la-prima-insalata-di-riso-87342",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un'insalata leggera e colorata perfetta per introdurre i cereali in combinazione con verdure fresche. Ricetta ideale per il periodo dello svezzamento con ingredienti semplici e facilmente digeribili.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "piselli",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pomodorini",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere il riso in acqua bollente finché non è tenero",
+      "Lessare separatamente la carota e i piselli fino a renderli morbidi",
+      "Tagliare a piccoli pezzi la carota, i pomodorini e il basilico",
+      "Mescolare il riso cotto con le verdure in una ciotola",
+      "Condire con un filo d'olio e mescolare delicatamente",
+      "Servire tiepida o a temperatura ambiente"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "risotto-con-crema-di-carote",
+    "title": "Risotto con crema di carote",
+    "slug": "risotto-con-crema-di-carote",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/risotto-con-crema-di-carote-10635",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso risotto cremoso arricchito con carote frullate, perfetto per l'introduzione dei cereali nello svezzamento. Ricetta semplice e nutriente adatta dai 6 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "carote",
+        "quantity_raw": ""
+      },
+      {
+        "name": "riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio stagionato tipo grana",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e lavare le carote, tagliarle a pezzi e lessarle in acqua fino a renderle tenere",
+      "Frullare le carote lessate fino a ottenere una crema liscia e omogenea",
+      "In una pentola, scaldare l'olio extravergine d'oliva e aggiungere il riso",
+      "Tostare leggermente il riso, quindi aggiungere la crema di carote e il brodo di cottura delle carote",
+      "Cuocere il riso per il tempo necessario fino a completa cottura e cremosità",
+      "A fine cottura, aggiungere il formaggio stagionato grattugiato e mescolare bene"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "crema-di-patate-e-porri",
+    "title": "Crema di patate e porri",
+    "slug": "crema-di-patate-e-porri",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": {
+      "@type": "ImageObject",
+      "url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/01/crema-patate-e-porri.jpg",
+      "contentUrl": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/01/crema-patate-e-porri.jpg",
+      "width": "630",
+      "height": "315",
+      "name": "crema-patate-e-porri",
+      "caption": "Crema di patate e porri"
+    },
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "total_time_min": 30,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema delicata e nutriente a base di patate e porri, perfetta per lo svezzamento. Ricca di vitamine e minerali, facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "porro",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "medie",
+        "quantity_raw": "2 patate"
+      },
+      {
+        "name": "sedano",
+        "quantity_raw": "1 gambo"
+      },
+      {
+        "name": "brodo vegetale",
+        "quantity_raw": "250 ml"
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": "1 cucchiaio"
+      }
+    ],
+    "steps": [
+      "Lavare e pulire il porro, le patate e il sedano",
+      "Tagliare le patate a pezzi piccoli e il porro a rondelle sottili",
+      "Portare il brodo vegetale a ebollizione",
+      "Aggiungere le patate e il porro nel brodo caldo",
+      "Cuocere per circa 15-20 minuti fino a quando le verdure sono molto tenere",
+      "Frullare il composto fino a ottenere una crema liscia e omogenea",
+      "Aggiungere l'olio extravergine d'oliva e mescolare",
+      "Servire tiepida"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "risottino-con-i-frutti-di-bosco",
+    "title": "Risottino con i frutti di bosco",
+    "slug": "risottino-con-i-frutti-di-bosco",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/11/risottino-frutti-bosco.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/risottino-con-i-frutti-di-bosco-28881",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso risottino arricchito con frutti di bosco, perfetto per l'alimentazione dei bambini a partire dai 12 mesi. Ricetta semplice e nutriente che combina cereali e frutta fresca.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "frutti di bosco",
+        "quantity_raw": ""
+      },
+      {
+        "name": "riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "brodo vegetale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio stagionato tipo grana",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Portare il brodo vegetale a ebollizione in una pentola",
+      "Aggiungere il riso e lasciare cuocere mescolando frequentemente",
+      "A cottura quasi ultimata, aggiungere il latte e mescolare bene",
+      "Incorporare i frutti di bosco freschi o surgelati",
+      "Terminare con un filo di olio extravergine d'oliva e un pizzico di formaggio grattugiato",
+      "Lasciare intiepidire prima di servire al bambino"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crepes-di-ricotta-e-prezzemolo",
+    "title": "Crêpes di ricotta e prezzemolo",
+    "slug": "crepes-di-ricotta-e-prezzemolo",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/crepes-di-ricotta-e-prezzemolo-62369",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziose crêpes preparate con ricotta fresca e prezzemolo, perfette per lo svezzamento. Un piatto nutriente e facile da digerire per i bambini a partire dai 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "crêpes",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uovo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato tipo grana",
+        "quantity_raw": ""
+      },
+      {
+        "name": "noce moscata",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare le crêpes secondo la ricetta base",
+      "Mescolare la ricotta con l'uovo e il prezzemolo tritato finemente",
+      "Aggiungere il formaggio grattugiato e una leggera spolverata di noce moscata",
+      "Riempire ogni crêpe con il composto di ricotta",
+      "Arrotolare le crêpes e servire tiepide"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-di-zucchine-ai-semi",
+    "title": "Crema di zucchine ai semi",
+    "slug": "crema-di-zucchine-ai-semi",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema vellutata di zucchine arricchita con semi di sesamo e girasole, perfetta per l'introduzione di nuovi sapori. Ricetta semplice e nutriente, ideale per bambini dai 10 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "zucchine",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "brodo vegetale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "semi di sesamo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "semi di girasole",
+        "quantity_raw": ""
+      },
+      {
+        "name": "crostini",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulisci e taglia le zucchine a pezzetti",
+      "Cuoci le zucchine nel brodo vegetale fino a renderle morbide",
+      "Passare le zucchine con il brodo di cottura per ottenere una crema liscia",
+      "Aggiungi la farina di riso per dare consistenza",
+      "Tosta leggermente i semi di sesamo e girasole",
+      "Servi la crema in una ciotola, decora con i semi tostati e pezzi di crostini",
+      "Condisci con un filo di olio extravergine d'oliva"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "farina-di-riso-alla-pera",
+    "title": "Farina di riso alla pera",
+    "slug": "farina-di-riso-alla-pera",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/4-6-mesi-cibi/farina-di-riso-alla-pera-13139",
+    "prep_time_min": 5,
+    "cook_time_min": 5,
+    "total_time_min": 10,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente per lo svezzamento a partire dai 4 mesi. A base di farina di riso, latte e pera omogeneizzata, perfetta per i primi mesi di alimentazione complementare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "Latte di tipo 1 o 2",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Farina di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Omogeneizzato di pera o pera fresca",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Versare il latte in una pentola e portare a temperatura.",
+      "Aggiungere gradualmente la farina di riso mescolando continuamente per evitare grumi.",
+      "Cuocere a fuoco basso per 2-3 minuti mescolando.",
+      "Aggiungere l'omogeneizzato di pera o la pera fresca passata.",
+      "Mescolare bene fino a ottenere una consistenza omogenea e liscia.",
+      "Lasciar intiepidire prima di somministrare al bambino."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "muffin-con-salmone-norvegese-e-spinaci",
+    "title": "Muffin con Salmone Norvegese e spinaci",
+    "slug": "muffin-con-salmone-norvegese-e-spinaci",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/01/muffin-salati-con49afb7.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/muffin-salmone-norvegese-spinaci-36872",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi muffin salati a base di salmone norvegese e spinaci, perfetti per l'alimentazione dei bambini da 12 mesi. Una ricetta gustosa e nutriente per variare l'alimentazione durante lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "Salmone Norvegese",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Farina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Spinaci",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Sale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Bicarbonato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Lievito",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulisci e cuoci gli spinaci, quindi tritali finemente",
+      "Sbriciola il salmone norvegese, assicurandoti di rimuovere tutte le lische",
+      "In una ciotola, mescola la farina con il bicarbonato e il lievito",
+      "Aggiungi le uova e il latte, amalgamando bene gli ingredienti",
+      "Incorpora gli spinaci tritati e il salmone sbricicolato",
+      "Condisci con sale e olio extravergine d'oliva",
+      "Versa l'impasto negli stampi per muffin",
+      "Cuoci in forno fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "mousse-di-pollo-con-verdure",
+    "title": "Mousse di pollo con verdure",
+    "slug": "mousse-di-pollo-con-verdure",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/mousse-di-pollo_0.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/mousse-di-pollo-con-verdure-90251",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una mousse cremosa e delicata a base di pollo e verdure, perfetta per lo svezzamento. Ricca di proteine e nutrienti essenziali per la crescita del bambino.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "crocchette-di-patate-e-lenticchie",
+    "title": "Crocchette di patate e lenticchie",
+    "slug": "crocchette-di-patate-e-lenticchie",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/crocchette-patate-lenticchie-98674",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Crocchette croccanti a base di patate e lenticchie rosse, perfette per i bambini da 12 mesi. Un piatto nutriente, vegetariano e facile da mangiare con le mani.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lenticchie rosse",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sesamo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere le lenticchie rosse in acqua salata fino a renderle morbide.",
+      "Lessare le patate e schiacciarle fino a ottenere un puré.",
+      "Mescolare le lenticchie cotte con il puré di patate.",
+      "Formare piccole crocchette con il composto.",
+      "Passare le crocchette nel pangrattato e nel sesamo.",
+      "Cuocere in olio caldo fino a doratura oppure al forno a 180°C per 15-20 minuti."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "ragu-vegetale-di-lenticchie",
+    "title": "Ragù vegetale di lenticchie",
+    "slug": "ragu-vegetale-di-lenticchie",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/01/ragu-vegetale.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/ragu-vegetale-di-lenticchie-36498",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un ragù vegetale a base di lenticchie, ricco di proteine e fibre. Perfetto per lo svezzamento dai 10 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "muffin-all-arancia",
+    "title": "Muffin all'arancia",
+    "slug": "muffin-all-arancia",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://www.uppa.it/wp-content/uploads/2013/06/Muffin-arancia-1-720x413.jpg",
+    "source_site": "Uppa",
+    "source_url": "https://www.uppa.it/muffin-arancia/",
+    "prep_time_min": 0,
+    "cook_time_min": 18,
+    "total_time_min": 18,
+    "servings": 12,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un muffin all'arancia come alternativa gustosa alle merendine industriali, divertente da preparare insieme ai bambini. Perfetto per uno spuntino sano e appetitoso.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "non trattata di piccole dimensioni",
+        "quantity_raw": "1 arancia"
+      },
+      {
+        "name": "uova",
+        "quantity_raw": "2"
+      },
+      {
+        "name": "olio di girasole o di mais",
+        "quantity_raw": "75 cc"
+      },
+      {
+        "name": "zucchero",
+        "quantity_raw": "80 gr"
+      },
+      {
+        "name": "farina",
+        "quantity_raw": "200 gr"
+      },
+      {
+        "name": "mezza bustina di lievito per dolci",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare accuratamente l'arancia, tagliarla a pezzetti con tutta la buccia e metterla nel frullatore con l'olio fino a ottenere una poltiglia omogenea.",
+      "Trasferire la poltiglia in una ciotola, aggiungere lo zucchero e le uova, sbattere bene.",
+      "Setacciare la farina insieme al lievito e unirla al composto, mescolando delicatamente.",
+      "Distribuire l'impasto negli stampini piccoli da forno, riempiendo solo per 3/4 della capacita.",
+      "Infornare a 170 °C per 15-20 minuti fino a doratura.",
+      "Facoltativo: tuffare la parte alta dei muffin nel cioccolato fuso e decorare con strisce sottili di buccia d'arancia."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-di-grano-saraceno",
+    "title": "Crema di grano saraceno",
+    "slug": "crema-di-grano-saraceno",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema nutriente a base di grano saraceno, ideale per l'inizio dello svezzamento. Ricetta semplice e digeribile arricchita con verdure e formaggio.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "farina di grano saraceno",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte formulato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "basilico",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato tipo grana",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulisci e taglia a piccoli pezzi la patata e la carota",
+      "Cuoci le verdure in acqua o brodo fino a renderle molto tenere",
+      "Aggiungi la farina di grano saraceno e mescola bene",
+      "Versa il latte formulato e continua la cottura fino a ottenere una crema liscia",
+      "Aggiungi il basilico, un filo d'olio e il formaggio grattugiato",
+      "Frulla se necessario per ottenere la consistenza desiderata"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "polpettone-freddo-tonno-e-patate",
+    "title": "Polpettone freddo tonno e patate",
+    "slug": "polpettone-freddo-tonno-e-patate",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/07/polpettone-ricco.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/polpettone-freddo-tonno-e-patate-95014",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto proteico e nutriente a base di tonno e patate, perfetto per i bambini dai 12 mesi in su. Una ricetta facile e versatile da servire fredda.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "palombo-arrosto",
+    "title": "Palombo arrosto",
+    "slug": "palombo-arrosto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/palombo_arrosto_0.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/palombo-arrosto-68090",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un secondo piatto a base di pesce magro, perfetto per l'alimentazione del bambino dai 8 mesi. Il palombo arrosto è facile da digerire e ricco di proteine nobili.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "palombo-al-forno",
+    "title": "Palombo al forno",
+    "slug": "palombo-al-forno",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/08/palombo.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/palombo-al-forno-51406",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e delicato a base di pesce magro, perfetto per l'introduzione del pesce nella dieta del bambino. Cotto al forno in modo naturale per conservare tutti i nutrienti.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "crema-di-mais-e-tapioca-con-coniglio",
+    "title": "Crema di mais e tapioca con coniglio",
+    "slug": "crema-di-mais-e-tapioca-con-coniglio",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/11/crema-di-mais-e-tapioca-con-coniglio.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/crema-di-mais-e-tapioca-con-coniglio-50361",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema delicata a base di mais e tapioca arricchita con coniglio tenero, perfetta per lo svezzamento. Ricetta semplice e nutriente adatta ai bambini da 6 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "uova-ragnetto",
+    "title": "Uova Ragnetto",
+    "slug": "uova-ragnetto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/10/uova-ragno.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/uova-ragnetto-67713",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto divertente e creativo a base di uova sode decorate con olive per sembrare piccoli ragni. Perfetto per introdurre le uova nell'alimentazione dei bambini dai 18 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "maionese",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olive",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Bollire le uova fino a renderle sode",
+      "Lasciar raffreddare e sgusciarle",
+      "Tagliare le uova a metà e rimuovere il tuorlo",
+      "Preparare un composto con tuorlo, maionese, limone e sale",
+      "Riempire le metà di albume con il composto",
+      "Decorare con olive tagliate a pezzi per formare le zampe del ragnetto"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "minestra-di-lenticchie-rosse",
+    "title": "Minestra di lenticchie rosse",
+    "slug": "minestra-di-lenticchie-rosse",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/09/crema-lenticchie.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/minestra-di-lenticchie-rosse-32343",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una minestra nutriente e facilmente digeribile a base di lenticchie rosse, perfetta per l'alimentazione dei bambini a partire dai 10 mesi. Ricca di proteine vegetali e ferro.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "platessa-al-pomodoro",
+    "title": "Platessa al pomodoro",
+    "slug": "platessa-al-pomodoro",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e leggero a base di pesce bianco e pomodoro, perfetto per l'introduzione del pesce nell'alimentazione del bambino. Ricetta delicata e facilmente digeribile.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "fantasmini-di-pancake",
+    "title": "Fantasmini di Pancake",
+    "slug": "fantasmini-di-pancake",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/10/fantasmini-di-pancake.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/fantasmini-di-pancake-36001",
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "total_time_min": 35,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi pancake a forma di fantasmini, perfetti per il svezzamento da 12 mesi. Una ricetta divertente e golosa che piace ai bambini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "uova",
+        "quantity_raw": "2"
+      },
+      {
+        "name": "yogurt",
+        "quantity_raw": "100 ml"
+      },
+      {
+        "name": "farina",
+        "quantity_raw": "150 g"
+      },
+      {
+        "name": "zucchero",
+        "quantity_raw": "1 cucchiaio"
+      },
+      {
+        "name": "olio di girasole",
+        "quantity_raw": "2 cucchiai"
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": "1 cucchiaino"
+      },
+      {
+        "name": "gocce di cioccolato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "marmellata",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Mescola le uova con lo yogurt in una ciotola",
+      "Aggiungi la farina, lo zucchero e il lievito, mescolando bene",
+      "Aggiungi l'olio di girasole e mescola fino a ottenere un impasto liscio",
+      "Riscalda una padella antiaderente a fuoco medio",
+      "Versa piccole porzioni di impasto per creare i pancake",
+      "Cuoci per 2-3 minuti per lato fino a doratura",
+      "Lascia raffreddare e decora con gocce di cioccolato per gli occhi e marmellata per la bocca",
+      "Servi tiepidi o a temperatura ambiente"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "mini-souffle-di-fave",
+    "title": "Mini soufflé di fave",
+    "slug": "mini-souffle-di-fave",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/05/mini-souffle-di-fave.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/mini-souffle-di-fave-11091",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso soufflé di fave perfetto per lo svezzamento a partire dai 12 mesi. Ricetta di media difficoltà con ingredienti semplici e nutrienti.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "fave",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte intero",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "noce moscata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere le fave fino a renderle morbide",
+      "Frullare le fave cotte con il latte intero",
+      "Aggiungere la farina di riso e mescolare bene",
+      "Incorporare i tuorli d'uovo e un pizzico di noce moscata",
+      "Montare gli albumi a neve e aggiungere delicatamente al composto",
+      "Versare in uno stampo imburrato e cuocere in forno fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "cornetti-di-sfoglia",
+    "title": "Cornetti di sfoglia",
+    "slug": "cornetti-di-sfoglia",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/cornetto.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/cornetti-di-sfoglia-94349",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziosi cornetti di sfoglia adatti ai bambini a partire dai 12 mesi. Una ricetta semplice e appetitosa perfetta per la merenda o la colazione.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "frittata-di-zucchine-e-piselli-senza-uova",
+    "title": "Frittata di zucchine e piselli senza uova",
+    "slug": "frittata-di-zucchine-e-piselli-senza-uova",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/frittata-di-zucchine-e-piselli-senza-uova-50857",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una frittata senza uova a base di zucchine e piselli, perfetta per l'alimentazione dei bambini da 10 mesi. Ricetta leggera e nutriente, facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "crema-di-castagne",
+    "title": "Crema di castagne",
+    "slug": "crema-di-castagne",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/11/cream-castagne.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/crema-di-castagne-49489",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema vellutata e nutriente a base di castagne, perfetta per l'introduzione di nuovi sapori. Ricca di carboidrati e minerali, ideale per bambini da 12 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "castagne",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "scalogno",
+        "quantity_raw": ""
+      },
+      {
+        "name": "rosmarino",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prezzemolo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e sbucciare le castagne",
+      "Tagliare le patate e lo scalogno a pezzi",
+      "Cuocere castagne, patate e scalogno in acqua con rosmarino fino a quando siano teneri",
+      "Frullare il tutto fino a ottenere una crema liscia e omogenea",
+      "Aggiustare di sale e finire con un filo d'olio extravergine d'oliva e prezzemolo fresco"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "torta-di-melanzane",
+    "title": "Torta di melanzane",
+    "slug": "torta-di-melanzane",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/ricette_tortadimelenzane.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/torta-di-melanzane-13625",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente a base di melanzane, perfetta per l'introduzione di verdure durante lo svezzamento. Ideale per bambini da 10 mesi in su.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "filetto-di-nasello-con-le-verdure",
+    "title": "Filetto di nasello con le verdure",
+    "slug": "filetto-di-nasello-con-le-verdure",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/04/filetto-di-nasello-con-verdure.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/filetto-di-nasello-con-le-verdure-41769",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto proteico a base di pesce magro perfetto per lo svezzamento. Il nasello è delicato e facilmente digeribile, accompagnato da verdure fresche.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "sorbetto-alle-fragole",
+    "title": "Sorbetto alle fragole",
+    "slug": "sorbetto-alle-fragole",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/07/sorbetto-di-fragola.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/sorbetto-alle-fragole-63348",
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un dolce gelato a base di fragole fresche, perfetto per i bambini da 12 mesi. Ricetta semplice e rinfrescante ideale per l'estate.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "fragole",
+        "quantity_raw": ""
+      },
+      {
+        "name": "acqua",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero",
+        "quantity_raw": ""
+      },
+      {
+        "name": "albume",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare le fragole e frullarle fino a ottenere una purea liscia",
+      "Aggiungere l'acqua e lo zucchero, mescolando bene",
+      "Incorporare delicatamente l'albume montato a neve",
+      "Versare il composto in una ciotola e riporre in congelatore",
+      "Mescolare ogni 30 minuti per circa 2-3 ore fino a raggiungere la consistenza desiderata",
+      "Aggiungere qualche goccia di limone per esaltare il sapore"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "ciambella-integrale-allo-yogurt",
+    "title": "Ciambella integrale allo yogurt",
+    "slug": "ciambella-integrale-allo-yogurt",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una soffice ciambella integrale perfetta per lo svezzamento, arricchita con yogurt bianco e olio di semi. Ricetta facile e nutriente adatta ai bambini dai 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "farina integrale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina 00",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "yogurt bianco",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio di semi",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Mescola le farine integrali e 00 con lo zucchero di canna in una ciotola",
+      "Aggiungi le uova e lo yogurt bianco, mescolando bene",
+      "Incorpora l'olio di semi e il lievito",
+      "Versa l'impasto in uno stampo per ciambella leggermente unta",
+      "Cuoci in forno a 180°C fino a doratura"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pasticcio-di-broccoli",
+    "title": "Pasticcio di broccoli",
+    "slug": "pasticcio-di-broccoli",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto completo e nutriente a base di broccoli, uova e formaggio. Perfetto per lo svezzamento a partire dai 10 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "broccoli",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte di proseguimento",
+        "quantity_raw": ""
+      },
+      {
+        "name": "crema di mais e tapioca",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e cuocere i broccoli fino a renderli teneri.",
+      "Frullare i broccoli insieme al latte di proseguimento.",
+      "Unire le uova, la crema di mais e tapioca e il formaggio grattugiato.",
+      "Trasferire il composto in una pirofila oliata.",
+      "Cuocere in forno a 180°C fino a doratura in superficie."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "cornetti-alle-olive",
+    "title": "Cornetti alle olive",
+    "slug": "cornetti-alle-olive",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/08/cornetti.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/cornetti-alle-olive-35554",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Cornetti salati alle olive perfetti per l'alimentazione del bambino a partire dai 12 mesi. Una ricetta ricca di sapore e adatta alle prime esperienze con cibi più complessi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "spaghettini-con-i-broccoli",
+    "title": "Spaghettini con i broccoli",
+    "slug": "spaghettini-con-i-broccoli",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/07/spagheti-con-i-broccoli.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/spaghettini-con-i-broccoli-45105",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente a base di spaghettini e broccoli, perfetta per lo svezzamento. Ricca di vitamine e fibre, facile da digerire per i bambini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "passato-di-borlotti",
+    "title": "Passato di borlotti",
+    "slug": "passato-di-borlotti",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/10/passato-di-fagioli.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutritivo e facile da preparare, perfetto per l'alimentazione complementare del bambino. Ricco di proteine vegetali e fibre.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "torta-coniglietto",
+    "title": "Torta coniglietto",
+    "slug": "torta-coniglietto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una simpatica torta a forma di coniglietto perfetta per i bambini a partire dai 12 mesi. Una ricetta divertente e appetitosa per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "stelline-di-miglio",
+    "title": "Stelline di miglio",
+    "slug": "stelline-di-miglio",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/02/stelle-di-farro.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/stelline-di-miglio-79995",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente a base di miglio perfetto per l'alimentazione dei bambini a partire dai 12 mesi. Le stelline sono facili da masticare e digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "purea-di-ceci-con-verdure",
+    "title": "Purea di ceci con verdure",
+    "slug": "purea-di-ceci-con-verdure",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta nutriente e facile da digerire per lo svezzamento. Perfetta per introdurre i legumi e le verdure nell'alimentazione del bambino.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "muffin-integrale-ai-mirtilli",
+    "title": "Muffin integrale ai mirtilli",
+    "slug": "muffin-integrale-ai-mirtilli",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Dolcetti integrali arricchiti con mirtilli, perfetti per lo svezzamento. Una ricetta sana e gustosa adatta dai 12 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "farina integrale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina di mandorle",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mirtilli",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero a velo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare gli ingredienti secchi: mescolare la farina integrale e la farina di mandorle.",
+      "In una ciotola, sbattere le uova con lo zucchero a velo fino a renderlo omogeneo.",
+      "Aggiungere il burro fuso agli ingredienti liquidi.",
+      "Incorporare delicatamente gli ingredienti secchi al composto liquido.",
+      "Aggiungere i mirtilli e la scorza di limone grattugiata.",
+      "Versare l'impasto negli stampi per muffin.",
+      "Cuocere a 180°C fino a doratura (circa 20-25 minuti).",
+      "Lasciar raffreddare completamente prima di servire."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-con-erbette-e-ricotta",
+    "title": "Crema con erbette e ricotta",
+    "slug": "crema-con-erbette-e-ricotta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/03/crema-con-erbette-e-formaggio-640x480.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/crema-con-erbette-e-ricotta-25716",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema delicata a base di erbette e ricotta, perfetta per lo svezzamento. Ricca di nutrienti e facilmente digeribile per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "serpentelli-di-patate-e-zucca",
+    "title": "Serpentelli di patate e zucca",
+    "slug": "serpentelli-di-patate-e-zucca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2015/03/serpentelli-patate-zucca.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/serpentelli-di-patate-e-zucca-38464",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta sfiziosa a base di patate e zucca, perfetta per lo svezzamento. Piatto nutriente e facile da preparare per i più piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucca",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "alloro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato tipo grana",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare e sbucciare le patate e la zucca",
+      "Tagliare gli ingredienti a pezzi e cuocere in acqua con una foglia di alloro fino a renderli molto teneri",
+      "Scolare bene e schiacciare con una forchetta per ottenere un impasto omogeneo",
+      "Aggiungere la ricotta e mescolare bene",
+      "Formare i serpentelli allungati e servirli con un filo d'olio extravergine di oliva e formaggio grattugiato"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "prima-pappa-con-coniglio",
+    "title": "Prima pappa con coniglio",
+    "slug": "prima-pappa-con-coniglio",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/01/prima-pappa-con-coniglio.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/4-6-mesi-cibi/prima-pappa-con-coniglio-56583",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una delicata pappa a base di crema di riso e coniglio, perfetta per iniziare lo svezzamento. Ricca di verdure fresche e proteine leggere, ideale dai 6 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "crema di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carota",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "coniglio",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulisci e taglia a pezzetti la carota, la patata e la zucchina",
+      "Cuoci le verdure in acqua fino a renderle molto tenere",
+      "Cuoci il coniglio separatamente fino a cottura completa",
+      "Frulla le verdure e il coniglio cotto insieme fino a ottenere una pappa liscia",
+      "Aggiungi la crema di riso e mescola bene",
+      "Versa un filo di olio extravergine d'oliva e servi tiepida"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "mousse-di-albicocca",
+    "title": "Mousse di albicocca",
+    "slug": "mousse-di-albicocca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una mousse delicata e nutriente a base di albicocche e ricotta, perfetta per lo svezzamento. Ricca di vitamine e dal sapore dolce naturale.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "albicocche",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "miele",
+        "quantity_raw": ""
+      },
+      {
+        "name": "cacao amaro",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulisci le albicocche e rimuovi il nocciolo",
+      "Frulla le albicocche con la ricotta fino a ottenere un composto omogeneo",
+      "Aggiungi il miele e mescola delicatamente",
+      "Servi la mousse in una ciotola e cospargila con un pizzico di cacao amaro se gradito"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "zucchine-gratinate",
+    "title": "Zucchine gratinate",
+    "slug": "zucchine-gratinate",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/zucchine-gratinate",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un contorno delizioso e nutriente a base di zucchine, perfetto per l'inizio dello svezzamento. Ricetta semplice e versatile per introdurre le verdure nella dieta del bambino.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "finta-carbonara-baby",
+    "title": "Finta carbonara baby",
+    "slug": "finta-carbonara-baby",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2018/04/finta-carbonara.jpeg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/finta-carbonara-baby-29005",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una versione delicata della classica carbonara adatta ai bambini a partire dai 10 mesi. Ricetta semplice e nutriente per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "crema-di-riso-all-uovo",
+    "title": "Crema di riso all'uovo",
+    "slug": "crema-di-riso-all-uovo",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/crema-di-riso-alluovo-10186",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema delicata a base di riso e uovo, perfetta per l'introduzione delle proteine durante lo svezzamento. Ricca di nutrienti e facile da digerire per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [
+      {
+        "name": "crema di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "carote",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere le patate e le carote fino a renderle morbide",
+      "Preparare la crema di riso secondo le istruzioni sulla confezione",
+      "Aggiungere le verdure cotte alla crema di riso",
+      "Incorporare l'uovo cotto e aggiungere olio extravergine d'oliva",
+      "Mescolare bene e servire tiepida"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "yogurt-alla-zucca",
+    "title": "Yogurt alla zucca",
+    "slug": "yogurt-alla-zucca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/11/yogurt-alla-zucca.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/yogurt-alla-zucca-49106",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e nutriente a base di yogurt e zucca, perfetta per l'inizio dello svezzamento. Ricca di vitamine e dal sapore dolce naturale.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "zuppa-con-verdure",
+    "title": "Zuppa con verdure",
+    "slug": "zuppa-con-verdure",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/07/svezzamento_zuppa_con_verdure.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/4-6-mesi-cibi/zuppa-con-verdure-89561",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una zuppa semplice e nutriente ideale per l'inizio dello svezzamento. Ricetta facile da preparare con verdure fresche.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crespella-al-pomodoro",
+    "title": "Crespella al pomodoro",
+    "slug": "crespella-al-pomodoro",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/07/crepe-al-pomodoro-.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/crespella-al-pomodoro-41094",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta semplice e gustosa a base di crespelle ripiene di pomodoro, perfetta per l'alimentazione del bambino da 12 mesi. Facile da preparare e ricca di nutrienti.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "passato-di-piattoni",
+    "title": "Passato di piattoni",
+    "slug": "passato-di-piattoni",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/05/passato-di-piattoni.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/passato-di-piattoni-71724",
+    "prep_time_min": 5,
+    "cook_time_min": 25,
+    "total_time_min": 30,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto delicato e nutriente a base di piattoni verdi e bianchi, perfetto per lo svezzamento. Ricco di vitamine e facilmente digeribile per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "piattoni verdi e bianchi",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prosciutto cotto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare accuratamente i piattoni verdi e bianchi",
+      "Lessare i piattoni in acqua per circa 15-20 minuti fino a renderli molto teneri",
+      "Aggiungere il prosciutto cotto e cuocere ancora per 5 minuti",
+      "Passare il tutto al setaccio o con un frullatore a immersione fino a ottenere una consistenza liscia e cremosa",
+      "Aggiustare con un filo di olio extravergine d'oliva e servire"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "pappa-zucchine-e-taleggio",
+    "title": "Pappa zucchine e taleggio",
+    "slug": "pappa-zucchine-e-taleggio",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2020/06/pappataleggio.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/pappa-zucchine-e-taleggio-26571",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta delicata a base di zucchine e taleggio, perfetta per iniziare lo svezzamento. Ricca di verdure e formaggio cremoso.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "frullato-estivo",
+    "title": "Frullato estivo",
+    "slug": "frullato-estivo",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/07/frullato-estivo.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/frullato-estivo-67299",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un frullato rinfrescante e nutriente perfetto per i bambini durante lo svezzamento. Ideale per le giornate calde estive.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "torta-di-polenta",
+    "title": "Torta di polenta",
+    "slug": "torta-di-polenta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una ricetta a base di polenta adatta ai bambini dai 10 mesi in su. Piatto nutriente e facile da preparare con difficoltà media.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "crocchette-di-carne",
+    "title": "Crocchette di carne",
+    "slug": "crocchette-di-carne",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/04/crocchette-di-carne.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/crocchette-di-carne-94020",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta semplice e nutriente di crocchette di carne adatta allo svezzamento. Piatto facile da preparare e perfetto per i bambini da 10 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "stoccafisso-norvegese-in-crosta-di-patate",
+    "title": "Stoccafisso Norvegese in crosta di patate",
+    "slug": "stoccafisso-norvegese-in-crosta-di-patate",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/02/stoccafisso.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/stoccafisso-norvegese-crosta-patate-69457",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente a base di stoccafisso norvegese ricoperto di una crosta croccante di patate. Ricetta semplice e digeribile ideale per lo svezzamento dai 12 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "Stoccafisso Norvegese",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Patate",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Rosmarino",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Maggiorana",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare lo stoccafisso norvegese secondo le indicazioni di cottura",
+      "Lessare le patate fino a renderle tenere",
+      "Schiacciare le patate cotte e mescolarle con olio extravergine d'oliva, rosmarino e maggiorana",
+      "Disporre lo stoccafisso in una teglia e coprirlo con la crosta di patate",
+      "Cuocere in forno fino a ottenere una crosta dorata"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "tortino-agli-spinaci-e-ricotta",
+    "title": "Tortino agli spinaci e ricotta",
+    "slug": "tortino-agli-spinaci-e-ricotta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/tortino-agli-spinaci-ricotta",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un tortino soffice e nutriente a base di spinaci e ricotta, perfetto per l'alimentazione dei bambini a partire dai 12 mesi. Ricco di proteine e verdure, facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "spinaci",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte",
+        "quantity_raw": ""
+      },
+      {
+        "name": "burro",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prosciutto cotto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "sale",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e lavare gli spinaci, quindi cuocerli in poca acqua salata per circa 5 minuti",
+      "Scolare bene gli spinaci e tritarli finemente",
+      "In una ciotola mescolare la ricotta con le uova, aggiungere il latte e mescolare bene",
+      "Incorporare gli spinaci tritati, il prosciutto cotto tagliato a dadini e il sale",
+      "Versare il composto in uno stampo imburrato",
+      "Cuocere in forno a 180°C per circa 20-25 minuti fino a quando il tortino risulta dorato"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "torta-di-mele-leggera",
+    "title": "Torta di mele leggera",
+    "slug": "torta-di-mele-leggera",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/09/torta-di-mele-leggera.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/torta-di-mele-leggera-46200",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una torta leggera e digeribile a base di mele, perfetta per i bambini a partire dai 12 mesi. Ricetta semplice e facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "gelatine-di-fragole",
+    "title": "Gelatine di fragole",
+    "slug": "gelatine-di-fragole",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/06/gelatine-di-fragole.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/gelatine-di-fragole-41993",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un dolce gelato a base di fragole fresche, perfetto per i bambini a partire dai 12 mesi. Una ricetta semplice e rinfrescante per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "fragole",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna integrale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone",
+        "quantity_raw": ""
+      },
+      {
+        "name": "gelatina vegetale",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare la gelatina vegetale seguendo le istruzioni sulla confezione",
+      "Pulire e frullare le fragole fresche",
+      "Aggiungere lo zucchero di canna integrale e il succo di limone alle fragole",
+      "Incorporare il composto di fragole nella gelatina preparata",
+      "Versare il composto in stampi o bicchierini",
+      "Refrigerare fino a completa solidificazione"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "mais-con-tacchino",
+    "title": "Mais con tacchino",
+    "slug": "mais-con-tacchino",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/mais-con-tacchino-25830",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente e facile da preparare, perfetto per l'inizio dello svezzamento. Combina mais e tacchino, due ingredienti delicati e digeribili per i neonati.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "petto-di-pollo-al-limone",
+    "title": "Petto di pollo al limone",
+    "slug": "petto-di-pollo-al-limone",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/03/petto-di-pollo-al-limone.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/petto-di-pollo-al-limone-59067",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto proteico e leggero perfetto per l'alimentazione del bambino dopo i 12 mesi. A base di petto di pollo tenero condito al limone.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "maccheroni-alle-zucchine",
+    "title": "Maccheroni alle zucchine",
+    "slug": "maccheroni-alle-zucchine",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/08/maccheroncini.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/maccheroncini-alle-zucchine-20884",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente a base di pasta e zucchine, perfetto per l'introduzione di nuovi sapori durante lo svezzamento. Ricetta leggera e digeribile adatta ai bambini da 10 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "sformato-con-uovo-al-formaggio",
+    "title": "Sformato con uovo al formaggio",
+    "slug": "sformato-con-uovo-al-formaggio",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/05/sformato-uovo-e-formaggio.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/sformato-con-uovo-al-formaggio-38840",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Uno sformato proteico e gustoso a base di uovo e formaggio, perfetto per i bambini oltre i 12 mesi. Un piatto nutriente e facile da digerire, ideale per variare l'alimentazione dello svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "mousse-di-pesce-e-verdure",
+    "title": "Mousse di pesce e verdure",
+    "slug": "mousse-di-pesce-e-verdure",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/12/dscf9607.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/mousse-di-pesce-e-verdure-23946",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una mousse delicata a base di pesce e verdure, perfetta per l'inizio dello svezzamento. Ricca di proteine e nutrienti essenziali per la crescita del bambino.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "crema-di-riso-e-albicocca",
+    "title": "Crema di riso e albicocca",
+    "slug": "crema-di-riso-e-albicocca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un dolce e nutriente piatto di svezzamento a base di riso e albicocche. Perfetto per i bambini a partire dagli 8 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "albicocche",
+        "quantity_raw": ""
+      },
+      {
+        "name": "latte formulato",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere il riso in acqua o brodo fino a renderlo molto tenero",
+      "Aggiungere le albicocche tagliate finemente o già frullate",
+      "Mescolare bene e aggiungere il latte formulato fino a raggiungere la consistenza desiderata",
+      "Frullare il tutto fino a ottenere una crema liscia e omogenea",
+      "Servire tiepido"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "pappa-con-fagiolini",
+    "title": "Pappa con fagiolini",
+    "slug": "pappa-con-fagiolini",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una pappa delicata e nutriente perfetta per lo svezzamento dai 8 mesi. Combina fagiolini teneri, brodo vegetale e cereali in una preparazione facile e leggera.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "Fagiolini",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Brodo vegetale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Crema di riso",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Prosciutto cotto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire i fagiolini e tagliarli a pezzetti piccoli",
+      "Far cuocere i fagiolini nel brodo vegetale fino a renderli molto teneri",
+      "Aggiungere la crema di riso al brodo con i fagiolini",
+      "Mescolare bene e far cuocere a fuoco basso per ottenere una pappa cremosa",
+      "Aggiungere il prosciutto cotto finemente tritato",
+      "Finire con un filo di olio extravergine d'oliva e servire tiepida"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "puntine-in-brodo-vegetale",
+    "title": "Puntine in brodo vegetale",
+    "slug": "puntine-in-brodo-vegetale",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente ideale per lo svezzamento. Pasta in brodo vegetale perfetto per i bambini a partire dai 6 mesi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "budino-alle-albicocche",
+    "title": "Budino alle albicocche",
+    "slug": "budino-alle-albicocche",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/06/albicocche.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/budino-alle-albicocche-96237",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso budino a base di albicocche, perfetto per lo svezzamento. Ricetta semplice e nutriente adatta ai bambini da 12 mesi in su.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "panini-farciti-al-latte",
+    "title": "Panini farciti al latte",
+    "slug": "panini-farciti-al-latte",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/02/svezzamento_panini_al_latte.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/panini-farciti-al-latte-82432",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta semplice e veloce ideale per lo svezzamento da 12 mesi. Panini morbidi farciti al latte, perfetti per i primi assaggi del bambino.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "purea-di-riso-con-ricotta",
+    "title": "Purea di riso con ricotta",
+    "slug": "purea-di-riso-con-ricotta",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente e delicato perfetto per lo svezzamento, a base di riso integrale e ricotta cremosa. Ricco di proteine e carboidrati facilmente digeribili per i piccoli.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [
+      {
+        "name": "riso integrale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "ricotta",
+        "quantity_raw": ""
+      },
+      {
+        "name": "brodo vegetale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio grattugiato",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere il riso integrale nel brodo vegetale secondo i tempi indicati sulla confezione",
+      "Quando il riso è cotto e tenero, aggiungere la ricotta e mescolare bene",
+      "Aggiungere il formaggio grattugiato e un filo d'olio extravergine d'oliva",
+      "Frullare il tutto fino a ottenere una purea omogenea e cremosa",
+      "Servire tiepido"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "ghiaccioli-lamponi-e-yogurt",
+    "title": "Ghiaccioli Lamponi e Yogurt",
+    "slug": "ghiaccioli-lamponi-e-yogurt",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/07/ghiaccioli-lampone-yogurt.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/ghiaccioli-lamponi-yogurt-27647",
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ghiaccioli freschi e golosi a base di lamponi e yogurt greco, perfetti per i bambini a partire dai 12 mesi. Una merenda estiva sana e nutriente.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "lamponi",
+        "quantity_raw": ""
+      },
+      {
+        "name": "yogurt greco",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero a velo",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero di canna",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Frulla i lamponi con lo yogurt greco",
+      "Aggiungi lo zucchero a velo e lo zucchero di canna",
+      "Versa il composto negli stampi per ghiaccioli",
+      "Congela per almeno 4-6 ore fino a completa solidificazione",
+      "Estrai gli ghiaccioli e servi"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "semini-con-carne",
+    "title": "Semini con carne",
+    "slug": "semini-con-carne",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/08/semini.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/semini-con-carne-45813",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutritivo a base di semini e carne, perfetto per bambini dai 10 mesi in poi. Una ricetta facile da preparare che combina cereali e proteine.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "tortino-di-sogliola-e-patate",
+    "title": "Tortino di sogliola e patate",
+    "slug": "tortino-di-sogliola-e-patate",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/05/tortino-di-sogliola-e-patate.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/tortino-di-sogliola-e-patate-64576",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso tortino a base di sogliola e patate, perfetto per il periodo dello svezzamento. Un piatto nutriente e completo che introduce il pesce bianco nella dieta del bambino.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "torta-soffice-all-arancia",
+    "title": "Torta soffice all'arancia",
+    "slug": "torta-soffice-all-arancia",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una torta morbida e profumata all'arancia, perfetta per lo svezzamento dopo i 12 mesi. Ricca di frutta e semplice da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "uova",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero",
+        "quantity_raw": ""
+      },
+      {
+        "name": "farina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lievito",
+        "quantity_raw": ""
+      },
+      {
+        "name": "arance",
+        "quantity_raw": ""
+      },
+      {
+        "name": "marmellata di arancia",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchero a velo",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Sbatti le uova con lo zucchero fino a ottenere un composto chiaro e spumoso.",
+      "Aggiungi la farina e il lievito, mescolando delicatamente.",
+      "Incorpora la scorza grattugiata delle arance e la marmellata di arancia.",
+      "Versa il composto in una teglia imburrata e infarina.",
+      "Cuoci in forno pre-riscaldato a 180°C fino a quando una stuzzicadenti inserito al centro esce asciutto.",
+      "Sforna e lascia raffreddare, quindi spolverizza con zucchero a velo."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pasta-alle-melanzane",
+    "title": "Pasta alle melanzane",
+    "slug": "pasta-alle-melanzane",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un primo piatto semplice e nutriente a base di pasta e melanzane, perfetto per l'introduzione di nuovi sapori durante lo svezzamento. Ricetta delicata e facile da preparare per i bambini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "tortini-con-mozzarella-e-mela",
+    "title": "Tortini con mozzarella e mela",
+    "slug": "tortini-con-mozzarella-e-mela",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2019/04/tortini-pasta-sfoglia.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/tortini-con-mozzarella-e-mela-45397",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Delicious savory-sweet tarts made with puff pastry, mozzarella and apples. Perfect for introducing new flavors during weaning from 12 months.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pasta sfoglia",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mele",
+        "quantity_raw": ""
+      },
+      {
+        "name": "mozzarella",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "rosmarino",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Preparare la pasta sfoglia e tagliarla in forme rotonde per i tortini",
+      "Lavare e pelre le mele, tagliarle a fettine sottili",
+      "Disporre le fettine di mela sulla pasta sfoglia",
+      "Aggiungere pezzi di mozzarella sopra le mele",
+      "Condire leggermente con olio extravergine d'oliva e un pizzico di rosmarino",
+      "Cuocere in forno a 180°C fino a quando la pasta risulta dorata"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "involtini-con-prosciutto-e-lattuga",
+    "title": "Involtini con prosciutto e lattuga",
+    "slug": "involtini-con-prosciutto-e-lattuga",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/involtini-con-prosciutto-e-lattuga-36109",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Involtini appetitosi e facili da preparare per i bambini a partire dai 10 mesi. Una ricetta semplice e nutriente con prosciutto e lattuga.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "pollo-in-insalata",
+    "title": "Pollo in insalata",
+    "slug": "pollo-in-insalata",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/03/pollo-in-insalata.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/pollo-in-insalata-36981",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto leggero e nutriente a base di pollo perfetto per l'alimentazione dei bambini dai 12 mesi in su. Facile da preparare e ricco di proteine.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-vegetale-con-prosciutto",
+    "title": "Crema vegetale con prosciutto",
+    "slug": "crema-vegetale-con-prosciutto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/4-6-mesi-cibi/crema-vegetale-con-prosciutto-59546",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema delicata a base di verdure fresche e prosciutto cotto, arricchita con cereali. Perfetta per l'inizio dello svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "lattuga",
+        "quantity_raw": ""
+      },
+      {
+        "name": "zucchina",
+        "quantity_raw": ""
+      },
+      {
+        "name": "patata",
+        "quantity_raw": ""
+      },
+      {
+        "name": "crema multicereali",
+        "quantity_raw": ""
+      },
+      {
+        "name": "prosciutto cotto",
+        "quantity_raw": ""
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e lavare accuratamente la lattuga, la zucchina e la patata",
+      "Tagliare le verdure in piccoli pezzi",
+      "Cuocere in acqua bollente fino a quando le verdure sono tenere",
+      "Frullare le verdure cotte insieme al brodo di cottura",
+      "Aggiungere la crema multicereali e mescolare bene",
+      "Tagliare finemente il prosciutto cotto e incorporarlo alla crema",
+      "Aggiungere un filo di olio extravergine d'oliva e servire"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "verdure-allo-yogurt",
+    "title": "Verdure allo yogurt",
+    "slug": "verdure-allo-yogurt",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/07/verdure-con-yogurt.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/6-8-mesi-cibi/verdure-allo-yogurt-59521",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente perfetto per l'inizio dello svezzamento. Verdure tenere abbinate allo yogurt per un pasto completo e delicato.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 6,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 6,
+      "min_age_amber": 6,
+      "amber_note": "Adatta dai 6 mesi.",
+      "red_note": "Adatta dai 6 mesi."
+    }
+  },
+  {
+    "id": "crocchette-di-pesce",
+    "title": "Crocchette di pesce",
+    "slug": "crocchette-di-pesce",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/11/crocchette-di-pesce.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/crocchette-di-pesce-20221",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Deliziose crocchette di pesce ideali per lo svezzamento a partire dai 12 mesi. Un piatto nutriente e gustoso che piace ai bambini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "stecchi-alla-pesca",
+    "title": "Stecchi alla pesca",
+    "slug": "stecchi-alla-pesca",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/08/stecchi-pesca.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/stecchi-alla-pesca-44268",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Ricetta semplice e golosa di stecchi alla pesca, perfetta per l'alimentazione dei bambini a partire dai 12 mesi. Un dolce naturale e facile da afferrare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "pesche",
+        "quantity_raw": ""
+      },
+      {
+        "name": "limone",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Lavare le pesche sotto acqua corrente",
+      "Tagliare le pesche a metà e togliere il nocciolo",
+      "Infilare le metà di pesca su stecchi di legno",
+      "Spruzzare con qualche goccia di limone per evitare l'ossidazione",
+      "Servire fresco ai bambini"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "crema-di-lenticchie-gialle",
+    "title": "Crema di lenticchie gialle",
+    "slug": "crema-di-lenticchie-gialle",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/crema-di-lenticchie-gialle-83830",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una crema nutriente a base di lenticchie gialle, perfetta per lo svezzamento dai 8 mesi. Ricca di proteine vegetali e facile da digerire.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [
+      {
+        "name": "Lenticchie gialle",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Brodo vegetale",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Olio extravergine d'oliva",
+        "quantity_raw": ""
+      },
+      {
+        "name": "Bicarbonato",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Sciacquare le lenticchie gialle sotto acqua fredda",
+      "Cuocere le lenticchie nel brodo vegetale fino a completa cottura",
+      "Frullare le lenticchie cotte aggiungendo un pizzico di bicarbonato per facilitare la digestione",
+      "Aggiungere l'olio extravergine d'oliva e amalgamare bene",
+      "Servire tiepida ai bambini"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "riso-pilaf-alle-erbe-aromatiche",
+    "title": "Riso pilaf alle erbe aromatiche",
+    "slug": "riso-pilaf-alle-erbe-aromatiche",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/09/riso-alle-erbe-aromatiche_0.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/riso-pilaf-alle-erbe-aromatiche-30663",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un delizioso riso pilaf alle erbe aromatiche perfetto per i bambini a partire dai 12 mesi. Una ricetta semplice e nutriente che introduce nuovi sapori durante lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "il-primo-spezzatino",
+    "title": "Il primo spezzatino",
+    "slug": "il-primo-spezzatino",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2013/08/spezzatino-di-vitello.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/il-primo-spezzatino-51056",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un primo piatto nutriente e delicato per l'introduzione della carne nello svezzamento. Perfetto per bambini a partire dai 10 mesi di età.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "crostata-di-halloween",
+    "title": "Crostata di Halloween",
+    "slug": "crostata-di-halloween",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2017/10/crostata-halloween.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/crostata-di-halloween-12144",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Una deliziosa crostata dolce perfetta per festeggiare Halloween con i bambini. Ricetta adatta a partire dai 12 mesi di età.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "cappucci-con-riso",
+    "title": "Cappucci con riso",
+    "slug": "cappucci-con-riso",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/05/cappucci-con-riso_0.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/cappucci-con-riso-45288",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente a base di riso e cavolo, perfetto per lo svezzamento. Facile da preparare e digeribile per i bambini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "omelette-di-spinaci-e-salmone",
+    "title": "Omelette di spinaci e salmone",
+    "slug": "omelette-di-spinaci-e-salmone",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/omelette-di-spinaci-e-salmone",
+    "prep_time_min": 15,
+    "cook_time_min": 10,
+    "total_time_min": 25,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto proteico e nutriente perfetto per lo svezzamento, ricco di omega-3 e ferro. Combinazione delicata di salmone fresco, spinaci e formaggi adatti ai bambini.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "uova",
+        "quantity_raw": "2"
+      },
+      {
+        "name": "salmone norvegese",
+        "quantity_raw": "50 g"
+      },
+      {
+        "name": "spinaci",
+        "quantity_raw": "100 g"
+      },
+      {
+        "name": "provola dolce",
+        "quantity_raw": "30 g"
+      },
+      {
+        "name": "formaggio stagionato",
+        "quantity_raw": "20 g"
+      },
+      {
+        "name": "burro",
+        "quantity_raw": "10 g"
+      },
+      {
+        "name": "sale e pepe q.b.",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Pulire e lavare gli spinaci, poi lessarli in acqua salata per 5 minuti",
+      "Scolare bene gli spinaci e tritarli finemente",
+      "Affettare il salmone a dadini piccoli, eliminando eventuali spine",
+      "Grattugiare la provola dolce e il formaggio stagionato",
+      "Riscaldare il burro in una padella antiaderente a fuoco medio",
+      "Sbattere leggermente le uova con un pizzico di sale",
+      "Versare le uova nella padella con il burro fuso",
+      "Aggiungere spinaci, salmone e formaggi quando l'uovo inizia a rapprendersi",
+      "Cuocere fino a doratura leggera, pieghetto a metà se desiderato",
+      "Servire tiepida e ben sminuzzata"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "polpette-di-ricotta-e-prosciutto",
+    "title": "Polpette di ricotta e prosciutto",
+    "slug": "polpette-di-ricotta-e-prosciutto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/09/poleptte-di-ricotta.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/10-12-mesi-cibi/polpette-di-ricotta-e-prosciutto-90039",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Polpette morbide e gustose a base di ricotta e prosciutto, perfette per lo svezzamento. Una ricetta semplice e nutriente adatta ai bambini da 10 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 10,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 10,
+      "min_age_amber": 10,
+      "amber_note": "Adatta dai 10 mesi.",
+      "red_note": "Adatta dai 10 mesi."
+    }
+  },
+  {
+    "id": "polpettone-con-verdure",
+    "title": "Polpettone con verdure",
+    "slug": "polpettone-con-verdure",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": null,
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/polpettone-con-verdure",
+    "prep_time_min": 20,
+    "cook_time_min": 35,
+    "total_time_min": 55,
+    "servings": 4,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente e completo per bambini dai 12 mesi, ricco di proteine e verdure. Facile da preparare e perfetto per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "prosciutto cotto",
+        "quantity_raw": "150g"
+      },
+      {
+        "name": "patate",
+        "quantity_raw": "200g"
+      },
+      {
+        "name": "pisellini freschi",
+        "quantity_raw": "100g"
+      },
+      {
+        "name": "piccola",
+        "quantity_raw": "1 cipolla"
+      },
+      {
+        "name": "uova",
+        "quantity_raw": "2"
+      },
+      {
+        "name": "formaggio grattugiato tipo grana",
+        "quantity_raw": "50g"
+      },
+      {
+        "name": "olio extravergine d'oliva",
+        "quantity_raw": "2 cucchiai"
+      },
+      {
+        "name": "pangrattato",
+        "quantity_raw": "50g"
+      },
+      {
+        "name": "origano e maggiorana q.b.",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Sbuccia e tagli a pezzi le patate, lessale in acqua salata fino a quando non risultano morbide.",
+      "Nel frattempo, pulisci e taglia la cipolla finemente, poi cuocila in padella con un cucchiaio di olio per qualche minuto.",
+      "Aggiungi i pisellini freschi alla cipolla e cuoci per 5-10 minuti.",
+      "Tritare finemente il prosciutto cotto.",
+      "In una ciotola, schiaccia le patate cotte e mescola con il prosciutto tritato, i pisellini cotti, le uova, il formaggio grattugiato, il pangrattato, origano e maggiorana.",
+      "Trasferisci il composto in uno stampo rettangolare leggermente oliato, livellandolo bene.",
+      "Cuoci in forno a 180°C per circa 20-25 minuti, fino a quando la superficie non risulta dorata.",
+      "Estrai dal forno, lascia raffreddare leggermente e servi tagliato a porzioni piccole."
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "pappa-al-pomodoro",
+    "title": "Pappa al pomodoro",
+    "slug": "pappa-al-pomodoro",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://www.uppa.it/wp-content/uploads/2015/06/Pappa-al-pomodoro.jpg",
+    "source_site": "Uppa",
+    "source_url": "https://www.uppa.it/pappa-al-pomodoro/",
+    "prep_time_min": 0,
+    "cook_time_min": 10,
+    "total_time_min": 10,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto tradizionale toscano perfetto per lo svezzamento, a base di pane raffermo, pomodori maturi e brodo vegetale. Può essere arricchito con uovo sodo o merluzzo per renderlo un piatto completo.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "olio extra vergine di oliva",
+        "quantity_raw": "1 cucchiaio"
+      },
+      {
+        "name": "rosmarino",
+        "quantity_raw": "1 rametto"
+      },
+      {
+        "name": "maturi",
+        "quantity_raw": "3 pomodori"
+      },
+      {
+        "name": "raffermo",
+        "quantity_raw": "1 panino"
+      },
+      {
+        "name": "brodo vegetale",
+        "quantity_raw": "500 ml"
+      },
+      {
+        "name": "sale quanto basta",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "In una pentola scaldate un cucchiaio di olio con un rametto di rosmarino",
+      "Aggiungete i pomodori maturi privati di buccia e semi, tagliati a dadini e fate rosolare bene",
+      "Dopo qualche minuto aggiungete il sale, il brodo vegetale e il panino raffermo tagliato a fettine",
+      "Fate cuocere a fuoco moderato per circa 10 minuti, rigirando di tanto in tanto fino a che il pane si amalgama completamente al resto",
+      "Se desiderate, arricchite con un uovo sodo sbriciolato oppure con un filettino di merluzzo cotto al vapore"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "frappe-di-frutta-e-biscotti",
+    "title": "Frappé di frutta e biscotti",
+    "slug": "frappe-di-frutta-e-biscotti",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/04/fotolia_29214788_xs.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/frappe-di-frutta-e-biscotti-35514",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un frappé fresco e nutriente perfetto per i bambini a partire dai 12 mesi. Preparato con frutta e biscotti, è un'idea semplice e gustosa per lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "trota-con-piselli",
+    "title": "Trota con piselli",
+    "slug": "trota-con-piselli",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2012/04/dscf8922.png",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/8-10-mesi-cibi/trota-con-piselli-42739",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto proteico delicato a base di trota fresca e piselli teneri, perfetto per l'introduzione del pesce durante lo svezzamento.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 8,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 8,
+      "min_age_amber": 8,
+      "amber_note": "Adatta dai 8 mesi.",
+      "red_note": "Adatta dai 8 mesi."
+    }
+  },
+  {
+    "id": "salmone-norvegese-in-crosta-di-zucchine",
+    "title": "Salmone Norvegese in crosta di zucchine",
+    "slug": "salmone-norvegese-in-crosta-di-zucchine",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2014/01/salmone-norvegese-in-crosta.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/salmone-norvegese-in-crosta-di-zucchine-86578",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto nutriente a base di salmone norvegese ricoperto di zucchine, ideale per introdurre il pesce nella dieta del bambino. Ricetta di difficoltà media adatta dai 12 mesi in poi.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [],
+    "steps": [],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
+    }
+  },
+  {
+    "id": "uovo-funghetto",
+    "title": "Uovo funghetto",
+    "slug": "uovo-funghetto",
+    "category": "svezzamento",
+    "emoji": "👶",
+    "image_color": "#B5D4F4",
+    "image_url": "https://static.bimbisaniebelli.it/wp-content/uploads/2016/07/uova-funghetto.jpg",
+    "source_site": "Bimbi Sani e Belli",
+    "source_url": "https://www.bimbisaniebelli.it/neonato/svezzamento/ricette/12-18-mesi-cibi/uovo-funghetto-76416",
+    "prep_time_min": 0,
+    "cook_time_min": 0,
+    "total_time_min": 0,
+    "servings": 1,
+    "difficulty": "facile",
+    "cooking_method": null,
+    "season": null,
+    "diet_flags": {},
+    "calories_per_serving": null,
+    "description": "Un piatto semplice e nutriente a base di uovo, pomodori e lattuga, perfetto per l'introduzione delle proteine nella dieta del bambino. Ricetta veloce e facile da preparare.",
+    "recipe_type": "weaning",
+    "weaning_min_age_months": 12,
+    "ingredients": [
+      {
+        "name": "uovo",
+        "quantity_raw": "1"
+      },
+      {
+        "name": "pomodori tondi",
+        "quantity_raw": ""
+      },
+      {
+        "name": "lattuga",
+        "quantity_raw": ""
+      },
+      {
+        "name": "formaggio spalmabile",
+        "quantity_raw": ""
+      }
+    ],
+    "steps": [
+      "Cuocere l'uovo secondo le preferenze (sodo, in camicia o strapazzato)",
+      "Lavare e tagliare i pomodori in piccoli pezzi",
+      "Preparare la lattuga lavata e tagliata finemente",
+      "Disporre gli ingredienti nel piatto e aggiungere un cucchiaino di formaggio spalmabile"
+    ],
+    "baby_compatibility": {
+      "min_age_green": 12,
+      "min_age_amber": 12,
+      "amber_note": "Adatta dai 12 mesi.",
+      "red_note": "Adatta dai 12 mesi."
     }
   }
 ];
